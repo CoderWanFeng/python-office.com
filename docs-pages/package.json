@@ -1,0 +1,28 @@
+{
+  "name": "python-office",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev vuepress",
+    "build": "vuepress build vuepress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CoderWanFeng/python-office.git"
+  },
+  "author": "程序员晚枫",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderWanFeng/python-office/issues"
+  },
+  "homepage": "https://github.com/CoderWanFeng/python-office#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "vuepress": "^1.0.0",
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-copyright": "^1.0.2",
+    "vuepress-plugin-nuggets-style-copy": "^1.0.3"
+  }
+}
