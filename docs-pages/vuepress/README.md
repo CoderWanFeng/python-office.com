@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: http://python4office.cn/images/github-nav.jpg
+heroImage: https://www.python-office.com/api/img-cdn/github-nav.jpg
 heroText: Welcome to python-office
 tagline: 为自动化办公而生
 actionText: 开始使用 →
@@ -12,5 +12,5 @@ features:
   details: 不用学习Python编程知识，会电脑操作就行
 - title: 一行代码
   details: 实现自动化办公，做到开箱即用
-footer: Hep Licensed | Copyright © 2022-present 程序员晚枫
+footer: 源代码见网页右上角：GitHub | Copyright © 2022-present 程序员晚枫
 ---

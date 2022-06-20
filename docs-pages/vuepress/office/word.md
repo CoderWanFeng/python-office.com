@@ -1,4 +1,4 @@
-# word
+# Word
 
 - Word：
     - Word 批量转成 PDF：[代码](https://mp.weixin.qq.com/s/eBn3N_FEx1dlC_-ttmlOwg)

@@ -35,4 +35,4 @@ office.excel.fake2excel(columns=['name', 'text'], rows=20)
 
 如果以上步骤能够运行成功，恭喜你，环境安装完成，可以跟着接下来的文档去使用了~！
 
-如果不能运行成功，请移步：[常见问题](/qaq/qaq)
+如果不能运行成功，请移步：[常见问题](https://www.python-office.com/qaq/qaq.html)

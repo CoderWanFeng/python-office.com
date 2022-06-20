@@ -3,14 +3,14 @@
 
 <p align="center">
     <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
-    <img src="http://python4office.cn/images/github-nav.jpg" alt="github license"/>
+    <img src="https://www.python-office.com/api/img-cdn/github-nav.jpg" alt="github license"/>
     </a>   
 </p>
 <p align="center">
 	<strong>🍬python for office</strong>
 </p>
 <p align="center">
-	👉 <a href="http://www.python4office.cn/images/python-office.jpg">本开源项目的交流群</a> 👈
+	👉 <a href="https://www.python-office.com/api/img-cdn/python-office.jpg">本开源项目的交流群</a> 👈
 </p>
 
 
