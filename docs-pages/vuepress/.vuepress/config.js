@@ -6,7 +6,17 @@ module.exports = {
     dest: '/opt/workplace/pro/python-office.com/dist',  // 设置输出目录
 
     head: [
-        ["link", {rel: "icon", href: "https://www.python-office.com/api/img-cdn/icon.jpg"}]
+        ["link", {rel: "icon", href: "https://www.python-office.com/api/img-cdn/icon.jpg"}],
+        [ 'script', {}, `
+                        var _hmt = _hmt || [];
+                        (function() {
+                        var hm = document.createElement("script");
+                        hm.src = "https://hm.baidu.com/hm.js?bd18154a0aff45581049f87f5c644b44";
+                        var s = document.getElementsByTagName("script")[0]; 
+                        s.parentNode.insertBefore(hm, s);
+                        })();
+                        `
+        ]
     ],
     plugins: {
         '@vuepress/back-to-top': true,
@@ -28,9 +38,10 @@ module.exports = {
         // 添加导航栏
         nav: [
             {text: '主页', link: '/'},
-            {text: '交流群', link: 'http://www.python4office.cn/wechat-group/'},
+            {text: '🚸交流群', link: 'http://www.python4office.cn/wechat-group/'},
             {text: '视频教程', link: 'https://www.bilibili.com/video/BV1pT4y1k7FH'},
-            {text: 'GitHub', link: 'https://github.com/CoderWanFeng/python-office'},
+            {text: '🔥GitHub', link: '/contributor/contributor'},
+            {text: '⭐免费星球', link: 'https://mp.weixin.qq.com/s/PXNVFNsjAOgCmQ6QGalJPw'},
             {text: '鲁ICP备2021040536号-2', link: 'https://beian.miit.gov.cn/'},
         ],
         lastUpdated: 'Last Updated',
@@ -57,7 +68,8 @@ module.exports = {
                     '/office/ocr',
                     '/office/tools',
                     '/office/video',
-                    '/office/web'
+                    '/office/web',
+                    '/office/robot',
                 ]
             },
             {
@@ -75,7 +87,7 @@ module.exports = {
                 ]
             },
             {
-                title: '联系开发者',
+                title: '联系我',
                 children: [
                     '/contact/contact',
                 ]
