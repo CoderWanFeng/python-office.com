@@ -37,11 +37,12 @@ module.exports = {
         logo: 'https://www.python-office.com/api/img-cdn/icon.jpg',
         // 添加导航栏
         nav: [
-            {text: '主页', link: '/'},
-            {text: '🚸交流群', link: 'http://www.python4office.cn/wechat-group/'},
-            {text: '视频教程', link: 'https://www.bilibili.com/video/BV1pT4y1k7FH'},
+            {text: '🚀回到主页', link: '/'},
+            {text: '🎮视频教程', link: 'https://www.bilibili.com/video/BV1pT4y1k7FH'},
             {text: '🔥GitHub', link: '/contributor/contributor'},
-            {text: '⭐免费星球', link: 'https://mp.weixin.qq.com/s/PXNVFNsjAOgCmQ6QGalJPw'},
+            {text: '⭐知识星球', link: 'https://mp.weixin.qq.com/s/nNhFPD-xNsp2QvFc6HWLNQ'},
+            {text: '🚸交流群', link: 'https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ'},
+            {text: '🚦联系我', link: '/contact/contact'},
             {text: '鲁ICP备2021040536号-2', link: 'https://beian.miit.gov.cn/'},
         ],
         lastUpdated: 'Last Updated',
@@ -51,6 +52,7 @@ module.exports = {
                 title: '入门指南',
                 children: [
                     '/guide/introduction',
+                    '/guide/allFunc',
                     '/guide/office',
                     '/guide/requirement',
                 ]

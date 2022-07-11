@@ -10,7 +10,7 @@
 	<strong>🍬python for office</strong>
 </p>
 <p align="center">
-	👉 <a href="https://www.python-office.com/api/img-cdn/python-office.jpg">本开源项目的交流群</a> 👈
+	👉 <a href="https://www.python-office.com/api/img-cdn/group/python-office.jpg">本开源项目的交流群</a> 👈
 </p>
 
 
