@@ -16,7 +16,8 @@ office.file.replace4filename(
                               )
 ```
 
-- 2、批量重命名 文件/文件夹
+- 2、根据内容查找文件
+
 详细说明：[传送门](https://baijiahao.baidu.com/s?id=1734311309666123699)
 ```python
 # 导入这个库：python-office，简写为office
