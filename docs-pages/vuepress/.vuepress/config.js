@@ -40,7 +40,7 @@ module.exports = {
             {text: '🚀回到主页', link: '/'},
             {text: '🎮视频教程', link: 'https://www.bilibili.com/video/BV1pT4y1k7FH'},
             {text: '🔥GitHub', link: '/contributor/contributor'},
-            {text: '⭐知识星球', link: 'https://mp.weixin.qq.com/s/nNhFPD-xNsp2QvFc6HWLNQ'},
+            {text: '⭐知识星球', link: 'https://mp.weixin.qq.com/s/9hGurnWoFOaNwZKFoK_Vlw'},
             {text: '🚸交流群', link: 'https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ'},
             {text: '🚦联系我', link: '/contact/contact'},
             {text: '鲁ICP备2021040536号-2', link: 'https://beian.miit.gov.cn/'},
