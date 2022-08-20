@@ -6,4 +6,4 @@
 
 B站账号：[程序员晚枫](https://space.bilibili.com/1989702333)
 
-知识星球：[Python读者圈](https://mp.weixin.qq.com/s/nNhFPD-xNsp2QvFc6HWLNQ)
+知识星球：[Python读者圈](https://mp.weixin.qq.com/s/GduZnbtEkj8NWBTKldDHeA)
