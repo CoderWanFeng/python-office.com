@@ -42,7 +42,7 @@ module.exports = {
             {text: '🔥GitHub', link: '/contributor/contributor'},
             {text: '⭐知识星球', link: 'https://mp.weixin.qq.com/s/9hGurnWoFOaNwZKFoK_Vlw'},
             {text: '🚸交流群', link: 'https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ'},
-            {text: '🚦联系我', link: '/contact/contact'},
+            {text: '🚦联系作者', link: 'https://mp.weixin.qq.com/s/dAm2B09i2ZaqCwhwP-AEdQ'},
             {text: '鲁ICP备2021040536号-2', link: 'https://beian.miit.gov.cn/'},
         ],
         lastUpdated: 'Last Updated',
@@ -75,31 +75,29 @@ module.exports = {
                 ]
             },
             {
+                title: '⭐视频教程',
+                children: [
+                    '/video/video',
+                ]
+            },
+   
+  
+       
+            {
+                title: '参与开发 & 联系作者',
+                children: [
+                    '/contributor/contributor',
+                ]
+            },
+            {
                 title: '相关文档',
                 children: [
                     '/ref/git',
                     '/ref/log',
                     '/ref/ref',
+                    '/ref/qaq'
                 ]
             },
-            {
-                title: '常见问题',
-                children: [
-                    '/qaq/qaq',
-                ]
-            },
-            {
-                title: '联系我',
-                children: [
-                    '/contact/contact',
-                ]
-            },
-            {
-                title: '参与开发',
-                children: [
-                    '/contributor/contributor',
-                ]
-            }
 
         ],
     }

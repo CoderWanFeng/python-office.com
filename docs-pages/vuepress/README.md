@@ -3,8 +3,8 @@ home: true
 heroImage: https://www.python-office.com/api/img-cdn/github-nav.jpg
 heroText: Welcome to python-office
 tagline: 为自动化办公而生
-actionText: 全部功能 →
-actionLink: /guide/allFunc
+actionText: 视频教程 →
+actionLink: /video/video
 features:
 - title: 专注一个领域
   details: Python-office 是一个 Python 自动化办公第三方库，能解决大部分自动化办公的问题。

@@ -1,29 +1,20 @@
-# 更新记录
+# 重要更新
+
+本文档，只记录比较重要的版本发布，以及相关说明。
 
 
 
-> 关于版本更新，如有疑问，请私信微博@[程序员晚枫](http://www.python4office.cn/weibo-qaq/)
->
-> 或者，欢迎有学习/定制功能/加入项目需求的同学，直接加入我们的项目交流群👉[点我直达](https://www.python-office.com/api/img-cdn/group/2-free-group.jpg)
 
 
-| 版本号 | 版本信息            | 发布日期  |
-| ------ | ------------------- | --------- |
-| 0.0.1  | init：项目初始化          | 2022-4-19 |
-| 0.0.5  | init：发布wheel文件 | 2022-4-24 |
-| 0.0.6  | add：word批量转pdf | 2022-4-24 |
-| 0.0.8  | add：单个pdf添加水印 | 2022-4-25 |
-| 0.0.10  | add：txt文本转词云功能 | 2022-4-28 |
-| 0.0.11  | update：word批量转pdf | 2022-5-1 |
-| 0.0.12  | add：重命名指定路径下的文件/文件夹 | 2022-5-4 |
-| 0.0.13  | update：因为c++14的原因，去掉wordcloud库，需要的同学，自行install即可 | 2022-5-6 |
-| 0.0.14  | add：给图片加水印、生成二维码、提取音频、翻译 | 2022-5-6 |
-| 0.0.15  | add：pdf加密、解密 | 2022-5-9 |
-| 0.0.17  | add：txt转pdf | 2022-5-10 |
-| 0.0.18  | update：确定第一版readme.md、home链接改为：github地址 | 2022-5-10 |
-| 0.0.19  | add：一键模拟生成 - 带有模拟数据的Excel文件 | 2022-5-13 |
-| 0.0.21  | add：消除图像背景色、merg2pdf | 2022-5-17 |
-| 0.0.22  | add：pdf2docx | 2022-5-17 |
-| 0.0.23  | add：查询天气 | 2022-5-23 |
-| 0.0.26  | add：通过内容，查找文件 | 2022-5-23 |
+| 版本号 | 更新信息            | 发布日期  |⭐详细说明（点击直达）|
+| ------ | ------------------- | --------- |-----|
+| 0.0.1  | init：项目初始化          | 2022-4-19 | [重磅！官网发布第三方库：python-office，为Python自动化办公而生](https://mp.weixin.qq.com/s/v2n0DTVTZUaw7QOnA0Zlow) |
+| 0.0.5  | init：发布wheel文件 | 2022-4-24 | |
+|   | 获得开源中国推荐 | 2022-5-13 | [开源中国推荐：python-office自动化办公，每个功能只需一行代码，做到了真正的开箱即用。](https://mp.weixin.qq.com/s/d2m7xYCLXF8QUlr-5sSuPA) |
+|   | 有了第一位contributor | 2022-5-16 | [Github - PR - 001](https://github.com/CoderWanFeng/python-office/commit/66fc1a06ca3cabdfcd1fb11ad33845126dbc8c73) |
+| 0.1.0  | 初始化：项目目录 | 2022-6-16 | [新人必看：python-office自动化办公，开源项目的目录结构](https://mp.weixin.qq.com/s/W1oq05aC6WIaFDcJZ8zhkw) |
+|   | 上线：自动化生成测试报告-unittest | 2022-9-8 | |
 
+> 欢迎有学习/定制功能/加入项目需求的同学，直接加入我们的项目交流群👇
+
+![](https://www.python-office.com/api/img-cdn/python-office/find_excel_data/group.jpg)
