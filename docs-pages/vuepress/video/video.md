@@ -16,7 +16,11 @@
 
 - [第6讲：合并Excel](https://www.bilibili.com/video/BV1714y147Ao)
 
-- 持续更新中🚀催更微信群👉[传送门](http://www.python4office.cn/wechat-group/)
+- [第7讲：微信机器人](https://www.bilibili.com/video/BV1Xa411u7yU)
+
+- 持续更新中🚀
+
+- 免费读者群👉[传送门](http://www.python4office.cn/wechat-group/)
 
 
 ## 文字教程
@@ -32,6 +36,8 @@
 💻我录制成了视频的形式，大家看看吧~
 
 - [学会编程，能拿高薪？别再被洗脑了](https://www.bilibili.com/video/BV19d4y197EP?spm_id_from=333.999.0.0)
+
+- [什么是大数据抓嫖？看完一身冷汗，你也可能遇到](https://www.bilibili.com/video/BV1Xe4y1b7TK?spm_id_from=333.999.0.0)
 
 - [少儿编程，有必要学吗？程序员被问懵了](https://mbd.baidu.com/newspage/data/videolanding?nid=sv_5531201104035387002&sourceFrom=homepage)
 
