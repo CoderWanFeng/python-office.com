@@ -1,18 +1,20 @@
-# 说明
-本视频希望作为python的入门教程，进一步降低非计算机专业人士使用python自动化办公的门槛。
-# 目录
-1. 主要内容
-    - 输入-处理-输出
-    - 说人话，不说专业名词
-    - 穿插案例
-    - 提供全套软件、代码、视频
-    - 根据评论更新
+# 给非程序员的Python入门课
 
-2. 安装软件
-    - python
-    - pycharm
-    - 666
-3. pip install python-office
+## 课程说明
+本视频希望作为python的入门教程，进一步降低非计算机专业人士使用python自动化办公的门槛。
+
+## 课程资料
+- [文档](https://github.com/CoderWanFeng/python-office.com/tree/course/docs)
+- [代码](https://github.com/CoderWanFeng/python-office.com/tree/course/code)
+- [视频下载](https://mp.weixin.qq.com/s/NaDDcn-X8aruVHBvWmHXUQ)
+
+## 课程目录
+1. [内容大纲](https://www.bilibili.com/video/BV18g411h7jJ)
+
+2. [安装软件](https://www.bilibili.com/video/BV1sy4y1q7zH/)
+
+3. [常识问题：pip](https://www.bilibili.com/video/BV1y54y1i78U?p=12)
+    - pip install python-office
     - 常见问题：虚拟环境
 
 4. 变量类型
