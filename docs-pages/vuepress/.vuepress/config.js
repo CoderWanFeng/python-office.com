@@ -18,12 +18,12 @@ module.exports = {
                         `
         ]
     ],
-    plugins: {
+    "plugins": {
         '@vuepress/back-to-top': true,
         "vuepress-plugin-nuggets-style-copy":
             {
                 copyText: "复制代码",
-                tip: {
+            tip: {
                     content: "复制成功"
                 }
             },
@@ -31,7 +31,7 @@ module.exports = {
             {
                 authorName: '程序员晚枫', // 选中的文字将无法被复制
                 minLength: 10, // 如果长度超过  30 个字符
-            },
+        },
     },
     themeConfig: {
         logo: 'https://www.python-office.com/api/img-cdn/icon.jpg',
