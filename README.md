@@ -12,6 +12,8 @@
 1. [内容大纲](https://www.bilibili.com/video/BV18g411h7jJ)
 
 2. [安装软件](https://www.bilibili.com/video/BV1sy4y1q7zH/)
+    - python下载：https://www.python.org/downloads/
+    - pycharm下载：https://www.jetbrains.com/pycharm/
 
 3. [常识问题：pip](https://www.bilibili.com/video/BV1y54y1i78U?p=12)
     - pip install python-office
