@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4df706f4-da50-4614-9c24-c9c69dc10863" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/css/0.styles.bb60d777.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/img/search.83621669.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/10.03e239b2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/11.80e26bfd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/12.a10cd4a5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/13.776a52b3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/14.0db8ab5a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/15.2bd18413.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/16.9159d4d1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/17.930483ff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/18.62fd2799.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/19.4b3af05a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/2.854dcf62.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/20.45a8cee8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/21.dfba4d3b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/22.e7398b33.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/23.985fe266.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/24.bc48b694.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/25.8861c6f0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/26.f49cee76.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/27.f0faecae.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/3.bdb1249f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/4.d1190ffb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/5.668c050a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/6.97a37b64.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/7.de17cfd9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/8.75e6b4df.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/9.3eb23480.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/assets/js/app.db2bf77c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/contact/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/contributor/contributor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/guide/allFunc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/guide/introduction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/guide/office.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/guide/requirement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/excel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/file.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/ocr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/pdf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/ppt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/robot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/tools.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/web.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/office/word.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/ref/git.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/ref/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/ref/qaq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/ref/ref.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/exe/video/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs-pages/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs-pages/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Ahuy8OFA1FfxeVFKSMi0HmM8Nb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df706f4-da50-4614-9c24-c9c69dc10863" name="Default Changelist" comment="" />
+      <created>1655474389883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655474389883</updated>
+      <workItem from="1655474391555" duration="624000" />
+      <workItem from="1665987736135" duration="285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1354" y="-223" key="CommitChangelistDialog2" timestamp="1665988234827">
+      <screen x="-1920" y="-245" width="1920" height="1032" />
+    </state>
+    <state x="-1354" y="-223" key="CommitChangelistDialog2/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665988234827" />
+    <state x="-1260" y="-24" key="MultipleFileMergeDialog" timestamp="1665987926585">
+      <screen x="-1920" y="-245" width="1920" height="1032" />
+    </state>
+    <state x="-1260" y="-24" key="MultipleFileMergeDialog/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665987926585" />
+    <state x="-1204" y="-100" key="git4idea.branch.GitSmartOperationDialog" timestamp="1665987917245">
+      <screen x="-1920" y="-245" width="1920" height="1032" />
+    </state>
+    <state x="-1204" y="-100" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.816/-1920.-245.1920.1032@-1920.-245.1920.1032" timestamp="1665987917245" />
+    <state x="290" y="181" key="git4idea.merge.GitPullDialog" timestamp="1665819465378">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="290" y="181" key="git4idea.merge.GitPullDialog/0.0.1536.816@0.0.1536.816" timestamp="1665819465378" />
+  </component>
+</project>
