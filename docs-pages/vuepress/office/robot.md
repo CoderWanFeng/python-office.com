@@ -14,6 +14,8 @@
 
 - [⌚005-24小时，后台运行](https://www.bilibili.com/video/BV11L411L7oi)
 
+- [⌚006-定时自动发消息](https://www.bilibili.com/video/BV1m8411b7LZ)
+
 - 持续更新中，交流群：[点我加入](http://www.python4office.cn/wechat-group/)
 -------
 #### 参考资料

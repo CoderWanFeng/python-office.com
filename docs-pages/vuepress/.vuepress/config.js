@@ -6,7 +6,7 @@ module.exports = {
     dest: '/opt/workplace/pro/python-office.com/dist',  // 设置输出目录
 
     head: [
-        ["link", {rel: "icon", href: "https://www.python-office.com/api/img-cdn/icon.jpg"}],
+        ["link", {rel: "icon", href: "https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon.jpg"}],
         [ 'script', {}, `
                         var _hmt = _hmt || [];
                         (function() {
@@ -34,7 +34,7 @@ module.exports = {
         },
     },
     themeConfig: {
-        logo: 'https://www.python-office.com/api/img-cdn/icon.jpg',
+        logo: 'https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon.jpg',
         // 添加导航栏
         nav: [
             {text: '🚀回到主页', link: '/'},
@@ -55,6 +55,7 @@ module.exports = {
                     '/guide/allFunc',
                     '/guide/office',
                     '/guide/requirement',
+                    '/guide/init',
                 ]
             },
             {
