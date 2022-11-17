@@ -28,6 +28,8 @@
 |[第12讲：爬虫 之 下载图片](https://www.bilibili.com/video/BV1i8411s7Mq)| [源码](https://mp.weixin.qq.com/s/P6pRm1VX8bGYepC8O4Bt4Q)|
 |[第13讲：AI画画](https://www.bilibili.com/video/BV1rP411N7ao)| [源码](https://mp.weixin.qq.com/s/8qBytOyIANmpI5Thqo2zmw)|
 |[第14讲：用Python实现Google翻译](https://www.bilibili.com/video/BV11d4y1k7Mn)| [源码](https://mp.weixin.qq.com/s/Z_RcTRYxUFpCQBGpShO0ig)|
+|[第15讲：用Python 扫码二维码](https://www.bilibili.com/video/BV1pd4y1b716)| [源码](https://github.com/CoderWanFeng/poimage)|
+|[第16讲：用Python 测试网速](https://www.bilibili.com/video/BV1fD4y1x7ZE)| [源码](https://github.com/CoderWanFeng/wftools)|
 - 持续更新中🚀
 
 - 免费读者群👉[传送门](http://www.python4office.cn/wechat-group/)
@@ -45,7 +47,9 @@
 
 💻我录制成了视频的形式，大家看看吧~
 
-- [学会编程，能拿高薪？别再被洗脑了](https://www.bilibili.com/video/BV19d4y197EP?spm_id_from=333.999.0.0)
+- [3大措施，整治程序员高薪现象！大快人心](https://www.bilibili.com/video/BV1sd4y1c7T9)
+
+- [学会编程，能拿高薪？别再被洗脑了](https://www.bilibili.com/video/BV19d4y197EP)
 
 - [少儿编程，有必要学吗？程序员被问懵了](https://mbd.baidu.com/newspage/data/videolanding?nid=sv_5531201104035387002&sourceFrom=homepage)
 
