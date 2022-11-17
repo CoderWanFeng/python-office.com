@@ -1,3 +1,26 @@
+
+<p align="center">
+    <a target="_blank" href='https://url.cn/Z4lzPLaF'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F1040x100-tencent.jpg" width="100%"/>
+    </a>   
+</p>
+
+<p align="center" name="gitee">
+  <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
+    <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg?style=social" alt="github star"/>
+    </a>
+	</a>
+        <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
+    <img src="https://img.shields.io/github/contributors/CoderWanFeng/python-office" alt="github contributors"/>
+    </a>
+	<a target="_blank" href='https://gitee.com/CoderWanFeng/python-office/'>
+		<img src='https://gitee.com/CoderWanFeng/python-office/badge/star.svg?theme=dark' alt='gitee star'/>
+    <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
+		<img src="https://gitee.com/CoderWanFeng/python-office/badge/fork.svg?theme=white" alt="gitee fork"/>
+	</a>
+</p>
+
+
 # python-office开源项目的官网
 
 ## 官方地址

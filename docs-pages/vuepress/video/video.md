@@ -1,9 +1,11 @@
 ## 视频教程
-## 交流群
 
-![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/coder-group.jpg)
+<p align="center">
+    <a target="_blank" href='https://url.cn/Z4lzPLaF'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F1040x100-tencent.jpg" width="100%"/>
+    </a>   
+</p>
 
-## 视频教程
 
 
 以下[绿色](https://mp.weixin.qq.com/s/_01V8I7rVkgvIIo7ygwwQA)文字，均可点击直达👇
@@ -39,6 +41,9 @@
 
 全部功能的文字教程👉[传送门](https://www.python-office.com/guide/allFunc.html)
 
+
+
+
 ## 良心建议
 
 你好，这里是程序员晚枫，人到中年，才转行程序员。
@@ -58,3 +63,9 @@
 - [30岁转行程序员，我的转行经历](https://www.bilibili.com/video/BV1Nr4y1B76X?spm_id_from=333.999.0.0)
 
 - [Excel还是Python？别被割韭菜，高效办公选一个就够了！](https://mp.weixin.qq.com/s/rMsMpSdQHqS3Q9eSsA0VeA)
+
+## 交流群
+
+![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/coder-group.jpg)
+
+
