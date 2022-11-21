@@ -8,7 +8,7 @@
 
 
 
-<p align="center" name="'github">
+<p align="center" name="图标-github">
     <a target="_blank" href='https://github.com/CoderWanFeng/PyOfficeRobot'>
     <img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg?style=social" alt="github star"/>
     </a>
@@ -45,4 +45,4 @@
 
 - 我合并后，会直接在服务器里拉下来，打包更新到网站里。
 
-- ⭐参与PR的同学，欢迎添加我的微信，加入项目维护群：[CoderWanFeng](https://mp.weixin.qq.com/s/dAm2B09i2ZaqCwhwP-AEdQ)
+- ⭐参与PR的同学，欢迎添加我的微信，加入项目维护群：[CoderWanFeng](https://mp.weixin.qq.com/s/4Br2YXCinQEHseJwdtGAsQ)
