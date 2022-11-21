@@ -1,20 +1,24 @@
 ## 视频教程
 
 
-<p align="center">
-    <a target="_blank" href='https://url.cn/Z4lzPLaF'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F1040x100-tencent.jpg" width="100%"/>
+
+
+
+<p align="center" id='30讲自动化办公-banner'>
+    <a target="_blank" href='http://gk.link/a/10E3B'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fauto-work.jpg" width="100%"/>
     </a>   
 </p>
 
 
 
-<p align="center" name="'github">
-    <a target="_blank" href='https://github.com/CoderWanFeng/PyOfficeRobot'>
-    <img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg?style=social" alt="github star"/>
+
+<p align="center" name="图标-github">
+    <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
+    <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg?style=social" alt="github star"/>
     </a>
-    	<a target="_blank" href='https://gitee.com/CoderWanFeng//PyOfficeRobot/'>
-		<img src='https://gitee.com/CoderWanFeng//PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/>
+    	<a target="_blank" href='https://gitee.com/CoderWanFeng/python-office'>
+		<img src='https://gitee.com/CoderWanFeng//python-office/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
   	<a href="https://mp.weixin.qq.com/s/Jf_EVdKlVnHhK68fW5OA6A">
 	<img src="https://img.shields.io/badge/QQ-1090738447-orange"/>
@@ -26,7 +30,9 @@
 
 
 
-以下[绿色](https://mp.weixin.qq.com/s/_01V8I7rVkgvIIo7ygwwQA)文字，均可点击直达👇
+
+
+以下[绿色](https://mp.weixin.qq.com/s/_01V8I7rVkgvIIo7ygwwQA)文字，均可点击直达👇持续更新中🚀
 
 
 
@@ -50,17 +56,32 @@
 |[第14讲：用Python实现Google翻译](https://www.bilibili.com/video/BV11d4y1k7Mn)| [源码](https://mp.weixin.qq.com/s/Z_RcTRYxUFpCQBGpShO0ig)|
 |[第15讲：用Python 扫码二维码](https://www.bilibili.com/video/BV1pd4y1b716)| [源码](https://github.com/CoderWanFeng/poimage)|
 |[第16讲：用Python 测试网速](https://www.bilibili.com/video/BV1fD4y1x7ZE)| [源码](https://github.com/CoderWanFeng/wftools)|
-- 持续更新中🚀
+|[第17讲：密码生成器](https://www.bilibili.com/video/BV1Ce4y1p7iV/)| [源码](https://github.com/CoderWanFeng/wftools)|
 
-- 免费读者群👉[传送门](http://www.python4office.cn/wechat-group/)
 
+
+<p align="center" id='进群-banner'>
+    <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
+    </a>   
+</p>
 
 ## 文字教程
 
 全部功能的文字教程👉[传送门](https://www.python-office.com/guide/allFunc.html)
 
 
+<p align="center" id='腾讯云-banner'>
+    <a target="_blank" href='https://url.cn/Z4lzPLaF'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F1040x100-tencent.jpg" width="100%"/>
+    </a>   
+</p>
 
+<p align="center" id='0基础数据分析-banner'>
+    <a target="_blank" href='https://et1.lagou.com/WR98RLRpsd374'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2Fpython%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.jpg" width="100%"/>
+    </a>   
+</p>
 
 ## 良心建议
 
@@ -91,3 +112,87 @@
 </p>
 
 
+## 学习资源
+
+
+
+<p align="center" id='腾讯云-banner'>
+    <a target="_blank" href='https://url.cn/Z4lzPLaF'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F1040x100-tencent.jpg" width="100%"/>
+    </a>   
+</p>
+
+
+<p align="center" id='进群-banner'>
+    <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
+    </a>   
+</p>
+
+
+
+
+<p align="center" id='0基础数据分析-banner'>
+    <a target="_blank" href='https://et1.lagou.com/WR98RLRpsd374'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2Fpython%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.jpg" width="100%"/>
+    </a>   
+</p>
+
+<p align="center" id='django网站-banner'>
+    <a target="_blank" href='http://gk.link/a/10Wl1'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2FPython%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91.jpg" width="100%"/>
+    </a>   
+</p>
+
+<p align="center" id='52讲爬虫-banner'>
+    <a target="_blank" href='https://et3.lagou.com/WR75RzRpsd27C'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F52%E8%AE%B2%E7%88%AC%E8%99%AB.jpg" width="100%"/>
+    </a>   
+</p>
+
+
+
+<p align="center" id='30讲自动化办公-banner'>
+    <a target="_blank" href='http://gk.link/a/10E3B'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fauto-work.jpg" width="100%"/>
+    </a>   
+</p>
+
+<p align="center" id='100本电子书-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/H3us6_7wg2QspGZfGtfDZw'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Febook.jpg" width="100%"/>
+    </a>   
+</p>
+
+<p align="center" id='实战项目-banner'>
+    <a target="_blank" href='http://www.python4office.cn/python-project-list/'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fproject.jpg" width="100%"/>
+    </a>   
+</p>
+
+<p align="center" id='11个软件-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/uE1M8ESBQ3wJ_q-Cl1aNvg'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fsoft-11.jpg" width="100%"/>
+    </a>   
+</p>
+
+
+<p align="center" id='25个学习资源-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/_01V8I7rVkgvIIo7ygwwQA'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fpy-25-source.jpg" width="100%"/>
+    </a>   
+</p>
+
+
+<p align="center" id='支付宝-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/UsFs6ooDspyhhKMleKTVpw'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F%E8%81%94%E7%9B%9F%E5%B9%BF%E5%91%8A%2Falipay.jpg" width="100%"/>
+    </a>   
+</p>
+
+
+<p align="center" id='外卖-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/KfjQBf1n_slziZxeOQnhzQ'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F%E8%81%94%E7%9B%9F%E5%B9%BF%E5%91%8A%2F%E5%A4%96%E5%8D%96-1040-100.jpg" width="100%"/>
+    </a>   
+</p>
