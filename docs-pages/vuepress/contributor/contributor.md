@@ -16,10 +16,10 @@
 
 你好，我是python-office的开发者：程序员晚枫。
 
-微信号是：👉[CoderWanFeng](https://www.python-office.com/api/img-cdn/qrcode.jpg)
+微信号是：👉[CoderWanFeng](https://mp.weixin.qq.com/s/4Br2YXCinQEHseJwdtGAsQ)
 
 B站账号：[程序员晚枫](https://space.bilibili.com/1989702333)
 
-知识星球：[Python读者圈](https://mp.weixin.qq.com/s/GduZnbtEkj8NWBTKldDHeA)
+福利资料：[传送门](http://python4office.cn/%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86-1/)
 
 ![CoderWanFeng](https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fqrcode2web.jpg)

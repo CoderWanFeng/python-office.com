@@ -38,10 +38,9 @@ module.exports = {
         // 添加导航栏
         nav: [
             {text: '🚀回到主页', link: '/'},
-            {text: '🎮视频教程', link: 'https://www.bilibili.com/video/BV1pT4y1k7FH'},
+            {text: '🎮视频教程', link: 'http://python4office.cn/%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86-1/'},
             {text: '🔥GitHub', link: '/contributor/contributor'},
-            {text: '⭐知识星球', link: 'https://mp.weixin.qq.com/s/YoOjhj6bJSK8nVgQS-txbg'},
-            {text: '🚸交流群', link: 'https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ'},
+            {text: '🚸读者群', link: 'https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ'},
             {text: '🚦联系作者', link: 'https://mp.weixin.qq.com/s/4Br2YXCinQEHseJwdtGAsQ'},
             {text: '鲁ICP备2021040536号-2', link: 'https://beian.miit.gov.cn/'},
         ],
@@ -73,6 +72,7 @@ module.exports = {
                     '/office/video',
                     '/office/web',
                     '/office/robot',
+                    '/office/datav',
                 ]
             },
             {
