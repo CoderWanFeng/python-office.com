@@ -79,6 +79,7 @@ module.exports = {
                 title: '⭐视频教程',
                 children: [
                     '/video/video',
+                    '/video/poocr',
                 ]
             },
    

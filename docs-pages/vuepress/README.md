@@ -4,7 +4,7 @@ heroImage: https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/github
 heroText: Welcome to python-office
 tagline: 为自动化办公而生
 actionText: 视频教程 →
-actionLink: /video/video
+actionLink: /video/func-list
 features:
 - title: 专注一个领域
   details: Python-office 是一个 Python 自动化办公第三方库，能解决大部分自动化办公的问题。

@@ -6,9 +6,9 @@
 
 - 🔥[001-项目发布](https://www.bilibili.com/video/BV1Xa411u7yU)
 
-- [002-发消息](https://www.bilibili.com/video/BV1Jt4y1j7F1)
+- [002-自动发消息](https://www.bilibili.com/video/BV1Jt4y1j7F1)
 
-- [003-发文件](https://www.bilibili.com/video/BV1te4y1y7Ro)
+- [003-自动发文件](https://www.bilibili.com/video/BV1te4y1y7Ro)
 
 - [004-根据关键词，自动回复](https://www.bilibili.com/video/BV1fV4y1M7ju)
 
@@ -16,7 +16,12 @@
 
 - [⌚006-定时自动发消息](https://www.bilibili.com/video/BV1m8411b7LZ)
 
+- [007-自己加功能](https://www.bilibili.com/video/BV14R4y127h6)
+
+- ⭐[008-独立使用](https://www.bilibili.com/video/BV1SY411y7Uh)
+
 - 持续更新中，交流群：[点我加入](http://www.python4office.cn/wechat-group/)
+
 -------
 #### 参考资料
 - 文字教程：[Python wxpy | 可能是最优雅的微信机器人开发教程，适合小白~（附软件、代码、文档）](https://mp.weixin.qq.com/s/3brwMik41snpIwrE5r_O6g)
