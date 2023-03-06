@@ -57,6 +57,9 @@
 |[第15讲：用Python 扫码二维码](https://www.bilibili.com/video/BV1pd4y1b716)| [源码](https://github.com/CoderWanFeng/poimage)|
 |[第16讲：用Python 测试网速](https://www.bilibili.com/video/BV1fD4y1x7ZE)| [源码](https://github.com/CoderWanFeng/wftools)|
 |[第17讲：密码生成器](https://www.bilibili.com/video/BV1Ce4y1p7iV/)| [源码](https://github.com/CoderWanFeng/wftools)|
+|[第18讲：打包成exe软件](https://www.bilibili.com/video/BV1cy4y1R7nr/?spm_id_from=333.999.0.0)| [源码-gui分支](https://github.com/CoderWanFeng/python-office/tree/gui)|
+|[第19讲：图片去水印](https://blog.csdn.net/weixin_42321517/article/details/128999594)| [源码](https://github.com/CoderWanFeng/poimage)|
+|[第20讲：PPT转图片](https://www.bilibili.com/video/BV1vN411c7AB/)| [源码](https://mp.weixin.qq.com/s/KtxI8H0RVJEnYtB18T6XiQ)|
 
 
 
