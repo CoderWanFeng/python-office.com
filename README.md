@@ -15,8 +15,8 @@
     	<a target="_blank" href='https://gitee.com/CoderWanFeng//PyOfficeRobot/'>
 		<img src='https://gitee.com/CoderWanFeng//PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
-  	<a href="https://mp.weixin.qq.com/s/Jf_EVdKlVnHhK68fW5OA6A">
-	<img src="https://img.shields.io/badge/QQ-1090738447-orange"/>
+  	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
+	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
   </a>
     	<a href="https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w">
 	<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E4%BA%A4%E6%B5%81%E7%BE%A4-brightgreen"/>
@@ -45,4 +45,4 @@
 
 - 我合并后，会直接在服务器里拉下来，打包更新到网站里。
 
-- ⭐参与PR的同学，欢迎添加我的微信，加入项目维护群：[CoderWanFeng](https://mp.weixin.qq.com/s/4Br2YXCinQEHseJwdtGAsQ)
+- ⭐参与PR的同学，欢迎添加我的微信，加入项目维护群：[CoderWanFeng](https://mp.weixin.qq.com/s/HYOWV7ImvTXImyYWtwADog)

@@ -63,7 +63,7 @@ office.pdf.merge2pdf(one_by_one=['程序员晚枫.pdf', '一键三连.pdf'], out
 > 请注意，使用这个功能，一定要把python-office，更新到最新版本！
 > 查看最新版本号：https://pypi.org/project/python-office/
 ```
-更新命令：pip install -i https://pypi.tuna.tsinghua.edu.cn/simple python-office -U
+更新命令：pip install -i https://mirrors.aliyun.com/pypi/simple python-office -U
 ```
 ```python
 

@@ -6,7 +6,7 @@ module.exports = {
     dest: '/opt/workplace/pro/python-office.com/dist',  // 设置输出目录
 
     head: [
-        ["link", {rel: "icon", href: "https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon.jpg"}],
+        ["link", {rel: "icon", href: "https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg"}],
         [ 'script', {}, `
                         var _hmt = _hmt || [];
                         (function() {
@@ -34,14 +34,14 @@ module.exports = {
         },
     },
     themeConfig: {
-        logo: 'https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon.jpg',
+        logo: 'https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg',
         // 添加导航栏
         nav: [
             {text: '🚀回到主页', link: '/'},
             {text: '🎮视频教程', link: 'http://python4office.cn/%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86-1/'},
             {text: '🔥GitHub', link: '/contributor/contributor'},
             {text: '🚸读者群', link: 'https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ'},
-            {text: '🚦联系作者', link: 'https://mp.weixin.qq.com/s/4Br2YXCinQEHseJwdtGAsQ'},
+            {text: '🚦联系作者', link: 'https://mp.weixin.qq.com/s/HYOWV7ImvTXImyYWtwADog'},
             {text: '鲁ICP备2021040536号-2', link: 'https://beian.miit.gov.cn/'},
         ],
         lastUpdated: 'Last Updated',
@@ -73,6 +73,7 @@ module.exports = {
                     '/office/web',
                     '/office/robot',
                     '/office/datav',
+                    '/office/finance',
                 ]
             },
             {

@@ -1,5 +1,11 @@
 # 常见问题
 
+<p align="center" id='滴滴-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/73Q83BCQioZT4i94PmPSDA'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads/didi-gao.jpg" width="100%"/>
+    </a>   
+</p>
+
 ## 一、问题合集
 
 > 遇到问题，可以加入我们的交流群：[点我直达](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/python-office.jpg)
@@ -13,9 +19,10 @@
 
 ### 1、Python版本问题：
 👉见问题3：[入门10大问题](https://mp.weixin.qq.com/s/Z0CGigtAoomAcvmSfnv-eQ)
-- 不支持最新的3.11、3.12：[定了！Python3.12将于今年发布，附体验版下载地址](https://mp.weixin.qq.com/s/hc3sOsMWtMMNMo_YuTtwZQ)
+- python-office已经全面支持python3.11：[查看详情](https://mp.weixin.qq.com/s/6QT4rbAWXwhxFIQ6utYNuw)
+- 推荐使用3.8~3.11，下载地址：[点我直达](http://www.python4office.cn/python-download/)
+- 不支持还在测试中的3.12：[定了！Python3.12将于今年发布，附体验版下载地址](https://mp.weixin.qq.com/s/hc3sOsMWtMMNMo_YuTtwZQ)
 - 官网已不再维护3.7：[Python3.7，今年停止更新！](https://mp.weixin.qq.com/s/GEKiEJMiubal2oxooNe1JA)
-- 推荐使用3.8~3.10，下载地址：[点我直达](http://www.python4office.cn/python-download/)
 
 
 ### 2、运行代码报错：ModuleNotFoundError: No module named 'office'
@@ -25,9 +32,10 @@
 
 ### 3、运行代码报错：AttributeError: module 'office' has no attribute 'xxx'
 
-👉见问题5：[入门10大问题](https://mp.weixin.qq.com/s/Z0CGigtAoomAcvmSfnv-eQ)
+👉第一步：见问题5：[入门10大问题](https://mp.weixin.qq.com/s/Z0CGigtAoomAcvmSfnv-eQ)
 
 
+第二步：请确保更新了python-office库，及其依赖库。
 
 ### 4、Linux、Mac、Windows，支持哪些系统？
 
@@ -36,7 +44,7 @@
 
 ### 5、下载速度太慢
 
-请👉使用清华大学镜像，加速python-office的下载，[点我查看，配置教程](https://www.bilibili.com/video/BV1SM411y7vw)
+请👉使用阿里镜像镜像，加速python-office的下载，[点我查看，配置教程](https://www.bilibili.com/video/BV1SM411y7vw)
 ### 6、更多问题
 
 - [入门10大问题](https://mp.weixin.qq.com/s/Z0CGigtAoomAcvmSfnv-eQ)

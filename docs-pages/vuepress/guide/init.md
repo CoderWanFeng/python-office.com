@@ -43,7 +43,7 @@
     - no moudle named 'office'：环境问题 or 下载问题
     - office has no attribute called 'excel': 下载问题、网络断了 or 下载了office
 - 解决方法：
-    - 下载问题：清华镜像：pip install python-office -i https://pypi.tuna.tsinghua.edu.cn/simple -U
+    - 下载问题：阿里镜像：pip install python-office -i https://mirrors.aliyun.com/pypi/simple -U
     - 环境问题：删除虚拟环境，或者卸了重装
 
 5.变量类型

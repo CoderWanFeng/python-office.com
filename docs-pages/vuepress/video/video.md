@@ -20,8 +20,8 @@
     	<a target="_blank" href='https://gitee.com/CoderWanFeng/python-office'>
 		<img src='https://gitee.com/CoderWanFeng//python-office/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
-  	<a href="https://mp.weixin.qq.com/s/Jf_EVdKlVnHhK68fW5OA6A">
-	<img src="https://img.shields.io/badge/QQ-1090738447-orange"/>
+  	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
+	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
   </a>
     	<a href="https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w">
 	<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E4%BA%A4%E6%B5%81%E7%BE%A4-brightgreen"/>
@@ -36,30 +36,37 @@
 
 
 
-| 视频地址       | 代码地址 |
-| -------------- | -------- |
-| ❤[第0讲：项目发布](https://www.bilibili.com/video/BV1pT4y1k7FH) | [源码](https://mp.weixin.qq.com/s/d2m7xYCLXF8QUlr-5sSuPA)     |
-| [第1讲：安装python环境](https://www.bilibili.com/video/BV1Q44y1u7rV) | [源码](https://www.python-office.com/guide/init.html)     |
-| [第2讲：批量重命名](https://www.bilibili.com/video/BV12r4y187Yj) | [源码](https://mp.weixin.qq.com/s/4Pt0YWakkPhfEWVMHwXe8g)     |
-|  [第3讲：PPT转PDF](https://www.bilibili.com/video/BV17Y411c792) | [源码](https://mp.weixin.qq.com/s/T31F-U5AdDd3D-61b_K5Qg)     |
-|   [第4讲：批量生成Excel数据](https://www.bilibili.com/video/BV1wr4y1b7uk) |  [源码](https://mp.weixin.qq.com/s/xVwEjXu58WovgSi4ZTtVQw)   |
-|  [第5讲：合并Excel](https://www.bilibili.com/video/BV1714y147Ao) |    [源码](https://mp.weixin.qq.com/s/Z5qHycDHm74Yk_nJlWZ8Rg)  |
-| ⭐[特别刊：微信机器人](https://www.python-office.com/office/robot.html)  |   [源码](https://mp.weixin.qq.com/s/6slx8hyv_WuK7v5Nzt3XKQ)   |
-|  [第6讲：PDF 加水印](https://www.bilibili.com/video/BV1Se411T7au) |  [源码](https://mp.weixin.qq.com/s/yJDs5RoytRL5hl-ybXkZOA)   |
-|  [第7讲：数据可视化 - 词云](https://www.bilibili.com/video/BV1Me4y1h7Ku) |    [源码](https://github.com/CoderWanFeng/poimage/blob/main/poimage/api/image.py)  |
-| [第8讲：查询Excel（疫情管理专题）](https://www.bilibili.com/video/BV1Bd4y1B7yr)  |    [源码](https://mp.weixin.qq.com/s/NAfh6ooO_9haALMsF8Jf5w)  |
-|   💻[第9讲：PDF 转 Word](https://www.bilibili.com/video/BV19D4y1i7Eu) |   [源码](https://mp.weixin.qq.com/s/eTwtTXLAudRQmyhE4LY_Dg)   |
-| 👩[第10讲：给图片 加 水印](https://www.bilibili.com/video/BV1jT411T7n9)  |   [源码](https://mp.weixin.qq.com/s/Z_RcTRYxUFpCQBGpShO0ig)   |
-|  [第11讲：根据内容，查找文件](https://www.bilibili.com/video/BV13P411n77G) |   [源码](https://mp.weixin.qq.com/s/rvU7O3zHJ-YEd2YU0Z4pew)   |
-|[第12讲：爬虫 之 下载图片](https://www.bilibili.com/video/BV1i8411s7Mq)| [源码](https://mp.weixin.qq.com/s/P6pRm1VX8bGYepC8O4Bt4Q)|
-|[第13讲：AI画画](https://www.bilibili.com/video/BV1rP411N7ao)| [源码](https://mp.weixin.qq.com/s/8qBytOyIANmpI5Thqo2zmw)|
-|[第14讲：用Python实现Google翻译](https://www.bilibili.com/video/BV11d4y1k7Mn)| [源码](https://mp.weixin.qq.com/s/Z_RcTRYxUFpCQBGpShO0ig)|
-|[第15讲：用Python 扫码二维码](https://www.bilibili.com/video/BV1pd4y1b716)| [源码](https://github.com/CoderWanFeng/poimage)|
-|[第16讲：用Python 测试网速](https://www.bilibili.com/video/BV1fD4y1x7ZE)| [源码](https://github.com/CoderWanFeng/wftools)|
-|[第17讲：密码生成器](https://www.bilibili.com/video/BV1Ce4y1p7iV/)| [源码](https://github.com/CoderWanFeng/wftools)|
-|[第18讲：打包成exe软件](https://www.bilibili.com/video/BV1cy4y1R7nr/?spm_id_from=333.999.0.0)| [源码-gui分支](https://github.com/CoderWanFeng/python-office/tree/gui)|
-|[第19讲：图片去水印](https://blog.csdn.net/weixin_42321517/article/details/128999594)| [源码](https://github.com/CoderWanFeng/poimage)|
-|[第20讲：PPT转图片](https://www.bilibili.com/video/BV1vN411c7AB/)| [源码](https://mp.weixin.qq.com/s/KtxI8H0RVJEnYtB18T6XiQ)|
+| 目录       | 视频 | 源码 |
+| -------------- | -------- |-------- |
+| ❤[第0讲：项目发布](https://www.bilibili.com/video/BV1pT4y1k7FH) | [视频](https://www.bilibili.com/video/BV1pT4y1k7FH) | [源码](https://mp.weixin.qq.com/s/d2m7xYCLXF8QUlr-5sSuPA)     |
+| [第1讲：安装python环境](https://www.bilibili.com/video/BV1Q44y1u7rV)| [视频](https://www.bilibili.com/video/BV1Q44y1u7rV) | [源码](https://www.python-office.com/guide/init.html)     |
+| [第2讲：批量重命名](https://www.bilibili.com/video/BV12r4y187Yj)| [视频](https://www.bilibili.com/video/BV12r4y187Yj) | [源码](https://mp.weixin.qq.com/s/4Pt0YWakkPhfEWVMHwXe8g)     |
+|  [第3讲：PPT转PDF](https://www.bilibili.com/video/BV17Y411c792) |[视频](https://www.bilibili.com/video/BV17Y411c792) | [源码](https://mp.weixin.qq.com/s/T31F-U5AdDd3D-61b_K5Qg)     |
+|   [第4讲：批量生成Excel数据](https://www.bilibili.com/video/BV1wr4y1b7uk) |  [视频](https://www.bilibili.com/video/BV1wr4y1b7uk) |  [源码](https://mp.weixin.qq.com/s/xVwEjXu58WovgSi4ZTtVQw)   |
+|  [第5讲：合并Excel](https://www.bilibili.com/video/BV1714y147Ao) |    [视频](https://www.bilibili.com/video/BV1714y147Ao) |    [源码](https://mp.weixin.qq.com/s/Z5qHycDHm74Yk_nJlWZ8Rg)  |
+| ⭐[特别刊：微信机器人](https://www.python-office.com/office/robot.html)  |  ⭐[视频](https://www.python-office.com/office/robot.html)  |   [源码](https://mp.weixin.qq.com/s/6slx8hyv_WuK7v5Nzt3XKQ)   |
+|  [第6讲：PDF 加水印](https://www.bilibili.com/video/BV1Se411T7au) |  [视频](https://www.bilibili.com/video/BV1Se411T7au) |  [源码](https://mp.weixin.qq.com/s/yJDs5RoytRL5hl-ybXkZOA)   |
+|  [第7讲：数据可视化 - 词云](https://www.bilibili.com/video/BV1Me4y1h7Ku) |   [视频](https://www.bilibili.com/video/BV1Me4y1h7Ku) |    [源码](https://github.com/CoderWanFeng/poimage/blob/main/poimage/api/image.py)  |
+| [第8讲：查询Excel（疫情管理专题）](https://www.bilibili.com/video/BV1Bd4y1B7yr)  |  [视频](https://www.bilibili.com/video/BV1Bd4y1B7yr)  |    [源码](https://mp.weixin.qq.com/s/NAfh6ooO_9haALMsF8Jf5w)  |
+|   💻[第9讲：PDF 转 Word](https://www.bilibili.com/video/BV19D4y1i7Eu) |  💻[视频](https://www.bilibili.com/video/BV19D4y1i7Eu) |   [源码](https://mp.weixin.qq.com/s/eTwtTXLAudRQmyhE4LY_Dg)   |
+| 👩[第10讲：给图片 加 水印](https://www.bilibili.com/video/BV1jT411T7n9)  |  👩[视频](https://www.bilibili.com/video/BV1jT411T7n9)  |   [源码](https://mp.weixin.qq.com/s/Z_RcTRYxUFpCQBGpShO0ig)   |
+|  [第11讲：根据内容，查找文件](https://www.bilibili.com/video/BV13P411n77G) | [视频](https://www.bilibili.com/video/BV13P411n77G) |   [源码](https://mp.weixin.qq.com/s/rvU7O3zHJ-YEd2YU0Z4pew)   |
+|[第12讲：爬虫 之 下载图片](https://www.bilibili.com/video/BV1i8411s7Mq)| [视频](https://www.bilibili.com/video/BV1i8411s7Mq)| [源码](https://mp.weixin.qq.com/s/P6pRm1VX8bGYepC8O4Bt4Q)|
+|[第13讲：AI画画](https://www.bilibili.com/video/BV1rP411N7ao)| [视频](https://www.bilibili.com/video/BV1rP411N7ao)| [源码](https://mp.weixin.qq.com/s/8qBytOyIANmpI5Thqo2zmw)|
+| [第14讲：用Python实现Google翻译](https://www.bilibili.com/video/BV11d4y1k7Mn)|[视频](https://www.bilibili.com/video/BV11d4y1k7Mn)| [源码](https://mp.weixin.qq.com/s/Z_RcTRYxUFpCQBGpShO0ig)|
+| [第15讲：用Python 扫码二维码](https://www.bilibili.com/video/BV1pd4y1b716)|[视频](https://www.bilibili.com/video/BV1pd4y1b716)| [源码](https://github.com/CoderWanFeng/poimage)|
+|[第16讲：用Python 测试网速](https://www.bilibili.com/video/BV1fD4y1x7ZE)| [视频](https://www.bilibili.com/video/BV1fD4y1x7ZE)| [源码](https://github.com/CoderWanFeng/wftools)|
+|[第17讲：密码生成器](https://www.bilibili.com/video/BV1Ce4y1p7iV/)|[视频](https://www.bilibili.com/video/BV1Ce4y1p7iV/)| [源码](https://github.com/CoderWanFeng/wftools)|
+| [第18讲：打包成exe软件](https://www.bilibili.com/video/BV1cy4y1R7nr)|  [视频](https://www.bilibili.com/video/BV1cy4y1R7nr)| [源码-gui分支](https://github.com/CoderWanFeng/python-office/tree/gui)|
+| [第19讲：图片去水印](https://blog.csdn.net/weixin_42321517/article/details/128999594)|  [视频](https://blog.csdn.net/weixin_42321517/article/details/128999594)| [源码](https://github.com/CoderWanFeng/poimage)|
+| [第20讲：PPT转图片](https://www.bilibili.com/video/BV1vN411c7AB/)| [视频](https://www.bilibili.com/video/BV1pu411Y7zz/)| [源码](https://blog.csdn.net/weixin_42321517/article/details/131148044)|
+| [第21讲：Excel转PDF](https://www.bilibili.com/video/BV1A84y1N7or)| [视频](https://www.bilibili.com/video/BV1A84y1N7or)| [源码](https://mp.weixin.qq.com/s/9cobekrIrR7BnUzfepv6Tg)|
+| [第22讲：合并Word文档](https://www.bilibili.com/video/BV1Vo4y1q7i3)|  [视频](https://www.bilibili.com/video/BV1Vo4y1q7i3)| [源码](https://mp.weixin.qq.com/s/PjQJ3s4Arr872NDfcr-7YA)|
+| [第23讲：整理文件夹](https://mp.weixin.qq.com/s/AVFttFz-IjZD1Ra3K-580A)|  [视频](https://mp.weixin.qq.com/s/AVFttFz-IjZD1Ra3K-580A)| [源码](https://mp.weixin.qq.com/s/AVFttFz-IjZD1Ra3K-580A)|
+| [第24讲：合并Excel](https://www.bilibili.com/video/BV1Hs4y1S7TT)|  [视频](https://www.bilibili.com/video/BV1Hs4y1S7TT)| [源码](https://github.com/CoderWanFeng/poexcel/blob/main/demo/1%E3%80%81query4excel_demo.py)|
+| [第25讲：取出所有文件](https://cloud.tencent.com/developer/article/2256531)|  [视频](https://www.bilibili.com/video/BV1ua4y1M7ya)| [源码](https://cloud.tencent.com/developer/article/2256531)|
+| [第26讲：doc和docx，互相转换](https://blog.csdn.net/weixin_42321517/article/details/129972973)|  [视频](https://www.bilibili.com/video/BV1so4y1H7rj)| [源码](https://blog.csdn.net/weixin_42321517/article/details/129972973)|
+| [第27讲：合并PPT](https://blog.csdn.net/weixin_42321517/article/details/130877688)|  [待录制](https://space.bilibili.com/259649365)| [源码](https://blog.csdn.net/weixin_42321517/article/details/130877688)|
 
 
 
@@ -81,7 +88,7 @@
 </p>
 
 <p align="center" id='0基础数据分析-banner'>
-    <a target="_blank" href='https://et1.lagou.com/WR98RLRpsd374'>
+    <a target="_blank" href='http://gk.link/a/10EfJ'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2Fpython%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.jpg" width="100%"/>
     </a>   
 </p>
@@ -93,6 +100,8 @@
 业余时间做编程博主，同时运营python-office这个python的功能库，以下是读者经常问我的一些问题。
 
 💻我录制成了视频的形式，大家看看吧~
+
+- [如何免费学编程？如何避免被割韭菜？](https://www.bilibili.com/video/BV1SM411K7wm)
 
 - [3大措施，整治程序员高薪现象！大快人心](https://www.bilibili.com/video/BV1sd4y1c7T9)
 
@@ -136,7 +145,7 @@
 
 
 <p align="center" id='0基础数据分析-banner'>
-    <a target="_blank" href='https://et1.lagou.com/WR98RLRpsd374'>
+    <a target="_blank" href='http://gk.link/a/10EfJ'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2Fpython%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.jpg" width="100%"/>
     </a>   
 </p>
@@ -148,7 +157,7 @@
 </p>
 
 <p align="center" id='52讲爬虫-banner'>
-    <a target="_blank" href='https://et3.lagou.com/WR75RzRpsd27C'>
+    <a target="_blank" href='http://gk.link/a/11FsN'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F52%E8%AE%B2%E7%88%AC%E8%99%AB.jpg" width="100%"/>
     </a>   
 </p>
@@ -188,7 +197,7 @@
 
 
 <p align="center" id='支付宝-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/TSnAjBs2dILSI_pM1pPznQ'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/iK_jZ70cq5-djdxtltGG9w'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F%E8%81%94%E7%9B%9F%E5%B9%BF%E5%91%8A%2Falipay.jpg" width="100%"/>
     </a>   
 </p>
