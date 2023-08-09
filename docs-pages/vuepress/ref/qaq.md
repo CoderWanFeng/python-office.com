@@ -65,4 +65,4 @@
 
 
 ## 四、Python自动化办公-课程学习
-0基础，系统学习Python自动化办公👉[课程](http://gk.link/a/10E3B)
+0基础，系统学习Python自动化办公👉[课程](https://www.python-office.com/video/video.html)

@@ -7,7 +7,7 @@
 ## 功能列表
 
 
-其中标⭐的，是大家使用频率比较高、[开发群](https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ)里讨论比较多的：
+其中标⭐的，是大家使用频率比较高、[开发群](https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw)里讨论比较多的：
 
 ### Excel
 - [合并Excel](https://mp.weixin.qq.com/s/3ZhZZfGlpNhszCWnOBeklg)

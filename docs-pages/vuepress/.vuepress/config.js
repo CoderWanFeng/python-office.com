@@ -38,10 +38,10 @@ module.exports = {
         // 添加导航栏
         nav: [
             {text: '🚀回到主页', link: '/'},
-            {text: '🎮视频教程', link: 'http://python4office.cn/%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86-1/'},
+            {text: '🎁领福利', link: 'http://python4office.cn/sideline-pro-list/'},
             {text: '🔥GitHub', link: '/contributor/contributor'},
-            {text: '🚸读者群', link: 'https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ'},
-            {text: '🚦联系作者', link: 'https://mp.weixin.qq.com/s/HYOWV7ImvTXImyYWtwADog'},
+            {text: '🚸读者群', link: 'https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw'},
+            {text: '🚦联系作者', link: 'https://mp.weixin.qq.com/s/yFcocJbfS9Hs375NhE8Gbw'},
             {text: '鲁ICP备2021040536号-2', link: 'https://beian.miit.gov.cn/'},
         ],
         lastUpdated: 'Last Updated',
