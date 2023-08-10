@@ -35,6 +35,8 @@ module.exports = {
     },
     themeConfig: {
         logo: 'https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg',
+        editLinks:'https://github.com/CoderWanFeng/python-office',
+        editLinkText:'https://github.com/CoderWanFeng/python-office',
         // 添加导航栏
         nav: [
             {text: '🚀回到主页', link: '/'},
@@ -45,6 +47,7 @@ module.exports = {
             {text: '鲁ICP备2021040536号-2', link: 'https://beian.miit.gov.cn/'},
         ],
         lastUpdated: 'Last Updated',
+
         sidebar: [
             '/',
             {
@@ -61,6 +64,7 @@ module.exports = {
                 title: '核心功能',
                 children: [
                     '/office/word',
+                    '/office/poword/doc2docx',
                     '/office/excel',
                     '/office/ppt',
                     '/office/pdf',
