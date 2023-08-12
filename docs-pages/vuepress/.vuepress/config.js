@@ -41,18 +41,25 @@ module.exports = {
         nav: [
             { text: '🚀回到主页', link: '/' },
             {
-                text: '🔥开源', items: [
-                    { text: 'Github', link: 'https://github.com/CoderWanFeng/python-office' },
-                    { text: 'Gitee', link: 'https://gitee.com/CoderWanFeng/python-office' }
+                text: '🔥下载', items: [
+                    { text: '软件', link: 'http://python4office.cn/python-download/' },
+                    { text: '源码', link: 'https://www.python-office.com/contributor/contributor.html' }
                 ]
             },
             {
-                text: '🚦联系我', items: [
+                text: '📕课程', items: [
+                    { text: '121讲-Python基础', link: 'http://gk.link/a/128fC' },
+                    { text: '50讲-自动化办公', link: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect' },
+                    { text: '8讲-微信机器人', link: 'https://mp.weixin.qq.com/s/9aspEHdCiAdXK17AvHlu9Q' }
+                ]
+            },
+            {
+                text: '🚦联系作者', items: [
                     { text: '🚸读者群', link: 'https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw' },
                     { text: '作者微信', link: 'https://mp.weixin.qq.com/s/yFcocJbfS9Hs375NhE8Gbw' }
                 ]
             },
-            { text: '🎁领福利', link: 'http://python4office.cn/sideline-pro-list/' },
+            { text: '🎁福利', link: 'http://python4office.cn/sideline-pro-list/' },
 
             { text: '鲁ICP备2021040536号-2', link: 'https://beian.miit.gov.cn/' },
         ],
