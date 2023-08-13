@@ -76,6 +76,11 @@ module.exports = {
                     '/guide/requirement',
                     '/guide/init',
                 ]
+            },          {
+                title: '原创课程',
+                children: [
+                    '/course/50-python-office',
+                ]
             },
             {
                 title: '核心功能',
