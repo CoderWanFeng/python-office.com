@@ -40,9 +40,9 @@
 
 | 序号 | 方法名               | 功能            | 视频                                                | 文档                                                      | 演示代码                                                                                                              |
  |----|-------------------|---------------|---------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| 1  | merge4docx        | 合并Word文档      | [播放](https://www.bilibili.com/video/BV1Vo4y1q7i3) | [查看](https://mp.weixin.qq.com/s/PjQJ3s4Arr872NDfcr-7YA) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/%E5%90%88%E5%B9%B6word.py)             |
+| 1  | docx2pdf          | word 转 pdf    | [播放](https://www.bilibili.com/video/BV1pT4y1k7FH) | [查看](https://mp.weixin.qq.com/s/Kfmu8vCSr6otGfrf7mj0bA) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/word%E8%BD%ACPDF.py)                   |
 | 2  | docx2doc/doc2docx | doc和docx，互相转换 | [播放](https://www.bilibili.com/video/BV1so4y1H7rj) | [查看](https://mp.weixin.qq.com/s/nyg_LlkHPwx1AY7wCg5KTw) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/doc%E5%92%8Cdocx%E4%BA%92%E8%BD%AC.py) |
-| 3  | docx2pdf          | word 转 pdf    | [播放](https://www.bilibili.com/video/BV1pT4y1k7FH) | [查看](https://mp.weixin.qq.com/s/Kfmu8vCSr6otGfrf7mj0bA) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/word%E8%BD%ACPDF.py)                   |
+| 3  | merge4docx        | 合并Word文档      | [播放](https://www.bilibili.com/video/BV1Vo4y1q7i3) | [查看](https://mp.weixin.qq.com/s/PjQJ3s4Arr872NDfcr-7YA) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/%E5%90%88%E5%B9%B6word.py)             |
 
 ## 2、Excel + 自动化办公 = poexcel
 
