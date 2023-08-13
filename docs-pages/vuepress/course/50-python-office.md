@@ -16,7 +16,6 @@
 3. 所有功能，只需要1行代码就能实现。
 4. 性价比高，全集一共50讲（视频、文档、代码、软件），只需要10元（100微信豆）就可以全部解锁。
 
-
 阅读全部课程，请点击👉[给小白的《50讲 · Python自动化办公》](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915&from_itemidx=1&from_msgid=2247501270&scene=173&count=3&nolastread=1#wechat_redirect)
 
 ## 配套资料
