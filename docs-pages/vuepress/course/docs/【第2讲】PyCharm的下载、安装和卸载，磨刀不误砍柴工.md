@@ -1,4 +1,4 @@
-# 【限免】第0讲：Python和Pycharm的下载、安装和配置
+# 【第2讲】PyCharm的下载、安装和卸载，磨刀不误砍柴工
 
 课程的开始，我们学习如何安装Python运行环境。
 
@@ -18,7 +18,7 @@
 
 ## 安装视频
 
-
+链接：https://www.bilibili.com/video/BV118411R7bB
 
 ## 软件下载
 
@@ -26,7 +26,6 @@
 
 http://python4office.cn/python-download/
 
-https://pan.baidu.com/s/1Ti8sHWqtvwvaRMGHbT4xjw?pwd=1vpi#/home/%2F/%2F
 
 
 
