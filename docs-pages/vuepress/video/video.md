@@ -34,7 +34,7 @@
 | 序号 | 功能         | 视频                                                | 下载地址                                                      |
 |----|------------|---------------------------------------------------|-----------------------------------------------------------|
 | 1  | ❤项目发布      | [播放](https://www.bilibili.com/video/BV1pT4y1k7FH) | [Python官网](https://pypi.org/project/python-office/)       |
-| 2  | 安装python环境 | [播放](https://www.bilibili.com/video/BV1Q44y1u7rV) | [下载软件](https://mp.weixin.qq.com/s/ktmQafdstwep_A5vae_Ymw) |
+| 2  | 安装python环境 | [播放](https://www.bilibili.com/video/BV118411R7bB/?spm_id_from=333.999.0.0) | [下载软件](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA) |
 
 ## 1、Word + 自动化办公 = poword
 
