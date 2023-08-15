@@ -24,14 +24,14 @@
 
 ## 安装视频
 
-视频：[https://www.bilibili.com/video/BV118411R7bB/](https://www.bilibili.com/video/BV118411R7bB/?spm_id_from=333.999.0.0&vd_source=ca20bb8763fcb18660aa74d7a87234fa)
+- 打开视频：[https://www.bilibili.com/video/BV118411R7bB/](https://www.bilibili.com/video/BV118411R7bB)
 
 
 ## 软件下载好了
 
-本套合集的读者，可以直接扫码下图，打开下载地址👇
+本套合集的读者，可以直接打开下载地址👇
 
-http://python4office.cn/python-download/
+- 百度云链接，永久有效：[http://python4office.cn/python-download/](http://python4office.cn/python-download/)
 
 
 

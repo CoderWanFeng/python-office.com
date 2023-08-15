@@ -25,24 +25,47 @@
 </p>
 
 
+欢迎学习给小白的《50讲 · Python自动化办公》，课程正在持续更新中🚀，每一节课都包含：视频、文档、代码、软件和答疑群。
+
+本次课程的特点有以下几个：
+
+1. 适合小白不需要学习复杂的编程知识，拿来就用。
+2. 内容丰富，涵盖热门的自动化办公需求。
+3. 所有功能，只需要1行代码就能实现。
+
+本套课程的代码，全部来自开源中国推荐项目，Python自动化办公的专用库：``python-office``及其子项目：[重磅！官网发布第三方库：python-office，为Python自动化办公而生](https://www.bilibili.com/video/BV1pT4y1k7FH)
+
+以下[绿色](https://mp.weixin.qq.com/s/_01V8I7rVkgvIIo7ygwwQA)文字，均可点击直达👇
+
+## 0、准备工作
+
+课程前3讲，主要是Python环境的搭建，包含：python的安装、pycharm的安装和pip的使用。
+
+是学习本套课程、运行课程中的代码必须安装的软件。
+
+> 如果是小白，请务必按顺序听完学会；如果是已经安装并且会使用的大佬，请直接跳转到下一部分的课程。
+
+| 序号  | 视频                                                                                      | 文档                                                      | 配套资源                                                 |
+| ----- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------- |
+| 第1讲 | [Python3.11的下载、安装和卸载，有手就能学会](https://www.bilibili.com/video/BV118411R7bB) | [打开](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA) | [Python安装包](http://python4office.cn/python-download/) |
+| 第2讲 | [Python3.11的下载、安装和卸载，有手就能学会](https://www.bilibili.com/video/BV118411R7bB) | [打开](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA) | [Python安装包](http://python4office.cn/python-download/) |
+| 第3讲 | [Python3.11的下载、安装和卸载，有手就能学会](https://www.bilibili.com/video/BV118411R7bB) | [打开](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA) | [Python安装包](http://python4office.cn/python-download/) |
 
 
-以下[绿色](https://mp.weixin.qq.com/s/_01V8I7rVkgvIIo7ygwwQA)文字，均可点击直达👇持续更新中🚀
-
-## 0、下载和安装
-
-| 序号 | 功能           | 视频                                                                         | 文档                                                              | 配套资源 |
-| ---- | -------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- |
-| 1    | ❤项目发布      | [播放](https://www.bilibili.com/video/BV1pT4y1k7FH)                          | [打开](https://mp.weixin.qq.com/s/v2n0DTVTZUaw7QOnA0Zlow)   | [Python官网](https://pypi.org/project/python-office/)             |
-| 2    | 安装python环境 | [播放](https://www.bilibili.com/video/BV118411R7bB/?spm_id_from=333.999.0.0) | [打开](https://www.python-office.com/course/docs/50-01-python.html) | [Python安装包](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA)  |
 
 ## 1、Word + 自动化办公 = poword
 
-| 序号 | 方法名            | 功能                | 视频                                                | 文档                                                      | 演示代码                                                                                                            |
-| ---- | ----------------- | ------------------- | --------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1    | docx2pdf          | word 转 pdf         | [播放](https://www.bilibili.com/video/BV1pT4y1k7FH) | [查看](https://mp.weixin.qq.com/s/Kfmu8vCSr6otGfrf7mj0bA) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/word%E8%BD%ACPDF.py)                   |
-| 2    | docx2doc/doc2docx | doc和docx，互相转换 | [播放](https://www.bilibili.com/video/BV1so4y1H7rj) | [查看](https://mp.weixin.qq.com/s/nyg_LlkHPwx1AY7wCg5KTw) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/doc%E5%92%8Cdocx%E4%BA%92%E8%BD%AC.py) |
-| 3    | merge4docx        | 合并Word文档        | [播放](https://www.bilibili.com/video/BV1Vo4y1q7i3) | [查看](https://mp.weixin.qq.com/s/PjQJ3s4Arr872NDfcr-7YA) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/%E5%90%88%E5%B9%B6word.py)             |
+该部分的课程，主要是关于Word自动化办公，对应的第三方库有：
+
+- poword：[https://github.com/CoderWanFeng/poword](https://github.com/CoderWanFeng/poword)
+
+
+
+| 序号  | 方法名            | 功能                | 视频                                                | 文档                                                      | 演示代码                                                                                                            |
+| ----- | ----------------- | ------------------- | --------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 第4讲 | docx2pdf          | word 转 pdf         | [播放](https://www.bilibili.com/video/BV1pT4y1k7FH) | [查看](https://mp.weixin.qq.com/s/Kfmu8vCSr6otGfrf7mj0bA) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/word%E8%BD%ACPDF.py)                   |
+| 2     | docx2doc/doc2docx | doc和docx，互相转换 | [播放](https://www.bilibili.com/video/BV1so4y1H7rj) | [查看](https://mp.weixin.qq.com/s/nyg_LlkHPwx1AY7wCg5KTw) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/doc%E5%92%8Cdocx%E4%BA%92%E8%BD%AC.py) |
+| 3     | merge4docx        | 合并Word文档        | [播放](https://www.bilibili.com/video/BV1Vo4y1q7i3) | [查看](https://mp.weixin.qq.com/s/PjQJ3s4Arr872NDfcr-7YA) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/%E5%90%88%E5%B9%B6word.py)             |
 
 ## 2、Excel + 自动化办公 = poexcel
 
