@@ -47,8 +47,8 @@
 
 | 序号  | 视频                                                                                           | 文档                                                                | 配套资源                                                  |
 |-----|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------|
-| 第1讲 | [Python3.11的下载、安装和卸载，有手就能学会](https://www.bilibili.com/video/BV118411R7bB)                    | [打开](https://www.python-office.com/course/docs/50-01-python.html) | [Python安装包](http://python4office.cn/python-download/) |
-| 第2讲 | [正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~](https://www.bilibili.com/video/BV1X84y1f76f/) | [打开](https://www.python-office.com/course/docs/50-01-python.html) | [PyCharm下载地址](https://www.jetbrains.com/pycharm/)     |
+| 第1讲 | [Python3.11的下载、安装和卸载，有手就能学会](https://www.bilibili.com/video/BV118411R7bB)                    | [打开](https://www.python-office.com/course/docs/50-01-python.html) | [Python安装包](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA) |
+| 第2讲 | [正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~](https://www.bilibili.com/video/BV1X84y1f76f/) | [打开](https://www.python-office.com/course/docs/50-02-pycharm.html) | [PyCharm下载地址](https://mp.weixin.qq.com/s/2b2CMhmYrPzYnlhoncOMXg)     |
 
 ## 1、Word + 自动化办公 = poword
 
