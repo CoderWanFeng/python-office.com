@@ -1,48 +1,50 @@
+---
+home: true
+modules:
+  - BannerBrand
+  - MdContent
+  - Footer
+bannerBrand:
+  bgImage: '/bg.svg'
+  title: python-office
+  description: 为自动化而生
+  tagline: 使用 Python 为您的工作提高效率；一键搞定，轻松简单
+  buttons:
+    - { text: 视频教程, link: 'docs/video/video.html' }
+    - { text: 下载软件, link: 'docs/contributor/contributor.md', type: 'plain' }
+  socialLinks:
+    - { icon: 'LogoGithub', link: 'https://github.com/CoderWanFeng/python-office' }
+    - { icon: 'BrandGithub', link: 'https://github.com/recoluan' }
+footer:
+  record: 鲁ICP备2021040536号-2
+  recordLink: https://beian.miit.gov.cn/
+---
 
+::: card
+```card
+title: 专注一个领域
+desc: Python-office 是一个 Python 自动化办公第三方库，能解决大部分自动化办公的问题
+logo: /logo/python.svg
+color: rgba(32, 32, 34)
+```
 
-<p align="center" id='大礼包-banner'>
-    <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
-    <img src="https://banner-1300615378.cos.ap-guangzhou.myqcloud.com/%E6%A8%AA%E6%9D%A1/Python%E5%A4%A7%E7%A4%BC%E5%8C%85.jpg" width="100%"/>
-    </a>   
-</p>
+```card
+title: 降低学习门槛
+desc: 不用学习Python编程知识，会电脑操作就行
+logo: /logo/laptop.svg
+color: rgba(32, 32, 34)
+```
+```card
+title: 降低学习门槛
+desc: 不用学习Python编程知识，会电脑操作就行
+logo: /logo/terminal.svg
+color: rgba(32, 32, 34)
+```
 
-
-
-<p align="center" name="图标-github">
-    <a target="_blank" href='https://github.com/CoderWanFeng/PyOfficeRobot'>
-    <img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg?style=social" alt="github star"/>
-    </a>
-    	<a target="_blank" href='https://gitee.com/CoderWanFeng//PyOfficeRobot/'>
-		<img src='https://gitee.com/CoderWanFeng//PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/>
-	</a>
-  	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
-	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
-  </a>
-    	<a href="https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw">
-	<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E4%BA%A4%E6%B5%81%E7%BE%A4-brightgreen"/>
-  </a>
-</p>
-
-
-# python-office开源项目的官网
-
-## 官方地址
-- 官网：[https://www.python-office.com](https://www.python-office.com)
-- 项目说明：[开源中国推荐：python-office自动化办公，每个功能只需一行代码，做到了真正的开箱即用。](https://mp.weixin.qq.com/s/d2m7xYCLXF8QUlr-5sSuPA)
-- 💻视频：[python-office，正式发布](https://www.bilibili.com/video/BV1pT4y1k7FH)
-> 因为经常被问到：python-office有使用文档吗？所以我写了这个官网。
-
-## 网站使用的技术
-
-- 后端：没有后端！纯静态页面
-- 前端：VuePress框架
-- 🏔部署：[腾讯云](https://curl.qcloud.com/3csDz9jU)
-
-## PR规范
-- 大家觉得哪里表达不准确，或者是哪个方法没有更新，直接在对应的文件里修改就行了。
-
-- 修改之后，直接提交到master分支，
-
-- 我合并后，会直接在服务器里拉下来，打包更新到网站里。
-
-- ⭐参与PR的同学，欢迎添加我的微信，加入项目维护群：[CoderWanFeng](https://mp.weixin.qq.com/s/yFcocJbfS9Hs375NhE8Gbw)
+```card
+title: 免费学习
+desc: 2个B站账号名字分别是：Python自动化办公社区 、 程序员晚枫
+logo: /logo/certificate.svg
+color: rgba(32, 32, 34)
+```
+:::
