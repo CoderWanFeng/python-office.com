@@ -28,12 +28,14 @@
 
 - 打开视频：[https://www.bilibili.com/video/BV118411R7bB/](https://www.bilibili.com/video/BV118411R7bB)
 
+![](./imgs/50-01/video.jpg)
+
 
 ## 软件下载好了
 
 本套合集的读者，可以直接打开下载地址👇
 
-- 百度云链接，永久有效：[http://python4office.cn/python-download/](http://python4office.cn/python-download/)
+- 百度云，永久有效地址，见文末二维码：[打开](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA)
 
 
 
