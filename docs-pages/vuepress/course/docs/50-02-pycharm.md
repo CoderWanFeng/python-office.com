@@ -19,8 +19,9 @@
 
 ## 主要内容
 
+<iframe src="//player.bilibili.com/player.html?bvid=BV1X84y1f76f" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
-<iframe src="//player.bilibili.com/player.html?aid=573496439&bvid=BV1X84y1f76f&cid=1198031392&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
+
 
 本讲内容，还是通过视频的形式给大家讲解，视频内容主要包含：
 
