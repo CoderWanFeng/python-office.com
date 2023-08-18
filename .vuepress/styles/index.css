@@ -1,0 +1,5 @@
+table {
+    display: table !important;
+    width: 100% !important;
+    border-radius: .5rem !important;
+  }
