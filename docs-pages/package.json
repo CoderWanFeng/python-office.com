@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/CoderWanFeng/python-office#readme",
   "devDependencies": {
+    "@snippetors/vuepress-plugin-code-copy": "^1.2.3",
     "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.16",
     "@vuepress/plugin-back-to-top": "^1.9.10",
     "vuepress": "1.8.0",
