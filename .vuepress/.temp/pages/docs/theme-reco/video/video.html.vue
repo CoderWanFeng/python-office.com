@@ -855,7 +855,7 @@
     </a>   
 </p>
 <h2 id="良心建议" tabindex="-1"><a class="header-anchor" href="#良心建议" aria-hidden="true">#</a> 良心建议</h2>
-<p>你好，这里是程序员晚枫，人到中年，才转行程序员。</p>
+<p>你好，这里是程序员晚枫.</p>
 <p>业余时间做编程博主，同时运营python-office这个python的功能库，以下是一些生活VLOG和读者经常问我的一些问题。</p>
 <p>💻我录制成了视频的形式，大家看看吧~</p>
 <h3 id="生活vlog" tabindex="-1"><a class="header-anchor" href="#生活vlog" aria-hidden="true">#</a> 生活VLOG</h3>

@@ -34,8 +34,9 @@
 	<a target="_blank" href='https://gitee.com/CoderWanFeng/python-office/'>
 		<img src='https://gitee.com/CoderWanFeng/python-office/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
-	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
-	<img src="https://img.shields.io/badge/QQ-163434413-orange"/></a>
+<pre><code>&lt;a href=&quot;https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ&quot;&gt;
+&lt;img src=&quot;https://img.shields.io/badge/QQ-163434413-orange&quot;/&gt;&lt;/a&gt;
+</code></pre>
 </p>
 <h2 id="📚简介" tabindex="-1"><a class="header-anchor" href="#📚简介" aria-hidden="true">#</a> 📚简介</h2>
 <p>Python-office 是一个 Python 自动化办公第三方库，能解决大部分自动化办公的问题。而且每个功能只需一行代码，不需要小白用户学习 Python 知识，做到了真正的开箱即用。</p>

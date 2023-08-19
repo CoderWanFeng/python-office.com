@@ -30,11 +30,11 @@
 
 下面是我整理的Python学习教程：
 
-| 视频                                                                                   | 配套文档&代码&软件                                                                                                                                        | 学习群                                                     | 
-|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| [121讲 · Python基础（已完结）](http://gk.link/a/11Put)                                       | [打开](http://gk.link/a/11Put)                                                                                                                      | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
-| [50讲 · Python自动化办公（更新中）](https://www.python-office.com/course/50-python-office.html) | [打开](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzI2Nzg5MjgyNg==&scene=1&album_id=3056320585091366915&count=3#wechat_redirect) | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
-| [8讲 · Python微信机器人（已完结）](https://www.bilibili.com/video/BV1Xa411u7yU)                 | [打开](https://gitee.com/CoderWanFeng/PyOfficeRobot)                                                                                                | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+| 视频                                                                                            | 配套文档&代码&软件                                                 | 学习群                                                    |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
+| [121讲 · Python基础（已完结）](http://gk.link/a/11Put)                                          | [打开](http://gk.link/a/11Put)                                     | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+| [50讲 · Python自动化办公（更新中）](https://www.python-office.com/course/50-python-office.html) | [打开](https://www.python-office.com/course/50-python-office.html) | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+| [8讲 · Python微信机器人（已完结）](https://www.bilibili.com/video/BV1Xa411u7yU)                 | [打开](https://gitee.com/CoderWanFeng/PyOfficeRobot)               | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
 
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
@@ -53,7 +53,11 @@
 以下是一些生活VLOG和读者经常问我的一些问题。
 💻我录制成了视频的形式，大家看看吧~
 
-<iframe src="//player.bilibili.com/player.html?aid=573496439&bvid=BV1mz4y177j1&cid=1198031392&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
+<p align="center" id='vlog横-banner'>
+    <a target="_blank" href='http://python4office.cn/vlog-all/vlog-all/'>
+    <img src="https://vlog-1300615378.cos.ap-chongqing.myqcloud.com/ads%2Fheng.jpg" width="100%"/>
+    </a>   
+</p>
 
 ### 转行咨询
 

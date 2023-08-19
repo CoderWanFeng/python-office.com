@@ -28,147 +28,38 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "社区贡献",
+    "headers": [],
+    "path": "/contributor/about.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "源码下载",
+    "headers": [
+      {
+        "level": 2,
+        "title": "联系作者",
+        "slug": "联系作者",
+        "link": "#联系作者",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "参与开发",
+        "slug": "参与开发",
+        "link": "#参与开发",
+        "children": []
+      }
+    ],
+    "path": "/contributor/contributor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "",
     "headers": [],
     "path": "/contact/contact.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "全部功能",
-    "headers": [
-      {
-        "level": 2,
-        "title": "功能列表",
-        "slug": "功能列表",
-        "link": "#功能列表",
-        "children": [
-          {
-            "level": 3,
-            "title": "Excel",
-            "slug": "excel",
-            "link": "#excel",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "PDF",
-            "slug": "pdf",
-            "link": "#pdf",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Word",
-            "slug": "word",
-            "link": "#word",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Image",
-            "slug": "image",
-            "link": "#image",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Tools",
-            "slug": "tools",
-            "link": "#tools",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "功能交流",
-        "slug": "功能交流",
-        "link": "#功能交流",
-        "children": []
-      }
-    ],
-    "path": "/guide/allFunc.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "给非程序员的Python入门课，0基础适用（课程资料）",
-    "headers": [
-      {
-        "level": 2,
-        "title": "1、课程说明",
-        "slug": "_1、课程说明",
-        "link": "#_1、课程说明",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "2、课程资料",
-        "slug": "_2、课程资料",
-        "link": "#_2、课程资料",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "3、课程目录",
-        "slug": "_3、课程目录",
-        "link": "#_3、课程目录",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "4、学习群",
-        "slug": "_4、学习群",
-        "link": "#_4、学习群",
-        "children": []
-      }
-    ],
-    "path": "/guide/init.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "项目说明",
-    "headers": [
-      {
-        "level": 2,
-        "title": "📚简介",
-        "slug": "📚简介",
-        "link": "#📚简介",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "🍺特点",
-        "slug": "🍺特点",
-        "link": "#🍺特点",
-        "children": []
-      }
-    ],
-    "path": "/guide/introduction.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "下载和安装",
-    "headers": [],
-    "path": "/guide/office.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "需求反馈",
-    "headers": [
-      {
-        "level": 2,
-        "title": "问题反馈 + 需求收集",
-        "slug": "问题反馈-需求收集",
-        "link": "#问题反馈-需求收集",
-        "children": []
-      }
-    ],
-    "path": "/guide/requirement.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -329,31 +220,140 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "社区贡献",
-    "headers": [],
-    "path": "/contributor/about.html",
+    "title": "全部功能",
+    "headers": [
+      {
+        "level": 2,
+        "title": "功能列表",
+        "slug": "功能列表",
+        "link": "#功能列表",
+        "children": [
+          {
+            "level": 3,
+            "title": "Excel",
+            "slug": "excel",
+            "link": "#excel",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "PDF",
+            "slug": "pdf",
+            "link": "#pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Word",
+            "slug": "word",
+            "link": "#word",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Image",
+            "slug": "image",
+            "link": "#image",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Tools",
+            "slug": "tools",
+            "link": "#tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "功能交流",
+        "slug": "功能交流",
+        "link": "#功能交流",
+        "children": []
+      }
+    ],
+    "path": "/guide/allFunc.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "源码下载",
+    "title": "给非程序员的Python入门课，0基础适用（课程资料）",
     "headers": [
       {
         "level": 2,
-        "title": "联系作者",
-        "slug": "联系作者",
-        "link": "#联系作者",
+        "title": "1、课程说明",
+        "slug": "_1、课程说明",
+        "link": "#_1、课程说明",
         "children": []
       },
       {
         "level": 2,
-        "title": "参与开发",
-        "slug": "参与开发",
-        "link": "#参与开发",
+        "title": "2、课程资料",
+        "slug": "_2、课程资料",
+        "link": "#_2、课程资料",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "3、课程目录",
+        "slug": "_3、课程目录",
+        "link": "#_3、课程目录",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "4、学习群",
+        "slug": "_4、学习群",
+        "link": "#_4、学习群",
         "children": []
       }
     ],
-    "path": "/contributor/contributor.html",
+    "path": "/guide/init.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "项目说明",
+    "headers": [
+      {
+        "level": 2,
+        "title": "📚简介",
+        "slug": "📚简介",
+        "link": "#📚简介",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "🍺特点",
+        "slug": "🍺特点",
+        "link": "#🍺特点",
+        "children": []
+      }
+    ],
+    "path": "/guide/introduction.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "下载和安装",
+    "headers": [],
+    "path": "/guide/office.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "需求反馈",
+    "headers": [
+      {
+        "level": 2,
+        "title": "问题反馈 + 需求收集",
+        "slug": "问题反馈-需求收集",
+        "link": "#问题反馈-需求收集",
+        "children": []
+      }
+    ],
+    "path": "/guide/requirement.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -811,20 +811,6 @@ export const searchIndex = [
         "title": "付费内容",
         "slug": "付费内容",
         "link": "#付费内容",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "安装视频",
-        "slug": "安装视频",
-        "link": "#安装视频",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "软件下载",
-        "slug": "软件下载",
-        "link": "#软件下载",
         "children": []
       }
     ],

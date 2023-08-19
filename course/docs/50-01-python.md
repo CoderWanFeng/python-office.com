@@ -26,14 +26,15 @@
 
 ## 安装视频
 
-- 打开视频：[https://www.bilibili.com/video/BV118411R7bB/](https://www.bilibili.com/video/BV118411R7bB)
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV118411R7bB" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
 ## 软件下载好了
 
 本套合集的读者，可以直接打开下载地址👇
 
-- 百度云链接，永久有效：[http://python4office.cn/python-download/](http://python4office.cn/python-download/)
+- 百度云，永久有效地址，见文末二维码：[打开](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA)
 
 
 
