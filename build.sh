@@ -1,4 +1,3 @@
-nvm install 18.17.1
 nvm use 18.17.1
 yarn install
 yarn run build
