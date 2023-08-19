@@ -28,35 +28,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "社区贡献",
-    "headers": [],
-    "path": "/contributor/about.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "源码下载",
-    "headers": [
-      {
-        "level": 2,
-        "title": "联系作者",
-        "slug": "联系作者",
-        "link": "#联系作者",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "参与开发",
-        "slug": "参与开发",
-        "link": "#参与开发",
-        "children": []
-      }
-    ],
-    "path": "/contributor/contributor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "视频教程",
     "headers": [
       {
@@ -209,13 +180,6 @@ export const searchIndex = [
       }
     ],
     "path": "/course/50-python-office.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [],
-    "path": "/contact/contact.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -603,6 +567,42 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "",
+    "headers": [],
+    "path": "/contact/contact.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "社区贡献",
+    "headers": [],
+    "path": "/contributor/about.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "源码下载",
+    "headers": [
+      {
+        "level": 2,
+        "title": "联系作者",
+        "slug": "联系作者",
+        "link": "#联系作者",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "参与开发",
+        "slug": "参与开发",
+        "link": "#参与开发",
+        "children": []
+      }
+    ],
+    "path": "/contributor/contributor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "开源仓库",
     "headers": [],
     "path": "/ref/git.html",
@@ -768,6 +768,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Test",
+    "headers": [],
+    "path": "/po/poword/doc2docx.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "【第1讲】Python3.11的下载、安装和卸载，有手就能学会",
     "headers": [
       {
@@ -911,13 +918,6 @@ export const searchIndex = [
     "title": "",
     "headers": [],
     "path": "/course/docs/50-07-fake2excel.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Test",
-    "headers": [],
-    "path": "/po/poword/doc2docx.html",
     "pathLocale": "/",
     "extraFields": []
   },

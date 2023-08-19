@@ -55,29 +55,29 @@ export default defineUserConfig({
       body: [
         {
           type: 'text',
-          content: `我们的软件得到了进一步的优化，用户体验得到了进一步的改善`,
+          content: `GitHub：python-office`,
           style: 'font-size: 12px;'
         },
         { type: 'hr' },
-        { type: 'title', content: 'QQ 群' },
+        { type: 'title', content: '读者群' },
         {
           type: 'text',
           content: `
           <ul>
-            <li>QQ群1：</li>
-            <li>QQ群2：</li>
-            <li>QQ群3：</li>
+            <li><a href="http://python4office.cn/wechat-group/">微信群<a/></li>
+            <li><a href=" https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/qq-group.jpg">QQ群<a/></li>
           </ul>`,
           style: 'font-size: 12px;'
         },
         { type: 'hr' },
-        { type: 'title', content: 'GitHub' },
+        { type: 'title', content: '精品课程' },
         {
           type: 'text',
           content: `
           <ul>
-            <li><a href="https://github.com/CoderWanFeng/python-office/issues">Issues<a/></li>
-            <li><a href="https://github.com/CoderWanFeng/python-office/discussions">Discussions<a/></li>
+            <li><a href="http://gk.link/a/11Put">121讲Python基础<a/></li>
+            <li><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect">50讲自动化办公<a/></li>
+            <li><a href="https://mp.weixin.qq.com/s/9aspEHdCiAdXK17AvHlu9Q">8讲微信机器人<a/></li>
           </ul>`,
           style: 'font-size: 12px;'
         },
@@ -85,7 +85,7 @@ export default defineUserConfig({
         {
           type: 'buttongroup',
           children: [
-            { text: '进群', link: 'https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw' }
+            { text: 'vlog', link: 'https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw' }
           ]
         }
       ],
