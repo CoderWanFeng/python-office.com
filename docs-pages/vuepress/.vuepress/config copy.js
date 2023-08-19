@@ -1,10 +1,7 @@
-
-const pluginConf = require('./pluginConf.js');
-
 module.exports = {
     title: 'python-office',// 设置网站标题
     description: 'python-office自动化办公',
-    port: '18002',
+    port: '18001',
     base: '/',// 设置站点根路径
     dest: '/opt/workplace/pro/python-office.com/dist',  // 设置输出目录
 
@@ -21,8 +18,21 @@ module.exports = {
                         `
         ]
     ],
-    plugins: pluginConf,
-    
+    "plugins": {
+        '@vuepress/back-to-top': true,
+        "vuepress-plugin-nuggets-style-copy":
+        {
+            copyText: "复制代码",
+            tip: {
+                content: "复制成功"
+            }
+        },
+        'copyright':
+        {
+            authorName: '程序员晚枫', // 选中的文字将无法被复制
+            minLength: 10, // 如果长度超过  30 个字符
+        },
+    },
     themeConfig: {
         logo: 'https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg',
         editLinks: 'https://github.com/CoderWanFeng/python-office',
@@ -118,5 +128,4 @@ module.exports = {
             },
         ],
     }
-      
 }
