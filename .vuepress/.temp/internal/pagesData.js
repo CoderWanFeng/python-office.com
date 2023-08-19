@@ -7,14 +7,8 @@ export const pagesData = {
   "v-53355ebb": () => import(/* webpackChunkName: "v-53355ebb" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/friendship-link/index.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /contributor/about.html
-  "v-4245b959": () => import(/* webpackChunkName: "v-4245b959" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contributor/about.html.js").then(({ data }) => data),
-  // path: /contributor/contributor.html
-  "v-5943370b": () => import(/* webpackChunkName: "v-5943370b" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contributor/contributor.html.js").then(({ data }) => data),
   // path: /course/50-python-office.html
   "v-64a735ba": () => import(/* webpackChunkName: "v-64a735ba" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/course/50-python-office.html.js").then(({ data }) => data),
-  // path: /contact/contact.html
-  "v-7d79a27e": () => import(/* webpackChunkName: "v-7d79a27e" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contact/contact.html.js").then(({ data }) => data),
   // path: /guide/allFunc.html
   "v-4c355ae0": () => import(/* webpackChunkName: "v-4c355ae0" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/guide/allFunc.html.js").then(({ data }) => data),
   // path: /guide/init.html
@@ -53,6 +47,12 @@ export const pagesData = {
   "v-05920842": () => import(/* webpackChunkName: "v-05920842" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/office/web.html.js").then(({ data }) => data),
   // path: /office/word.html
   "v-5fc6f975": () => import(/* webpackChunkName: "v-5fc6f975" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/office/word.html.js").then(({ data }) => data),
+  // path: /contact/contact.html
+  "v-7d79a27e": () => import(/* webpackChunkName: "v-7d79a27e" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contact/contact.html.js").then(({ data }) => data),
+  // path: /contributor/about.html
+  "v-4245b959": () => import(/* webpackChunkName: "v-4245b959" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contributor/about.html.js").then(({ data }) => data),
+  // path: /contributor/contributor.html
+  "v-5943370b": () => import(/* webpackChunkName: "v-5943370b" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contributor/contributor.html.js").then(({ data }) => data),
   // path: /ref/git.html
   "v-239da7bc": () => import(/* webpackChunkName: "v-239da7bc" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/ref/git.html.js").then(({ data }) => data),
   // path: /ref/log.html
@@ -67,6 +67,8 @@ export const pagesData = {
   "v-718d4887": () => import(/* webpackChunkName: "v-718d4887" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/video/poocr.html.js").then(({ data }) => data),
   // path: /video/video.html
   "v-c0a7576a": () => import(/* webpackChunkName: "v-c0a7576a" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/video/video.html.js").then(({ data }) => data),
+  // path: /po/poword/doc2docx.html
+  "v-2f58aad0": () => import(/* webpackChunkName: "v-2f58aad0" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/po/poword/doc2docx.html.js").then(({ data }) => data),
   // path: /course/docs/50-01-python.html
   "v-adfe5b2c": () => import(/* webpackChunkName: "v-adfe5b2c" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/course/docs/50-01-python.html.js").then(({ data }) => data),
   // path: /course/docs/50-02-pycharm.html
@@ -81,8 +83,6 @@ export const pagesData = {
   "v-3a18ef8f": () => import(/* webpackChunkName: "v-3a18ef8f" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/course/docs/50-06-merge4docx.html.js").then(({ data }) => data),
   // path: /course/docs/50-07-fake2excel.html
   "v-1def3232": () => import(/* webpackChunkName: "v-1def3232" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/course/docs/50-07-fake2excel.html.js").then(({ data }) => data),
-  // path: /po/poword/doc2docx.html
-  "v-2f58aad0": () => import(/* webpackChunkName: "v-2f58aad0" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/po/poword/doc2docx.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

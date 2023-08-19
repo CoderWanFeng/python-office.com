@@ -9,14 +9,8 @@ export const pagesComponents = {
   "v-53355ebb": defineAsyncComponent(() => import(/* webpackChunkName: "v-53355ebb" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/friendship-link/index.html.vue")),
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/index.html.vue")),
-  // path: /contributor/about.html
-  "v-4245b959": defineAsyncComponent(() => import(/* webpackChunkName: "v-4245b959" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contributor/about.html.vue")),
-  // path: /contributor/contributor.html
-  "v-5943370b": defineAsyncComponent(() => import(/* webpackChunkName: "v-5943370b" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contributor/contributor.html.vue")),
   // path: /course/50-python-office.html
   "v-64a735ba": defineAsyncComponent(() => import(/* webpackChunkName: "v-64a735ba" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/course/50-python-office.html.vue")),
-  // path: /contact/contact.html
-  "v-7d79a27e": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d79a27e" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contact/contact.html.vue")),
   // path: /guide/allFunc.html
   "v-4c355ae0": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c355ae0" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/guide/allFunc.html.vue")),
   // path: /guide/init.html
@@ -55,6 +49,12 @@ export const pagesComponents = {
   "v-05920842": defineAsyncComponent(() => import(/* webpackChunkName: "v-05920842" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/office/web.html.vue")),
   // path: /office/word.html
   "v-5fc6f975": defineAsyncComponent(() => import(/* webpackChunkName: "v-5fc6f975" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/office/word.html.vue")),
+  // path: /contact/contact.html
+  "v-7d79a27e": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d79a27e" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contact/contact.html.vue")),
+  // path: /contributor/about.html
+  "v-4245b959": defineAsyncComponent(() => import(/* webpackChunkName: "v-4245b959" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contributor/about.html.vue")),
+  // path: /contributor/contributor.html
+  "v-5943370b": defineAsyncComponent(() => import(/* webpackChunkName: "v-5943370b" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/contributor/contributor.html.vue")),
   // path: /ref/git.html
   "v-239da7bc": defineAsyncComponent(() => import(/* webpackChunkName: "v-239da7bc" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/ref/git.html.vue")),
   // path: /ref/log.html
@@ -69,6 +69,8 @@ export const pagesComponents = {
   "v-718d4887": defineAsyncComponent(() => import(/* webpackChunkName: "v-718d4887" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/video/poocr.html.vue")),
   // path: /video/video.html
   "v-c0a7576a": defineAsyncComponent(() => import(/* webpackChunkName: "v-c0a7576a" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/video/video.html.vue")),
+  // path: /po/poword/doc2docx.html
+  "v-2f58aad0": defineAsyncComponent(() => import(/* webpackChunkName: "v-2f58aad0" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/po/poword/doc2docx.html.vue")),
   // path: /course/docs/50-01-python.html
   "v-adfe5b2c": defineAsyncComponent(() => import(/* webpackChunkName: "v-adfe5b2c" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/course/docs/50-01-python.html.vue")),
   // path: /course/docs/50-02-pycharm.html
@@ -83,8 +85,6 @@ export const pagesComponents = {
   "v-3a18ef8f": defineAsyncComponent(() => import(/* webpackChunkName: "v-3a18ef8f" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/course/docs/50-06-merge4docx.html.vue")),
   // path: /course/docs/50-07-fake2excel.html
   "v-1def3232": defineAsyncComponent(() => import(/* webpackChunkName: "v-1def3232" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/course/docs/50-07-fake2excel.html.vue")),
-  // path: /po/poword/doc2docx.html
-  "v-2f58aad0": defineAsyncComponent(() => import(/* webpackChunkName: "v-2f58aad0" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/po/poword/doc2docx.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"D:/workplace/code/gitee/python-office.com/.vuepress/.temp/pages/404.html.vue")),
 }
