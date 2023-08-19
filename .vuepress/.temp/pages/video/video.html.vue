@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td><a href="https://www.python-office.com/course/50-python-office.html" target="_blank" rel="noopener noreferrer">50讲 · Python自动化办公（更新中）<ExternalLinkIcon/></a></td>
-<td><a href="https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&amp;__biz=MzI2Nzg5MjgyNg==&amp;scene=1&amp;album_id=3056320585091366915&amp;count=3#wechat_redirect" target="_blank" rel="noopener noreferrer">打开<ExternalLinkIcon/></a></td>
+<td><a href="https://www.python-office.com/course/50-python-office.html" target="_blank" rel="noopener noreferrer">打开<ExternalLinkIcon/></a></td>
 <td><a href="https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw" target="_blank" rel="noopener noreferrer">加入<ExternalLinkIcon/></a></td>
 </tr>
 <tr>
@@ -60,7 +60,11 @@
 <h3 id="生活vlog" tabindex="-1"><a class="header-anchor" href="#生活vlog" aria-hidden="true">#</a> 生活VLOG</h3>
 <p>以下是一些生活VLOG和读者经常问我的一些问题。
 💻我录制成了视频的形式，大家看看吧~</p>
-<iframe src="//player.bilibili.com/player.html?aid=573496439&bvid=BV1mz4y177j1&cid=1198031392&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
+<p align="center" id='vlog横-banner'>
+    <a target="_blank" href='http://python4office.cn/vlog-all/vlog-all/'>
+    <img src="https://vlog-1300615378.cos.ap-chongqing.myqcloud.com/ads%2Fheng.jpg" width="100%"/>
+    </a>   
+</p>
 <h3 id="转行咨询" tabindex="-1"><a class="header-anchor" href="#转行咨询" aria-hidden="true">#</a> 转行咨询</h3>
 <p>如果需要咨询转行程序员的问题，可以直接加我的微信：<a href="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/qr-code.jpg" target="_blank" rel="noopener noreferrer">CoderWanFeng<ExternalLinkIcon/></a></p>
 <ul>

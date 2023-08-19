@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-049ca5a7\",\"path\":\"/office/datav.html\",\"title\":\"数据可视化\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"createdTime\":null,\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"office/datav.md\"}")
+export const data = JSON.parse("{\"key\":\"v-049ca5a7\",\"path\":\"/office/datav.html\",\"title\":\"数据可视化\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"office/datav.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

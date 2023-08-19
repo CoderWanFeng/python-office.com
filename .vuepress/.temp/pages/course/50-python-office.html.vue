@@ -33,66 +33,34 @@
 <blockquote>
 <p>如果是小白，请务必按顺序听完学会；如果是已经安装并且会使用的大佬，请直接跳转到下一部分的课程。</p>
 </blockquote>
-<table>
-<thead>
-<tr>
-<th>序号</th>
-<th>视频</th>
-<th>文档</th>
-<th>配套资源</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>第1讲</td>
-<td><a href="https://www.bilibili.com/video/BV118411R7bB" target="_blank" rel="noopener noreferrer">Python3.11的下载、安装和卸载，有手就能学会<ExternalLinkIcon/></a></td>
-<td><a href="https://www.python-office.com/course/docs/50-01-python.html" target="_blank" rel="noopener noreferrer">打开<ExternalLinkIcon/></a></td>
-<td><a href="https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA" target="_blank" rel="noopener noreferrer">Python安装包<ExternalLinkIcon/></a></td>
-</tr>
-<tr>
-<td>第2讲</td>
-<td><a href="https://www.bilibili.com/video/BV1X84y1f76f/" target="_blank" rel="noopener noreferrer">正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~<ExternalLinkIcon/></a></td>
-<td><a href="https://www.python-office.com/course/docs/50-02-pycharm.html" target="_blank" rel="noopener noreferrer">打开<ExternalLinkIcon/></a></td>
-<td><a href="https://mp.weixin.qq.com/s/2b2CMhmYrPzYnlhoncOMXg" target="_blank" rel="noopener noreferrer">PyCharm下载地址<ExternalLinkIcon/></a></td>
-</tr>
-</tbody>
-</table>
+<ul>
+<li>第1讲：<a href="https://www.python-office.com/course/docs/50-01-python.html" target="_blank" rel="noopener noreferrer">Python3.11的下载、安装和卸载，有手就能学会<ExternalLinkIcon/></a></li>
+<li>第2讲：<a href="https://www.python-office.com/course/docs/50-02-pycharm.html" target="_blank" rel="noopener noreferrer">正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~<ExternalLinkIcon/></a></li>
+</ul>
 <h2 id="_1、word-自动化办公-poword" tabindex="-1"><a class="header-anchor" href="#_1、word-自动化办公-poword" aria-hidden="true">#</a> 1、Word + 自动化办公 = poword</h2>
 <table>
 <thead>
 <tr>
 <th>序号</th>
-<th>方法名</th>
-<th>功能</th>
 <th>视频</th>
-<th>文档</th>
-<th>演示代码</th>
+<th>文档&amp;代码</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>1</td>
-<td>docx2pdf</td>
-<td>word 转 pdf</td>
-<td><a href="https://www.bilibili.com/video/BV1pT4y1k7FH" target="_blank" rel="noopener noreferrer">播放<ExternalLinkIcon/></a></td>
+<td>第4讲</td>
+<td><a href="https://www.bilibili.com/video/BV1pT4y1k7FH" target="_blank" rel="noopener noreferrer">word 转 pdf <ExternalLinkIcon/></a></td>
 <td><a href="https://mp.weixin.qq.com/s/Kfmu8vCSr6otGfrf7mj0bA" target="_blank" rel="noopener noreferrer">查看<ExternalLinkIcon/></a></td>
-<td><a href="https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/word%E8%BD%ACPDF.py" target="_blank" rel="noopener noreferrer">打开<ExternalLinkIcon/></a></td>
 </tr>
 <tr>
-<td>2</td>
-<td>docx2doc/doc2docx</td>
-<td>doc和docx，互相转换</td>
-<td><a href="https://www.bilibili.com/video/BV1so4y1H7rj" target="_blank" rel="noopener noreferrer">播放<ExternalLinkIcon/></a></td>
+<td>第5讲</td>
+<td><a href="https://www.bilibili.com/video/BV1so4y1H7rj" target="_blank" rel="noopener noreferrer">doc和docx，互相转换<ExternalLinkIcon/></a></td>
 <td><a href="https://mp.weixin.qq.com/s/nyg_LlkHPwx1AY7wCg5KTw" target="_blank" rel="noopener noreferrer">查看<ExternalLinkIcon/></a></td>
-<td><a href="https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/doc%E5%92%8Cdocx%E4%BA%92%E8%BD%AC.py" target="_blank" rel="noopener noreferrer">打开<ExternalLinkIcon/></a></td>
 </tr>
 <tr>
-<td>3</td>
-<td>merge4docx</td>
-<td>合并Word文档</td>
-<td><a href="https://www.bilibili.com/video/BV1Vo4y1q7i3" target="_blank" rel="noopener noreferrer">播放<ExternalLinkIcon/></a></td>
+<td>第6讲</td>
+<td><a href="https://www.bilibili.com/video/BV1Vo4y1q7i3" target="_blank" rel="noopener noreferrer">合并Word文档 <ExternalLinkIcon/></a></td>
 <td><a href="https://mp.weixin.qq.com/s/PjQJ3s4Arr872NDfcr-7YA" target="_blank" rel="noopener noreferrer">查看<ExternalLinkIcon/></a></td>
-<td><a href="https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/%E5%90%88%E5%B9%B6word.py" target="_blank" rel="noopener noreferrer">打开<ExternalLinkIcon/></a></td>
 </tr>
 </tbody>
 </table>

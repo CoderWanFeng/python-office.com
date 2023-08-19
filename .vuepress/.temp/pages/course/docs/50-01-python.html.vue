@@ -21,13 +21,11 @@
 </ul>
 <p>下载好了以后，我们开始一步一步的安装，编程是个细活，稍有差错，程序就会运行失败，所以：<strong>请小白务必每一步都和视频中的操作一样。</strong></p>
 <h2 id="安装视频" tabindex="-1"><a class="header-anchor" href="#安装视频" aria-hidden="true">#</a> 安装视频</h2>
-<ul>
-<li>打开视频：<a href="https://www.bilibili.com/video/BV118411R7bB" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV118411R7bB/<ExternalLinkIcon/></a></li>
-</ul>
+<iframe src="//player.bilibili.com/player.html?bvid=BV118411R7bB" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 <h2 id="软件下载好了" tabindex="-1"><a class="header-anchor" href="#软件下载好了" aria-hidden="true">#</a> 软件下载好了</h2>
 <p>本套合集的读者，可以直接打开下载地址👇</p>
 <ul>
-<li>百度云链接，永久有效：<a href="http://python4office.cn/python-download/" target="_blank" rel="noopener noreferrer">http://python4office.cn/python-download/<ExternalLinkIcon/></a></li>
+<li>百度云，永久有效地址，见文末二维码：<a href="https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA" target="_blank" rel="noopener noreferrer">打开<ExternalLinkIcon/></a></li>
 </ul>
 </div></template>
 

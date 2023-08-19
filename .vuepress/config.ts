@@ -6,7 +6,7 @@ import recoTheme from "vuepress-theme-reco";
 
 export default defineUserConfig({
   title: "python-office",
-  description: "为自动化而生",
+  description: "为自动化办公而生",
   port: 18001,
   head: [
     ["link", { rel: "icon", href: "https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg" }],
@@ -41,12 +41,12 @@ export default defineUserConfig({
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg",
-    author: "晚枫",
+    author: "程序员晚枫",
     authorAvatar: "/head.png",
     docsRepo: "https://gitee.com/CoderWanFeng/python-office.com",
     docsBranch: "main",
-    docsDir: "example",
-    lastUpdatedText: "",
+    docsDir: "docs-pages/vuepress",
+    lastUpdatedText: "本页更新时间：",
     // series 为原 sidebar
     bulletin: {
       body: [
@@ -82,16 +82,16 @@ export default defineUserConfig({
         {
           type: 'buttongroup',
           children: [
-            { text: '打赏', link: 'https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/wechat-pay.jpg' }
+            { text: '进群', link: 'https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw' }
           ]
         }
       ],
     },
     series: {
-      "/docs": [
+      "/": [
         {
           text: "入门指南",
-          children: ["./guide/introduction.html", "./guide/allFunc.html", "/guide/office.html", "/guide/requirement.html"],
+          children: ["/guide/introduction.html", "/guide/allFunc.html", "/guide/office.html", "/guide/requirement.html"],
         },
         {
           text: "原创课程",
@@ -129,9 +129,9 @@ export default defineUserConfig({
         text: "学习课程",
         icon: "Archive",
         children: [
-          { text: "Python基础", link: "http://gk.link/a/128fC" },
-          { text: "自动化办公", link: "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect" },
-          { text: "微信机器人", link: "https://mp.weixin.qq.com/s/9aspEHdCiAdXK17AvHlu9Q" },
+          { text: "121讲Python基础", link: "http://gk.link/a/128fC" },
+          { text: "50讲自动化办公", link: "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect" },
+          { text: "8讲微信机器人", link: "https://mp.weixin.qq.com/s/9aspEHdCiAdXK17AvHlu9Q" },
         ],
       },
       {

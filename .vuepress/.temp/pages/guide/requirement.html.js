@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-588d113c\",\"path\":\"/guide/requirement.html\",\"title\":\"需求反馈\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"问题反馈 + 需求收集\",\"slug\":\"问题反馈-需求收集\",\"link\":\"#问题反馈-需求收集\",\"children\":[]}],\"git\":{\"createdTime\":null,\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"guide/requirement.md\"}")
+export const data = JSON.parse("{\"key\":\"v-588d113c\",\"path\":\"/guide/requirement.html\",\"title\":\"需求反馈\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"问题反馈 + 需求收集\",\"slug\":\"问题反馈-需求收集\",\"link\":\"#问题反馈-需求收集\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"guide/requirement.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

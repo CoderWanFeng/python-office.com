@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-c35c2990\",\"path\":\"/office/tools.html\",\"title\":\"工具\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"createdTime\":null,\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"office/tools.md\"}")
+export const data = JSON.parse("{\"key\":\"v-c35c2990\",\"path\":\"/office/tools.html\",\"title\":\"工具\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"office/tools.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

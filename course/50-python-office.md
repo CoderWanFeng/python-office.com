@@ -45,18 +45,16 @@
 
 > 如果是小白，请务必按顺序听完学会；如果是已经安装并且会使用的大佬，请直接跳转到下一部分的课程。
 
-| 序号  | 视频                                                                                           | 文档                                                                | 配套资源                                                  |
-|-----|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------|
-| 第1讲 | [Python3.11的下载、安装和卸载，有手就能学会](https://www.bilibili.com/video/BV118411R7bB)                    | [打开](https://www.python-office.com/course/docs/50-01-python.html) | [Python安装包](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA) |
-| 第2讲 | [正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~](https://www.bilibili.com/video/BV1X84y1f76f/) | [打开](https://www.python-office.com/course/docs/50-02-pycharm.html) | [PyCharm下载地址](https://mp.weixin.qq.com/s/2b2CMhmYrPzYnlhoncOMXg)     |
+- 第1讲：[Python3.11的下载、安装和卸载，有手就能学会](https://www.python-office.com/course/docs/50-01-python.html)
+- 第2讲：[正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~](https://www.python-office.com/course/docs/50-02-pycharm.html)
 
 ## 1、Word + 自动化办公 = poword
 
-| 序号 | 方法名               | 功能            | 视频                                                | 文档                                                      | 演示代码                                                                                                              |
-|----|-------------------|---------------|---------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| 1  | docx2pdf          | word 转 pdf    | [播放](https://www.bilibili.com/video/BV1pT4y1k7FH) | [查看](https://mp.weixin.qq.com/s/Kfmu8vCSr6otGfrf7mj0bA) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/word%E8%BD%ACPDF.py)                   |
-| 2  | docx2doc/doc2docx | doc和docx，互相转换 | [播放](https://www.bilibili.com/video/BV1so4y1H7rj) | [查看](https://mp.weixin.qq.com/s/nyg_LlkHPwx1AY7wCg5KTw) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/doc%E5%92%8Cdocx%E4%BA%92%E8%BD%AC.py) |
-| 3  | merge4docx        | 合并Word文档      | [播放](https://www.bilibili.com/video/BV1Vo4y1q7i3) | [查看](https://mp.weixin.qq.com/s/PjQJ3s4Arr872NDfcr-7YA) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poword/%E5%90%88%E5%B9%B6word.py)             |
+| 序号  | 视频                                                           | 文档&代码                                                   |
+|-----|--------------------------------------------------------------|---------------------------------------------------------|
+| 第4讲 | [word 转 pdf ](https://www.bilibili.com/video/BV1pT4y1k7FH)   | [查看](https://mp.weixin.qq.com/s/Kfmu8vCSr6otGfrf7mj0bA) |
+| 第5讲 | [doc和docx，互相转换](https://www.bilibili.com/video/BV1so4y1H7rj) | [查看](https://mp.weixin.qq.com/s/nyg_LlkHPwx1AY7wCg5KTw) |
+| 第6讲 | [合并Word文档 ](https://www.bilibili.com/video/BV1Vo4y1q7i3)     | [查看](https://mp.weixin.qq.com/s/PjQJ3s4Arr872NDfcr-7YA) |
 
 ## 2、Excel + 自动化办公 = poexcel
 
@@ -348,3 +346,6 @@
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F%E8%81%94%E7%9B%9F%E5%B9%BF%E5%91%8A%2F%E5%A4%96%E5%8D%96-1040-100.jpg" width="100%"/>
     </a>   
 </p>
+
+
+

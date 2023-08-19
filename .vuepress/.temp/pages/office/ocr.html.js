@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-6faea855\",\"path\":\"/office/ocr.html\",\"title\":\"OCR\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"createdTime\":null,\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"office/ocr.md\"}")
+export const data = JSON.parse("{\"key\":\"v-6faea855\",\"path\":\"/office/ocr.html\",\"title\":\"OCR\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"office/ocr.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
