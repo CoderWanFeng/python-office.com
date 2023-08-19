@@ -8,6 +8,9 @@ export default defineUserConfig({
   title: "python-office",
   description: "为自动化办公而生",
   port: 18001,
+   base: '/',// 设置站点根路径
+//     dest: 'D:\workplace\code\gitee\python-office.com\dist',  // 设置输出目录
+//     dest: '/opt/workplace/pro/python-office.com/dist',  // 设置输出目录
   head: [
     ["link", { rel: "icon", href: "https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg" }],
     ['script', {}, `
