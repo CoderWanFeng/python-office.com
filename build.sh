@@ -1,6 +1,5 @@
 cd docs-pages/
 npm run build
 # /opt/software/node/node-v16.13.0-linux-x64/bin/yarn  build
-sudo mkdir /opt/website/python-office.com/
-rm -rf /opt/website/python-office.com/*
-cp /opt/workplace/pro/python-office.com/dist/* /opt/website/python-office.com/ -R 
+rm -rf /home/ubuntu/workplace/pro/website/python-office.com/*
+cp /home/ubuntu/workplace/pro/python-office.com/dist/* /home/ubuntu/workplace/pro/website/python-office.com/ -R
