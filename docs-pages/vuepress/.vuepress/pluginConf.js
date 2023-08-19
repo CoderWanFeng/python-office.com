@@ -15,19 +15,14 @@ module.exports = {
     },
 
     'dynamic-title': {
-        showIcon: 'https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae',
+        showIcon: 'https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg',
         showText: '客官欢迎回来~',
-        hideIcon: 'https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae',
+        hideIcon: 'https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg',
         hideText: '客官不要走嘛~',
         recoverTime: 2000,
-       },
-    // 'vuepress-plugin-nuggets-style-copy': {
-    //     copyText: "复制代码",
-    //     tip: {
-    //         content: "复制成功"
-    //     }
-    // }
-    // }, '@vuepress-reco/vuepress-plugin-bulletin-popover': {
+    },
+    'vuepress-plugin-code-copy': true,
+    // '@vuepress-reco/vuepress-plugin-bulletin-popover': {
     //     width: '300px', // 默认 260px
     //     title: '消息提示',
     //     body: [
