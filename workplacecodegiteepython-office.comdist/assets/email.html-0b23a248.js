@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,d as o}from"./app-70aa94dd.js";const r={},s=e("h1",{id:"email",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#email","aria-hidden":"true"},"#"),o(" Email")],-1),i=[s];function n(_,l){return t(),c("div",null,i)}const m=a(r,[["render",n],["__file","email.html.vue"]]);export{m as default};

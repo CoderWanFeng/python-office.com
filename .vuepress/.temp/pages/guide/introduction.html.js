@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-1c7b2593\",\"path\":\"/guide/introduction.html\",\"title\":\"项目说明\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"📚简介\",\"slug\":\"📚简介\",\"link\":\"#📚简介\",\"children\":[]},{\"level\":2,\"title\":\"🍺特点\",\"slug\":\"🍺特点\",\"link\":\"#🍺特点\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"guide/introduction.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-1c7b2593\",\"path\":\"/guide/introduction.html\",\"title\":\"项目说明\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"📚简介\",\"slug\":\"📚简介\",\"link\":\"#📚简介\",\"children\":[]},{\"level\":2,\"title\":\"🍺特点\",\"slug\":\"🍺特点\",\"link\":\"#🍺特点\",\"children\":[]}],\"git\":{\"createdTime\":1692375492000,\"updatedTime\":1692452171000,\"contributors\":[{\"name\":\"CoderWanFeng\",\"email\":\"875143930@qq.com\",\"commits\":2}]},\"filePathRelative\":\"guide/introduction.md\"}")

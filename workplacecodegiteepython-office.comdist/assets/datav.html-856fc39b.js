@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,d as o}from"./app-70aa94dd.js";const r={},s=e("h1",{id:"数据可视化",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#数据可视化","aria-hidden":"true"},"#"),o(" 数据可视化")],-1),d=[s];function n(_,i){return t(),c("div",null,d)}const l=a(r,[["render",n],["__file","datav.html.vue"]]);export{l as default};

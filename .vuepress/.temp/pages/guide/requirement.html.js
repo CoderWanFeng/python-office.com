@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-588d113c\",\"path\":\"/guide/requirement.html\",\"title\":\"需求反馈\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"问题反馈 + 需求收集\",\"slug\":\"问题反馈-需求收集\",\"link\":\"#问题反馈-需求收集\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"guide/requirement.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-588d113c\",\"path\":\"/guide/requirement.html\",\"title\":\"需求反馈\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"问题反馈 + 需求收集\",\"slug\":\"问题反馈-需求收集\",\"link\":\"#问题反馈-需求收集\",\"children\":[]}],\"git\":{\"createdTime\":1692375492000,\"updatedTime\":1692375492000,\"contributors\":[{\"name\":\"CoderWanFeng\",\"email\":\"875143930@qq.com\",\"commits\":1}]},\"filePathRelative\":\"guide/requirement.md\"}")

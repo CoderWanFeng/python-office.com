@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-4245b959\",\"path\":\"/contributor/about.html\",\"title\":\"社区贡献\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"contributor/about.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-4245b959\",\"path\":\"/contributor/about.html\",\"title\":\"社区贡献\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"createdTime\":1692375492000,\"updatedTime\":1692452171000,\"contributors\":[{\"name\":\"CoderWanFeng\",\"email\":\"875143930@qq.com\",\"commits\":2}]},\"filePathRelative\":\"contributor/about.md\"}")
