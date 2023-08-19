@@ -3,7 +3,7 @@ module.exports = {
     description: 'python-office自动化办公',
     port: '18001',
     base: '/',// 设置站点根路径
-    dest: '/opt/workplace/pro/python-office.com/dist',  // 设置输出目录
+    dest: '/home/ubuntu/workplace/pro/python-office.com/dist',  // 设置输出目录
 
     head: [
         ["link", { rel: "icon", href: "https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/icon2.jpg" }],
