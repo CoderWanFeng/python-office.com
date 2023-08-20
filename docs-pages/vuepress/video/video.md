@@ -24,7 +24,7 @@
   </a>
 </p>
 
-你好，这里是程序员晚枫，人到中年，才转行程序员。
+你好，这里是程序员晚枫，小红书/B站/知乎/抖音都叫这个名。
 
 业余时间做编程博主，同时运营[python-office](https://github.com/CoderWanFeng/python-office)这个python的功能库，
 
