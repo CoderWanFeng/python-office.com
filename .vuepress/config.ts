@@ -85,7 +85,7 @@ export default defineUserConfig({
         {
           type: 'buttongroup',
           children: [
-            { text: 'vlog', link: 'https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw' }
+            { text: 'vlog', link: 'https://space.bilibili.com/1989702333' }
           ]
         }
       ],
