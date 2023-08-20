@@ -27,7 +27,7 @@
 ## 安装视频
 
 
-<iframe src="//player.bilibili.com/player.html?aid=573496439&bvid=BV118411R7bB&cid=1198031392&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV118411R7bB" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
 ## 软件下载好了
