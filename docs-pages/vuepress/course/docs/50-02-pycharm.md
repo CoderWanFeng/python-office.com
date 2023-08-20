@@ -6,7 +6,7 @@
 
 ![](../xmind/imgs/50-02-PyCharm.png)
 
-
+> [PyCharm下载地址，点我直达](https://www.jetbrains.com/pycharm/)
 
 装完了Python，我们来转**编辑Python**的软件：Pycharm。
 
@@ -39,14 +39,11 @@
   - 怎么运行代码？
 - 其它注意事项
 
-## 付费内容
-
-
-本套合集的读者，可以直接打开PyCharm的正版下载地址。👇
+## 学习答疑
 
 下载和安装过程中有任何问题，都可以联系我的微信：👉[CoderWanFeng](https://mp.weixin.qq.com/s/yFcocJbfS9Hs375NhE8Gbw)
 
-- [打开](https://mp.weixin.qq.com/s/2b2CMhmYrPzYnlhoncOMXg)
+
 
 
 
