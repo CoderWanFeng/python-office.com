@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-7d79a27e","path":"/contact/contact.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692375492000,"updatedTime":1692375492000,"contributors":[{"name":"CoderWanFeng","email":"875143930@qq.com","commits":1}]},"filePathRelative":"contact/contact.md"}');
+export {
+  data
+};

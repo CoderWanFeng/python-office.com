@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-66f34bd2","path":"/office/email.html","title":"Email","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692375492000,"updatedTime":1692375492000,"contributors":[{"name":"CoderWanFeng","email":"875143930@qq.com","commits":1}]},"filePathRelative":"office/email.md"}');
+export {
+  data
+};
