@@ -11,6 +11,8 @@
 
 课程的开始，我们学习如何安装Python运行环境。
 
+
+
 ## 本讲内容
 
 对于小白来说，Python运行需要2个软件：代码运行的环境Python（水）和编辑代码的PyCharm（水桶）。
@@ -19,7 +21,8 @@
 
 - Python：[https://www.python.org/](https://www.python.org/)（因为众所周知的原因，国内可能打不开，解决方法👇）
 
->因为Python是国外大佬开发的，网站也在国外。因为众所周知的原因，国内可能打不开，下载不了。**我都已经下载好了，放在了文末的百度云网盘里**，付费了本套合集的同学，可以自己去领取下载。也可以直接加我微信，我微信发给你👉[CoderWanFeng](https://mp.weixin.qq.com/s/yFcocJbfS9Hs375NhE8Gbw)
+> 我都已经下载好了，放在了百度云网盘里，可以自己去领取下载:[点我打开百度云，永久有效地址](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA)。
+> 也可以直接加我微信，我微信发给你👉[CoderWanFeng](https://mp.weixin.qq.com/s/yFcocJbfS9Hs375NhE8Gbw)
 
 下载和安装时，请大家注意2点：
 
@@ -36,11 +39,14 @@
 <iframe src="//player.bilibili.com/player.html?bvid=BV118411R7bB" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
-## 软件下载好了
 
-本套合集的读者，可以直接打开下载地址👇
 
-- 百度云，永久有效地址，见文末二维码：[打开](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA)
+
+## 学习答疑
+
+学习本套课程过程中有任何问题，都可以联系我的微信：👉[CoderWanFeng](https://mp.weixin.qq.com/s/yFcocJbfS9Hs375NhE8Gbw)
+
+
 
 
 
