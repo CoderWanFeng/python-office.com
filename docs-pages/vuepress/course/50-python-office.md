@@ -47,6 +47,7 @@
 
 - 第1讲：[Python3.11的下载、安装和卸载，有手就能学会](https://www.python-office.com/course/docs/50-01-python.html)
 - 第2讲：[正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~](https://www.python-office.com/course/docs/50-02-pycharm.html)
+- 第3讲：[不要重复造轮子原来是这个意思！pip的下载、安装和使用，编程准备工作最后一站](https://www.python-office.com/course/docs/50-03-pip.html)
 
 ## 1、Word + 自动化办公 = poword
 
