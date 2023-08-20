@@ -1,7 +1,13 @@
 # 【第1讲】Python3.11的下载、安装和卸载，有手就能学会
 
+------
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
+------
+
 
 ![](../xmind/imgs/50-01-python.png)
+
+
 
 课程的开始，我们学习如何安装Python运行环境。
 
