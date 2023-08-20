@@ -41,7 +41,7 @@
 
 ## 学习答疑
 
-下载和安装过程中有任何问题，都可以联系我的微信：👉[CoderWanFeng](https://mp.weixin.qq.com/s/yFcocJbfS9Hs375NhE8Gbw)
+学习本套课程过程中有任何问题，都可以联系我的微信：👉[CoderWanFeng](https://mp.weixin.qq.com/s/yFcocJbfS9Hs375NhE8Gbw)
 
 
 
