@@ -8,14 +8,26 @@
 
 ## 一、问题合集
 
-> 遇到问题，可以加入我们的交流群：[点我直达](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/python-office.jpg)
+> 遇到问题不要慌，可以加入我的读者交流群：[点我直达](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw)
 
-> 如需1对1Python技术/学习答疑，请点击添加我的个人微信：[CoderWanFeng](http://python4office.cn/wechat-qrcode/)
+> 如需1对1Python技术/学习答疑，请点击添加我的个人微信：[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
 
 
 正确的使用方式只有一个，然而错误的方式层出不穷。
 
 别慌，程序出BUG很正常，下面是常见问题合集，点击直达，持续更新中：
+
+
+### 0、有没有关于python-office自动化办公的课程？
+
+有的，我正在更新一套课程《50讲 · Python自动化办公》，所有视频都是免费学习的。
+
+- 视频链接：[打开](https://www.bilibili.com/video/BV118411R7bB)
+
+另外说明一下，视频教程配套的：**软件、代码、文档、答疑群**，是收费的，10元钱（100微信豆）👉[点我获取资料](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915&from_itemidx=1&from_msgid=2247501346&scene=173&count=3&nolastread=1#wechat_redirect)
+
+我不想定价几百几千的割韭菜，但是也不想纯纯用爱发电。如果觉得贵了，只看视频也是可以的学习的。
+> 这里重点推荐一下答疑服务：所有问题，在答疑群我都会回复，**你实在搞不定的，我下班在家的时候，可以给你远程调试，也不另外收费。**希望这套课真正帮你
 
 ### 1、Python版本问题：
 👉见问题3：[入门10大问题](https://mp.weixin.qq.com/s/Z0CGigtAoomAcvmSfnv-eQ)
