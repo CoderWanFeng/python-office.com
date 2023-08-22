@@ -57,4 +57,4 @@ office.word.docx2pdf(path=r'./test_files/程序员晚枫（作品合集）.docx'
 
 付费合集后，下方自动出现百度云链接，永久有效。
 
-学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/GPgLsMvfzG9j_Eq887fm-w)
+学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
