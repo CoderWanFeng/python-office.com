@@ -51,7 +51,8 @@
 
 ## 1、Word + 自动化办公 = poword
 
-- 第4讲：[【第4讲】PDF转Word，1行代码就够了，Python自动化办公原来这么简单](https://www.python-office.com/course/docs/50-04-pdf2docx.html)
+- 第4讲：[PDF转Word，1行代码就够了，Python自动化办公原来这么简单](https://www.python-office.com/course/docs/50-04-pdf2docx.html)
+- 第5讲：[100个Word转PDF，Python批量办公自动化，告别无意义加班](https://www.python-office.com/course/docs/50-05-docx2pdf.html)
 
 ------
 
