@@ -39,9 +39,9 @@
 
 > 从安装软件开始教给你，而且课程完全不涉及程序员的知识，完全不用担心学不会。有问题可以直接在学习群里问我，你实在搞不定的，我可以远程给你解决。只需要10元。
 
-| 课程链接                                                                                        | 配套文档&代码&软件                                                 | 学习群                                                    |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
-| [50讲 · Python自动化办公（更新中）](https://www.python-office.com/course/50-python-office.html) | [打开](https://www.python-office.com/course/50-python-office.html) | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+| 课程链接                                                                                        | 配套文档&代码&软件                                                 |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [50讲 · Python自动化办公（更新中）](https://www.bilibili.com/video/BV118411R7bB/) | [打开](https://www.python-office.com/course/50-python-office.html) |
 
 
 
@@ -49,14 +49,12 @@
 
 如果你有一定的编程基础，或者你想用Python开发一些复杂的应用，可以学习下面这几套课程。👇
 
-| 视频                                                                                  | 学习群                                                    |
-| ------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [121讲 · Python基础（已完结）](http://gk.link/a/11Put)                                | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
-| [8讲 · Python微信机器人（已完结）](https://mp.weixin.qq.com/s/9aspEHdCiAdXK17AvHlu9Q) | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
-| [Python实战 · 从0到1搭建直播视频平台](http://gk.link/a/122ts)                         | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
-| [Python核心技术与实战](http://gk.link/a/10E3y)                                        | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
-| [反爬虫兵法演绎20讲](http://gk.link/a/11erO)                                          | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
-| [Django快速开发实战](http://gk.link/a/10Wl1)                                          | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+- [121讲 · Python基础（已完结）](http://gk.link/a/11Put)                                
+- [8讲 · Python微信机器人（已完结）](https://mp.weixin.qq.com/s/9aspEHdCiAdXK17AvHlu9Q) 
+- [Python实战 · 从0到1搭建直播视频平台](http://gk.link/a/122ts)                         
+- [Python核心技术与实战](http://gk.link/a/10E3y)                                        
+- [反爬虫兵法演绎20讲](http://gk.link/a/11erO)                                          
+- [Django快速开发实战](http://gk.link/a/10Wl1)                                          
 
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
@@ -115,11 +113,6 @@
     </a>   
 </p>
 
-<p align="center" id='大礼包-banner'>
-    <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
-    <img src="https://banner-1300615378.cos.ap-guangzhou.myqcloud.com/%E6%A8%AA%E6%9D%A1/Python%E5%A4%A7%E7%A4%BC%E5%8C%85.jpg" width="100%"/>
-    </a>   
-</p>
 
 
 <p align="center" id='进群-banner'>
