@@ -28,13 +28,35 @@
 
 业余时间做编程博主，同时运营[python-office](https://github.com/CoderWanFeng/python-office)这个python的功能库，
 
-下面是我整理的Python学习教程：
+下面是我整理的Python学习教程:
 
-| 视频                                                                                            | 配套文档&代码&软件                                                 | 学习群                                                    |
+
+## 0基础入门
+
+如果你是完全0基础的Python小白，想学习/了解一下Python，尤其是自动化办公方面的技术。
+
+建议你学习下面这套我专门给非程序员小白录制的入门课程
+
+> 从安装软件开始教给你，而且课程完全不涉及程序员的知识，完全不用担心学不会。有问题可以直接在学习群里问我，你实在搞不定的，我可以远程给你解决。只需要10元。
+
+| 课程链接                                                                                        | 配套文档&代码&软件                                                 | 学习群                                                    |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
-| [121讲 · Python基础（已完结）](http://gk.link/a/11Put)                                          | [打开](http://gk.link/a/11Put)                                     | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
 | [50讲 · Python自动化办公（更新中）](https://www.python-office.com/course/50-python-office.html) | [打开](https://www.python-office.com/course/50-python-office.html) | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
-| [8讲 · Python微信机器人（已完结）](https://www.bilibili.com/video/BV1Xa411u7yU)                 | [打开](https://gitee.com/CoderWanFeng/PyOfficeRobot)               | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+
+
+
+## 专业学习方向
+
+如果你有一定的编程基础，或者你想用Python开发一些复杂的应用，可以学习下面这几套课程。👇
+
+| 视频                                                                                  | 学习群                                                    |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [121讲 · Python基础（已完结）](http://gk.link/a/11Put)                                | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+| [8讲 · Python微信机器人（已完结）](https://mp.weixin.qq.com/s/9aspEHdCiAdXK17AvHlu9Q) | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+| [Python实战 · 从0到1搭建直播视频平台](http://gk.link/a/122ts)                         | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+| [Python核心技术与实战](http://gk.link/a/10E3y)                                        | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+| [反爬虫兵法演绎20讲](http://gk.link/a/11erO)                                          | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
+| [Django快速开发实战](http://gk.link/a/10Wl1)                                          | [加入](https://mp.weixin.qq.com/s/yMl9-06DSmjLTobyJNrJJw) |
 
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
