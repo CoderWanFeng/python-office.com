@@ -51,6 +51,12 @@
 
 ## 1、Word + 自动化办公 = poword
 
+- 第4讲：[【第4讲】PDF转Word，1行代码就够了，Python自动化办公原来这么简单](https://www.python-office.com/course/docs/50-04-pdf2docx.html)
+
+------
+
+``以下内容是草稿：还没有录制成系统课程的``
+
 | 序号  | 视频                                                           | 文档&代码                                                   |
 |-----|--------------------------------------------------------------|---------------------------------------------------------|
 | 第4讲 | [word 转 pdf ](https://www.bilibili.com/video/BV1pT4y1k7FH)   | [查看](https://mp.weixin.qq.com/s/Kfmu8vCSr6otGfrf7mj0bA) |

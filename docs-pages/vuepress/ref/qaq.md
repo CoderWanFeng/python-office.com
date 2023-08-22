@@ -29,6 +29,48 @@
 我不想定价几百几千的割韭菜，但是也不想纯纯用爱发电。如果觉得贵了，只看视频也是可以的学习的。
 > 这里重点推荐一下答疑服务：所有问题，在答疑群我都会回复，**你实在搞不定的，我下班在家的时候，可以给你远程调试，也不另外收费。**希望这套课真正帮你
 
+
+### 1、win7安装不了python和pycharm怎么办？
+
+换电脑或者换
+
+![](./imgs/qaq/win7.png)
+
+
+### 2、第1讲中，pip list报错
+
+报错信息如下，👇。
+![](./imgs/qaq/pip_error.png)
+
+- 问题原因：pip没有安装（第1讲是不是没认真听）
+
+- 解决方法：
+  - 重新听第1讲：[Python3.11的下载、安装和卸载，有手就能学会](https://www.python-office.com/course/docs/50-01-python.html)
+  - 卸载Python，然后跟着视频重新安装。每一步操作，都务必一模一样。
+
+### 3、第4讲中，运行程序报错：
+
+报错信息如下，👇。
+![](./imgs/qaq/no_moudle.png)
+
+2个原因：
+
+1. 没下载python-office
+2. 👉没有配置正确的 Python Interpreter
+
+> 解决方法：跟着第3讲，从头到尾做一遍👉[打开下载和配置教程](https://www.bilibili.com/video/BV1m14y1y76g)
+
+一定要把视频看完！！！
+
+
+### 更多问题
+
+更多课程相关问题，还在整理中。
+
+------
+
+> 下面是之前的版本，供参考
+
 ### 1、Python版本问题：
 👉见问题3：[入门10大问题](https://mp.weixin.qq.com/s/Z0CGigtAoomAcvmSfnv-eQ)
 - python-office已经全面支持python3.11：[查看详情](https://mp.weixin.qq.com/s/6QT4rbAWXwhxFIQ6utYNuw)
@@ -39,8 +81,7 @@
 
 ### 2、运行代码报错：ModuleNotFoundError: No module named 'office'
 
-👉没有配置正确的Python Interpreter：[查看配置教程](https://www.bilibili.com/video/BV1Q44y1u7rV)
-一定要把视频看完！！！
+
 
 ### 3、运行代码报错：AttributeError: module 'office' has no attribute 'xxx'
 

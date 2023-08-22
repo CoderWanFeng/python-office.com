@@ -14,7 +14,7 @@
 
 ## 1、先看视频
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1X84y1f76f" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1em4y1H7ir" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 ## 2、文档说明：1行Python代码搞定
 
@@ -45,6 +45,10 @@ popdf.pdf2docx(file_path=r'D:\workplace\code\github\python-office\demo\popdf\tes
 ## 3、全套资料
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
+
+------
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
+------
 
 付费合集后，下方自动出现百度云链接，永久有效。
 
