@@ -41,7 +41,7 @@
 
 | 课程链接                                                                                        | 配套文档&代码&软件                                                                                                                  |  读者交流群   |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [50讲 · Python自动化办公（更新中）](https://www.python-office.com/course/50-python-office.html) | [打开](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect) |   [读者交流群](http://python4office.cn/wechat-group/)  |
+| [50讲 · Python自动化办公（更新中）](https://www.python-office.com/course/50-python-office.html) | [打开](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect) |   [加入](http://python4office.cn/wechat-group/)  |
 
 
 
