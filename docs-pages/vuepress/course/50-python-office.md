@@ -53,6 +53,7 @@
 
 - 第4讲：[PDF转Word，1行代码就够了，Python自动化办公原来这么简单](https://www.python-office.com/course/docs/50-04-pdf2docx.html)
 - 第5讲：[100个Word转PDF，Python批量办公自动化，告别无意义加班](https://www.python-office.com/course/docs/50-05-docx2pdf.html)
+- 第6讲：[把PPT转成1张长图，用Python只需要1行代码，小白入门必学](https://www.python-office.com/course/docs/50-06-ppt2img.html)
 
 ------
 
