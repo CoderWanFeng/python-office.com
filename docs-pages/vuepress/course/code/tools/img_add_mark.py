@@ -10,5 +10,5 @@
 
 import poimage
 
-poimage.add_watermark(file=r'D:\download\50-06-ppt2img.png', mark='B站：程序员晚枫', output_path=r'../../xmind/imgs')
+poimage.add_watermark(file=r'D:\download\50-07-fake2excel.png', mark='B站：程序员晚枫', output_path=r'../../xmind/imgs')
 
