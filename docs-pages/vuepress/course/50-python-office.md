@@ -61,7 +61,6 @@
 
 | 序号  | 视频                                                           | 文档&代码                                                   |
 |-----|--------------------------------------------------------------|---------------------------------------------------------|
-| 第4讲 | [word 转 pdf ](https://www.bilibili.com/video/BV1pT4y1k7FH)   | [查看](https://mp.weixin.qq.com/s/Kfmu8vCSr6otGfrf7mj0bA) |
 | 第5讲 | [doc和docx，互相转换](https://www.bilibili.com/video/BV1so4y1H7rj) | [查看](https://mp.weixin.qq.com/s/nyg_LlkHPwx1AY7wCg5KTw) |
 | 第6讲 | [合并Word文档 ](https://www.bilibili.com/video/BV1Vo4y1q7i3)     | [查看](https://mp.weixin.qq.com/s/PjQJ3s4Arr872NDfcr-7YA) |
 
@@ -96,7 +95,6 @@
 | 序号 | 方法名       | 功能      | 视频                                                 | 文档                                                                                                                                        | 演示代码                                                                                    |
 |----|-----------|---------|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | 1  | ppt2pdf   | PPT转PDF | [播放](https://www.bilibili.com/video/BV17Y411c792)  | [查看](https://mp.weixin.qq.com/s?__biz=Mzg3MDU3OTgxMg==&mid=2247490934&idx=1&sn=0634b8342b1fe693ae5b4f72187509e6&scene=21#wechat_redirect) | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poppt/ppt2pdf.py)   |
-| 2  | ppt2img   | PPT转图片  | [播放](https://www.bilibili.com/video/BV1pu411Y7zz/) | [查看](https://mp.weixin.qq.com/s/mrx85Tf8WB9u76Mht2nUxA)                                                                                   | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poppt/ppt2img.py)   |
 | 3  | merge4ppt | 合并PPT   | 待录制                                                | [查看](https://mp.weixin.qq.com/s/FZOcvCJLsZlAbYhySZyQMQ)                                                                                   | [打开](https://github.com/CoderWanFeng/python-office/blob/master/demo/poppt/merge4ppt.py) |
 
 ## 5、文件 + 自动化办公 = pofile

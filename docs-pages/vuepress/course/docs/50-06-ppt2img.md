@@ -4,7 +4,16 @@
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
 ------
 
+![](../xmind/imgs/50-06-ppt2img.png)
+
+
 上一讲飞速就达到了20+投币，我赶紧更新了这一讲：把PPT转成长图。
+
+不知道大家有没有这个习惯：拿到PPT，总感觉一页一页的翻看不方便，不如看一张长图。
+
+但又找不到把PPT转换成一张长图的工具。
+
+于是我开发了下面这个功能。👇
 
 ## 视频说明
 
