@@ -1,15 +1,14 @@
-# 【第7讲】是真的！Python可以创建Excel了，1行代码就能模拟真实数据，AI自动化办公还会远吗？
+# 【粉丝投稿】给图片加个水印吧，只需要1行Python代码，0基础也能学会
 
 ------
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
 ------
 
-![](../xmind/imgs/50-07-fake2excel.png)
 
 
 ## 视频说明
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV18m4y1u7Kq" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Em4y1T7aH" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
 ## 代码演示
@@ -17,11 +16,12 @@
 ```
 import office
 
-office.excel.fake2excel(columns=['name', 'text'], rows=20)# 参数说明
-# columns:list，每列的数据名称，默认是名称
-# rows：多少行，默认是1
-# language：什么语言，可以填english，默认是中文
-# path：输出excel的位置，有默认值
+# office.image.add_watermark(file='./要添加水印的图片.png',mark='python办公自动化',output_path=r'已添加水印',opacity=0.2)
+
+office.image.add_watermark(file='./要添加水印的图片.png',
+                           mark='python办公自动化',
+                           output_path=r'已添加水印',
+                           color="#ff0000",size=80,opacity=0.5,space=600,angle=30)
 ```
 
 

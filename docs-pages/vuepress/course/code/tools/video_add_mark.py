@@ -9,7 +9,8 @@
 
 import povideo
 
-povideo.mark2video(video_path=r'D:\迅雷下载\8月25日\8月25日.mp4',output_path=r'D:\迅雷下载\8月25日\output')
+# povideo.mark2video(video_path=r'D:\迅雷下载\8月25日\8月25日.mp4',output_path=r'D:\迅雷下载\8月25日\output')
+povideo.mark2video(video_path=r'D:\download\baiduyun\图片添加水印.mp4',output_path=r'D:\download\baiduyun\out')
 import os
 IMAGEMAGICK_BINARY = os.getenv('IMAGEMAGICK_BINARY', 'auto-detect')
 # IMAGEMAGICK_BINARY = os.getenv('Path', 'auto-detect')
