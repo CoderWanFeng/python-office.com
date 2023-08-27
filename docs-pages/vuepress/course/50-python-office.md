@@ -55,6 +55,7 @@
 - 第5讲：[100个Word转PDF，Python批量办公自动化，告别无意义加班](https://www.python-office.com/course/docs/50-05-docx2pdf.html)
 - 第6讲：[把PPT转成1张长图，用Python只需要1行代码，小白入门必学](https://www.python-office.com/course/docs/50-06-ppt2img.html)
 - 第7讲：[是真的！Python可以创建Excel了，1行代码就能模拟真实数据，AI自动化办公还会远吗？](https://www.python-office.com/course/docs/50-07-fake2excel.html)
+- 粉丝投稿：[给图片加个水印吧，只需要1行Python代码，0基础也能学会](./docs/cooperator/01-add_watermark.html)
 
 ------
 

@@ -13,7 +13,7 @@
 
 ## 代码演示
 
-```
+```python
 import office
 
 # office.image.add_watermark(file='./要添加水印的图片.png',mark='python办公自动化',output_path=r'已添加水印',opacity=0.2)
