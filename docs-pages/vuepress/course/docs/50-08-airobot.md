@@ -1,6 +1,5 @@
 # 【第8讲】免费的微信机器人发布了，只需要1行Python代码，赶紧来试试
 
-# 【第7讲】是真的！Python可以创建Excel了，1行代码就能模拟真实数据，AI自动化办公还会远吗？
 
 ------
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
