@@ -4,7 +4,7 @@
 @微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/HYOWV7ImvTXImyYWtwADog
 @个人网站      ：www.python-office.com
 @代码日期    ：2023/9/3 23:37 
-@本段代码的视频说明     ：https://www.bilibili.com/video/BV1a14y1k7v9/?spm_id_from=333.999.0.0
+@本段代码的视频说明     ：https://www.bilibili.com/video/BV1a14y1k7v9/
 '''
 
 # 安装python

@@ -4,7 +4,7 @@
 @微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/HYOWV7ImvTXImyYWtwADog
 @个人网站      ：www.python-office.com
 @代码日期    ：2023/8/25 22:27 
-@本段代码的视频说明     ：
+@本段代码的视频说明     ：https://www.bilibili.com/video/BV18m4y1u7Kq
 '''
 
 # pip install python-office

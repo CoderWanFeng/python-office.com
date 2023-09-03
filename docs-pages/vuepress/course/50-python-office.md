@@ -56,6 +56,7 @@
 - 第6讲：[把PPT转成1张长图，用Python只需要1行代码，小白入门必学](./docs/50-06-ppt2img.html)
 - 第7讲：[是真的！Python可以创建Excel了，1行代码就能模拟真实数据，AI自动化办公还会远吗？](./docs/50-07-fake2excel.html)
 - 第8讲：[免费的微信机器人发布了，只需要1行Python代码，赶紧来试试](./docs/50-08-airobot.html)
+- 第9讲：[根据内容搜索文件，1行Python代码，这是什么黑科技？](./docs/50-09-search4content.html)
 
 ## 粉丝投稿
 

@@ -3,11 +3,11 @@
 @作者  ：B站/抖音/微博/小红书/公众号，都叫：程序员晚枫
 @微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/HYOWV7ImvTXImyYWtwADog
 @个人网站      ：www.python-office.com
-@代码日期    ：2023/8/24 22:10 
+@代码日期    ：2023/9/4 1:24 
 @本段代码的视频说明     ：
 '''
+import office
 
-import poimage
-
-poimage.add_watermark(file=r'D:\download\50-09-search4content.png', mark='B站：程序员晚枫',
-                      output_path=r'../../xmind/imgs')
+office.file.search_by_content(
+    search_path=r'D:\workplace\code\gitee\python-office.com\docs-pages\vuepress\course\code\test_files\50-09-search4content',
+    content='import office')
