@@ -62,6 +62,8 @@
 - 粉丝投稿：[给图片加个水印吧，只需要1行Python代码，0基础也能学会](./docs/cooperator/01-add_watermark.html)
 - 粉丝投稿：[给PDF文件添加水印，1 行Python代码就够了，真香！](./docs/cooperator/02-pdf_warkmark.html)
 - 粉丝投稿：[1行代码搞定PDF加密，0基础入门Python编程，从这个案例开始](https://www.bilibili.com/video/BV1H8411X7uu/)
+- 粉丝投稿：[解密PDF，我发现了什么秘密？1行Python代码，你也能用](https://www.bilibili.com/video/BV1i14y1y7Kp/)
+- 粉丝投稿：[PDF合并，这1行Python代码，0基础也能用](https://www.bilibili.com/video/BV1a14y1k7v9/)
 
 ------
 
