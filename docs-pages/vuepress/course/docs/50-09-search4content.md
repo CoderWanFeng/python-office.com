@@ -5,14 +5,15 @@
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
 ------
 
-![](../xmind/imgs/50-08-airobot.png)
+![](../xmind/imgs/50-09-search4content.png)
 
 通过标题搜索文件，已经有很多人用过了。
-但是通过内容搜索文件，你用过吗？
+
+> 但是通过内容搜索文件，你用过吗？
 
 ## 视频说明
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Fu4y1v7xH" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Lm4y1M7Pz" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
 ## 代码演示
@@ -28,6 +29,10 @@ office.file.search_by_content(
     search_path=r'D:\程序员晚枫的文件夹',
     content='import office')
 ```
+
+两个参数：
+- search_path：指定搜索目录
+- 指定搜索内容
 
 ## 获取资料
 
