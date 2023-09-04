@@ -57,7 +57,7 @@
 - 第7讲：[是真的！Python可以创建Excel了，1行代码就能模拟真实数据，AI自动化办公还会远吗？](./docs/50-07-fake2excel.html)
 - 第8讲：[免费的微信机器人发布了，只需要1行Python代码，赶紧来试试](./docs/50-08-airobot.html)
 - 第9讲：[根据内容搜索文件，1行Python代码，这是什么黑科技？](./docs/50-09-search4content.html)
-- 第10讲：[50-10-excel2pdf](./docs/50-10-excel2pdf.html)
+- 第10讲：[Excel转PDF，只需要1行Python代码，源码解读来了](./docs/50-10-excel2pdf.html)
 
 ## 粉丝投稿
 
