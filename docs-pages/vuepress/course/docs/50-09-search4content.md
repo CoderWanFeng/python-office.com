@@ -32,7 +32,7 @@ office.file.search_by_content(
 
 两个参数：
 - search_path：指定搜索目录
-- 指定搜索内容
+- content：指定搜索内容
 
 ## 获取资料
 
