@@ -58,6 +58,7 @@
 - 第8讲：[免费的微信机器人发布了，只需要1行Python代码，赶紧来试试](./docs/50-08-airobot.html)
 - 第9讲：[根据内容搜索文件，1行Python代码，这是什么黑科技？](./docs/50-09-search4content.html)
 - 第10讲：[Excel转PDF，只需要1行Python代码，源码解读来了](./docs/50-10-excel2pdf.html)
+- 第11讲：[入门数据可视化，1行Python代码就够了，这是什么宝藏项目？](./docs/50-11-txt2wordcloud.html)
 
 ## 粉丝投稿
 

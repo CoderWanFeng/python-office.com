@@ -1,0 +1,318 @@
+github star gitee star
+
+欢迎学习给小白的《50讲 · Python自动化办公》，课程正在持续更新中🚀，每一节课都包含：视频、文档、代码、软件和答疑群。
+
+本次课程的特点有以下几个：
+
+适合小白不需要学习复杂的编程知识，拿来就用。
+内容丰富，涵盖热门的自动化办公需求。
+所有功能，只需要1行代码就能实现。
+本套课程的代码，全部来自开源中国推荐项目，Python自动化办公的专用库：python-office：重磅！官网发布第三方库：python-office，为Python自动化办公而生
+
+以下绿色文字，均可点击直达👇
+
+#0、准备工作
+课程前3讲，主要是Python环境的搭建，包含：python的安装、pycharm的安装和pip的使用。
+
+是学习本套课程、运行课程中的代码必须安装的软件。
+
+如果是小白，请务必按顺序听完学会；如果是已经安装并且会使用的大佬，请直接跳转到下一部分的课程。
+
+第1讲：Python3.11的下载、安装和卸载，有手就能学会
+第2讲：正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~
+第3讲：不要重复造轮子原来是这个意思！pip的下载、安装和使用，编程准备工作最后一站
+#入门案例
+第4讲：PDF转Word，1行代码就够了，Python自动化办公原来这么简单
+第5讲：100个Word转PDF，Python批量办公自动化，告别无意义加班
+第6讲：把PPT转成1张长图，用Python只需要1行代码，小白入门必学
+第7讲：是真的！Python可以创建Excel了，1行代码就能模拟真实数据，AI自动化办公还会远吗？
+第8讲：免费的微信机器人发布了，只需要1行Python代码，赶紧来试试
+第9讲：根据内容搜索文件，1行Python代码，这是什么黑科技？
+第10讲：Excel转PDF，只需要1行Python代码，源码解读来了
+#粉丝投稿
+粉丝投稿：给图片加个水印吧，只需要1行Python代码，0基础也能学会
+粉丝投稿：给PDF文件添加水印，1 行Python代码就够了，真香！
+粉丝投稿：1行代码搞定PDF加密，0基础入门Python编程，从这个案例开始
+粉丝投稿：解密PDF，我发现了什么秘密？1行Python代码，你也能用
+粉丝投稿：PDF合并，这1行Python代码，0基础也能用
+以下内容是草稿：还没有录制成系统课程的
+
+序号	视频	文档&代码
+第5讲	doc和docx，互相转换	查看
+第6讲	合并Word文档 	查看
+#2、Excel + 自动化办公 = poexcel
+序号	方法名	功能	视频	文档	演示代码
+1	fake2excel	批量生成Excel数据	播放	查看	打开
+2	merge2excel	合并多个Excel到一个Excel的不同sheet中	播放	查看	打开
+3	sheet2excel	同一个excel里的不同sheet，拆分为不同的excel文件	播放	查看	打开
+4	find_excel_data	根据内容查询Excel	播放	查看	打开
+5	excel2pdf	Excel转PDF	播放	查看	打开
+6	query4excel	把100个Excel中符合条件的数据，汇总到1个Excel里	播放	查看	打开
+7	count4page	统计Excel打印出来有多少页	待录制	查看	打开
+8	merge2sheet	多个sheet，根据指定的列，合并成1个	待录制	待编辑	打开
+9	split_excel_by_column	根据指定的列，拆分Excel到不同的sheet	待录制	待编辑	打开
+#3、PDF + 自动化办公 = popdf
+序号	方法名	功能	视频	文档	演示代码
+1	add_watermark	PDF加水印	播放	查看	打开
+2	txt2pdf	TXT转PDF	待录制	查看	打开
+3	encrypt4pdf	PDF加密	待录制	查看	打开
+4	decrypt4pdf	PDF解密	待录制	查看	打开
+5	merge2pdf	合并PDF	待录制	查看	打开
+6	pdf2docx	💻PDF 转 Word	💻 播放	查看	打开
+7	pdf2imgs	PDF 转 图片	💻待录制	查看	打开
+#4、PPT + 自动化办公 = poppt
+序号	方法名	功能	视频	文档	演示代码
+1	ppt2pdf	PPT转PDF	播放	查看	打开
+3	merge4ppt	合并PPT	待录制	查看	打开
+#5、文件 + 自动化办公 = pofile
+序号	方法名	功能	视频	文档	演示代码
+1	replace4filename	批量重命名	播放	查看	打开
+2	search_by_content	根据内容，查找文件	播放	查看	打开
+3	group_by_name	自动整理文件	待录制	查看	打开
+4	get_files	获取文件列表	播放	查看	打开
+5	mkdir	新建文件夹	待录制	待编辑	打开
+6	check_suffix	验证文件名的后缀	待录制	待编辑	打开
+#6、图片 + 自动化办公 = poimage
+序号	方法名	功能	视频	文档	演示代码
+1	add_watermark	👩给图片 加 水印	👩 播放	待编辑	打开
+2	down4img	下载图片	播放	查看	打开
+3	del_watermark	图片去水印	待录制	查看	打开
+4	txt2wordcloud	根据文档内容，生成词云图片	播放	待编辑	打开
+5	compress_image	压缩图片	待录制	待编辑	打开
+6	image2gif	图片转Gif	待录制	待编辑	打开
+#7、文字识别 + 自动化办公 = poocr
+全部100+功能的说明
+
+序号	方法名	功能	视频	文档	演示代码
+1	VatInvoiceOCR	识别发票	⭐ 播放	查看	待开发
+2	IDCardOCR	识别身份证	⭐ 播放	查看	待开发
+3	BankCardOCR	识别银行卡	⭐ 播放	查看	待开发
+4	LicensePlateOCR	识别车牌		查看	待开发
+#8、便捷工具 + 自动化办公 = wftools
+序号	方法名	功能	视频	文档	演示代码
+1	transtools	翻译万国语言	⭐ 播放	待编辑	待开发
+2	qrcodetools	解析二维码图片信息	⭐ 播放	待编辑	待开发
+3	passwordtools	密码生成器	⭐ 播放	待编辑	待开发
+4	weather	天气查询	待录制	查看	待开发
+5	net_speed_test	测网速	待录制	待编辑	待开发
+6	url2ip	获取ip地址	待录制	待编辑	待开发
+7	lottery8ticket	生成彩票号码	待录制	查看	待开发
+8	create_article	自动写文章	待录制	查看	待开发
+9	pwd4wifi	破解wifi密码	待录制	查看	待开发
+#9、视频 + 自动化办公 = povideo
+序号	方法名	功能	视频	文档	演示代码
+1	video2mp3	从视频里提取音频	待录制	查看	待开发
+2	audio2txt	音频转文字	待录制	查看	待开发
+#10、代码开发 + 自动化办公 = pocode、potime、poprogress
+序号	方法名	功能	视频	文档	演示代码
+1		统计代码行数	待录制	查看	待开发
+2		计算程序运行时间	待录制	查看	待开发
+3		显示程序执行的进度条	待录制	查看	待开发
+#11、金融 + 自动化办公 = pofinance
+序号	方法名	功能	视频	文档	演示代码
+1		单次做T	待录制	查看	待开发
+2		批量做T	待录制	查看	待开发
+#12、AI + 自动化办公
+序号	方法名	功能	视频	文档	演示代码
+1	pencil4img	AI画素描	播放	查看	待开发
+2		还原黑白照片的颜色	待录制	查看	待开发
+3	img2Cartoon	生成动漫头像	待录制	待编辑	待开发
+#13、中文编程 + 自动化办公 = pohan
+序号	方法名	功能	视频	文档	演示代码
+1	han2pinyin	汉字转拼音	播放	查看	待开发
+2		重庆话编程	播放	查看	待开发
+#14、微信机器人-PyOfficeRobot
+⭐本机器人完全免费，全部功能的演示视频 + 项目源码：Github、gitee
+序号	方法名	功能	视频	文档	代码
+1		🔥项目发布	播放	待编辑	打开
+2	send_message	自动发消息	播放	待编辑	打开
+3	send_file	自动发文件	播放	待编辑	打开
+4	chat_by_keywords	根据关键词，自动回复	播放	待编辑	打开
+5	send_message_by_time	⌚定时自动发消息	播放	待编辑	打开
+6		自己加功能	播放	待编辑	打开
+7		⭐独立使用	播放	待编辑	打开
+8	get_group_list	收集群信息	播放	有BUG，待修复	打开
+9		发消息如何换行？	播放	待编辑	打开
+10	chat_by_gpt	微信 + ChatGPT	播放	待编辑	打开
+11	add	批量加好友	播放	有BUG，待修复	打开
+12	send	批量群发	播放	待编辑	打开
+13	chat_robot	智能聊天	播放	待编辑	打开
+
+
+#文字教程
+全部功能的文字教程👉传送门
+
+
+
+
+
+#良心建议
+你好，这里是程序员晚枫，小红书/B站/知乎/抖音都叫这个名。
+
+业余时间做编程博主，同时运营python-office这个python的功能库，以下是一些生活VLOG和读者经常问我的一些问题。
+
+💻我录制成了视频的形式，大家看看吧~
+
+#生活VLOG
+
+
+#转行咨询
+如何免费学编程？如何避免被割韭菜？
+
+3大措施，整治程序员高薪现象！大快人心
+
+学会编程，能拿高薪？别再被洗脑了
+
+少儿编程，有必要学吗？程序员被问懵了
+
+学编程、学Python接单？别再被割韭菜了！
+
+30岁转行程序员，我的转行经历
+
+Excel还是Python？别被割韭菜，高效办公选一个就够了！
+
+#交流群
+
+
+#学习资源
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
+python-office
+自动化办公
+程序员晚枫
