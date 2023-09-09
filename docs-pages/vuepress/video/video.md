@@ -26,7 +26,7 @@
 
 你好，这里是程序员晚枫，小红书/B站/知乎/抖音都叫这个名。
 
-业余时间做编程博主，同时运营[python-office](https://github.com/CoderWanFeng/python-office)这个python的功能库，
+业余时间做编程博主，同时维护了一个开源中国的推荐项目：[python-office](https://github.com/CoderWanFeng/python-office)，这个python的功能库，
 
 下面是我整理的Python学习教程:
 

@@ -49,7 +49,8 @@
 - 第2讲：[正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~](./docs/50-02-pycharm.html)
 - 第3讲：[不要重复造轮子原来是这个意思！pip的下载、安装和使用，编程准备工作最后一站](./docs/50-03-pip.html)
 
-## 入门案例
+## 1、核心内容
+为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
 
 - 第4讲：[PDF转Word，1行代码就够了，Python自动化办公原来这么简单](./docs/50-04-pdf2docx.html)
 - 第5讲：[100个Word转PDF，Python批量办公自动化，告别无意义加班](./docs/50-05-docx2pdf.html)
@@ -60,7 +61,9 @@
 - 第10讲：[Excel转PDF，只需要1行Python代码，源码解读来了](./docs/50-10-excel2pdf.html)
 - 第11讲：[入门数据可视化，1行Python代码就够了，这是什么宝藏项目？](./docs/50-11-txt2wordcloud.html)
 
-## 粉丝投稿
+## 2、粉丝投稿
+
+读者里大佬很多，下面是粉丝的投稿视频，相关代码也在我们的课程资料里。
 
 - 粉丝投稿：[给图片加个水印吧，只需要1行Python代码，0基础也能学会](./docs/cooperator/01-add_watermark.html)
 - 粉丝投稿：[给PDF文件添加水印，1 行Python代码就够了，真香！](./docs/cooperator/02-pdf_warkmark.html)
@@ -69,6 +72,8 @@
 - 粉丝投稿：[PDF合并，这1行Python代码，0基础也能用](https://www.bilibili.com/video/BV1a14y1k7v9/)
 
 ------
+
+再往下面的就不用看了，课程完结后会删除。
 
 ``以下内容是草稿：还没有录制成系统课程的``
 
