@@ -60,6 +60,9 @@
 - 第9讲：[根据内容搜索文件，1行Python代码，这是什么黑科技？](./docs/50-09-search4content.html)
 - 第10讲：[Excel转PDF，只需要1行Python代码，源码解读来了](./docs/50-10-excel2pdf.html)
 - 第11讲：[入门数据可视化，1行Python代码就够了，这是什么宝藏项目？](./docs/50-11-txt2wordcloud.html)
+- 第12讲：[文字转语音是怎么实现的？1行Python代码，不需要联网](./docs/50-12-txt2mp3.html)
+- 第13讲：[把Python代码打包成Exe软件，竟然用了100多行代码](./docs/50-13-ppt2pdf.html)
+- 第14讲：[体制内有用！按Sheet拆分Excel，1行Python代码稿定](./docs/50-14-sheet2excel.html)
 
 ## 2、粉丝投稿
 

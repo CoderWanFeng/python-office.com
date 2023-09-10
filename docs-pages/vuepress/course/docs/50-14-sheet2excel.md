@@ -1,17 +1,18 @@
-# 【第11讲】入门数据可视化，1行Python代码就够了，这是什么宝藏项目？
+# 【第14讲】体制内有用！按Sheet拆分Excel，1行Python代码稿定
 
 ------
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
 ------
 
-![](../xmind/imgs/50-11-txt2wordcloud.png)
+![](../xmind/imgs/50-14-sheet2excel.png)
 
-有多少朋友第一次听说Python，是因为它可以轻松实现数据可视化？
+前几年特殊时期，我帮助体制内的朋友开发了不少统计工具，今天就是其中之一。
 
+按照Sheet拆分Excel。
 
 ## 视频说明
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1ph4y1v7MN" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1ih4y1v7YY" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 ## 代码演示
 
@@ -23,15 +24,11 @@
 ```python
 import office
 
-office.image.txt2wordcloud(filename=r'./test_files/50-11-txt2wordcloud/python-office.txt', color="black",
-                           result_file="程序员晚枫的图片.png")
+office.excel.sheet2excel(file_path=r'test_files/50-14-sheet2excel/程序员晚枫的表格.xlsx',
+                         output_path=r'test_files/50-14-sheet2excel')
 ```
 
-两个参数：
 
-- filename：存储文档的目录
-- color：词云的背景颜色
-- result_file：输出的图片名称和位置
 
 ## 获取资料
 

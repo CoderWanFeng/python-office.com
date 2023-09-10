@@ -9,5 +9,5 @@
 
 import poimage
 
-poimage.add_watermark(file=r'D:\download\50-11-txt2wordcloud.png', mark='B站：程序员晚枫',
+poimage.add_watermark(file=r'D:\download\50-14-sheet2excel.png', mark='B站：程序员晚枫',
                       output_path=r'../../xmind/imgs')
