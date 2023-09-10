@@ -4,7 +4,7 @@
 @微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/HYOWV7ImvTXImyYWtwADog
 @个人网站      ：www.python-office.com
 @代码日期    ：2023/9/10 11:43 
-@本段代码的视频说明     ：
+@本段代码的视频说明     ：https://www.bilibili.com/video/BV1Fw411S7kV/
 '''
 # -*- coding: utf-8 -*-
 # @Time    : 2023/8/10 13:25
