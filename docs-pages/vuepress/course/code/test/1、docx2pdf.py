@@ -10,5 +10,5 @@
 # pip install python-office ，下载教程：https://www.bilibili.com/video/BV1pT4y1k7FH
 import office
 
-office.word.docx2pdf(path=r'./test_files/程序员晚枫（作品合集）.docx',
-                     output_path=r'./test_files/docx2pdf/程序员晚枫（作品合集）.pdf')
+rate = office.finance.t0(5.6, 5.78, 1000)
+print(rate)

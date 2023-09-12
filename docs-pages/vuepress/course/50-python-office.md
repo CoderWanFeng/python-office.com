@@ -25,7 +25,7 @@
 </p>
 
 
-欢迎学习给小白的《50讲 · Python自动化办公》，课程正在持续更新中🚀，每一节课都包含：视频、文档、代码、软件和答疑群。
+欢迎学习给小白的《50讲 · Python自动化办公》，课程正在持续更新中🚀，每一节课都包含：视频、文档、代码、软件和答疑群[点我下载](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)。
 
 本次课程的特点有以下几个：
 
@@ -63,6 +63,7 @@
 - 第12讲：[文字转语音是怎么实现的？1行Python代码，不需要联网](./docs/50-12-txt2mp3.html)
 - 第13讲：[把Python代码打包成Exe软件，竟然用了100多行代码](./docs/50-13-ppt2pdf.html)
 - 第14讲：[体制内有用！按Sheet拆分Excel，1行Python代码稿定](./docs/50-14-sheet2excel.html)
+- 第15讲：[批量识别发票，自动保存到Excel中](./docs/50-14-VatInvoiceOCR2Excel.html)
 
 ## 2、粉丝投稿
 
