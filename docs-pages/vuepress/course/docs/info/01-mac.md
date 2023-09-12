@@ -46,7 +46,7 @@ office.wechat.chat_robot(who='每天进步一点点')  # 智能聊天
 
 ## 获取资料
 
-![](../docs/imgs/common/code.png)
+![](../imgs/common/code.png)
 
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
@@ -54,7 +54,7 @@ office.wechat.chat_robot(who='每天进步一点点')  # 智能聊天
 > 2个付费渠道：B站和微信公众号，2选1就行，都是一样的价格 10元。
 
 
-- B站 购买链接：[点我直达](https://gf.bilibili.com/item/detail/1104200099?noTitleBar=1&from=mall-up_itemDetail&msource=comments_259649365)
+- B站 购买链接：[点我直达](../imgs/common/bili-buy.jpg)
 - 微信 购买链接：[点我直达](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
 
 付费后，2个平台都会自动出现百度云链接，永久有效。
