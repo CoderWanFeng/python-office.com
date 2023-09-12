@@ -1,7 +1,7 @@
 # 【第15讲】批量识别发票，自动保存到Excel中，1行Python代码稿定
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
+> 点击学习：[50讲 · Python自动化办公](https://www.python-office.com/course/50-python-office.html)
 ------
 
 ![](../xmind/imgs/50-15-VatInvoiceOCR2Excel.png)
@@ -22,25 +22,13 @@
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1h94y1W7ds" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
-## 代码演示
 
-本期使用了一个新的库：poocr
-
-运行以下代码之前，请一定要下载一下poocr。
-
-```shell
-# 升级命令
-pip install poocr -U
-```
-不会用升级命令的同学，去看一下第3讲的最后：[打开第3讲](https://www.bilibili.com/video/BV1m14y1y76g/)
-
-本期视频代码，都在课程配套资料的**代码**文件夹里。👇
+## 获取资料
 
 ![](../docs/imgs/common/code.png)
 
 
 
-## 获取资料
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 

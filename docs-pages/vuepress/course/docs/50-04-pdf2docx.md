@@ -1,7 +1,7 @@
 # 【第4讲】PDF转Word，1行代码就够了，Python自动化办公原来这么简单
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
+> 点击学习：[50讲 · Python自动化办公](https://www.python-office.com/course/50-python-office.html)
 ------
 
 ![](../xmind/imgs/50-04-pdf2docx.png)
@@ -16,42 +16,23 @@
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1em4y1H7ir" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
-## 2、文档说明：1行Python代码搞定
 
+## 获取资料
 
-下载python-office，1行命令。还有不会下载的，是不是上一讲逃课了？去补课，答应我👉[【第3讲】不要重复造轮子原来是这个意思！入门pip的使用，编程准备工作最后一站](https://mp.weixin.qq.com/s/GPgLsMvfzG9j_Eq887fm-w)
-
-```python
-pip install python-office
-```
+![](../docs/imgs/common/code.png)
 
 
 
-```python
-# pip install python-office
-import office # 导入第三方库
-
-office.pdf.pdf2docx(file_path=r'D:\workplace\code\github\python-office\demo\popdf\test_files\pdf2docx\程序员晚枫.pdf',
-                    output_path=r'D:\download')
-# 上面这种是Windows用户
-
-# 如果你是尊贵的Mac和Linux用户，用下面这个代码
-# pip install popdf
-import popdf
-#
-popdf.pdf2docx(file_path=r'D:\workplace\code\github\python-office\demo\popdf\test_files\pdf2docx\程序员晚枫.pdf',
-               output_path=r'./test_files/pdf2docx/output')
-```
-## 3、全套资料
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
-------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
-------
+> 2个付费渠道：B站和微信公众号，2选1就行，都是一样的价格 10元。
 
-付费合集后，下方自动出现百度云链接，永久有效。
 
-学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
+- B站 购买链接：[点我直达](https://gf.bilibili.com/item/detail/1104200099?noTitleBar=1&from=mall-up_itemDetail&msource=comments_259649365)
+- 微信 购买链接：[点我直达](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
 
+付费后，2个平台都会自动出现百度云链接，永久有效。
+
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
 

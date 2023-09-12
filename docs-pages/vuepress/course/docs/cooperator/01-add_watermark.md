@@ -1,7 +1,7 @@
 # 【粉丝投稿】给图片加个水印吧，只需要1行Python代码，0基础也能学会
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
+> 点击学习：[50讲 · Python自动化办公](https://www.python-office.com/course/50-python-office.html)
 ------
 
 
@@ -30,7 +30,7 @@ office.image.add_watermark(file='./要添加水印的图片.png',
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
+> 点击学习：[50讲 · Python自动化办公](https://www.python-office.com/course/50-python-office.html)
 ------
 
 付费合集后，下方自动出现百度云链接，永久有效。
