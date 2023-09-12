@@ -25,7 +25,7 @@
 </p>
 
 
-欢迎学习给小白的《50讲 · Python自动化办公》，课程正在持续更新中🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我下载](https://www.python-office.com/course/50-python-office.html#获取资料)。
+欢迎学习给小白的《50讲 · Python自动化办公》，课程正在持续更新中🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我下载](https://www.python-office.com/course/50-python-office.html#_3、获取资料)。
 
 本次课程的特点有以下几个：
 
