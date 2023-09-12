@@ -28,30 +28,15 @@
 
 运行以下代码之前，请一定要下载一下poocr。
 
-升级命令：pip install poocr
--U，不会用升级命令的同学，去看一下第3讲的最后：[打开第3讲](https://www.bilibili.com/video/BV1m14y1y76g/)
-
-```python
-
-# pip install poocr
-import poocr
-
-# 免费体验：https://cloud.tencent.com/act/cps/redirect?redirect=34190&cps_key=ca76be5a2293ba3906d6d5407aea15ee
-# 拿到id和key：https://cloud.tencent.com/act/cps/redirect?redirect=36394&cps_key=ca76be5a2293ba3906d6d5407aea15ee
-poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/50-15-VatInvoiceOCR2Excel/',
-                                    output_path=r'test_files/50-15-VatInvoiceOCR2Excel',
-                                    output_excel='程序员晚枫的发票.xlsx',
-                                    id='AKIDb1SsDTXO2QZVGg2MTKjtz89xnQnxuc4F',
-                                    key='2pX6Us1vaBl26uUv5B9tbDagW8UcEZ8c')
-
-# 全部100多个识别功能：https://mp.weixin.qq.com/s/WxICBZZSgkm-OrvXB82hbg
-# 识别增值税发票
-ressult = poocr.ocr.VatInvoiceOCR()
-# 识别银行卡
-ressult = poocr.ocr.BankCardOCR()
-# 识别身份证
-ressult = poocr.ocr.IDCardOCR()
+```shell
+# 升级命令
+pip install poocr -U
 ```
+不会用升级命令的同学，去看一下第3讲的最后：[打开第3讲](https://www.bilibili.com/video/BV1m14y1y76g/)
+
+本期视频代码，都在课程配套资料的**代码**文件夹里。👉[课程资料，点我下载](https://gf.bilibili.com/item/detail/1104200099?noTitleBar=1&from=mall-up_itemDetail&msource=comments_259649365),全部50讲的课程资料，只要10元
+
+![](../docs/imgs/common/code.png)
 
 
 
