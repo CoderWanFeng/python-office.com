@@ -1,4 +1,4 @@
-# 【第14讲】批量识别发票，自动保存到Excel中，1行Python代码稿定
+# 【第15讲】批量识别发票，自动保存到Excel中，1行Python代码稿定
 
 ------
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
@@ -12,7 +12,7 @@
 
 - [识别火车票](https://www.bilibili.com/video/BV1Tv4y1n7Js/?spm_id_from=333.999.0.0)
 - [识别身份证](https://www.bilibili.com/video/BV1484y1g7N4/?spm_id_from=333.999.0.0)
-- []识别银行卡(https://www.bilibili.com/video/BV1QY4y1o7qc/?spm_id_from=333.999.0.0)
+- [识别银行卡](https://www.bilibili.com/video/BV1QY4y1o7qc/?spm_id_from=333.999.0.0)
 
 但有读者提问：能不能识别发票后，直接保存在Excel里面？
 
