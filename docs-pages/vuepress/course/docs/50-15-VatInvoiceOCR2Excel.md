@@ -4,7 +4,7 @@
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
 ------
 
-![](../xmind/imgs/50-14-VatInvoiceOCR2Excel.png)
+![](../xmind/imgs/50-15-VatInvoiceOCR2Excel.png)
 
 学习Python，怎么能少了财务人员的需求？
 
