@@ -64,9 +64,9 @@
 - 第13讲：[把Python代码打包成Exe软件，竟然用了100多行代码](./docs/50-13-ppt2pdf.html)
 - 第14讲：[体制内有用！按Sheet拆分Excel，1行Python代码稿定](./docs/50-14-sheet2excel.html)
 - 第15讲：[批量识别发票，自动保存到Excel中](./docs/50-15-VatInvoiceOCR2Excel.html)
-- 第16讲：[Python爬虫，了解一下？1行代码下载图片，小白轻松学](https://www.bilibili.com/video/BV14p4y1j7jg)
-- 第17讲：[给图片去水印，Python怎么做？1行代码搞定，是最大的尊重](https://www.bilibili.com/video/BV1Xk4y1c7Dk)
-- 第18讲：[再讲微信聊天机器人，这次开启对话模式，根据关键词回复 | 1行代码，定制自己的Python智能助手](https://www.bilibili.com/video/BV1em4y1P7UM/)
+- 第16讲：[Python爬虫，了解一下？1行代码下载图片，小白轻松学](./docs/50-16-down4img.html)
+- 第17讲：[给图片去水印，Python怎么做？1行代码搞定，是最大的尊重](./docs/50-17-del_watermark.html)
+- 第18讲：[再讲微信聊天机器人，这次开启对话模式，根据关键词回复 | 1行代码，定制自己的Python智能助手](./docs/50-18-kw_robot.html)
 
 ## 2、粉丝投稿
 
