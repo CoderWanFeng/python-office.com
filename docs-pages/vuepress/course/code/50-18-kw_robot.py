@@ -4,7 +4,7 @@
 @微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/HYOWV7ImvTXImyYWtwADog
 @个人网站      ：www.python-office.com
 @代码日期    ：2023/9/13 20:26 
-@本段代码的视频说明     ：
+@本段代码的视频说明     ：https://www.bilibili.com/video/BV1em4y1P7UM/?spm_id_from=333.788&vd_source=dcea3feb81b702defb6006f671564224
 '''
 import office
 
