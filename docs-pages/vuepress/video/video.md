@@ -37,7 +37,6 @@
 
 建议你学习下面这套我专门给非程序员小白录制的入门课程
 
-> 从安装软件开始教给你，而且课程完全不涉及程序员的知识，完全不用担心学不会。有问题可以直接在学习群里问我，你实在搞不定的，我可以远程给你解决。只需要10元。
 
 | 课程链接                                                      | 配套文档&代码&软件                                                                                                                  |  读者交流群   |
 |-----------------------------------------------------------| ----------------------------------------------------------------------------------------------------------------------------------- | --- |
@@ -95,7 +94,7 @@
 
 ## 交流群
 
-<p align="center">
+<p align="center" id='进群-banner'>
     <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
     </a>   
@@ -108,16 +107,6 @@
     <img src="https://banner-1300615378.cos.ap-guangzhou.myqcloud.com/%E6%A8%AA%E6%9D%A1/Python%E5%A4%A7%E7%A4%BC%E5%8C%85.jpg" width="100%"/>
     </a>   
 </p>
-
-
-
-<p align="center" id='进群-banner'>
-    <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
-    </a>   
-</p>
-
-
 
 
 <p align="center" id='0基础数据分析-banner'>
