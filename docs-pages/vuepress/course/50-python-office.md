@@ -45,39 +45,39 @@
 
 > 如果是小白，请务必按顺序听完学会；如果是已经安装并且会使用的大佬，请直接跳转到下一部分的课程。
 
-- 第1讲：[Python3.11的下载、安装和卸载，有手就能学会](./docs/50-01-python.html)
-- 第2讲：[正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~](./docs/50-02-pycharm.html)
-- 第3讲：[不要重复造轮子原来是这个意思！pip的下载、安装和使用，编程准备工作最后一站](./docs/50-03-pip.html)
+- 第1讲：[【Python】3.11的下载、安装和卸载，有手就能学会](./docs/50-01-python.html)
+- 第2讲：[正版【PyCharm【，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~](./docs/50-02-pycharm.html)
+- 第3讲：[不要重复造轮子原来是这个意思！【pip】的下载、安装和使用，编程准备工作最后一站](./docs/50-03-pip.html)
 
 ## 1、核心内容
 为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
 
-- 第4讲：[PDF转Word，1行代码就够了，Python自动化办公原来这么简单](./docs/50-04-pdf2docx.html)
-- 第5讲：[100个Word转PDF，Python批量办公自动化，告别无意义加班](./docs/50-05-docx2pdf.html)
-- 第6讲：[把PPT转成1张长图，用Python只需要1行代码，小白入门必学](./docs/50-06-ppt2img.html)
-- 第7讲：[是真的！Python可以创建Excel了，1行代码就能模拟真实数据，AI自动化办公还会远吗？](./docs/50-07-fake2excel.html)
-- 第8讲：[免费的微信机器人发布了，只需要1行Python代码，赶紧来试试](./docs/50-08-airobot.html)
-- 第9讲：[根据内容搜索文件，1行Python代码，这是什么黑科技？](./docs/50-09-search4content.html)
-- 第10讲：[Excel转PDF，只需要1行Python代码，源码解读来了](./docs/50-10-excel2pdf.html)
-- 第11讲：[入门数据可视化，1行Python代码就够了，这是什么宝藏项目？](./docs/50-11-txt2wordcloud.html)
-- 第12讲：[文字转语音是怎么实现的？1行Python代码，不需要联网](./docs/50-12-txt2mp3.html)
-- 第13讲：[把Python代码打包成Exe软件，竟然用了100多行代码](./docs/50-13-ppt2pdf.html)
-- 第14讲：[体制内有用！按Sheet拆分Excel，1行Python代码稿定](./docs/50-14-sheet2excel.html)
-- 第15讲：[批量识别发票，自动保存到Excel中](./docs/50-15-VatInvoiceOCR2Excel.html)
-- 第16讲：[Python爬虫，了解一下？1行代码下载图片，小白轻松学](./docs/50-16-down4img.html)
-- 第17讲：[给图片去水印，Python怎么做？1行代码搞定，是最大的尊重](./docs/50-17-del_watermark.html)
-- 第18讲：[再讲微信聊天机器人，这次开启对话模式，根据关键词回复 | 1行代码，定制自己的Python智能助手](./docs/50-18-kw_robot.html)
+- 第4讲：[【PDF转Word】，1行代码就够了，Python自动化办公原来这么简单](./docs/50-04-pdf2docx.html)
+- 第5讲：[100个【Word转PDF】，Python批量办公自动化，告别无意义加班](./docs/50-05-docx2pdf.html)
+- 第6讲：[把【PPT】转成1张长图，用Python只需要1行代码，小白入门必学](./docs/50-06-ppt2img.html)
+- 第7讲：[是真的！Python可以创建【Excel】了，1行代码就能模拟真实数据，AI自动化办公还会远吗？](./docs/50-07-fake2excel.html)
+- 第8讲：[免费的【微信机器人】发布了，只需要1行Python代码，赶紧来试试](./docs/50-08-airobot.html)
+- 第9讲：[【根据内容搜索文件】，1行Python代码，这是什么黑科技？](./docs/50-09-search4content.html)
+- 第10讲：[【Excel转PDF】，只需要1行Python代码，源码解读来了](./docs/50-10-excel2pdf.html)
+- 第11讲：[入门【数据可视化【，1行Python代码就够了，这是什么宝藏项目？](./docs/50-11-txt2wordcloud.html)
+- 第12讲：[【文字转语音】是怎么实现的？1行Python代码，不需要联网](./docs/50-12-txt2mp3.html)
+- 第13讲：[把Python代码【打包成Exe软件】，竟然用了100多行代码](./docs/50-13-ppt2pdf.html)
+- 第14讲：[体制内有用！按Sheet【拆分Excel】，1行Python代码稿定](./docs/50-14-sheet2excel.html)
+- 第15讲：[批量【识别发票】，自动保存到Excel中](./docs/50-15-VatInvoiceOCR2Excel.html)
+- 第16讲：[Python【爬虫】，了解一下？1行代码下载图片，小白轻松学](./docs/50-16-down4img.html)
+- 第17讲：[给【图片去水印】，Python怎么做？1行代码搞定，是最大的尊重](./docs/50-17-del_watermark.html)
+- 第18讲：[再讲【微信聊天机器人】，这次开启对话模式，根据关键词回复 | 1行代码，定制自己的Python智能助手](./docs/50-18-kw_robot.html)
 
 ## 2、粉丝投稿
 
 读者里大佬很多，下面是粉丝的投稿视频，相关代码也在我们的课程资料里。
 
-- 粉丝投稿：[给图片加个水印吧，只需要1行Python代码，0基础也能学会](./docs/cooperator/01-add_watermark.html)
-- 粉丝投稿：[给PDF文件添加水印，1 行Python代码就够了，真香！](./docs/cooperator/02-pdf_warkmark.html)
-- 粉丝投稿：[1行代码搞定PDF加密，0基础入门Python编程，从这个案例开始](https://www.bilibili.com/video/BV1H8411X7uu/)
-- 粉丝投稿：[解密PDF，我发现了什么秘密？1行Python代码，你也能用](https://www.bilibili.com/video/BV1i14y1y7Kp/)
-- 粉丝投稿：[PDF合并，这1行Python代码，0基础也能用](https://www.bilibili.com/video/BV1a14y1k7v9/)
-- 粉丝投稿：[PDF转图片，1行Python代码实现，编程入门实战](https://www.bilibili.com/video/BV1Nz4y1L734)
+- 粉丝投稿：[给【图片加个水印】吧，只需要1行Python代码，0基础也能学会](./docs/cooperator/01-add_watermark.html)
+- 粉丝投稿：[给【PDF文件添加水印】，1 行Python代码就够了，真香！](./docs/cooperator/02-pdf_warkmark.html)
+- 粉丝投稿：[1行代码搞定【PDF加密】，0基础入门Python编程，从这个案例开始](https://www.bilibili.com/video/BV1H8411X7uu/)
+- 粉丝投稿：[【解密PDF】，我发现了什么秘密？1行Python代码，你也能用](https://www.bilibili.com/video/BV1i14y1y7Kp/)
+- 粉丝投稿：[【PDF合并】，这1行Python代码，0基础也能用](https://www.bilibili.com/video/BV1a14y1k7v9/)
+- 粉丝投稿：[【PDF转图片】，1行Python代码实现，编程入门实战](https://www.bilibili.com/video/BV1Nz4y1L734)
 
 
 ## 3、获取资料
