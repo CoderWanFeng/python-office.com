@@ -77,6 +77,7 @@
 - 粉丝投稿：[1行代码搞定PDF加密，0基础入门Python编程，从这个案例开始](https://www.bilibili.com/video/BV1H8411X7uu/)
 - 粉丝投稿：[解密PDF，我发现了什么秘密？1行Python代码，你也能用](https://www.bilibili.com/video/BV1i14y1y7Kp/)
 - 粉丝投稿：[PDF合并，这1行Python代码，0基础也能用](https://www.bilibili.com/video/BV1a14y1k7v9/)
+- 粉丝投稿：[PDF转图片，1行Python代码实现，编程入门实战](https://www.bilibili.com/video/BV1Nz4y1L734)
 
 
 ## 3、获取资料
