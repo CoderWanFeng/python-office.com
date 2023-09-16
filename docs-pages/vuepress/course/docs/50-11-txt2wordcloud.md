@@ -21,8 +21,6 @@
 
 > 2个付费渠道：B站和微信公众号，2选1就行，都是一样的价格 10元。
 
-
-
 - B站 购买链接：[点我直达](https://course-1300615378.cos.ap-guangzhou.myqcloud.com/50-python-office/bili-buy.jpg)
 - 微信 购买链接：[点我直达](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
 
@@ -39,7 +37,7 @@
 
 
 
-既然绝对路径能定位到文件位置，为什么还要使用相对路径呢？
+> 既然绝对路径能定位到文件位置，为什么还要使用相对路径呢？
 
 因为绝对路径是写死的，当你把代码给别人使用的时候，如果对方的存储位置和你的不一样，就找不到这个文件了。
 
@@ -47,11 +45,12 @@
 
 所以我在视频里，所有代码都使用的是相对路径，如下面的代码所示。
 
-这样当你下载了代码以后，就可以直接运行了。
+**这样当你付费拿到课程的代码以后，就可以直接运行了。**
 
 ```python
 
 import office
 
-office.image.txt2wordcloud(filename=r'./test_files/50-11-txt2wordcloud/python-office.txt', color="black", result_file="your_wordcloud.png")
+office.image.txt2wordcloud(filename=r'./test_files/50-11-txt2wordcloud/python-office.txt',  # 这里是相对路径
+                           color="black", result_file="your_wordcloud.png")
 ```
