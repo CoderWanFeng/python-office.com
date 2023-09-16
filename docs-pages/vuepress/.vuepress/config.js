@@ -49,8 +49,8 @@ module.exports = {
             {
                 text: '📕课程', items: [
                     { text: '121讲-Python基础', link: 'http://gk.link/a/128fC' },
-                    { text: '50讲-自动化办公', link: 'https://www.python-office.com/course/50-python-office.html' },
-                    { text: '8讲-微信机器人', link: 'https://mp.weixin.qq.com/s/9aspEHdCiAdXK17AvHlu9Q' }
+                    { text: '50讲-自动化办公', link: '../course/50-python-office.html' },
+                    { text: '12讲-微信机器人', link: '../office/robot' }
                 ]
             },
             {
