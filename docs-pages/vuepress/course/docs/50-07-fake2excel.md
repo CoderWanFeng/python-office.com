@@ -1,7 +1,7 @@
 # 【第7讲】是真的！Python可以创建Excel了，1行代码就能模拟真实数据，AI自动化办公还会远吗？
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://www.python-office.com/course/50-python-office.html)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
 ------
 
 ![](../xmind/imgs/50-07-fake2excel.png)

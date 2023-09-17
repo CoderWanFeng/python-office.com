@@ -1,7 +1,7 @@
 # 【第4讲】PDF转Word，1行代码就够了，Python自动化办公原来这么简单
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://www.python-office.com/course/50-python-office.html)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
 ------
 
 ![](../xmind/imgs/50-04-pdf2docx.png)

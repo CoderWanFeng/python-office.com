@@ -2,7 +2,7 @@
 
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://www.python-office.com/course/50-python-office.html)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
 ------
 
 ![](../xmind/imgs/50-10-excel2pdf.png)

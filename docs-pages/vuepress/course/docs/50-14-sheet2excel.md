@@ -1,7 +1,7 @@
 # 【第14讲】体制内有用！按Sheet拆分Excel，1行Python代码稿定
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://www.python-office.com/course/50-python-office.html)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
 ------
 
 ![](../xmind/imgs/50-14-sheet2excel.png)

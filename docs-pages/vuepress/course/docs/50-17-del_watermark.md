@@ -1,7 +1,7 @@
 # 【第17讲】给图片去水印，Python怎么做？1行代码搞定，是最大的尊重
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://www.python-office.com/course/50-python-office.html)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
 ------
 
 

@@ -1,7 +1,7 @@
 # 重磅！python-office，终于支持 Mac和 Linux下载了
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://www.python-office.com/course/50-python-office.html)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
 ------
 
 大家好，这里是程序员晚枫，小红书也叫这个名。
