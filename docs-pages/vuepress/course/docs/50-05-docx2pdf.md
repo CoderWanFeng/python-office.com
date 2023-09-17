@@ -43,7 +43,7 @@
 > 2个付费渠道：B站和微信公众号，2选1就行，都是一样的价格 10元。
 
 
-- B站 购买链接：[点我直达](https://course-1300615378.cos.ap-guangzhou.myqcloud.com/50-python-office/bili-buy.jpg)
+- B站 购买链接：[点我直达](https://mp.weixin.qq.com/s/3kUW1BQkQrr9f1L_JVR0iA)
 - 微信 购买链接：[点我直达](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
 
 付费后，2个平台都会自动出现百度云链接，永久有效。
