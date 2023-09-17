@@ -15,7 +15,7 @@
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1ph4y1v7MN" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
-## 获取资料
+## 下载资料
 
 ![](../docs/imgs/common/code.png)
 

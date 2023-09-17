@@ -24,7 +24,7 @@
 
 
 
-## 获取资料
+## 下载资料
 
 ![](../docs/imgs/common/code.png)
 

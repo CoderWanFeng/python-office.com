@@ -10,7 +10,7 @@
 <iframe src="//player.bilibili.com/player.html?bvid=BV1Xk4y1c7Dk" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
-## 获取资料
+## 下载资料
 
 ![](../docs/imgs/common/code.png)
 
