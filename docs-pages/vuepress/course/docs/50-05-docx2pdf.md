@@ -20,7 +20,7 @@
 
 付费后，每篇文章的最后，你都会看到一个相同的二维码。不付费你是看不到的。付费的同学，赶紧滑倒文末去领取吧~
 
-## 视频说明
+## 本讲视频
 
 曾经遇到过一个需求：口罩期间，公司需要给大家发放补贴，想给每个人都单独发一个通知。
 
@@ -31,7 +31,7 @@
 <iframe src="//player.bilibili.com/player.html?bvid=BV1K84y1Z7n6" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
-## 下载资料
+## 下载课程代码
 
 ![](../docs/imgs/common/code.png)
 

@@ -42,7 +42,7 @@
 
 
 
-## 下载资料
+## 下载课程代码
 
 ![](../docs/imgs/common/code.png)
 

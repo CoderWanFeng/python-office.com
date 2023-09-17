@@ -44,7 +44,7 @@ office.wechat.chat_robot(who='每天进步一点点')  # 智能聊天
 
 这段代码，就必须在Windows系统里才能成功运行，因为虽然你在Mac上可以下载，但底层的技术支持Mac不如Windows全面，目前还是没有解决方法。
 
-## 下载资料
+## 下载课程代码
 
 ![](../imgs/common/code.png)
 

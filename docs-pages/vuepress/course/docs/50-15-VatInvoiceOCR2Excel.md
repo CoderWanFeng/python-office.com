@@ -18,12 +18,12 @@
 
 当然可以了！本期我们就来一起看一下，如何用1行代码批量识别发票，并且自动整理在Excle里。
 
-## 视频说明
+## 本讲视频
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1h94y1W7ds" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
-## 下载资料
+## 下载课程代码
 
 ![](../docs/imgs/common/code.png)
 

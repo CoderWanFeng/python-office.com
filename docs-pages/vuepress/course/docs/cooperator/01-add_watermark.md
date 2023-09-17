@@ -6,7 +6,7 @@
 
 
 
-## 视频说明
+## 本讲视频
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1Em4y1T7aH" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
@@ -25,7 +25,7 @@ office.image.add_watermark(file='./要添加水印的图片.png',
 ```
 
 
-## 下载资料
+## 下载课程代码
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 

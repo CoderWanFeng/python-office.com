@@ -9,7 +9,7 @@
 
 投稿请联系：👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
 
-## 视频说明
+## 本讲视频
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV13N411q7W2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
@@ -49,7 +49,7 @@ office.pdf.add_watermark_by_parameters(
 ```
 
 
-## 下载资料
+## 下载课程代码
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 

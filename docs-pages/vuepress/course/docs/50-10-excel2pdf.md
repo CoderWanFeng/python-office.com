@@ -22,12 +22,12 @@
 其二：另外**从本讲开始，本合集的每一篇文章都增加一些课外基础知识**，让大家看完视频以后，还能通过阅读文章获得更多Python基础知识。这部分补充知识在文章的最后，是不用付费合集就可以阅读的哟~
 
 
-## 视频说明
+## 本讲视频
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1Nh4y1K7KG" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
-## 下载资料
+## 下载课程代码
 
 ![](../docs/imgs/common/code.png)
 

@@ -11,11 +11,11 @@
 
 > 但是通过内容搜索文件，你用过吗？
 
-## 视频说明
+## 本讲视频
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1Lm4y1M7Pz" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
-## 下载资料
+## 下载课程代码
 
 ![](../docs/imgs/common/code.png)
 

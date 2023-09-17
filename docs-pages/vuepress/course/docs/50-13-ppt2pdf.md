@@ -8,12 +8,12 @@
 
 这一讲的主要内容是关于：python代码转成exe软件，但功能是用的PPT转PDF，这也是答疑群里读者自己提交的代码。
 
-## 视频说明
+## 本讲视频
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1Fw411S7kV" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
-## 下载资料
+## 下载课程代码
 
 ![](../docs/imgs/common/code.png)
 
