@@ -8,7 +8,9 @@
 
 有多少朋友第一次听说Python，是因为它可以轻松实现数据可视化？
 
+今天我们就来学习一个入门案例：1行代码Python，实现文档数据可视化。效果如下。👇
 
+![](../docs/imgs/50-11/your_wordcloud.png)
 ## 视频说明
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1ph4y1v7MN" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
