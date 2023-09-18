@@ -19,9 +19,9 @@ poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/50-15-VatInvoiceOCR2
                                     key='2pX6Us1vaBl26uUv5B9tbDagW8UcEZ8c')
 
 # 全部100多个识别功能：https://mp.weixin.qq.com/s/WxICBZZSgkm-OrvXB82hbg
-# 识别增值税发票
-ressult = poocr.ocr.VatInvoiceOCR()
-# 识别银行卡
-ressult = poocr.ocr.BankCardOCR()
-# 识别身份证
-ressult = poocr.ocr.IDCardOCR()
+# # 识别增值税发票
+# ressult = poocr.ocr.VatInvoiceOCR()
+# # 识别银行卡
+# ressult = poocr.ocr.BankCardOCR()
+# # 识别身份证
+# ressult = poocr.ocr.IDCardOCR()

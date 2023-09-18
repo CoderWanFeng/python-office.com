@@ -66,7 +66,8 @@
 - 第15讲：[批量【识别发票】，自动保存到Excel中](./docs/50-15-VatInvoiceOCR2Excel.html)
 - 第16讲：[Python【爬虫】，了解一下？1行代码下载图片，小白轻松学](./docs/50-16-down4img.html)
 - 第17讲：[给【图片去水印】，Python怎么做？1行代码搞定，是最大的尊重](./docs/50-17-del_watermark.html)
-- 第18讲：[再讲【微信聊天机器人】，这次开启对话模式，根据关键词回复 | 1行代码，定制自己的Python智能助手](./docs/50-18-kw_robot.html)
+- 第18讲：[1行Python代码，定制自己的智能助理，【微信机器人】开启关键词回复模式](./docs/50-18-kw_robot.html)
+- 第19讲：[汉字转拼音，1行Python代码就够了，【少儿编程】太好玩了！](https://www.bilibili.com/video/BV1Nw411v7Jp/)
 
 ## 2、粉丝投稿
 
