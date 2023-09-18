@@ -68,6 +68,7 @@
 - 第17讲：[给【图片去水印】，Python怎么做？1行代码搞定，是最大的尊重](./docs/50-17-del_watermark.html)
 - 第18讲：[1行Python代码，定制自己的智能助理，【微信机器人】开启关键词回复模式](./docs/50-18-kw_robot.html)
 - 第19讲：[汉字转拼音，1行Python代码就够了，【少儿编程】太好玩了！](https://www.bilibili.com/video/BV1Nw411v7Jp/)
+- 第20讲：[汉字转拼音，1行Python代码就够了，【少儿编程】太好玩了！](https://www.bilibili.com/video/BV1oN411H7cH/)
 
 ## 2、粉丝投稿
 
