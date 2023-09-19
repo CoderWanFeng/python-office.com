@@ -9,8 +9,9 @@
 
 import povideo
 
-# povideo.mark2video(video_path=r'D:\迅雷下载\9月13日-1\16.mp4',output_path=r'D:\迅雷下载\9月13日-1\16')
-povideo.mark2video(video_path=r'D:\download\baiduyun\5个实用的PDF自动化办公操作~1行Python代码搞定PDF转图片\06-PDF转图片.mp4')
+povideo.mark2video(video_path=r'D:\迅雷下载\9月20日(1)\21.mp4',output_path=r'D:\迅雷下载\9月20日(1)\21')
+# povideo.mark2video(video_path=r'D:\迅雷下载\9月18日\20.mp4',output_path=r'D:\迅雷下载\9月18日\20')
+# povideo.mark2video(video_path=r'D:\download\baiduyun\5个实用的PDF自动化办公操作~1行Python代码搞定PDF转图片\06-PDF转图片.mp4')
 import os
 IMAGEMAGICK_BINARY = os.getenv('IMAGEMAGICK_BINARY', 'auto-detect')
 # IMAGEMAGICK_BINARY = os.getenv('Path', 'auto-detect')

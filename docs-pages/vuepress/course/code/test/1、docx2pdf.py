@@ -7,8 +7,11 @@
 @本段代码的视频说明     ：
 '''
 
-# pip install python-office ，下载教程：https://www.bilibili.com/video/BV1pT4y1k7FH
+# -*- coding: UTF-8 -*-
+
+
 import office
 
-rate = office.finance.t0(5.6, 5.78, 1000)
-print(rate)
+
+# PyOfficeRobot.file.send_file(who='每天进步一点点', file=r'C:\Users\Lenovo\Desktop\temp\0.jpg')
+office.wechat.send_file(who='文件传输助手', file=r'E:\工作资料\成套汇总资料\Word\Data\汇总文档.docx')
