@@ -67,9 +67,9 @@
 - 第16讲：[Python【爬虫】，了解一下？1行代码下载图片，小白轻松学](./docs/50-16-down4img.html)
 - 第17讲：[给【图片去水印】，Python怎么做？1行代码搞定，是最大的尊重](./docs/50-17-del_watermark.html)
 - 第18讲：[1行Python代码，定制自己的智能助理，【微信机器人】开启关键词回复模式](./docs/50-18-kw_robot.html)
-- 第19讲：[汉字转拼音，1行Python代码就够了，【少儿编程】太好玩了！](https://www.bilibili.com/video/BV1Nw411v7Jp/)
-- 第20讲：[同时查找100个【Excel】，阁下如何应对？1行Python搞定](https://www.bilibili.com/video/BV1oN411H7cH/)
-- 第21讲：[一次股票涨停，到底能赚多少钱？1行Python代码，终于算明白了](https://www.bilibili.com/video/BV1zj411k7SX)
+- 第19讲：[汉字转拼音，1行Python代码就够了，【少儿编程】太好玩了！](./docs/50-19-han2pinyin.html)
+- 第20讲：[同时查找100个【Excel】，阁下如何应对？1行Python搞定](./docs/50-20-query4excel.html)
+- 第21讲：[一次股票涨停，到底能赚多少钱？1行Python代码，终于算明白了](./docs/50-21-single_t.html)
 
 ## 2、粉丝投稿
 
