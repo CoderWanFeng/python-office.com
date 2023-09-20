@@ -1,4 +1,4 @@
-# 【第20讲】有手就能学会！Python3的下载、安装和卸载，新人可以无脑操作
+# 【第20讲】同时查找100个Excel，阁下如何应对？1行Python搞定
 
 ------
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)

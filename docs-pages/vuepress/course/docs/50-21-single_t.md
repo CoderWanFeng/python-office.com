@@ -1,4 +1,4 @@
-# 【第21讲】有手就能学会！Python3的下载、安装和卸载，新人可以无脑操作
+# 【第21讲】一次股票涨停，到底能赚多少钱？1行Python代码，终于算明白了
 
 ------
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)

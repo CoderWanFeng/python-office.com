@@ -1,4 +1,4 @@
-# 【第19讲】有手就能学会！Python3的下载、安装和卸载，新人可以无脑操作
+# 【第19讲】汉字转拼音，1行Python代码就够了，少儿编程太好玩了！
 
 ------
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
