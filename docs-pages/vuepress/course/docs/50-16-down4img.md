@@ -30,3 +30,16 @@
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
 
 
+## 补充知识 - 批量操作
+
+我们在文件操作中，大概率会涉及批量操作。PS：不涉及批量操作，还要自动化办公干什么？
+
+批量操作文件的前提是，能批量取出文件。以pdf转word为例，如果批量获得文件夹里的全部pdf文件呢？
+
+我们讲一下下面的代码。这段源码的地址，见：``https://github.com/CoderWanFeng/popdf/blob/main/popdf/core/PDFType.py#L78``
+👇
+```python
+def pdf2docx(self, file_path, output_path, pdfSuffix='.pdf', docxSuffix=".docx"):
+    waiting_covert_pdf_files = get_files(file_path, suffix=pdfSuffix)
+    """此处省略无关代码"""
+```
