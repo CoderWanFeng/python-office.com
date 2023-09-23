@@ -70,6 +70,8 @@
 - 第19讲：[汉字转拼音，1行Python代码就够了，【少儿编程】太好玩了！](./docs/50-19-han2pinyin.html)
 - 第20讲：[同时查找100个【Excel】，阁下如何应对？1行Python搞定](./docs/50-20-query4excel.html)
 - 第21讲：[一次股票涨停，到底能赚多少钱？1行Python代码，终于算明白了](./docs/50-21-single_t.html)
+- 第22讲：[合并Excel，1行Python代码搞定，数据分析专用](./docs/50-22-merge2excel.html)
+- 第23讲：[批量重命名文件和文件夹，1行代码搞定，Python自动化办公很简单](./docs/50-23-replace4filename.html)
 
 ## 2、粉丝投稿
 
