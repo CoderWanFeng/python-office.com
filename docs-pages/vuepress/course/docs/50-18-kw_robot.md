@@ -30,4 +30,15 @@
 
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
 
+## 补充知识 - 用Python调用ChatGPT
+
+今年ChatGPT非常火，我也用ChatGPT做了一些试验：[赚麻了！这个周末，我用AI发布了50篇文章、20个视频](https://mp.weixin.qq.com/s/ZY8WzQg0oA25wOsynq0Uyg)。
+
+很多朋友想知道：ChatGPT怎么用？
+
+ChatGPT官方推荐的使用方法，就有Python这一选择，而且提供了标准的代码。我之前也封装到了微信机器人里，这里也分享给大家。👇
+
+视频号
+
+
 

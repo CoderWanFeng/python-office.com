@@ -39,7 +39,19 @@
 我们讲一下下面的代码。这段源码的地址，见：``https://github.com/CoderWanFeng/popdf/blob/main/popdf/core/PDFType.py#L78``
 👇
 ```python
+from pofile import get_files
 def pdf2docx(self, file_path, output_path, pdfSuffix='.pdf', docxSuffix=".docx"):
     waiting_covert_pdf_files = get_files(file_path, suffix=pdfSuffix)
     """此处省略无关代码"""
 ```
+上面这段代码中，``get_files``就是批量获取文件的代码。它可以自动查询指定文件夹下的所有文件，其中``suffix``参数，还可以通过文件后缀，指定文件类型。
+
+例如，我想要获取D盘下所有的pdf文件，代码可以这样写：
+
+```python
+from pofile import get_files
+
+pdf_files = get_files(path=r'd://', suffix='.pdf')
+print(pdf_files)
+```
+

@@ -7,11 +7,12 @@
 @本段代码的视频说明     ：
 '''
 
-# -*- coding: UTF-8 -*-
+
+sum_num = 0
+for num in range(1, 101):
+    sum_num += num
+print(sum_num)
 
 
-import office
-
-
-# PyOfficeRobot.file.send_file(who='每天进步一点点', file=r'C:\Users\Lenovo\Desktop\temp\0.jpg')
-office.wechat.send_file(who='文件传输助手', file=r'E:\工作资料\成套汇总资料\Word\Data\汇总文档.docx')
+sum_num = sum(range(1, 101))
+print(sum_num)
