@@ -72,6 +72,9 @@
 - 第21讲：[一次股票涨停，到底能赚多少钱？1行Python代码，终于算明白了](./docs/50-21-single_t.html)
 - 第22讲：[合并Excel，1行Python代码搞定，数据分析专用](./docs/50-22-merge2excel.html)
 - 第23讲：[批量重命名文件和文件夹，1行代码搞定，Python自动化办公很简单](./docs/50-23-replace4filename.html)
+- 第24讲：[提取Word中所有图片，1行代码搞定](./docs/50-24-docx4imgs.html)
+- 第25讲：[批量合并Word文件，早下班就靠它了](./docs/50-25-merge4docx.html)
+- 第26讲：[自动整理文件夹，智能办公，你值得拥有](./docs/50-26-group_by_name.html)
 
 ## 2、粉丝投稿
 

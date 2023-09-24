@@ -9,7 +9,9 @@
 
 import povideo
 
-povideo.mark2video(video_path=r'D:\迅雷下载\9月23日 (1)\23.mp4',output_path=r'D:\迅雷下载\9月23日 (1)\23')
+povideo.mark2video(video_path=r'D:\迅雷下载\9月24日-26\24.mp4',output_path=r'D:\迅雷下载\9月24日-26\24-26')
+povideo.mark2video(video_path=r'D:\迅雷下载\9月24日-26\25.mp4',output_path=r'D:\迅雷下载\9月24日-26\24-26')
+povideo.mark2video(video_path=r'D:\迅雷下载\9月24日-26\26.mp4',output_path=r'D:\迅雷下载\9月24日-26\24-26')
 # povideo.mark2video(video_path=r'D:\迅雷下载\9月18日\20.mp4',output_path=r'D:\迅雷下载\9月18日\20')
 # povideo.mark2video(video_path=r'D:\download\baiduyun\5个实用的PDF自动化办公操作~1行Python代码搞定PDF转图片\06-PDF转图片.mp4')
 import os
