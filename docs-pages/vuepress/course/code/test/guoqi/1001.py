@@ -33,4 +33,5 @@
 # head_picture.save('国旗头像.png')
 
 import poimage
-poimage.flag2profile(flag_path=r'./国旗1024.png',profile_path=r'./头像600.jpg',output_path=r'./out/p01.png')
+
+poimage.flag2profile(flag_path=r'./国旗1024.png', profile_path=r'./头像600.jpg', output_path=r'./out/p01.png')
