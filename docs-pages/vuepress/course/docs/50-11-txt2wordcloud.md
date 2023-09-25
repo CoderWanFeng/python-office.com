@@ -1,7 +1,7 @@
 # 【第11讲】入门数据可视化，1行Python代码就够了，这是什么宝藏项目？
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/W39OFo6XoXsS-hL9poHP6Q)
 ------
 
 ![](../xmind/imgs/50-11-txt2wordcloud.png)

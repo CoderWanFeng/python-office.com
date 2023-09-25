@@ -1,7 +1,7 @@
 # 【第13讲】把Python代码打包成Exe软件，竟然用了100多行代码
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/W39OFo6XoXsS-hL9poHP6Q)
 ------
 
 ![](../xmind/imgs/50-13-ppt2pdf.png)

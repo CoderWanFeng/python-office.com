@@ -1,7 +1,7 @@
 # 【粉丝投稿】给图片加个水印吧，只需要1行Python代码，0基础也能学会
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/W39OFo6XoXsS-hL9poHP6Q)
 ------
 
 
@@ -54,7 +54,7 @@ office.pdf.add_watermark_by_parameters(
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/W39OFo6XoXsS-hL9poHP6Q)
 ------
 
 付费合集后，下方自动出现百度云链接，永久有效。

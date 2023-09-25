@@ -1,7 +1,7 @@
 # 【第1讲】Python3.11的下载、安装和卸载，有手就能学会
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/naqnxjkrhvDtoCnzlRIO1Q)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/W39OFo6XoXsS-hL9poHP6Q)
 ------
 
 
