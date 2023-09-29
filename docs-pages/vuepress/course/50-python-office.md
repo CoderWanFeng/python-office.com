@@ -76,6 +76,7 @@
 - 第25讲：[合并Word](./docs/50-25-merge4docx.html)
 - 第26讲：[自动整理文件夹](./docs/50-26-group_by_name.html)
 - 第27讲：[免费制作，国旗微信头像](./docs/50-27-flag2profile.html)
+- 第28讲：[批量压缩](./docs/50-28-zip4dir.html)
 
 ## 2、粉丝投稿
 

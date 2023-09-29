@@ -1,29 +1,33 @@
-```python
-import zipfile
-import os
+# 【第28讲】批量压缩文件夹，1行Python代码搞定！
+
+------
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/W39OFo6XoXsS-hL9poHP6Q)
+------
 
 
-def zip_yasuo(start_dir):
-    file_news = start_dir + '.zip'
-    if not os.path.isfile(file_news):
-        z = zipfile.ZipFile(file_news, 'w', zipfile.ZIP_DEFLATED)
-        for dir_path, dir_names, file_names in os.walk(start_dir):
-            file_path = dir_path.replace(start_dir, '')
-            file_path = file_path and file_path + os.sep or ''
-            for filename in file_names:
-                z.write(os.path.join(dir_path, filename), file_path + filename)
-        z.close()
+
+## 本讲视频
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Tm4y1V7bM" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
-if __name__ == "__main__":
-    base_path = r"../test_files"
-    base_path_list = os.listdir(base_path)
-    for base_path_list_one in base_path_list:
-        base_path_list_one_dir = os.path.join(base_path, base_path_list_one)
-        # 子目录
-        print("准备压缩需要压缩的子目录", base_path_list_one_dir)
-        if os.path.isdir(base_path_list_one_dir):
-            zip_yasuo(base_path_list_one_dir)
+## 下载课程代码
+
+![](../docs/imgs/common/code.png)
 
 
-```
+
+
+如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
+
+> 2个付费渠道：B站和微信公众号，2选1就行，都是一样的价格 10元。
+
+
+- B站 购买链接：[点我直达](https://mp.weixin.qq.com/s/3kUW1BQkQrr9f1L_JVR0iA)
+- 微信 购买链接：[点我直达](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
+
+付费后，2个平台都会自动出现百度云链接，永久有效。
+
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
+
+
