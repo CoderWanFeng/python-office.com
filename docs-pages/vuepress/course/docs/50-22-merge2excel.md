@@ -31,3 +31,40 @@
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
 
 
+## 补充知识 - 3.12中，我最期待的新特性
+
+今年10月2号，Python3.12正式发布。
+
+每次发布新版本，都会增加一些新的特性（你可以理解成新语法 or 新功能）。官方原文：``https://docs.python.org/3.12/whatsnew/3.12.html``
+
+
+今天我们一起来看一个，这次更新中，我们会在自动化办公会用到的新特性：override。
+
+### @override
+
+这是我最期待的新特性了，没有之一。
+
+这是一个装饰器，自动校验重载的方法是否正确。
+
+要知道，现在的Python虽然有这个装饰器，但实际是没有校验功能的，写和不写，没区别。
+
+以下是有了新特性后的演示代码：
+
+```python
+from typing import override
+
+class Base:
+  def get_color(self) -> str:
+    return "blue"
+
+class GoodChild(Base):
+  @override  # ok: overrides Base.get_color
+  def get_color(self) -> str:
+    return "yellow"
+
+class BadChild(Base):
+  @override  # type checker error: does not override Base.get_color
+  def get_colour(self) -> str:
+    return "red"
+```
+
