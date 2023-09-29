@@ -79,6 +79,7 @@
 - 第28讲：[批量压缩文件夹](./docs/50-28-zip4dir.html)
 - 第29讲：[PPT转PDF](./docs/50-29-ppt2pdf.html)
 - 第30讲：[合并PPT](./docs/50-30-merge4ppt.html)
+- 第31讲：[群发节日祝福](./docs/50-31-group_send.html)
 
 ## 2、粉丝投稿
 

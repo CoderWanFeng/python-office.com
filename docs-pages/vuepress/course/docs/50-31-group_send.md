@@ -1,4 +1,4 @@
-# 【第30讲】合并PPT，1行Python代码搞定！
+# 【第31讲】自动群发节日祝福，1行Python代码搞定
 
 ------
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/W39OFo6XoXsS-hL9poHP6Q)
@@ -8,7 +8,7 @@
 
 ## 本讲视频
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1E94y1Y7Mr" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1ZH4y1o7Db" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
 
 
 ## 下载课程代码
