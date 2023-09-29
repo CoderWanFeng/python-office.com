@@ -77,8 +77,8 @@
 - 第26讲：[自动整理文件夹](./docs/50-26-group_by_name.html)
 - 第27讲：[免费制作，国旗微信头像](./docs/50-27-flag2profile.html)
 - 第28讲：[批量压缩文件夹](./docs/50-28-zip4dir.html)
-- 第28讲：[批量压缩](./docs/50-28-zip4dir.html)
-- 第28讲：[批量压缩](./docs/50-28-zip4dir.html)
+- 第29讲：[PPT转PDF](./docs/50-29-ppt2pdf.html)
+- 第30讲：[合并PPT](./docs/50-30-merge4ppt.html)
 
 ## 2、粉丝投稿
 
