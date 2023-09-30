@@ -1,4 +1,4 @@
-# 【第31讲】自动群发节日祝福，1行Python代码搞定
+# 【第32讲】用Python创建文件夹，1行代码搞定
 
 ------
 > 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/W39OFo6XoXsS-hL9poHP6Q)
