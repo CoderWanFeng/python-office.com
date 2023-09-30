@@ -80,6 +80,11 @@
 - 第29讲：[PPT转PDF](./docs/50-29-ppt2pdf.html)
 - 第30讲：[合并PPT](./docs/50-30-merge4ppt.html)
 - 第31讲：[群发节日祝福](./docs/50-31-group_send.html)
+- 第32讲：[创建文件夹](./docs/50-32-mkdir.html)
+- 第33讲：[密码生成器](./docs/50-33-passwordtools.html)
+- 第34讲：[生成二维码图片](./docs/50-34-qrcodetools.html)
+- 第35讲：[解密对方的IP地址](./docs/50-35-url2ip.html)
+- 第36讲：[识别车牌号码](./docs/50-36-LicensePlateOCR.html)
 
 ## 2、粉丝投稿
 

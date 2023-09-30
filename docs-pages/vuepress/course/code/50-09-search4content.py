@@ -9,5 +9,5 @@
 import office
 
 office.file.search_by_content(
-    search_path=r'D:\workplace\code\gitee\python-office.com\docs-pages\vuepress\course\code\test_files\50-09-search4content',
+    search_path=r'..\test_files\50-09-search4content',
     content='import office')
