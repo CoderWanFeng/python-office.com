@@ -1,7 +1,7 @@
 # 【第6讲】把PPT转成1张长图，用Python只需要1行代码，小白入门必学
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/W39OFo6XoXsS-hL9poHP6Q)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/6hAgvbcXhdWOh4K9OH73cA)
 ------
 
 ![](../xmind/imgs/50-06-ppt2img.png)

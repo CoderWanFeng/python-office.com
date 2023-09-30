@@ -1,7 +1,7 @@
 # 【第22讲】合并Excel，1行Python代码搞定，数据分析专用
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/W39OFo6XoXsS-hL9poHP6Q)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/6hAgvbcXhdWOh4K9OH73cA)
 ------
 
 
