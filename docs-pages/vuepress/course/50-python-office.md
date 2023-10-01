@@ -37,7 +37,7 @@
 
 以下[绿色](https://mp.weixin.qq.com/s/_01V8I7rVkgvIIo7ygwwQA)文字，均可点击直达👇
 
-## 0、准备工作
+## 1、准备工作
 
 课程前3讲，主要是Python环境的搭建，包含：python的安装、pycharm的安装和pip的使用。
 
@@ -49,7 +49,7 @@
 - 第2讲：[正版PyCharm的下载和使用教程，还有中文插件哦~](./docs/50-02-pycharm.html)
 - 第3讲：[pip的下载、安装和使用](./docs/50-03-pip.html)
 
-## 1、核心内容
+## 2、核心内容
 为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
 
 - 第4讲：[PDF转Word](./docs/50-04-pdf2docx.html)
@@ -85,17 +85,12 @@
 - 第34讲：[生成二维码图片](./docs/50-34-qrcodetools.html)
 - 第35讲：[解密对方的IP地址](./docs/50-35-url2ip.html)
 - 第36讲：[识别车牌号码](./docs/50-36-LicensePlateOCR.html)
-
-## 2、粉丝投稿
-
-读者里大佬很多，下面是粉丝的投稿视频，相关代码也在我们的课程资料里。
-
-- 粉丝投稿：[给【图片加个水印】吧，只需要1行Python代码，0基础也能学会](./docs/cooperator/01-add_watermark.html)
-- 粉丝投稿：[给【PDF文件添加水印】，1 行Python代码就够了，真香！](./docs/cooperator/02-pdf_warkmark.html)
-- 粉丝投稿：[1行代码搞定【PDF加密】，0基础入门Python编程，从这个案例开始](https://www.bilibili.com/video/BV1H8411X7uu/)
-- 粉丝投稿：[【解密PDF】，我发现了什么秘密？1行Python代码，你也能用](https://www.bilibili.com/video/BV1i14y1y7Kp/)
-- 粉丝投稿：[【PDF合并】，这1行Python代码，0基础也能用](https://www.bilibili.com/video/BV1a14y1k7v9/)
-- 粉丝投稿：[【PDF转图片】，1行Python代码实现，编程入门实战](https://www.bilibili.com/video/BV1Nz4y1L734)
+- 第37讲：[PDF添加水印](./docs/cooperator/02-pdf_warkmark.html)
+- 第38讲：[PDF加密](https://www.bilibili.com/video/BV1H8411X7uu/)
+- 第39讲：[PDF解密](https://www.bilibili.com/video/BV1i14y1y7Kp/)
+- 第40讲：[PDF合并](https://www.bilibili.com/video/BV1a14y1k7v9/)
+- 第41讲：[PDF转图片](https://www.bilibili.com/video/BV1Nz4y1L734)
+- 第42讲：[图片加水印](./docs/cooperator/01-add_watermark.html)
 
 
 ## 3、获取资料
