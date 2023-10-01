@@ -61,3 +61,10 @@ res_list = [num for num in num_list if num > 5]
 print(res_list)
 ```
 
+## 读者福利
+
+<p align="center" id='福利合集-banner'>
+    <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>

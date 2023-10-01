@@ -39,6 +39,13 @@
 ChatGPT官方推荐的使用方法，就有Python这一选择，而且提供了标准的代码。我之前也封装到了微信机器人里，这里也分享给大家。👉[打开链接，滑到文末](https://mp.weixin.qq.com/s/qc7zTvYZG4iZg6HLtnde-w)
 
 
+## 读者福利
+
+<p align="center" id='福利合集-banner'>
+    <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>
 
 
 

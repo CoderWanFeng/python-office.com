@@ -59,3 +59,10 @@ print(sum_num)
 想了解更多内置函数，可以看我之前写的文章：[Python打基础一定要吃透这68个内置函数](https://mp.weixin.qq.com/s/zkqHTof0nRKkeeXtcn_7hQ)
 
 
+## 读者福利
+
+<p align="center" id='福利合集-banner'>
+    <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>

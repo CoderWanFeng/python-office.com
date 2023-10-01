@@ -31,3 +31,11 @@
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
 
 
+## 读者福利
+
+<p align="center" id='福利合集-banner'>
+    <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>
+

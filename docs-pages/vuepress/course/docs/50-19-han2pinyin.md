@@ -41,3 +41,12 @@
 
 - [少儿编程，有用吗？](https://www.bilibili.com/video/BV11N411A7ou/?spm_id_from=333.999.0.0&vd_source=dcea3feb81b702defb6006f671564224)
 - [【程序员晚枫】少儿编程，有必要学吗？避坑指南，一看就懂！](https://www.bilibili.com/video/BV1me4y1d7Ks/?spm_id_from=333.999.0.0&vd_source=dcea3feb81b702defb6006f671564224)
+
+
+## 读者福利
+
+<p align="center" id='福利合集-banner'>
+    <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>

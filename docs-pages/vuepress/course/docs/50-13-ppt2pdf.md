@@ -69,3 +69,11 @@ print(add(2, 3))  # 显示2+3的结果
 - return这2个数相加的结果
 - 后面的代码中，可以直接使用add调用这个方法，得到2个数相加的结果
 
+
+## 读者福利
+
+<p align="center" id='福利合集-banner'>
+    <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>

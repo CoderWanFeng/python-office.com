@@ -44,3 +44,12 @@
 - 首先是pandas的官方网站：http://pandas.pydata.org/ 。优点：知识最权威、最准确。唯一的缺点：纯英文，对于英语不好的同学来说，很痛苦。
 - 其次是1套播放量已经30w+的视频课程：[《30讲Pandas + Excel自动化办公》](https://www.bilibili.com/video/BV1hk4y1C73S/)。优点：通俗易懂，播放量已经说明问题了。缺点：太通俗易懂了，对于想专业学习Python数据分析的同学来说，不够深入。
 - 最后是一本书：[《pandas创始人：我写了1本《利用Python进行数据分析》，提供全套代码》](https://mp.weixin.qq.com/s/aXEsRlZX1ChVeNrs4cPNtg)，这本书是pandas的创始人写的，既通俗易懂，又知识全面。
+
+
+## 读者福利
+
+<p align="center" id='福利合集-banner'>
+    <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>

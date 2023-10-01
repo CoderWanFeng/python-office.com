@@ -63,3 +63,11 @@
 说到这里，就不得不提到：在Python里，有一个专门处理接口的第三方库：requests，而它也是爬虫的基础库。
 
 感兴趣的同学可以先在网上了解一下，我们在后面的爬虫课程里，也会详细介绍。
+
+## 读者福利
+
+<p align="center" id='福利合集-banner'>
+    <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>
