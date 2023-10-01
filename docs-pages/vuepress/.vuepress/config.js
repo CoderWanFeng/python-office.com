@@ -42,15 +42,15 @@ module.exports = {
             { text: '🚀回到主页', link: '/' },
             {
                 text: '🔥下载', items: [
-                    { text: '软件', link: 'http://python4office.cn/python-download/' },
+                    { text: '软件', link: 'http://www.python4office.cn/python-download/' },
                     { text: '源码', link: 'https://www.python-office.com/contributor/contributor.html' }
                 ]
             },
             {
                 text: '📕课程', items: [
                     { text: '121讲-Python基础', link: 'http://gk.link/a/128fC' },
-                    { text: '50讲-自动化办公', link: '../course/50-python-office.html' },
-                    { text: '12讲-微信机器人', link: '../office/robot' }
+                    { text: '50讲-自动化办公', link: 'https://www.python-office.com/course/50-python-office.html' },
+                    { text: '10讲-微信机器人', link: 'https://www.python-office.com/course-002/10-PyOfficeRobot/10-PyOfficeRobot.html' }
                 ]
             },
             {
