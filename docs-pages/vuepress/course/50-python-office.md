@@ -85,12 +85,12 @@
 - 第34讲：[生成二维码图片](./docs/50-34-qrcodetools.html)
 - 第35讲：[解密对方的IP地址](./docs/50-35-url2ip.html)
 - 第36讲：[识别车牌号码](./docs/50-36-LicensePlateOCR.html)
-- 第37讲：[PDF添加水印](./docs/cooperator/02-pdf_warkmark.html)
-- 第38讲：[PDF加密](https://www.bilibili.com/video/BV1H8411X7uu/)
-- 第39讲：[PDF解密](https://www.bilibili.com/video/BV1i14y1y7Kp/)
-- 第40讲：[PDF合并](https://www.bilibili.com/video/BV1a14y1k7v9/)
-- 第41讲：[PDF转图片](https://www.bilibili.com/video/BV1Nz4y1L734)
-- 第42讲：[图片加水印](./docs/cooperator/01-add_watermark.html)
+- 第37讲：[PDF添加水印](./docs/50-37-add_watermark_by_parameters.html)
+- 第38讲：[PDF加密](./docs/50-38-encrypt4pdf.html)
+- 第39讲：[PDF解密](./docs/50-39-decrypt4pdf.html)
+- 第40讲：[PDF合并](./docs/50-40-merge2pdf.html)
+- 第41讲：[PDF转图片](./docs/50-41-pdf2imgs.html)
+- 第42讲：[图片加水印](./docs/50-42-add_watermark.html)
 
 
 ## 3、获取资料
