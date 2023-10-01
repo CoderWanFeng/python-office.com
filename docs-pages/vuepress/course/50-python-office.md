@@ -91,6 +91,14 @@
 - 第40讲：[PDF合并](./docs/50-40-merge2pdf.html)
 - 第41讲：[PDF转图片](./docs/50-41-pdf2imgs.html)
 - 第42讲：[图片加水印](./docs/50-42-add_watermark.html)
+- 第43讲：[Doc和Docx互转](./docs/50-43-doc2docx.html)
+- 第44讲：[统计代码行数](./docs/50-44-count_line.html)
+- 第45讲：[程序运行时间](./docs/50-45-runtime.html)
+- 第46讲：[制作进度条](./docs/50-46-simple_progress.html)
+- 第47讲：[从视频里提取音频](./docs/50-47-video2mp3.html)
+- 第48讲：[翻译功能](./docs/50-48-translate.html)
+- 第49讲：[测试网速](./docs/50-49-net_speed_test.html)
+- 第50讲：[卸载所有第三方库](./docs/50-50-clean_all.html)
 
 
 ## 3、获取资料

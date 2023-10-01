@@ -9,11 +9,11 @@
 
 import povideo
 
-# for index in range(32, 37):
-#     povideo.mark2video(video_path=f"D:\\迅雷下载\\9月25日\\{index}.mp4",
-#                        output_path=f"D:\\迅雷下载\\9月25日\\out",
-#                        output_name=f"第{index}讲.mp4")
-povideo.mark2video(video_path=r'D:\\迅雷下载\\9月29日\\31.mp4',output_path=r'D:\\迅雷下载\\9月29日\\30')
+for index in range(43, 51):
+    povideo.mark2video(video_path=f"D:\\download\\baiduyun\\50\\{index}.mp4",
+                       output_path=f"D:\\download\\baiduyun\\50\\out",
+                       output_name=f"第{index}讲.mp4")
+# povideo.mark2video(video_path=r'D:\download\baiduyun\36.mp4',output_path=r'D:\download\baiduyun\\water')
 # # povideo.mark2video(video_path=r'D:\\download\\baiduyun\\5个实用的PDF自动化办公操作~1行Python代码搞定PDF转图片\\06-PDF转图片.mp4')
 # import os
 # IMAGEMAGICK_BINARY = os.getenv('IMAGEMAGICK_BINARY', 'auto-detect')
