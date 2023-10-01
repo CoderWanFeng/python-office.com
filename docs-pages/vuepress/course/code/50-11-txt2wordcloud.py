@@ -9,4 +9,5 @@
 
 import office
 
-office.image.txt2wordcloud(filename=r'./test_files/50-11-txt2wordcloud/python-office.txt', color="black", result_file="./test_files/50-11-txt2wordcloud/your_wordcloud.png")
+office.image.txt2wordcloud(filename=r'./test_files/50-11-txt2wordcloud/python-office.txt', color="black",
+                           result_file="./test_files/50-11-txt2wordcloud/your_wordcloud.png")
