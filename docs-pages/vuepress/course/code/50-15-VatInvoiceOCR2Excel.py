@@ -15,8 +15,8 @@ import poocr
 poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/50-15-VatInvoiceOCR2Excel/',
                                     output_path=r'test_files/50-15-VatInvoiceOCR2Excel',
                                     output_excel='程序员晚枫的发票.xlsx',
-                                    id='AKIDb1SsDTXO2QZVGg2MTKjtz89xnQnxuc4F',
-                                    key='2pX6Us1vaBl26uUv5B9tbDagW8UcEZ8c')
+                                    id='AKIDmU0JVbaS8vY1HMJG7oSwFQI4kQ8h6KND',
+                                    key='jvywlSzKYjpu1shN3azERWYWUPHE4i9N')
 
 # 全部100多个识别功能：https://mp.weixin.qq.com/s/WxICBZZSgkm-OrvXB82hbg
 # # 识别增值税发票
