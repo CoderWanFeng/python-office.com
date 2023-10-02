@@ -38,6 +38,56 @@
 
 本套课程的代码，全部来自开源项目，Python微信机器人的专用库：``PyOfficeRobot``：[又一个微信聊天机器人横空出世了，人人可用！](https://pypi.org/project/PyOfficeRobot/)
 
+
+## 1、课程目录
+为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
+
+- 第1讲：[软件下载和安装](./docs/10-01-setup.html)
+- 第2讲：[Word转PDF](./docs/10-02-send_message.html)
+- 第3讲：[PPT转成1张长图](./docs/10-03-send_file.html)
+- 第4讲：[Python创建Excel](./docs/10-04-chat_by_keywords.html)
+- 第5讲：[微信机器人发布了](./docs/10-05-def.html)
+- 第6讲：[根据内容搜索文件](./docs/10-06-send_message_by_time.html)
+- 第7讲：[Excel转PDF](./docs/10-07-get_group_list.html)
+- 第8讲：[数据可视化](./docs/10-08-add.html)
+- 第9讲：[文字转语音](./docs/10-09-send.html)
+- 第10讲：[把Python代码打包成Exe软件](./docs/10-10-chat_robot.html)
+
+
+## 2、获取资料
+
+![](./imgs/code.png)
+
+
+如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
+
+> 2个付费渠道：B站和微信公众号，2选1就行，都是一样的价格 10元。
+
+
+- B站 购买链接：[点我直达](https://mp.weixin.qq.com/s/J47pgSQBwKQxfT0mBBlvSA)
+- 微信 购买链接：[点我直达](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
+
+付费后，2个平台都会自动出现百度云链接，永久有效。
+
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
+
+
+## 3、交流群
+
+<p align="center">
+    <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
+    </a>   
+</p>
+
+## 4、读者福利
+
+<p align="center" id='福利合集-banner'>
+    <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>
+
 ## 第1讲 - 安装：PyOfficeRobot的下载和安装
 
 PyOfficeRobot是一个第三方库，所以运行代码之前，你的电脑需要有以下Python环境：
@@ -100,7 +150,7 @@ PyOfficeRobot.chat.chat_by_keywords(who='抖音：程序员晚枫', keywords=key
 ```
 
 
-## 第5讲 - 定时发送
+## 第5讲 - 自定义方法
 
 其中，``keywords``里，也可以运行方法：
 
