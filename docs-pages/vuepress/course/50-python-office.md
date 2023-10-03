@@ -35,7 +35,7 @@
 
 本套课程的代码，全部来自开源中国推荐项目，Python自动化办公的专用库：``python-office``：[重磅！官网发布第三方库：python-office，为Python自动化办公而生](https://www.bilibili.com/video/BV1pT4y1k7FH)
 
-以下[绿色](https://mp.weixin.qq.com/s/_01V8I7rVkgvIIo7ygwwQA)文字，均可点击直达👇
+以下[绿色](https://mp.weixin.qq.com/s/-mlsV7PFc27JElOTCskMsg)文字，均可点击直达👇
 
 ## 1、准备工作
 

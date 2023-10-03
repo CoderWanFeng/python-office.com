@@ -155,7 +155,7 @@
 
 
 <p align="center" id='25个学习资源-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/_01V8I7rVkgvIIo7ygwwQA'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/-mlsV7PFc27JElOTCskMsg'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fpy-25-source.jpg" width="100%"/>
     </a>   
 </p>
