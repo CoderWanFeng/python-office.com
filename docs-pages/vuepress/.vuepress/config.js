@@ -42,8 +42,9 @@ module.exports = {
             { text: '🚀回到主页', link: '/' },
             {
                 text: '🔥下载', items: [
-                    { text: '软件', link: 'http://www.python4office.cn/python-download/' },
-                    { text: '源码', link: 'https://www.python-office.com/contributor/contributor.html' }
+                    { text: '软件', link: 'https://mp.weixin.qq.com/s/w9ITodQR3kzSXc4t1H92nw' },
+                    { text: '电子书', link: 'https://mp.weixin.qq.com/s/6bM_3tROqdY_2WbBShzqyw' },
+                    { text: '源码', link: 'https://github.com/CoderWanFeng/python-office' }
                 ]
             },
             {
