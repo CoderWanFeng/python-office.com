@@ -6,3 +6,13 @@
 @代码日期    ：2023/10/2 1:48 
 @本段代码的视频说明     ：
 '''
+
+"""
+## 第6讲 - 定时发送
+
+```python
+import PyOfficeRobot
+
+PyOfficeRobot.chat.send_message_by_time(who='快手：程序员晚枫', message='你好', time='21:51:55')
+```
+"""

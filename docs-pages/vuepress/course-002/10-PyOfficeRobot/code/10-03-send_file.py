@@ -6,3 +6,15 @@
 @代码日期    ：2023/10/2 1:46 
 @本段代码的视频说明     ：
 '''
+
+"""
+## 第3讲 - 发送文件（图片、文档、软件等）
+
+```python
+import PyOfficeRobot
+
+PyOfficeRobot.file.send_file(who='B站：程序员晚枫', file=r'C:\Users\Lenovo\Desktop\temp\0.jpg')
+# who:发给谁
+# file:发送文件的位置
+```
+"""

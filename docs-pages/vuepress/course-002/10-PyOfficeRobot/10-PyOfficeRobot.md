@@ -43,15 +43,15 @@
 为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
 
 - 第1讲：[软件下载和安装](./docs/10-01-setup.html)
-- 第2讲：[Word转PDF](./docs/10-02-send_message.html)
-- 第3讲：[PPT转成1张长图](./docs/10-03-send_file.html)
-- 第4讲：[Python创建Excel](./docs/10-04-chat_by_keywords.html)
-- 第5讲：[微信机器人发布了](./docs/10-05-def.html)
-- 第6讲：[根据内容搜索文件](./docs/10-06-send_message_by_time.html)
-- 第7讲：[Excel转PDF](./docs/10-07-get_group_list.html)
-- 第8讲：[数据可视化](./docs/10-08-add.html)
-- 第9讲：[文字转语音](./docs/10-09-send.html)
-- 第10讲：[把Python代码打包成Exe软件](./docs/10-10-chat_robot.html)
+- 第2讲：[发消息](./docs/10-02-send_message.html)
+- 第3讲：[发文件](./docs/10-03-send_file.html)
+- 第4讲：[关键词回复](./docs/10-04-chat_by_keywords.html)
+- 第5讲：[自定义功能](./docs/10-05-def.html)
+- 第6讲：[定时群发](./docs/10-06-send_message_by_time.html)
+- 第7讲：[获取群信息](./docs/10-07-get_group_list.html)
+- 第8讲：[自动加好友](./docs/10-08-add.html)
+- 第9讲：[桌面版](./docs/10-09-send.html)
+- 第10讲：[智能聊天](./docs/10-10-chat_robot.html)
 
 
 ## 2、获取资料
@@ -87,147 +87,3 @@
     <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
     </a>   
 </p>
-
-## 第1讲 - 安装：PyOfficeRobot的下载和安装
-
-PyOfficeRobot是一个第三方库，所以运行代码之前，你的电脑需要有以下Python环境：
-
-- Python的下载和安装：https://www.bilibili.com/video/BV118411R7bB
-- PyCharm的下载和安装：https://www.bilibili.com/video/BV1X84y1f76f/
-- PyOfficeRobot的下载和安装：https://www.bilibili.com/video/BV1m14y1y76g/
-
-有了以上准备，我们可以直接用1行命令，安装PyOfficeRobot这个库。
-
-```
-pip install -i https://mirrors.aliyun.com/pypi/simple/ PyOfficeRobot -U
-```
-## 第2讲 - 发送消息
-
-```python
-# 首先，将PyOfficeRobot模块导入到我们的代码块中。
-import PyOfficeRobot
-
-PyOfficeRobot.chat.send_message(who='小红书：程序员晚枫', message='你好')
-# who:发给谁
-# message:发送的内容
-```
-其中，发消息如何换行？
-
-```python
-import PyOfficeRobot
-
-PyOfficeRobot.chat.send_message(who='CSDN：程序员晚枫', message='你好' + '{ctrl}{ENTER}' + 'hello')
-
-```
-
-## 第3讲 - 发送文件（图片、文档、软件等）
-
-```python
-import PyOfficeRobot
-
-PyOfficeRobot.file.send_file(who='B站：程序员晚枫', file=r'C:\Users\Lenovo\Desktop\temp\0.jpg')
-# who:发给谁
-# file:发送文件的位置
-```
-
-## 第4讲 - 关键词回复
-
-
-
-```python
-
-import PyOfficeRobot
-
-keywords = {
-    "我要报名": "你好，这是报名链接：www.python-office.com",
-    "点赞了吗？": "点了",
-    "关注了吗？": "必须的",
-    "投币了吗？": "三连走起",
-}
-PyOfficeRobot.chat.chat_by_keywords(who='抖音：程序员晚枫', keywords=keywords)
-# who:发给谁
-# keywords:关键词的组合
-```
-
-
-## 第5讲 - 自定义方法
-
-其中，``keywords``里，也可以运行方法：
-
-```python
-
-import PyOfficeRobot
-import office
-
-keywords = {
-    "我要报名": office.tools.passwordtools(),
-    "点赞了吗？": "点了",
-    "关注了吗？": "必须的",
-    "投币了吗？": "三连走起",
-}
-PyOfficeRobot.chat.chat_by_keywords(who='抖音：程序员晚枫', keywords=keywords)
-# who:发给谁
-# keywords:关键词的组合
-```
-
-## 第6讲 - 定时发送
-
-```python
-import PyOfficeRobot
-
-PyOfficeRobot.chat.send_message_by_time(who='快手：程序员晚枫', message='你好', time='21:51:55')
-```
-
-## 第7讲 - 收集群成员信息
-
-```python
-import PyOfficeRobot
-
-PyOfficeRobot.file.get_group_list()
-```
-
-## 第8讲 - 批量加好友
-
-```python
-import PyOfficeRobot
-
-msg = "你好，我是程序员晚枫，全网同名。"
-num_notes = {
-    # '微信号/手机号': '你给Ta的备注',
-    'hdylw1024': '公众号-晚枫',
-    'CoderWanFeng': '小红书-晚枫',
-}
-PyOfficeRobot.friend.add(msg=msg, num_notes=num_notes)
-```
-
-## 第9讲 - 桌面版
-
-```python
-# pip
-import PyOfficeRobot
-
-PyOfficeRobot.group.send()
-```
-
-## 第10讲 - 智能聊天
-
-免费版
-
-```python
-# pip install PyOfficeRobot
-import PyOfficeRobot
-
-# 智能聊天，只需要一行代码
-PyOfficeRobot.chat.chat_robot(who='每天进步一点点')
-
-```
-
-ChatGPT版
-```python
-# pip install PyOfficeRobot
-import PyOfficeRobot
-
-#
-PyOfficeRobot.chat.chat_by_gpt(who='程序员晚枫', api_key='你的api_key')
-
-```

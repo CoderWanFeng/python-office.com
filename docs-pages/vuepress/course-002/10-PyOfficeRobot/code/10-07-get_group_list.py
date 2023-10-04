@@ -6,3 +6,14 @@
 @代码日期    ：2023/10/2 1:48 
 @本段代码的视频说明     ：
 '''
+
+
+"""
+## 第7讲 - 收集群成员信息
+
+```python
+import PyOfficeRobot
+
+PyOfficeRobot.file.get_group_list()
+```
+"""

@@ -6,3 +6,15 @@
 @代码日期    ：2023/10/2 1:48 
 @本段代码的视频说明     ：
 '''
+
+
+"""
+## 第9讲 - 桌面版
+
+```python
+# pip
+import PyOfficeRobot
+
+PyOfficeRobot.group.send()
+```
+"""
