@@ -26,10 +26,10 @@
 
 你好，这里是程序员晚枫，小红书/B站/知乎/抖音都叫这个名。
 
-业余时间做编程博主，同时维护了一个开源中国的推荐项目：[python-office](https://github.com/CoderWanFeng/python-office)，这个python自动化办公的功能库，
+业余时间做编程博主，同时维护了一个开源中国的推荐项目：[python-office](https://github.com/CoderWanFeng/python-office)
+，这个python自动化办公的功能库，
 
 下面是我整理的Python学习教程:
-
 
 ## 0基础入门
 
@@ -37,31 +37,26 @@
 
 建议你学习下面这套我专门给非程序员小白录制的入门课程
 
-
-| 课程链接                                                      | 配套文档&代码&软件                                                                                                                  |  读者交流群   |
-|-----------------------------------------------------------| ----------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [50讲 · Python自动化办公（更新中）](../course/50-python-office.html) | [打开](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ) |   [加入](http://python4office.cn/wechat-group/)  |
-
-
+| 课程链接                                                                        | 配套文档&代码&软件                                             | 读者交流群                                       |
+|-----------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|
+| [50讲 · Python自动化办公（已完结）](../course/50-python-office.html)                   | [打开](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ) | [加入](http://python4office.cn/wechat-group/) |
+| [10讲 · Python微信机器人（已完结）](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.md) | [打开](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg) | [加入](http://python4office.cn/wechat-group/) |
 
 ## 专业学习方向
 
 如果你有一定的编程基础，或者你想用Python开发一些复杂的应用，可以学习下面这几套课程。👇
 
-- [121讲 · Python基础（已完结）](http://gk.link/a/11Put)                                
-- [8讲 · Python微信机器人（已完结）](https://mp.weixin.qq.com/s/9aspEHdCiAdXK17AvHlu9Q) 
-- [Python实战 · 从0到1搭建直播视频平台](http://gk.link/a/122ts)                         
-- [Python核心技术与实战](http://gk.link/a/10E3y)                                        
-- [反爬虫兵法演绎20讲](http://gk.link/a/11erO)                                          
-- [Django快速开发实战](http://gk.link/a/10Wl1)                                          
+- [121讲 · Python基础（已完结）](http://gk.link/a/11Put)
+- [Python实战 · 从0到1搭建直播视频平台](http://gk.link/a/122ts)
+- [Python核心技术与实战](http://gk.link/a/10E3y)
+- [反爬虫兵法演绎20讲](http://gk.link/a/11erO)
+- [Django快速开发实战](http://gk.link/a/10Wl1)
 
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
     <img src="https://banner-1300615378.cos.ap-guangzhou.myqcloud.com/%E6%A8%AA%E6%9D%A1/Python%E5%A4%A7%E7%A4%BC%E5%8C%85.jpg" width="100%"/>
     </a>   
 </p>
-
-
 
 ### 生活VLOG
 
