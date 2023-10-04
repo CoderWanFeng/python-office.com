@@ -8,8 +8,7 @@
 
 ## 本讲视频
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1o84y1276T" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
-
+- [点我直达](https://www.bilibili.com/video/BV1S84y1m7xd?p=2)
 
 ## 下载课程代码
 
@@ -20,13 +19,10 @@
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
-> 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：B站购买更优惠~
 
+- 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)
 
-- B站 购买链接：[28元-点我直达](https://mp.weixin.qq.com/s/4-V6iG3QfekRsDlZfAfhYw)
-- 微信 购买链接：[78元-点我直达](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ)
-
-付费后，2个平台都会自动出现百度云链接，永久有效。
+付费后，付费以上链接后，会自动出现网盘链接，永久有效。
 
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
 
@@ -35,5 +31,20 @@
 <p align="center" id='福利合集-banner'>
     <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
     <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>
+
+
+<p align="center" id='30讲自动化办公-banner'>
+    <a target="_blank" href='https://www.python-office.com/video/video.html'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fauto-work.jpg" width="100%"/>
+    </a>   
+</p>
+
+
+
+<p align="center" id='100本电子书-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/6bM_3tROqdY_2WbBShzqyw'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Febook.jpg" width="100%"/>
     </a>   
 </p>

@@ -28,7 +28,7 @@
 
 </p>
 
-欢迎学习给小白的《12讲 · Python微信机器人》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我下载](https://mp.weixin.qq.com/s/6hAgvbcXhdWOh4K9OH73cA)。
+欢迎学习给小白的《10讲 · Python微信机器人》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我下载](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)。
 
 本次课程的特点有以下几个：
 
@@ -65,7 +65,7 @@
 
 
 - B站 购买链接：[点我直达](https://mp.weixin.qq.com/s/J47pgSQBwKQxfT0mBBlvSA)
-- 微信 购买链接：[点我直达](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915#wechat_redirect)
+- 微信 购买链接：[点我直达](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)
 
 付费后，2个平台都会自动出现百度云链接，永久有效。
 
@@ -82,8 +82,25 @@
 
 ## 4、读者福利
 
+
+<p align="center" id='30讲自动化办公-banner'>
+    <a target="_blank" href='https://www.python-office.com/video/video.html'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fauto-work.jpg" width="100%"/>
+    </a>   
+</p>
+
+
+
+<p align="center" id='100本电子书-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/6bM_3tROqdY_2WbBShzqyw'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Febook.jpg" width="100%"/>
+    </a>   
+</p>
+
 <p align="center" id='福利合集-banner'>
     <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
     <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
     </a>   
 </p>
+
+

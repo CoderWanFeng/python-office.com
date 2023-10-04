@@ -9,9 +9,9 @@
 
 import povideo
 
-for index in range(43, 51):
-    povideo.mark2video(video_path=f"D:\\download\\baiduyun\\50\\{index}.mp4",
-                       output_path=f"D:\\download\\baiduyun\\50\\out",
+for index in range(0, 11):
+    povideo.mark2video(video_path=f"D:\\download\\kuake\\upload\\{index}.mp4",
+                       output_path=f"D:\\download\\kuake\\upload\\out",
                        output_name=f"第{index}讲.mp4")
 # povideo.mark2video(video_path=r'D:\download\baiduyun\36.mp4',output_path=r'D:\download\baiduyun\\water')
 # # povideo.mark2video(video_path=r'D:\\download\\baiduyun\\5个实用的PDF自动化办公操作~1行Python代码搞定PDF转图片\\06-PDF转图片.mp4')

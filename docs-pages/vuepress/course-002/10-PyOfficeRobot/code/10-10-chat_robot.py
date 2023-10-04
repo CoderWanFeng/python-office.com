@@ -6,29 +6,17 @@
 @代码日期    ：2023/10/2 1:48 
 @本段代码的视频说明     ：
 '''
-"""
 
 ## 第10讲 - 智能聊天
 
-免费版
+# 免费版
 
-```python
 # pip install PyOfficeRobot
 import PyOfficeRobot
 
 # 智能聊天，只需要一行代码
-PyOfficeRobot.chat.chat_robot(who='每天进步一点点')
+# PyOfficeRobot.chat.chat_robot(who='程序员晚枫')
 
-```
 
-ChatGPT版
-```python
-# pip install PyOfficeRobot
-import PyOfficeRobot
-
-#
+# ChatGPT版
 PyOfficeRobot.chat.chat_by_gpt(who='程序员晚枫', api_key='你的api_key')
-
-```
-
-"""

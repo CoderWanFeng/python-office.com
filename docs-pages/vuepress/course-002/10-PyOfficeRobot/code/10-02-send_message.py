@@ -7,23 +7,15 @@
 @本段代码的视频说明     ：
 '''
 
-"""
 ## 第2讲 - 发送消息
-
-```python
+# https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
 # 首先，将PyOfficeRobot模块导入到我们的代码块中。
 import PyOfficeRobot
 
-PyOfficeRobot.chat.send_message(who='小红书：程序员晚枫', message='你好')
+# PyOfficeRobot.chat.send_message(who='程序员晚枫', message='你好，我是xxx')
 # who:发给谁
 # message:发送的内容
-```
-其中，发消息如何换行？
+# 其中，发消息如何换行？
 
-```python
-import PyOfficeRobot
 
-PyOfficeRobot.chat.send_message(who='CSDN：程序员晚枫', message='你好' + '{ctrl}{ENTER}' + 'hello')
-
-```
-"""
+PyOfficeRobot.chat.send_message(who='程序员晚枫', message='你好' + '{ctrl}{ENTER}' + '点赞有好运哟~'+ '{ctrl}{ENTER}' +'python-office.com')

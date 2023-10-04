@@ -8,12 +8,8 @@
 '''
 
 
-"""
 ## 第7讲 - 收集群成员信息
 
-```python
 import PyOfficeRobot
 
 PyOfficeRobot.file.get_group_list()
-```
-"""

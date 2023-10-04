@@ -8,13 +8,9 @@
 '''
 
 
-"""
 ## 第9讲 - 桌面版
 
-```python
-# pip
+# pip install PyOfficeRobot
 import PyOfficeRobot
 
 PyOfficeRobot.group.send()
-```
-"""
