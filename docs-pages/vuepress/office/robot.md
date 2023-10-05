@@ -1,5 +1,6 @@
 # 聊天机器人
 
+
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
     <img src="https://banner-1300615378.cos.ap-guangzhou.myqcloud.com/%E6%A8%AA%E6%9D%A1/Python%E5%A4%A7%E7%A4%BC%E5%8C%85.jpg" width="100%"/>
@@ -29,74 +30,81 @@
 
 </p>
 
+欢迎学习给小白的《10讲 · Python微信机器人》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我下载](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)。
+
+本次课程的特点有以下几个：
+
+1. 适合小白不需要学习复杂的编程知识，拿来就用。
+2. 内容丰富，涵盖热门的微信机器人需求。
+3. 所有功能，只需要1~3行代码就能实现。
+
+本套课程的代码，全部来自开源项目，Python微信机器人的专用库：``PyOfficeRobot``：[又一个微信聊天机器人横空出世了，人人可用！](https://pypi.org/project/PyOfficeRobot/)
 
 
-> 以下绿色链接，均可点击直达哟~
+## 1、课程目录
+为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
 
-## 1.1、微信机器人-PyOfficeRobot实现方式
+- 第1讲：[软件下载和安装](../course-002/10-PyOfficeRobot/docs/10-01-setup.html)
+- 第2讲：[发消息](../course-002/10-PyOfficeRobot/docs/10-02-send_message.html)
+- 第3讲：[发文件](../course-002/10-PyOfficeRobot/docs/10-03-send_file.html)
+- 第4讲：[关键词回复](../course-002/10-PyOfficeRobot/docs/10-04-chat_by_keywords.html)
+- 第5讲：[自定义功能](../course-002/10-PyOfficeRobot/docs/10-05-def.html)
+- 第6讲：[定时群发](../course-002/10-PyOfficeRobot/docs/10-06-send_message_by_time.html)
+- 第7讲：[获取群信息](../course-002/10-PyOfficeRobot/docs/10-07-get_group_list.html)
+- 第8讲：[自动加好友](../course-002/10-PyOfficeRobot/docs/10-08-add.html)
+- 第9讲：[桌面版](../course-002/10-PyOfficeRobot/docs/10-09-send.html)
+- 第10讲：[智能聊天](../course-002/10-PyOfficeRobot/docs/10-10-chat_robot.html)
 
-- ⭐全部功能的演示代码 +
-  项目源码：[Github](https://gitee.com/CoderWanFeng/PyOfficeRobot/demo)、[gitee](https://gitee.com/CoderWanFeng/PyOfficeRobot)
 
-| 功能说明             | 视频                                                   | 代码                                                                                                                                         |
-|------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| 🔥001-项目发布       | [点我直达](https://www.bilibili.com/video/BV1Xa411u7yU)  | [点我直达](https://mp.weixin.qq.com/s/6slx8hyv_WuK7v5Nzt3XKQ)                                                                                  |
-| 002-自动发消息        | [点我直达](https://www.bilibili.com/video/BV1Jt4y1j7F1)  | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/001-%E5%8F%91%E4%B8%80%E6%9D%A1%E4%BF%A1%E6%81%AF.py)                   |
-| 003-自动发文件        | [点我直达](https://www.bilibili.com/video/BV1te4y1y7Ro)  | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/002-%E5%8F%91%E6%96%87%E4%BB%B6.py)                                     |
-| 004-根据关键词，自动回复   | [点我直达](https://www.bilibili.com/video/BV1fV4y1M7ju)  | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/003-%E6%A0%B9%E6%8D%AE%E5%85%B3%E9%94%AE%E8%AF%8D%E5%9B%9E%E5%A4%8D.py) |
-| ⌚005-定时自动发消息     | [点我直达](https://www.bilibili.com/video/BV1m8411b7LZ/) | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/004-%E5%AE%9A%E6%97%B6%E5%8F%91%E9%80%81.py)                            |
-| 006-自己加功能        | [点我直达](https://www.bilibili.com/video/BV14R4y127h6)  | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/005-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8A%9F%E8%83%BD.py)                   |
-| ⭐007-独立使用        | [点我直达](https://www.bilibili.com/video/BV1SY411y7Uh)  | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/006-%E7%8B%AC%E7%AB%8B%E7%89%88%E6%9C%AC.py)                            |
-| 08-收集群信息         | [点我直达](https://www.bilibili.com/video/BV1eD4y1g7yZ)  | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/007-%E6%94%B6%E9%9B%86%E7%BE%A4%E6%B6%88%E6%81%AF.py)                   |
-| 09-发消息如何换行？      | [点我直达](https://www.bilibili.com/video/BV1Xg4y1s79z/) | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/008-%E5%8F%91%E6%B6%88%E6%81%AF%E6%8D%A2%E8%A1%8C.py)                   |
-| 特别篇-微信 + ChatGPT | [点我直达](https://www.bilibili.com/video/BV1394y1e787)  | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/011-chat_chatgpt.py)                                                    |
-| 10-批量加好友         | [点我直达](https://www.bilibili.com/video/BV1DV4y1o7t2)  | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/009-%E6%89%B9%E9%87%8F%E5%8A%A0%E5%A5%BD%E5%8F%8B.py)                   |
-| 11-定时群发          | [点我直达](https://www.bilibili.com/video/BV1Nm4y1C7N7)  | [点我直达](https://gitee.com/CoderWanFeng/PyOfficeRobot/blob/main/demo/010-%E5%AE%9A%E6%97%B6%E7%BE%A4%E5%8F%91.py)                            |
-| 12-智能聊天          | [点我直达](https://www.bilibili.com/video/BV1394y1e787)  | [点我直达](https://github.com/CoderWanFeng/python-office/blob/master/demo/PyOfficeRobot/012%E3%80%81%E6%99%BA%E8%83%BD%E8%81%8A%E5%A4%A9.py)   |
+## 2、获取资料
 
-> 持续更新中，交流群：[点我加入](http://www.python4office.cn/wechat-group/)
+![](../course-002/10-PyOfficeRobot/imgs/code.png)
 
-## 1.2、微信机器人-其它实现方式
 
-| 功能说明            | 视频                                                   | 代码                                                        |
-|-----------------|------------------------------------------------------|-----------------------------------------------------------|
-| 机器人.exe         | [点我直达](https://www.bilibili.com/video/BV1Q64y1Z7TB/) |                                                           |
-| ChatGPT版本       | [点我直达](https://www.bilibili.com/video/BV1Dx4y157qy)  | [点我直达](https://mp.weixin.qq.com/s/HJfLZILUOWn4TK8qk3DL9w) |
-| ⌚wxpy-24小时，后台运行 | [点我直达](https://www.bilibili.com/video/BV11L411L7oi/) | [点我直达](https://mp.weixin.qq.com/s/ubJ1OhOFVKfFVT8sBNZ0pg) |
-| 企业微信机器人         |                                                      | [点我直达](https://mp.weixin.qq.com/s/mt-ONvz0DdhbMB96eTZDKA) |
+如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
--------
 
-## 2、常见问题
+> 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：B站购买更优惠~
 
-### 如何实现换行效果？代码如下。👇
 
-```python
-# pip install PyOfficeRobot
-# 建议使用阿里镜像的仓库，教程：https://www.bilibili.com/video/BV1SM411y7vw/
-import PyOfficeRobot
+- B站 购买链接：[28元-点我直达](https://mp.weixin.qq.com/s/N9_at0EDeW-iHOEvrMiPog)
+- 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)
 
-PyOfficeRobot.chat.send_message(who='程序员晚枫', message='你好' + '{ctrl}{ENTER}' + 'hello')
-```
+付费后，2个平台都会自动出现网盘链接，永久有效。
+
+
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
+
 
 ## 3、交流群
 
-<p align="center" id='开源交流群-banner'>
-<a target="_blank" href='https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/python-office.jpg'>
-<img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/python-office-qr.jpg" width="100%"/>
-</a> 
+<p align="center">
+    <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
+    </a>   
 </p>
 
-#### 参考资料
+## 4、读者福利
 
-- [Python wxpy | 可能是最优雅的微信机器人开发教程，适合小白~（附软件、代码、文档）](https://mp.weixin.qq.com/s/3brwMik41snpIwrE5r_O6g)
 
-- [新人10大常见问题](https://www.python-office.com/ref/qaq.html)
+<p align="center" id='30讲自动化办公-banner'>
+    <a target="_blank" href='https://www.python-office.com/video/video.html'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fauto-work.jpg" width="100%"/>
+    </a>   
+</p>
 
-- QQ机器人:[如何用 Python 实现 QQ 消息自动回复？](https://mp.weixin.qq.com/s/5ycRhjZ-i-q62pdoyKYA6g)
 
-- 钉钉机器人:[Python 3 开发钉钉群机器人](https://mp.weixin.qq.com/s/Mjsr9ufatf280Qk__A6yRQ)
 
-- [我在钉钉接入了火爆科技圈的ChatGPT](https://mp.weixin.qq.com/s/oQjPG9l-sYx2EVeiR3YafQ)
+<p align="center" id='100本电子书-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/6bM_3tROqdY_2WbBShzqyw'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Febook.jpg" width="100%"/>
+    </a>   
+</p>
 
-- [企业微信机器人](https://mp.weixin.qq.com/s/mt-ONvz0DdhbMB96eTZDKA)
+<p align="center" id='福利合集-banner'>
+    <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    </a>   
+</p>
+
+
