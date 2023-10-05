@@ -30,7 +30,7 @@
 - B站 购买链接：[28元-点我直达](https://mp.weixin.qq.com/s/4-V6iG3QfekRsDlZfAfhYw)
 - 微信 购买链接：[78元-点我直达](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ)
 
-付费后，2个平台都会自动出现百度云链接，永久有效。
+付费后，2个平台都会自动出现网盘链接，永久有效。
 
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
 
