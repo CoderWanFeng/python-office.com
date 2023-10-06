@@ -35,22 +35,24 @@
 
 如果你是完全0基础的Python小白，想学习/了解一下Python，尤其是自动化办公方面的技术。
 
-建议你学习下面这套我专门给非程序员小白录制的入门课程
+建议你学习下面这几套我专门给非程序员小白准备的入门课程和资料，👇
 
-| 课程链接                                                                        | 配套文档&代码&软件                                             | 读者交流群                                       |
-|-----------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|
-| [50讲 · Python自动化办公（已完结）](../course/50-python-office.html)                   | [打开](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ) | [加入](http://python4office.cn/wechat-group/) |
+| 课程链接                                                                         | 配套文档&代码&软件                                              | 读者交流群                                       |
+|------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------|
+| [50讲 · Python自动化办公（已完结）](../course/50-python-office.html)                    | [打开](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ) | [加入](http://python4office.cn/wechat-group/) |
 | [10讲 · Python微信机器人（已完结）](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.md) | [打开](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg) | [加入](http://python4office.cn/wechat-group/) |
+| [30讲 · Python数据分析（已完结）](https://www.bilibili.com/video/BV1hk4y1C73S)         | [打开](https://mp.weixin.qq.com/s/n5b-C4ZhkhfZmlCTvepM4A) | [加入](http://python4office.cn/wechat-group/) |
+
+
 
 ## 专业学习方向
 
 如果你有一定的编程基础，或者你想用Python开发一些复杂的应用，可以学习下面这几套课程。👇
 
-- [121讲 · Python基础（已完结）](http://gk.link/a/11Put)
-- [Python实战 · 从0到1搭建直播视频平台](http://gk.link/a/122ts)
-- [Python核心技术与实战](http://gk.link/a/10E3y)
-- [反爬虫兵法演绎20讲](http://gk.link/a/11erO)
-- [Django快速开发实战](http://gk.link/a/10Wl1)
+- [123讲 · Python基础（已完结）](http://gk.link/a/11Put)
+- [Python爬虫从入门到高级实战](https://www.bilibili.com/video/BV1y54y1y74F)
+- [Python网站快速开发实战](http://gk.link/a/10Wl1)
+- [Python金融数据分析高级训练营（完结）](https://www.bilibili.com/video/BV1Ut4y1i7wS/)
 
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
@@ -104,23 +106,6 @@
 </p>
 
 
-<p align="center" id='0基础数据分析-banner'>
-    <a target="_blank" href='http://gk.link/a/10EfJ'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2Fpython%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.jpg" width="100%"/>
-    </a>   
-</p>
-
-<p align="center" id='django网站-banner'>
-    <a target="_blank" href='http://gk.link/a/10Wl1'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2FPython%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91.jpg" width="100%"/>
-    </a>   
-</p>
-
-<p align="center" id='52讲爬虫-banner'>
-    <a target="_blank" href='http://gk.link/a/11FsN'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/ads%2F52%E8%AE%B2%E7%88%AC%E8%99%AB.jpg" width="100%"/>
-    </a>   
-</p>
 
 
 
@@ -135,6 +120,14 @@
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Febook.jpg" width="100%"/>
     </a>   
 </p>
+
+<p align="center" id='10讲机器人-banner'>
+    <a target="_blank" href='https://www.python-office.com/course-002/10-PyOfficeRobot/10-PyOfficeRobot.html'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/course/10%E8%AE%B2%E6%9C%BA%E5%99%A8%E4%BA%BA-%E6%A8%AA.jpg" width="100%"/>
+    </a>   
+</p>
+
+
 
 <p align="center" id='实战项目-banner'>
     <a target="_blank" href='http://www.python4office.cn/python-project-list/'>
