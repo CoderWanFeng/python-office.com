@@ -29,10 +29,10 @@
 
 - 视频链接：[打开](https://www.bilibili.com/video/BV118411R7bB)
 
-另外说明一下，视频教程配套的：**软件、代码、文档、答疑群**，是收费的，10元钱（100微信豆）👉[点我获取资料](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2Nzg5MjgyNg==&action=getalbum&album_id=3056320585091366915&from_itemidx=1&from_msgid=2247501346&scene=173&count=3&nolastread=1#wechat_redirect)
+另外说明一下，视频教程配套的：**软件、代码、文档、答疑群**，是收费的，78元钱（780微信豆）👉[点我获取资料](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ)
 
 我不想定价几百几千的割韭菜，但是也不想纯纯用爱发电。如果觉得贵了，只看视频也是可以的学习的。
-> 这里重点推荐一下答疑服务：所有问题，在答疑群我都会回复，**你实在搞不定的，我下班在家的时候，可以给你远程调试，也不另外收费。**希望这套课真正帮你
+> 这里重点推荐一下答疑群的服务：大多数新人问题（不敢保证100%），在答疑群都会回复，希望这套课真正帮你
 
 
 ### win7安装不了python和pycharm怎么办？
