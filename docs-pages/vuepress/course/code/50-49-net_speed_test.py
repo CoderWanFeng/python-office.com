@@ -9,3 +9,7 @@
 import office
 
 office.tools.net_speed_test()
+
+import wftools
+
+wftools.net_speed_test()

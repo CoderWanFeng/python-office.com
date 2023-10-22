@@ -23,7 +23,7 @@
 > 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：B站购买更优惠~
 
 
-- B站 购买链接：[28元-点我直达](https://mp.weixin.qq.com/s/N9_at0EDeW-iHOEvrMiPog)
+- B站 购买链接：[28元-点我直达](https://mp.weixin.qq.com/s/Yydl1ujZYW34gIVFPkGPrA)
 - 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)
 
 付费后，2个平台都会自动出现网盘链接，永久有效。

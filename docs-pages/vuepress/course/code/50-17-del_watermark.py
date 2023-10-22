@@ -10,3 +10,9 @@ import office
 
 office.image.del_watermark(input_image=r'./test_files/50-17-del_watermark/img.png',
                            output_image=r'./test_files/50-17-del_watermark/del_water_mark.jpg')
+
+# pip install poimage
+import poimage
+
+poimage.add_watermark(file=r'./test_files/50-03-pip/img.png', mark='全网同名，程序员晚枫',
+                      output_path=r'./test_files/50-03-pip/mark')

@@ -54,7 +54,7 @@ office.wechat.chat_robot(who='每天进步一点点')  # 智能聊天
 > 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：B站购买更优惠~
 
 
-- B站 购买链接：[28元-点我直达](https://mp.weixin.qq.com/s/4-V6iG3QfekRsDlZfAfhYw)
+- B站 购买链接：[28元-点我直达](https://mp.weixin.qq.com/s/9xIqv8EMK3zkctn2VkfceQ)
 - 微信 购买链接：[78元-点我直达](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ)
 
 付费后，2个平台都会自动出现网盘链接，永久有效。

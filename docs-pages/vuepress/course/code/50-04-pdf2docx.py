@@ -16,8 +16,8 @@ office.pdf.pdf2docx(file_path=r'./test_files/50-04-pdf2docx',
 
 # 如果你是尊贵的Mac和Linux用户，用下面这个代码
 # pip install popdf
-# import popdf
-#
-#
-# popdf.pdf2docx(file_path=r'./test_files/50-04-pdf2docx/程序员晚枫.pdf',
-#                output_path=r'./test_files/50-04-pdf2docx/pdf2docx')
+import popdf
+
+
+popdf.pdf2docx(file_path=r'./test_files/50-04-pdf2docx/程序员晚枫.pdf',
+               output_path=r'./test_files/50-04-pdf2docx/pdf2docx')

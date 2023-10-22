@@ -11,3 +11,11 @@ import office
 office.file.search_by_content(
     search_path=r'..\test_files\50-09-search4content',
     content='import office')
+
+
+# pip install pofile
+import pofile
+
+pofile.search_by_content(
+    search_path=r'..\test_files\50-09-search4content',
+    content='import office')

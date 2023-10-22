@@ -14,3 +14,10 @@ import office
 office.ppt.ppt2img(input_path=r'./test_files/50-06-ppt2img/ppt-程序员晚枫.pptx',
                    output_path=r'./test_files/50-06-ppt2img/output',
                    merge=True)
+
+# pip install poppt
+import poppt
+
+poppt.ppt2img(input_path=r'./test_files/50-06-ppt2img/ppt-程序员晚枫.pptx',
+                   output_path=r'./test_files/50-06-ppt2img/output',
+                   merge=True)

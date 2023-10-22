@@ -16,3 +16,7 @@ office.video.video2mp3(path=r'D:\download\baiduyun\50\44.mp4', mp3_name='44',out
 # 参数作用：
 # path = 这里填写你本地的MV文件
 # mp3_name = 这里填写你生成的mp3文件名，这里不用改
+
+import povideo
+
+povideo.video2mp3(path=r'D:\download\baiduyun\小破站：50讲自动化办公\程序员晚枫.mp4', mp3_name='44',output_path=r'./test_files/50-47-video2mp3/')
