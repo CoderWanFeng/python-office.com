@@ -64,13 +64,10 @@
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
 
-> 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：B站购买更优惠~
 
-
-- B站 购买链接：[28元-点我直达](https://mp.weixin.qq.com/s/Yydl1ujZYW34gIVFPkGPrA)
 - 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)
 
-付费后，2个平台都会自动出现网盘链接，永久有效。
+付费后，文末会自动出现网盘链接，永久有效。
 
 
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
