@@ -53,6 +53,11 @@
 - 第9讲：[桌面版](./docs/10-09-send.html)
 - 第10讲：[智能聊天](./docs/10-10-chat_robot.html)
 
+### 补充知识
+
+- 第11讲：[微信多开](https://mp.weixin.qq.com/s/qlubpfAytr_coV8GilG9RA)
+- 第12讲：[用Python发朋友圈](https://mp.weixin.qq.com/s/pU0LBPUOaQFm_DmP_K_JDw)
+
 
 ## 2、获取资料
 
@@ -68,7 +73,7 @@
 付费后，文末会自动出现网盘链接，永久有效。
 
 
-购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/B1V6KeXc7IOEB8DgXLWv3g)
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
 
 
 ## 3、交流群
