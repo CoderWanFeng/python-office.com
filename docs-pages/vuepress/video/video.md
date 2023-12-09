@@ -37,12 +37,12 @@
 
 建议你学习下面这几套我专门给非程序员小白准备的入门课程和资料，👇
 
-| 课程链接                                                                        | 配套文档&代码&软件                                              | 读者交流群                                       |
-|-----------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------|
-| [50讲 · Python自动化办公（已完结）](../course/50-python-office.html)                   | [打开](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ) | [加入](http://python4office.cn/wechat-group/) |
-| [10讲 · Python微信机器人（已完结）](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [打开](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg) | [加入](http://python4office.cn/wechat-group/) |
-| [30讲 · Python数据分析（已完结）](https://www.bilibili.com/video/BV1hk4y1C73S)        | [打开](https://mp.weixin.qq.com/s/n5b-C4ZhkhfZmlCTvepM4A) | [加入](http://python4office.cn/wechat-group/) |
-| [7讲 · Python文字识别（更新中）](../course-002/2-poocr/2-poocr.html)            | [打开](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.md) | [加入](http://python4office.cn/wechat-group/) |
+| 课程链接                                                                           | 配套文档&代码&软件                                              | 读者交流群                                       |
+|--------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------|
+| [50讲 · Python自动化办公（已完结）](../course/50-python-office.html)                      | [打开](../course/50-python-office.html) | [加入](http://python4office.cn/wechat-group/) |
+| [10讲 · Python微信机器人（已完结）](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [打开](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [加入](http://python4office.cn/wechat-group/) |
+| [30讲 · Python数据分析（已完结）](https://www.bilibili.com/video/BV1hk4y1C73S)           | [打开](https://mp.weixin.qq.com/s/n5b-C4ZhkhfZmlCTvepM4A) | [加入](http://python4office.cn/wechat-group/) |
+| [5讲 · Python实现OCR识别（更新中）](../course-002/5-poocr/5-poocr.html)                  | [打开](../course-002/5-poocr/5-poocr.html) | [加入](http://python4office.cn/wechat-group/) |
 
 
 

@@ -13,11 +13,11 @@
 
 
 <p align="center" name="'github">
-    <a target="_blank" href='https://github.com/CoderWanFeng/PyOfficeRobot'>
-    <img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg?style=social" alt="github star"/>
+    <a target="_blank" href='https://github.com/CoderWanFeng/poocr'>
+    <img src="https://img.shields.io/github/stars/CoderWanFeng/poocr.svg?style=social" alt="github star"/>
     </a>
-    	<a target="_blank" href='https://gitee.com/CoderWanFeng//PyOfficeRobot/'>
-		<img src='https://gitee.com/CoderWanFeng//PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/>
+    	<a target="_blank" href='https://gitee.com/CoderWanFeng//poocr/'>
+		<img src='https://gitee.com/CoderWanFeng//poocr/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
   	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
 	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
@@ -28,7 +28,7 @@
 
 </p>
 
-欢迎学习给小白的《10讲 · Python微信机器人》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我下载](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)。
+欢迎学习给小白的《5讲 · Python实现OCR识别》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群。
 
 本次课程的特点有以下几个：
 
@@ -36,27 +36,23 @@
 2. 内容丰富，涵盖热门的微信机器人需求。
 3. 所有功能，只需要1~3行代码就能实现。
 
-本套课程的代码，全部来自开源项目，Python微信机器人的专用库：``PyOfficeRobot``：[又一个微信聊天机器人横空出世了，人人可用！](https://pypi.org/project/PyOfficeRobot/)
+本套课程的代码，全部来自开源项目，Python+OCR识别的专用库：``poocr``：[Python实现图片文字提取，准确率高达99%，100多个功能全给你！](https://mp.weixin.qq.com/s/tg-0yuItjZj0O0UEksl5ag)
 
 
 ## 1、课程目录
 为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
 
-- 第1讲：[软件下载和安装](./docs/10-01-setup.html)
-- 第2讲：[发消息](./docs/10-02-send_message.html)
-- 第3讲：[发文件](./docs/10-03-send_file.html)
-- 第4讲：[关键词回复](./docs/10-04-chat_by_keywords.html)
-- 第5讲：[自定义功能](./docs/10-05-def.html)
-- 第6讲：[定时群发](./docs/10-06-send_message_by_time.html)
-- 第7讲：[获取群信息](./docs/10-07-get_group_list.html)
-- 第8讲：[自动加好友](./docs/10-08-add.html)
-- 第9讲：[桌面版](./docs/10-09-send.html)
-- 第10讲：[智能聊天](./docs/10-10-chat_robot.html)
+- 第1讲：[软件下载和安装](https://www.bilibili.com/video/BV118411R7bB/)
+- 第2讲：[案例演示：车牌、发票识别，自动保存到Excel里](https://www.bilibili.com/video/BV1h94y1W7ds/)
+- 第3讲：[原理解析：100多个识别功能](./docs/10-03-send_file.html)
+- 第4讲：[原理解析：解析识别结果json，保存为Excel](./docs/10-04-chat_by_keywords.html)
+- 第5讲：[拓展应用：开发一个OCR软件](./docs/10-05-def.html)
 
 ### 补充知识
 
-- 第11讲：[微信多开](https://mp.weixin.qq.com/s/qlubpfAytr_coV8GilG9RA)
-- 第12讲：[用Python发朋友圈](https://mp.weixin.qq.com/s/pU0LBPUOaQFm_DmP_K_JDw)
+- [给小白的《10讲 · Python微信机器人》（完结）](https://mp.weixin.qq.com/s/g9nejIxuitwRzl5NMi177w)
+- [给小白的《50讲Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
+- [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
 
 
 ## 2、获取资料
@@ -68,7 +64,7 @@
 
 
 
-- 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)
+- 微信 购买链接：[更新中](http://www.python4office.cn/wechat-qrcode/)
 
 付费后，文末会自动出现网盘链接，永久有效。
 
