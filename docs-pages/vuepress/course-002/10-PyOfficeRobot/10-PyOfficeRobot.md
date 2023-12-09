@@ -55,8 +55,10 @@
 
 ### 补充知识
 
-- 第11讲：[微信多开](https://mp.weixin.qq.com/s/qlubpfAytr_coV8GilG9RA)
-- 第12讲：[用Python发朋友圈](https://mp.weixin.qq.com/s/pU0LBPUOaQFm_DmP_K_JDw)
+- [用Python实现微信多开，1行代码免费用](https://mp.weixin.qq.com/s/qlubpfAytr_coV8GilG9RA)
+- [用Python发一个优雅的朋友圈，1行代码搞定](https://mp.weixin.qq.com/s/pU0LBPUOaQFm_DmP_K_JDw)
+- [给小白的《50讲Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
+- [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
 
 
 ## 2、获取资料
