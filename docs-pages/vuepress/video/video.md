@@ -43,6 +43,7 @@
 | [10讲 · Python微信机器人（已完结）](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [打开](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [加入](http://python4office.cn/wechat-group/) |
 | [30讲 · Python数据分析（已完结）](https://www.bilibili.com/video/BV1hk4y1C73S)           | [打开](https://mp.weixin.qq.com/s/n5b-C4ZhkhfZmlCTvepM4A) | [加入](http://python4office.cn/wechat-group/) |
 | [5讲 · Python实现OCR识别（更新中）](../course-002/5-poocr/5-poocr.html)                  | [打开](../course-002/5-poocr/5-poocr.html) | [加入](http://python4office.cn/wechat-group/) |
+| [5讲 · Python实现自动发邮件（更新中）](../course-002/5-poemail/5-poemail.html)                  | [打开](../course-002/5-poemail/5-poemail.html) | [加入](http://python4office.cn/wechat-group/) |
 
 
 
