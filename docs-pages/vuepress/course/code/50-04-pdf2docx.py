@@ -18,6 +18,15 @@ office.pdf.pdf2docx(file_path=r'./test_files/50-04-pdf2docx',
 # pip install popdf
 import popdf
 
-
 popdf.pdf2docx(file_path=r'./test_files/50-04-pdf2docx/程序员晚枫.pdf',
                output_path=r'./test_files/50-04-pdf2docx/pdf2docx')
+
+# 生成图片用代码
+"""
+# 1行代码，实现PDF转Word
+# pip install python-office
+import office  # 导入第三方库
+
+office.pdf.pdf2docx(file_path=r'这里填你的PDF文件位置',
+                    output_path=r'这里填转换后的Word保存位置')
+"""

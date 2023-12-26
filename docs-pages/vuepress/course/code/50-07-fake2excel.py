@@ -18,8 +18,14 @@ office.excel.fake2excel(columns=['name', 'company', 'phone_number'],
                         rows=10,
                         path=r'./test_files/50-07-fake2excel/中文-1.xlsx')
 
-
 import poexcel
 
-
 poexcel.fake2excel()
+
+"""
+1行代码，新建Excel文件
+# pip install python-office
+import office
+
+office.excel.fake2excel()
+"""

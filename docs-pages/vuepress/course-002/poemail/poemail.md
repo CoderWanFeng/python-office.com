@@ -1,4 +1,3 @@
-
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
     <img src="https://banner-1300615378.cos.ap-guangzhou.myqcloud.com/%E6%A8%AA%E6%9D%A1/Python%E5%A4%A7%E7%A4%BC%E5%8C%85.jpg" width="100%"/>
@@ -38,16 +37,19 @@
 
 本套课程的代码，全部来自开源项目，Python+OCR识别的专用库：``poemail``：[Python实现图片文字提取，准确率高达99%，100多个功能全给你！](https://mp.weixin.qq.com/s/tg-0yuItjZj0O0UEksl5ag)
 
+![](./imgs/cover/cover.png)
 
 ## 1、课程目录
+
 为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
 
-- 第1讲：[软件下载和安装](https://www.bilibili.com/video/BV118411R7bB/)
-- 第2讲：[免费开通权限](http://www.python4office.cn/log/2023/12/poemail/1219-email002/)
-- 第3讲：[自动发正文](http://www.python4office.cn/log/2023/12/poemail/1219-email003/)
-- 第4讲：[自动发正文+附件](./docs/10-04-chat_by_keywords.html)
-- 第5讲：[自动批量发送](./docs/10-05-def.html)
-- 第6讲：[自动收邮件](./docs/10-05-def.html)
+- 第1讲：[软件下载和安装](./docs/1-install_python_pycharm.html)
+- 第2讲：[免费开通权限](./docs/2-auth_mail.html)
+- 第3讲：[1行代码，自动发正文](./docs/3-send_mail_content.html)
+- 第4讲：[1行代码，自动发正文+附件](./docs/4-send_mail_content_file.html)
+- 第5讲：[自动批量发送](./docs/5-batch_send_mail_content_file.html)
+- 第6讲：[1行代码，自动下载邮件的附件](./docs/6-receive_mail_attchment.html)
+- 第7讲：[结合微信机器人，自动收发邮件](./docs/7-ai_email.html)
 
 ### 补充知识
 
@@ -55,23 +57,17 @@
 - [给小白的《50讲Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
 - [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
 
-
 ## 2、获取资料
 
 ![](./imgs/code.png)
 
-
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
-
-
 
 - 微信 购买链接：[更新中](http://www.python4office.cn/wechat-qrcode/)
 
 付费后，文末会自动出现网盘链接，永久有效。
 
-
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
-
 
 ## 3、交流群
 
@@ -82,7 +78,6 @@
 </p>
 
 ## 4、读者福利
-
 
 <p align="center" id='30讲自动化办公-banner'>
     <a target="_blank" href='https://www.python-office.com/video/video.html'>

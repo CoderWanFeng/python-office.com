@@ -18,3 +18,13 @@ office.wechat.chat_robot(who='每天进步一点点')  # 智能聊天
 # office.wechat.chat_by_keywords()  # 根据关键词回复
 # # 批量加好友
 # #  群发
+
+
+"""
+1行代码，实现智能聊天机器人
+
+# pip install python-office
+import office
+
+office.wechat.chat_robot(who='输入你的好友微信名')  # 智能聊天
+"""

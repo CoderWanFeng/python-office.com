@@ -12,3 +12,19 @@ import office
 
 office.word.docx2pdf(path=r'./test_files/50-05-docx2pdf',
                      output_path=r'./test_files/50-05-docx2pdf/docx2pdf')
+
+# 下载命令 pip install python-office ，下载教程：https://www.bilibili.com/video/BV1m14y1y76g
+import office
+
+office.word.docx2pdf(path=r'./test_files/50-05-docx2pdf',
+                     output_path=r'./test_files/50-05-docx2pdf/docx2pdf')
+
+# 生成图片用代码
+"""
+# 1行代码，实现Word转PDF
+# pip install python-office
+import office  # 导入第三方库
+
+office.word.docx2pdf(path=r'这里填你的Word文件位置',
+                    output_path=r'这里填转换后的PDF保存位置')
+"""

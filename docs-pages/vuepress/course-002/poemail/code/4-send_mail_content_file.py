@@ -1,0 +1,58 @@
+# -*- coding: UTF-8 -*-
+'''
+@作者  ：B站/抖音/微博/小红书/公众号，都叫：程序员晚枫
+@微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g
+@个人网站      ：www.python-office.com
+@代码日期    ：2023/12/24 1:26 
+@本段代码的视频说明     ：
+'''
+import os
+from datetime import datetime
+
+import poemail
+
+key = os.getenv('EMAIL_KEY')
+msg_from = os.getenv('EMAIL_FROM')
+msg_to = os.getenv('EMAIL_TO')
+msg_cc = 'ai163361ia@163.com'
+# 附件列表，可以写多个
+attach_files = [r'./test_files/4-send_mail_content_file/程序员晚枫.doc',
+                r'./test_files/4-send_mail_content_file/0816.jpg']
+
+poemail.send.send_email(key=key,
+                        msg_from=msg_from,
+                        msg_to=msg_to,
+                        msg_cc=msg_cc,
+                        msg_subject='带附件的邮件' + str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')),
+                        content='测试邮件发送' + str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')),
+                        attach_files=attach_files)
+
+import office
+
+office.email.send_email(key=key,
+                        msg_from=msg_from,
+                        msg_to=msg_to,
+                        msg_cc=msg_cc,
+                        msg_subject='带附件的邮件' + str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')),
+                        content='测试邮件发送' + str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
+
+
+"""
+import os
+
+key = os.getenv('EMAIL_KEY')#授权码
+msg_from = os.getenv('EMAIL_FROM')#发件
+msg_to = os.getenv('EMAIL_TO')#收件人
+msg_subject = '程序员晚枫的邮件主题'
+msg_cc = '抄送人的邮箱@163.com'
+content = '程序员晚枫的邮件正文'
+
+# 附件列表，可以写多个
+attach_files = [r'./test_files/4-send_mail_content_file/程序员晚枫.doc',
+                r'./test_files/4-send_mail_content_file/0816.jpg']
+
+import poemail
+
+poemail.send.send_email(key=key, msg_from=msg_from, msg_to=msg_to, msg_subject=msg_subject, content=content,attach_files=attach_files)
+
+"""
