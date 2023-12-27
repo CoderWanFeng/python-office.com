@@ -17,7 +17,7 @@ msg_to = os.getenv('EMAIL_TO')
 poemail.receive.receive_email(key=key,
                               msg_from=msg_from,
                               msg_to=msg_to,
-                              output_path=r'./test_files/6',
+                              output_path=r'./test_files/receive_dir',
                               status="ALL")
 
 #

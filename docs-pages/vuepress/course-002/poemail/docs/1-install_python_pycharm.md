@@ -21,7 +21,7 @@
 
 - CSDN专栏：[6讲Python自动收发邮件](https://blog.csdn.net/weixin_42321517/category_12532730.html)
 - 知乎专栏：[6讲Python自动收发邮件](https://www.zhihu.com/column/c_1723127815069724672)
-- 公众号：[Python终于能自动收发邮件了！](https://mp.weixin.qq.com/s/yw1fVPpN7vQoaCe__twYDA)
+- 公众号：[Python终于能自动收发邮件了！](https://mp.weixin.qq.com/s/HP923kHl44CaOKnUb46T6w)
 
 
 ## 读者福利
