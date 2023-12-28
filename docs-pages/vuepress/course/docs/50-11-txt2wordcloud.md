@@ -1,7 +1,7 @@
 # 【第11讲】入门数据可视化，1行Python代码就够了，这是什么宝藏项目？
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ)
+> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
 ------
 
 ![](../xmind/imgs/50-11-txt2wordcloud.png)
@@ -24,7 +24,7 @@
 > 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：B站购买更优惠~
 
 - B站 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/7VlKqTjE4yBbP8aqEIITpw)
-- 微信 购买链接：[78元-点我直达](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ)
+- 微信 购买链接：[78元-点我直达](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
 
 付费后，2个平台都会自动出现网盘链接，永久有效。
 
