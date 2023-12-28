@@ -19,7 +19,7 @@
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
-- 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)
+- 微信 购买链接：[98元-点我直达](https://mp.weixin.qq.com/s/2fZiSQPVtDJCz0fHtqrsVA)
 
 付费后，文末会自动出现网盘链接，永久有效。
 

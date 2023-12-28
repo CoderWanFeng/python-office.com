@@ -28,7 +28,7 @@
 
 </p>
 
-欢迎学习给小白的《10讲 · Python微信机器人》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我下载](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)。
+欢迎学习给小白的《10讲 · Python微信机器人》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我下载](https://mp.weixin.qq.com/s/2fZiSQPVtDJCz0fHtqrsVA)。
 
 本次课程的特点有以下几个：
 
@@ -70,7 +70,7 @@
 
 
 
-- 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/HIl7ZsldGc9Lp8JtCEzOpg)
+- 微信 购买链接：[98元-点我直达](https://mp.weixin.qq.com/s/2fZiSQPVtDJCz0fHtqrsVA)
 
 付费后，文末会自动出现网盘链接，永久有效。
 
