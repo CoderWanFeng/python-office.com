@@ -2,7 +2,7 @@
 
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
+> 点击学习：[50讲 · Python自动化办公](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1104200099&from=items_share&msource=items_share)
 ------
 
 ![](../xmind/imgs/50-10-excel2pdf.png)
@@ -17,7 +17,7 @@
 
 在这里给订阅这套课程的同学说2件事情，
 
-其一：课程全部更新完了，目前50讲全套价格价格78元👉[点我直达](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
+其一：课程全部更新完了，目前50讲全套价格价格78元👉[点我直达](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ)
 
 其二：另外**从本讲开始，本合集的每一篇文章都增加一些课外基础知识**，让大家看完视频以后，还能通过阅读文章获得更多Python基础知识。这部分补充知识在文章的最后，是不用付费合集就可以阅读的哟~
 

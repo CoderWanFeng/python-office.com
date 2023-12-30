@@ -1,7 +1,7 @@
 # 【第18讲】1行Python代码，定制自己的智能助理，微信机器人开启关键词回复模式
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
+> 点击学习：[50讲 · Python自动化办公](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1104200099&from=items_share&msource=items_share)
 ------
 
 

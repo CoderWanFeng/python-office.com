@@ -1,7 +1,7 @@
 # 【第15讲】批量识别发票，自动保存到Excel中，1行Python代码稿定
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
+> 点击学习：[50讲 · Python自动化办公](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1104200099&from=items_share&msource=items_share)
 ------
 
 ![](../xmind/imgs/50-15-VatInvoiceOCR2Excel.png)

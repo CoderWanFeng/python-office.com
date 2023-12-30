@@ -1,7 +1,7 @@
 # 【第2讲】正版PyCharm，但是免费！最强Python 编辑器的下载和使用教程，还有中文插件哦~
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
+> 点击学习：[50讲 · Python自动化办公](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1104200099&from=items_share&msource=items_share)
 ------
 
 ![](../xmind/imgs/50-02-PyCharm.png)
