@@ -55,7 +55,7 @@
 
 
 - B站 购买链接：[150元-点我直达](https://mp.weixin.qq.com/s/qfoYVX8Wqy93CU-6GT1wjg)
-- 微信 购买链接：[178元-点我直达](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
+- 微信 购买链接：[78元-点我直达](https://mp.weixin.qq.com/s/tKlzVee4kmJk4dGfKvVnFQ)
 
 付费后，2个平台都会自动出现网盘链接，永久有效。
 
