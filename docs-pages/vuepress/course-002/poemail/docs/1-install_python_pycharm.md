@@ -4,25 +4,27 @@
 > 全套课程：[6讲 · Python自动收发邮件](https://www.python-office.com/course-002/poemail/poemail.html)
 ------
 
+## 本讲视频
 
-## 下载链接
+- [点我直达](https://www.bilibili.com/video/BV1pQ4y177nV?p=2)
 
-这一讲是环境的搭建，主要内容包括：
 
-- 下载Python：[点我免费下载官方正版](https://www.python.org/downloads/release/python-3116/)
-- 安装PyCharm:[点我免费下载官方正版](https://www.jetbrains.com/pycharm/download/download-thanks.html)
-- 下载课程代码:
-  - [国内的朋友，点我](https://gitee.com/CoderWanFeng/poemail)
-  - [国外的朋友，点我](https://github.com/CoderWanFeng/poemail)
 
 ## 课程资料
 
-本套课程正在录制中，目前已经更新的资料有：
+![](../imgs/code.png)
 
-- CSDN专栏：[6讲Python自动收发邮件](https://blog.csdn.net/weixin_42321517/category_12532730.html)
-- 知乎专栏：[6讲Python自动收发邮件](https://www.zhihu.com/column/c_1723127815069724672)
-- 公众号：[Python终于能自动收发邮件了！](https://mp.weixin.qq.com/s/HP923kHl44CaOKnUb46T6w)
+如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
+> 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：我的粉丝，用B站购买更优惠~
+
+
+- B站 购买链接：[38元-点我直达](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105542099&from=items_share&msource=items_share)
+- 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/AeTkloNri7gpk25m50VmTA)
+
+付费后，文末会自动出现网盘链接，永久有效。
+
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
 
 ## 读者福利
 
