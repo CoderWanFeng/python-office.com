@@ -11,14 +11,12 @@ import os
 import poemail
 
 key = os.getenv('EMAIL_KEY')
-msg_from = os.getenv('EMAIL_FROM')
-msg_to = os.getenv('EMAIL_TO')
-#
+msg_from = "1957875073@qq.com"
+
 poemail.receive.receive_email(key=key,
                               msg_from=msg_from,
-                              msg_to=msg_to,
-                              output_path=r'./test_files/receive_dir',
-                              status="ALL")
+                              output_path=r'D:\download\原创课程（程序员晚枫）\代码\test_files\批量下载附件',
+                              status="UNSEEN")  # status="UNSEEN"
 
 #
 # import office
