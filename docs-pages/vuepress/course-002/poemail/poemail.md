@@ -49,7 +49,7 @@
 - 第4讲：[1行代码，自动发正文+附件](./docs/4-send_mail_content_file.html)
 - 第5讲：[自动批量发送](./docs/5-batch_send_mail_content_file.html)
 - 第6讲：[1行代码，自动下载邮件的附件](./docs/6-receive_mail_attchment.html)
-- 第7讲：[结合微信机器人，自动收发邮件](./docs/7-ai_email.html)
+- 第7讲：[配置其它邮箱](./docs/7-other_email.html)
 
 ### 补充知识
 
