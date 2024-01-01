@@ -51,6 +51,7 @@
 - 第6讲：[1行代码，自动下载邮件的附件](./docs/6-receive_mail_attchment.html)
 - 第7讲：[配置其它邮箱](./docs/7-other_email.html)
 
+
 ### 补充知识
 
 - [给小白的《10讲 · Python微信机器人》（完结）](https://mp.weixin.qq.com/s/g9nejIxuitwRzl5NMi177w)
@@ -58,8 +59,27 @@
 - [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
 
 
+## 2、课程资料
 
-## 2、交流群
+![](../imgs/code.png)
+
+如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
+
+
+> 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：苹果手机，用B站购买更优惠~
+
+
+- B站 购买链接：[38元-点我直达](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105542099&from=items_share&msource=items_share)
+- 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/AeTkloNri7gpk25m50VmTA)
+
+付费后，文末会自动出现网盘链接，永久有效。
+
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
+
+
+
+
+## 3、交流群
 
 <p align="center">
     <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
