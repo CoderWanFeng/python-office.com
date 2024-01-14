@@ -53,6 +53,10 @@
 - 第9讲：[桌面版](./docs/10-09-send.html)
 - 第10讲：[智能聊天](./docs/10-10-chat_robot.html)
 
+## 常见问题
+
+这套代码发布了1年多了，大家在使用中的常见问题，点击查看👉[收藏！Python操作微信机器人，总结了10个常见问题](https://mp.weixin.qq.com/s/b-ZMLWrmYldqIIt-3JNe5A)
+
 ### 补充知识
 
 - [用Python实现微信多开，1行代码免费用](https://mp.weixin.qq.com/s/qlubpfAytr_coV8GilG9RA)
