@@ -16,5 +16,5 @@ features:
   details: 2个B站账号名字分别是：Python自动化办公社区 、 程序员晚枫
 - title: 源码开源
   details: GitHub上搜索： python-office
-footer: 源代码见网页右上角：GitHub | Copyright © 2022-present 程序员晚枫
+footer: 源代码见网页右上角：GitHub | Copyright © 2024-present 程序员晚枫
 ---
