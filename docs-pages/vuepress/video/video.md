@@ -43,9 +43,8 @@
 | [10讲 · Python微信机器人（已完结）](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [打开](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [加入](http://python4office.cn/wechat-group/) |
 | [30讲 · Python数据分析（已完结）](https://www.bilibili.com/video/BV1hk4y1C73S)           | [打开](https://mp.weixin.qq.com/s/n5b-C4ZhkhfZmlCTvepM4A)    | [加入](http://python4office.cn/wechat-group/) |
 | [5讲 · Python实现OCR识别（更新中）](../course-002/5-poocr/5-poocr.html)                  | [打开](../course-002/5-poocr/5-poocr.html)                   | [加入](http://python4office.cn/wechat-group/) |
-| [6讲 · Python实现自动发邮件（更新中）](../course-002/poemail/poemail.html)              | [打开](../course-002/poemail/poemail.html)               | [加入](http://python4office.cn/wechat-group/) |
-
-
+| [6讲 · Python实现自动发邮件（更新中）](../course-002/poemail/poemail.html)                  | [打开](../course-002/poemail/poemail.html)                   | [加入](http://python4office.cn/wechat-group/) |
+| [公众号接入阿里大模型了，欢迎来撩](https://mp.weixin.qq.com/s/-h0LvrsOATQWFTivMAdQEA)          | [点我免费用](https://mp.weixin.qq.com/s/-h0LvrsOATQWFTivMAdQEA) | [加入](http://www.python4office.cn/wechat-group-ai/) |
 
 ## 专业学习方向
 
