@@ -42,11 +42,11 @@
 ## 1、课程目录
 为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
 
-- 第1讲：[软件下载和安装](https://www.bilibili.com/video/BV118411R7bB/)
-- 第2讲：[案例演示：车牌、发票识别，自动保存到Excel里](https://www.bilibili.com/video/BV1h94y1W7ds/)
-- 第3讲：[原理解析：100多个识别功能](./docs/10-03-send_file.html)
-- 第4讲：[原理解析：解析识别结果json，保存为Excel](./docs/10-04-chat_by_keywords.html)
-- 第5讲：[拓展应用：开发一个OCR软件](./docs/10-05-def.html)
+- 第1讲：[软件下载和安装](./docs/1-install_python_pycharm.html)
+- 第2讲：[开通腾讯OCR的账号](./docs/2-tencent_account.html)
+- 第3讲：[下载poocr](./docs/3-install_poocr.html)
+- 第4讲：[OCR识别的所有功能](./docs/4-all_ocr_func.html)
+- 第5讲：[OCR批量识别后，自动保存为Excel](./docs/5-ocr2excel.html)
 
 ### 补充知识
 

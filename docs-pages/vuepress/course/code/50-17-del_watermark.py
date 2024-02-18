@@ -8,7 +8,7 @@
 '''
 import office
 
-office.image.del_watermark(input_image=r'./test_files/50-17-del_watermark/img.png',
+office.image.del_watermark(input_image=r'./test_files/50-17-del_watermark/程序员晚枫的发票1.png',
                            output_image=r'./test_files/50-17-del_watermark/del_water_mark.jpg')
 
 # pip install poimage
