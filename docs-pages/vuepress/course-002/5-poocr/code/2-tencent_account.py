@@ -12,23 +12,23 @@
 # pip install poocr
 import poocr
 
-tencent_id = 'AKIDQhldHjy0nMhpiNo36vWu52kEUXM8g184'
-tencent_key = 'oPp25va2JOGyUovra8UdbOyLXYMxKWTC'
+tencent_id = 'AKID3DLM9mHgRWO8j81xpby79zbzEJNFHKTQ'
+tencent_key = 'wmWBxdP6e7gcSAkO2XwAHE5qXHsbIoIm'
 
-# poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/2-原理和实现/发票/',
-#                                     output_excel='./test_files/2-原理和实现/发票识别结果（程序员晚枫）.xlsx',
-#                                     id=tencent_id, key=tencent_key)
+poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/2-原理和实现/发票/',
+                                    output_excel='./test_files/2-原理和实现/发票识别结果（程序员晚枫）.xlsx',
+                                    id=tencent_id, key=tencent_key)
 
-poocr.ocr2excel.BankCardOCR2Excel(input_path=r'test_files/2-原理和实现/银行卡/程序员晚枫的银行卡.png', output_excel='./test_files/2-原理和实现/银行卡识别结果（程序员晚枫）.xlsx',
-                                  id=tencent_id, key=tencent_key)
+# poocr.ocr2excel.BankCardOCR2Excel(input_path=r'test_files/2-原理和实现/银行卡/程序员晚枫的银行卡.png', output_excel='./test_files/2-原理和实现/银行卡识别结果（程序员晚枫）.xlsx',
+#                                   id=tencent_id, key=tencent_key)
 
 """
 - 产品说明
-    - 腾讯云：https://cloud.tencent.com/product/ocr
-    - 免费额度：https://cloud.tencent.com/document/product/866/35945
+    - 腾讯云：https://curl.qcloud.com/v0BcWo7t
+    - 免费额度：https://curl.qcloud.com/VK0FtaKK
     - 购买额度：https://buy.cloud.tencent.com/iai_ocr
 
 - id和key：
-    - 开通和使用 - 教程：https://cloud.tencent.com/document/product/598/37140?fromSource=gwzcw.1293314.1293314.1293314&cps_key=ca76be5a2293ba3906d6d5407aea15ee
+    - 开通和使用 - 教程：https://curl.qcloud.com/fuOGcm2R
     - 页面：https://cloud.tencent.com/login?s_url=https%3A%2F%2Fconsole.cloud.tencent.com%2Fcam
 """

@@ -9,7 +9,9 @@
 
 - [点我直达](https://www.bilibili.com/video/BV1pQ4y177nV?p=3)
 
+## 下载poocr
 
+官网地址：[]()
 
 ## 课程资料
 

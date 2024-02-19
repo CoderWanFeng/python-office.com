@@ -60,16 +60,7 @@
 ![](./imgs/code.png)
 
 
-如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
-
-
-
-- 微信 购买链接：[更新中](http://www.python4office.cn/wechat-qrcode/)
-
-付费后，文末会自动出现网盘链接，永久有效。
-
-
-购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
+如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，或者 学习过程中有任何问题，也欢迎+我的微信获取👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
 
 
 ## 3、交流群

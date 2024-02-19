@@ -1,5 +1,4 @@
-# 【第1讲】软件安装
-
+# 【第2讲】开通OCR的账号
 
 ------
 > 全套课程：[5讲 · Python实现批量OCR识别](https://www.python-office.com/course-002/5-poocr/5-poocr.html)
@@ -9,7 +8,14 @@
 
 - [点我直达](https://www.bilibili.com/video/BV1pQ4y177nV?p=3)
 
+## 开通账号
 
+- 产品说明
+    - [腾讯云](https://curl.qcloud.com/v0BcWo7t)
+    - [免费额度](https://curl.qcloud.com/VK0FtaKK)
+
+- id和key：
+    - 开通和使用👉[教程](https://curl.qcloud.com/fuOGcm2R)
 
 ## 课程资料
 
@@ -19,14 +25,13 @@
 
 > 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：苹果手机，用B站购买更优惠~
 
-
-- B站 购买链接：[38元-点我直达](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105542099&from=items_share&msource=items_share)
+- B站
+  购买链接：[38元-点我直达](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105542099&from=items_share&msource=items_share)
 - 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/AeTkloNri7gpk25m50VmTA)
 
 付费后，文末会自动出现网盘链接，永久有效。
 
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
-
 
 ## 读者福利
 

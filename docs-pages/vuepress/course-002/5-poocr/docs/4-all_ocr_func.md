@@ -9,7 +9,9 @@
 
 - [点我直达](https://www.bilibili.com/video/BV1pQ4y177nV?p=3)
 
+## 所有识别功能
 
+👉[Python实现图片文字提取，准确率高达99%，100多个功能全给你！](https://mp.weixin.qq.com/s/tg-0yuItjZj0O0UEksl5ag)
 
 ## 课程资料
 
