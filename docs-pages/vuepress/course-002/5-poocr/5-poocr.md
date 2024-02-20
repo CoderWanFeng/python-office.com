@@ -1,4 +1,3 @@
-
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
     <img src="https://banner-1300615378.cos.ap-guangzhou.myqcloud.com/%E6%A8%AA%E6%9D%A1/Python%E5%A4%A7%E7%A4%BC%E5%8C%85.jpg" width="100%"/>
@@ -28,25 +27,26 @@
 
 </p>
 
-欢迎学习给小白的《5讲 · Python实现OCR识别》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群。
+欢迎学习给小白的《Python实现OCR自动批量识别》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群。
 
 本次课程的特点有以下几个：
 
 1. 适合小白不需要学习复杂的编程知识，拿来就用。
-2. 内容丰富，涵盖热门的微信机器人需求。
+2. 内容丰富，涵盖热门的OCR识别需求。
 3. 所有功能，只需要1~3行代码就能实现。
 
 本套课程的代码，全部来自开源项目，Python+OCR识别的专用库：``poocr``：[Python实现图片文字提取，准确率高达99%，100多个功能全给你！](https://mp.weixin.qq.com/s/tg-0yuItjZj0O0UEksl5ag)
 
-
 ## 1、课程目录
+
 为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
 
-- 第1讲：[软件下载和安装](./docs/1-install_python_pycharm.html)
-- 第2讲：[开通腾讯OCR的账号](./docs/2-tencent_account.html)
-- 第3讲：[下载poocr](./docs/3-install_poocr.html)
-- 第4讲：[OCR识别的所有功能](./docs/4-all_ocr_func.html)
-- 第5讲：[OCR批量识别后，自动保存为Excel](./docs/5-ocr2excel.html)
+- 第0讲：[课程说明](https://www.bilibili.com/video/BV13J4m1s7L7?p=1)
+- 第1讲：[软件下载和安装](https://www.bilibili.com/video/BV13J4m1s7L7?p=2)
+- 第2讲：[开通腾讯OCR的账号](https://www.bilibili.com/video/BV13J4m1s7L7?p=3)
+- 第3讲：[下载poocr](https://www.bilibili.com/video/BV13J4m1s7L7?p=4)
+- 第4讲：[OCR识别的所有功能](https://www.bilibili.com/video/BV13J4m1s7L7?p=5)
+- 第5讲：[OCR批量识别后，自动保存为Excel](https://www.bilibili.com/video/BV13J4m1s7L7?p=6)
 
 ### 补充知识
 
@@ -54,14 +54,21 @@
 - [给小白的《50讲Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
 - [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
 
-
 ## 2、获取资料
 
 ![](./imgs/code.png)
 
+如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
-如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，或者 学习过程中有任何问题，也欢迎+我的微信获取👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
+> 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：我的粉丝用B站购买更优惠哟~
 
+- B站
+  购买链接：[48元-点我直达](https://gf.bilibili.com/item/detail/1106110099?noTitleBar=1&from=mall-up_itemDetail&msource=comments_259649365)
+- 微信 购买链接：[64元-点我直达](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA)
+
+付费后，2个平台都会自动出现网盘链接，永久有效。
+
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
 
 ## 3、交流群
 
@@ -72,7 +79,6 @@
 </p>
 
 ## 4、读者福利
-
 
 <p align="center" id='30讲自动化办公-banner'>
     <a target="_blank" href='https://www.python-office.com/video/video.html'>

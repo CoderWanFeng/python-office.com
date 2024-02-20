@@ -13,6 +13,12 @@ import poocr
 tencent_id = 'AKID3DLM9mHgRWO8j81xpby79zbzEJNFHKTQ'
 tencent_key = 'wmWBxdP6e7gcSAkO2XwAHE5qXHsbIoIm'
 
-poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/2-原理和实现/发票/',
-                                    output_excel='./test_files/2-原理和实现/发票识别结果（程序员晚枫）.xlsx',
-                                    id=tencent_id, key=tencent_key)
+poocr.ocr2excel.LicensePlateOCR2Excel(input_path=r'test_files/1-软件安装/车牌/程序员晚枫的车牌.png',
+                                      output_excel='./test_files/1-软件安装/车牌识别结果（程序员晚枫）.xlsx',
+                                      id=tencent_id, key=tencent_key)
+
+
+"""
+运行代码的环境：Python - 水
+编写代码的环境：PyCharm - 水桶
+"""
