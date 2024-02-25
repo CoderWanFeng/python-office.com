@@ -37,23 +37,23 @@
 
 建议你学习下面这几套我专门给非程序员小白准备的入门课程和资料，👇
 
-| 课程链接                                                              | 配套文档&代码&软件                                                 | 读者交流群                                       |
-|-------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------|
-| [50讲 · Python自动化办公（已完结）](../course/50-python-office.html)         | [打开](../course/50-python-office.html)                      | [加入](http://python4office.cn/wechat-group/) |
-| [10讲 · Python微信机器人（已完结）](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [打开](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [加入](http://python4office.cn/wechat-group/) |
-| [30讲 · Python数据分析（已完结）](https://www.bilibili.com/video/BV1hk4y1C73S) | [打开](https://mp.weixin.qq.com/s/n5b-C4ZhkhfZmlCTvepM4A)    | [加入](http://python4office.cn/wechat-group/) |
-| [OCR批量识别（Python版）](../course-002/5-poocr/5-poocr.html)            | [打开](../course-002/5-poocr/5-poocr.html)                   | [加入](http://python4office.cn/wechat-group/) |
-| [6讲 · Python实现自动发邮件（更新中）](../course-002/poemail/poemail.html)     | [打开](../course-002/poemail/poemail.html)                   | [加入](http://python4office.cn/wechat-group/) |
-| [公众号接入阿里大模型了，欢迎来撩](https://mp.weixin.qq.com/s/SfNA34bC6wMLRaKONfOWhw) | [点我免费用](https://mp.weixin.qq.com/s/SfNA34bC6wMLRaKONfOWhw) | [加入](http://www.python4office.cn/wechat-group-ai/) |
+| 课程链接                                                                      | 配套文档&代码&软件                                                 | 读者交流群                                              |
+|---------------------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|
+| [50讲 · Python自动化办公](../course/50-python-office.html)                      | [打开](../course/50-python-office.html)                      | [加入](http://python4office.cn/wechat-group/)        |
+| [10讲 · Python微信机器人](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [打开](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [加入](http://python4office.cn/wechat-group/)        |
+| [30讲 · Python数据分析](https://www.bilibili.com/video/BV1hk4y1C73S)           | [打开](https://mp.weixin.qq.com/s/n5b-C4ZhkhfZmlCTvepM4A)    | [加入](http://python4office.cn/wechat-group/)        |
+| [5讲 · Python + OCR批量识别](../course-002/5-poocr/5-poocr.html)               | [打开](../course-002/5-poocr/5-poocr.html)                   | [加入](http://python4office.cn/wechat-group/)        |
+| [6讲 · Python实现自动发邮件](../course-002/poemail/poemail.html)                  | [打开](../course-002/poemail/poemail.html)                   | [加入](http://python4office.cn/wechat-group/)        |
+| [公众号接入阿里大模型了，欢迎来撩](https://mp.weixin.qq.com/s/SfNA34bC6wMLRaKONfOWhw)     | [点我免费用](https://mp.weixin.qq.com/s/SfNA34bC6wMLRaKONfOWhw) | [加入](http://www.python4office.cn/wechat-group-ai/) |
 
 ## 专业学习方向
 
 如果你有一定的编程基础，或者你想用Python开发一些复杂的应用，可以学习下面这几套课程。👇
 
-- [123讲 · Python基础（已完结）](http://gk.link/a/11Put)
+- [123讲 · Python基础](http://gk.link/a/11Put)
 - [Python爬虫从入门到高级实战](https://www.bilibili.com/video/BV1y54y1y74F)
 - [Python网站快速开发实战](http://gk.link/a/10Wl1)
-- [Python金融数据分析高级训练营（完结）](https://www.bilibili.com/video/BV1Ut4y1i7wS/)
+- [Python金融数据分析高级训练营](https://www.bilibili.com/video/BV1Ut4y1i7wS/)
 
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
