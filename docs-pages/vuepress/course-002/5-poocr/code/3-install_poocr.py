@@ -7,3 +7,14 @@
 @本段代码的视频说明     ：
 '''
 
+# pip install poocr
+import poocr
+
+tencent_id = 'AKID3DLM9mHgRWO8j81xpby79zbzEJNFHKTQ'
+tencent_key = 'wmWBxdP6e7gcSAkO2XwAHE5qXHsbIoIm'
+
+res = poocr.ocr.IDCardOCR(img_path=r'test_files/3-下载poocr/img.png',
+                          id=tencent_id, key=tencent_key)
+print(res)
+
+

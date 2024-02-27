@@ -51,7 +51,7 @@
 ### 补充知识
 
 - [给小白的《10讲 · Python微信机器人》（完结）](https://mp.weixin.qq.com/s/g9nejIxuitwRzl5NMi177w)
-- [给小白的《50讲Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
+- [给小白的《50讲 · Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
 - [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
 
 ## 2、获取资料
@@ -62,8 +62,7 @@
 
 > 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：我的粉丝用B站购买更优惠哟~
 
-- B站
-  购买链接：[48元-点我直达](https://gf.bilibili.com/item/detail/1106110099?noTitleBar=1&from=mall-up_itemDetail&msource=comments_259649365)
+- B站 购买链接：[48元-点我直达](https://gf.bilibili.com/item/detail/1106110099?noTitleBar=1&from=mall-up_itemDetail&msource=comments_259649365)
 - 微信 购买链接：[64元-点我直达](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA)
 
 付费后，2个平台都会自动出现网盘链接，永久有效。
