@@ -52,6 +52,8 @@
 - 第8讲：[自动加好友](./docs/10-08-add.html)
 - 第9讲：[桌面版](./docs/10-09-send.html)
 - 第10讲：[智能聊天](./docs/10-10-chat_robot.html)
+- 第11讲：[加入阿里大模型](https://mp.weixin.qq.com/s/qWhJvLeoUjcGkjeElpkfPw)
+- 第12讲：[加入智谱大模型](https://mp.weixin.qq.com/s/qWhJvLeoUjcGkjeElpkfPw)
 
 ## 常见问题
 

@@ -7,18 +7,18 @@
 @本段代码的视频说明     ：
 '''
 
-# 所有功能的调用方法：https://mp.weixin.qq.com/s/tg-0yuItjZj0O0UEksl5ag
-
+"""
+本讲用到的资料：
+1、所有功能的调用方法：https://mp.weixin.qq.com/s/tg-0yuItjZj0O0UEksl5ag
+2、json解析网站：https://www.sojson.com/simple_json.html
+"""
 
 import poocr
 
-tencent_id = 'AKID3DLM9mHgRWO8j81xpby79zbzEJNFHKTQ'
-tencent_key = 'wmWBxdP6e7gcSAkO2XwAHE5qXHsbIoIm'
-res = poocr.ocr.RecognizeGeneralInvoice(img_path=r'D:\workplace\code\github\popdf\dev\output_5.pdf',
-                                        id=tencent_id, key=tencent_key)
+tencent_id = 'AKIDxz9EJVgieQ3CGQYllcWUK1b7Ulx120vp'
+tencent_key = 'vd6mbPE1gKJMUTMBwa8e3uusodTGT0Qf'
+
+res = poocr.ocr.LicensePlateOCR(img_path=r'D:\test\程序员晚枫的\车牌\img.png',
+                                id=tencent_id, key=tencent_key)
 
 print(res)
-
-import popdf
-
-popdf.pdf2docx(file_path=r'D:\workplace\code\github\popdf\dev\output_5.pdf', output_path=r'./output')

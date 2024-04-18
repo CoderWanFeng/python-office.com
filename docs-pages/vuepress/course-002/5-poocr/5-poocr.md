@@ -35,7 +35,7 @@
 2. 内容丰富，涵盖热门的OCR识别需求。
 3. 所有功能，只需要1~3行代码就能实现。
 
-本套课程的代码，全部来自开源项目，Python+OCR识别的专用库：``poocr``：[Python实现图片文字提取，准确率高达99%，100多个功能全给你！](https://mp.weixin.qq.com/s/tg-0yuItjZj0O0UEksl5ag)
+本套课程的代码，全部来自开源项目，Python+OCR识别的专用库：``poocr``：[Python实现图片文字提取，准确率高达99%，100多个功能全给你！](https://www.bilibili.com/video/BV13J4m1s7L7)
 
 ## 1、课程目录
 
@@ -46,7 +46,7 @@
 - 第2讲：[开通腾讯OCR的账号](https://www.bilibili.com/video/BV13J4m1s7L7?p=3)
 - 第3讲：[下载poocr](https://www.bilibili.com/video/BV13J4m1s7L7?p=4)
 - 第4讲：[OCR识别的所有功能](https://www.bilibili.com/video/BV13J4m1s7L7?p=5)
-- 第5讲：[OCR批量识别后，自动保存为Excel](https://www.bilibili.com/video/BV13J4m1s7L7?p=6)
+- 第5讲：[OCR批量识别后，自动保存为Excel](https://www.python-office.com/course-002/5-poocr/docs/5-ocr2excel.html)
 
 ### 补充知识
 
