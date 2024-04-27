@@ -34,8 +34,7 @@ poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/2-原理和实现/�
 | BankCardOCR2Excel     | 银行卡识别 | [加入](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA) |
 | LicensePlateOCR2Excel | 车牌号识别 | [加入](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA) |
 
-如需其它的识别后保存为Excel的功能，请点击加入👉[答疑群](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA)
-后@群主开发，有时间会尽力满足您的需求~
+如需其它的识别后保存为Excel的功能，请点击加入👉[答疑群](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA)后@群主开发，有时间会尽力满足您的需求~
 
 ## 本讲视频
 
