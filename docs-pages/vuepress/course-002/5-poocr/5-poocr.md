@@ -46,7 +46,7 @@
 - 第2讲：[开通腾讯OCR的账号](https://www.bilibili.com/video/BV13J4m1s7L7?p=3)
 - 第3讲：[下载poocr](https://www.bilibili.com/video/BV13J4m1s7L7?p=4)
 - 第4讲：[OCR识别的所有功能](https://www.bilibili.com/video/BV13J4m1s7L7?p=5)
-- 第5讲：[OCR批量识别后，自动保存为Excel](https://www.python-office.com/course-002/5-poocr/docs/5-ocr2excel.html)
+- 第5讲：[OCR批量识别后，自动保存为Excel](https://www.bilibili.com/video/BV13J4m1s7L7?p=6)
 
 ### 补充知识
 

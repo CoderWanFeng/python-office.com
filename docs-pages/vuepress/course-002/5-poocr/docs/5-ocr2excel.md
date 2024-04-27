@@ -20,7 +20,7 @@ tencent_id = 'AKID3DLM9mHgRWO8j81xpby79zbzEJNFHKTQ'
 tencent_key = 'wmWBxdP6e7gcSAkO2XwAHE5qXHsbIoIm'
 
 poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/2-原理和实现/发票/',
-                                    output_excel='./test_files/2-原理和实现/发票识别结果（程序员晚枫）.xlsx',
+                                    output_excel='./test_files/2-原理和实现/发票识别结果（程序员晚枫）-单个.xlsx',
                                     id=tencent_id, key=tencent_key)
 ```
 
@@ -38,7 +38,7 @@ poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/2-原理和实现/�
 
 ## 本讲视频
 
-- [点我直达](https://www.bilibili.com/video/BV1pQ4y177nV?p=3)
+- [点我直达](https://www.bilibili.com/video/BV13J4m1s7L7?p=6)
 
 ## 课程资料
 

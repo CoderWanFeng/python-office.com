@@ -6,15 +6,23 @@
 @代码日期    ：2024/2/18 21:55 
 @本段代码的视频说明     ：
 '''
-import poocr
-
 
 # pip install poocr
 import poocr
 
-tencent_id = '免费开通方法：https://b23.tv/TTo4QTc'
-tencent_key = '免费开通方法：https://b23.tv/TTo4QTc'
+SecretId = 'AKIDITXZTE65a7Ujy77EScqy9D7nESSEmKoC'
+SecretKey = 'V4eI2f6A8vYBiECEFU2NUP8uXxEHOafh'
 
-poocr.ocr2excel.IDCardOCR(input_path=r'test_files/程序员晚枫的身份证.jpg',
-                          output_excel='./test_files/身份证识别结果（程序员晚枫）.xlsx',
-                          id=tencent_id, key=tencent_key)
+poocr.ocr2excel.LicensePlateOCR2Excel(input_path=r'test_files/5-识别后保存为Excel/程序员晚枫-发票1.jpg',
+                                    output_excel='./test_files/发票识别结果（程序员晚枫）-单个.xlsx',
+                                    id=SecretId, key=SecretKey)
+
+
+
+
+
+
+
+poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/5-识别后保存为Excel/',
+                                    output_excel='./test_files/发票识别结果（程序员晚枫）-多个.xlsx',
+                                    id=SecretId, key=SecretKey)
