@@ -1,10 +1,8 @@
-# 【第1讲】软件安装
-
+# 【第5】识别后自动保存为Excel文件
 
 ------
 > 全套课程：[5讲 · Python实现批量OCR识别](https://www.python-office.com/course-002/5-poocr/5-poocr.html)
 ------
-
 
 ## 课程内容
 
@@ -26,32 +24,38 @@ poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/2-原理和实现/�
                                     id=tencent_id, key=tencent_key)
 ```
 
-其它的识别功能，正在开发中。
+上1讲提到OCR识别功能一共又100多个，本讲的自动识别保存为Excel文件，目前只有以下几个：
 
+| 调用方法                  | 功能说明  | 课程资料&交流群                                                |
+|-----------------------|-------|---------------------------------------------------------|
+| VatInvoiceOCR2Excel   | 发票识别  | [加入](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA) |
+| IDCardOCR2Excel       | 身份证识别 | [加入](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA) |
+| TrainTicketOCR2Excel  | 火车票识别 | [加入](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA) |
+| BankCardOCR2Excel     | 银行卡识别 | [加入](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA) |
+| LicensePlateOCR2Excel | 车牌号识别 | [加入](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA) |
 
+如需其它的识别后保存为Excel的功能，请点击加入👉[答疑群](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA)
+后@群主开发，有时间会尽力满足您的需求~
 
 ## 本讲视频
 
 - [点我直达](https://www.bilibili.com/video/BV1pQ4y177nV?p=3)
 
-
-
 ## 课程资料
 
 ![](../imgs/code.png)
-
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
 > 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：我的粉丝用B站购买更优惠哟~
 
-- B站 购买链接：[48元-点我直达](https://gf.bilibili.com/item/detail/1106110099?noTitleBar=1&from=mall-up_itemDetail&msource=comments_259649365)
+- B站
+  购买链接：[48元-点我直达](https://gf.bilibili.com/item/detail/1106110099?noTitleBar=1&from=mall-up_itemDetail&msource=comments_259649365)
 - 微信 购买链接：[64元-点我直达](https://mp.weixin.qq.com/s/xEX6tFUxPMZKdJIq5P7UOA)
 
 付费后，文末会自动出现网盘链接，永久有效。
 
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
-
 
 ## 读者福利
 
