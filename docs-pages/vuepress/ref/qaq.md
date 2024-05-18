@@ -8,7 +8,7 @@
 
 > 遇到问题不要慌，可以加入我的读者交流群：[点我直达](https://mp.weixin.qq.com/s/0GrWWSQ8sKs-WA8WoN3Ztg)
 
-> 如问题比较特殊，需找我1对1Python技术咨询/学习答疑，请直接添加我的个人微信：[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
+> 如问题比较特殊，需找我1对1Python技术咨询/学习答疑，请直接添加我的个人微信：[CoderWanFeng](https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA)
 
 
 

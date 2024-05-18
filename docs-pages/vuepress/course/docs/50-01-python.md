@@ -22,7 +22,7 @@
 - Python：[https://www.python.org/](https://www.python.org/)（因为众所周知的原因，国内可能打不开，解决方法👇）
 
 > 我都已经下载好了，放在了百度云网盘里，可以自己去领取下载:[点我打开百度云，永久有效地址](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA)。
-> 也可以直接加我微信，我微信发给你👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
+> 也可以直接加我微信，我微信发给你👉[CoderWanFeng](https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA)
 
 下载和安装时，请大家注意2点：
 
@@ -59,7 +59,7 @@
 
 付费后，2个平台都会自动出现网盘链接，永久有效。
 
-购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g)
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA)
 
 
 

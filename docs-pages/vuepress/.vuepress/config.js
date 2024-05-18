@@ -60,7 +60,7 @@ module.exports = {
             {
                 text: '🚦联系作者', items: [
                     { text: '🚸读者群', link: 'https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw' },
-                    { text: '作者微信', link: 'https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g' }
+                    { text: '作者微信', link: 'https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA' }
                 ]
             },
             { text: '🎁福利', link: 'http://python4office.cn/sideline-pro-list/' },

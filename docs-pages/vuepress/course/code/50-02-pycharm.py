@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 '''
 @作者  ：B站/抖音/微博/小红书/公众号，都叫：程序员晚枫
-@微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/Nt8E8vC-ZsoN1McTOYbY2g
+@微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA
 @个人网站      ：www.python-office.com
 @代码日期    ：2023/8/22 23:26 
 @本段代码的视频说明     ：https://www.bilibili.com/video/BV1X84y1f76f/?spm_id_from=pageDriver&vd_source=ca20bb8763fcb18660aa74d7a87234fa
