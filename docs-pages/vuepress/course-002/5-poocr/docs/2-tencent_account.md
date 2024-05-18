@@ -15,7 +15,7 @@
     - [免费额度](https://curl.qcloud.com/VK0FtaKK)
 
 - id和key：
-    - 开通和使用👉[教程](https://curl.qcloud.com/fuOGcm2R)
+    - 开通和使用👉[免费教程](https://curl.qcloud.com/fuOGcm2R)
 
 ## 课程资料
 

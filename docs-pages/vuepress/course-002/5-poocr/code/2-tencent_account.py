@@ -12,12 +12,15 @@
 # pip install poocr
 import poocr
 
-tencent_id = 'AKID3DLM9mHgRWO8j81xpby79zbzEJNFHKTQ'
-tencent_key = 'wmWBxdP6e7gcSAkO2XwAHE5qXHsbIoIm'
+tencent_id = 'AKIDIn8sQlwvnSuDJCsKgstivztc7ScfYHMJ'
+tencent_key = 'oPp160hCarEZuO0YC0uu6Un3DfHrHmKf'
 
-poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/2-原理和实现/发票/',
-                                    output_excel='./test_files/2-原理和实现/发票识别结果（程序员晚枫）-单个.xlsx',
-                                    id=tencent_id, key=tencent_key)
+pdf_path = r'C:\Users\Lenovo\Desktop\temp\12365.pdf'
+poocr.ocr2excel.VatInvoiceOCR2Excel(
+    # input_path=r'test_files/2-原理和实现/发票/',
+    pdf_path=pdf_path,
+    output_excel='./test_files/2-原理和实现/发票识别结果（程序员晚枫）-单个.xlsx',
+    id=tencent_id, key=tencent_key)
 
 # poocr.ocr2excel.BankCardOCR2Excel(input_path=r'test_files/2-原理和实现/银行卡/程序员晚枫的银行卡.png', output_excel='./test_files/2-原理和实现/银行卡识别结果（程序员晚枫）.xlsx',
 #                                   id=tencent_id, key=tencent_key)

@@ -4,7 +4,7 @@
     </a>   
 </p>
 <p align="center">
-	👉 <a target="_blank" href="https://www.python-office.com/office/robot.html">项目官网</a> 👈
+	👉 <a target="_blank" href="https://www.python-office.com/">项目官网</a> 👈
 </p>
 <p align="center">
 	👉 <a target="_blank" href="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/python-office.jpg">本开源项目的交流群</a> 👈
@@ -47,6 +47,7 @@
 - 第3讲：[下载poocr](https://www.bilibili.com/video/BV13J4m1s7L7?p=4)
 - 第4讲：[OCR识别的所有功能](https://www.bilibili.com/video/BV13J4m1s7L7?p=5)
 - 第5讲：[OCR批量识别后，自动保存为Excel](https://www.bilibili.com/video/BV13J4m1s7L7?p=6)
+- 第6讲：[支持PDF格式的发票识别了](https://mp.weixin.qq.com/s/54A9HHKaouqQrb5xGknE4g)
 
 ### 补充知识
 
