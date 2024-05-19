@@ -27,9 +27,9 @@ poocr.ocr2excel.VatInvoiceOCR2Excel(
 
 """
 - 产品说明
-    - 腾讯云：https://curl.qcloud.com/v0BcWo7t
+    - 腾讯云OCR：https://curl.qcloud.com/v0BcWo7t
     - 免费额度：https://curl.qcloud.com/VK0FtaKK
-    - 购买额度：https://buy.cloud.tencent.com/iai_ocr
+    - 开通额度：https://curl.qcloud.com/v0BcWo7t
 
 - id和key：
     - 开通和使用 - 教程：https://curl.qcloud.com/fuOGcm2R
