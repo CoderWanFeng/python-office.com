@@ -1,4 +1,4 @@
-# 【第5讲】识别后自动保存为Excel文件
+# 【第5】识别后自动保存为Excel文件
 
 ------
 > 全套课程：[5讲 · Python实现批量OCR识别](https://www.python-office.com/course-002/5-poocr/5-poocr.html)
