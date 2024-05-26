@@ -52,7 +52,7 @@ module.exports = {
                     { text: '50讲-自动化办公', link: 'https://www.python-office.com/course/50-python-office.html' },
                     { text: '10讲-微信机器人', link: 'https://www.python-office.com/course-002/10-PyOfficeRobot/10-PyOfficeRobot.html' },
                     { text: '6讲-邮件自动化', link: 'https://www.python-office.com/course-002/poemail/poemail.html' },
-                    { text: '5讲-OCR批量识别', link: 'https://www.python-office.com/course-002/5-poocr/5-poocr.html' },
+                    { text: '5讲-发票批量识别', link: 'https://www.python-office.com/course-002/5-poocr/5-poocr.html' },
                     { text: '30讲-数据分析', link: 'https://www.bilibili.com/video/BV1hk4y1C73S' },
                     { text: '100讲-爬虫', link: 'https://www.bilibili.com/video/BV1y54y1y74F' }
                 ]
