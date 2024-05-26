@@ -6,9 +6,9 @@
     </a>   
 </p>
 
-> 遇到问题不要慌，可以加入我的读者交流群：[点我直达](https://mp.weixin.qq.com/s/0GrWWSQ8sKs-WA8WoN3Ztg)
+> 遇到问题不要慌，可以加入我的读者交流群：[点我直达](http://www.python4office.cn/wechat-group/)
 
-> 如问题比较特殊，需找我1对1Python技术咨询/学习答疑，请直接添加我的个人微信：[CoderWanFeng](https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA)
+> 如问题比较特殊，需找我1对1Python技术咨询/学习答疑，请直接添加我的个人微信：[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
 
 
 
@@ -29,7 +29,7 @@
 
 - 视频链接：[打开](https://www.bilibili.com/video/BV118411R7bB)
 
-另外说明一下，视频教程配套的：**软件、代码、文档、答疑群**，是收费的，178元钱（1780微信豆）👉[点我获取资料](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
+另外说明一下，视频教程配套的：**软件、代码、文档、答疑群**，👉[点我获取资料](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1104200099&from=items_share&msource=items_share)
 
 我不想定价几百几千的割韭菜，但是也不想纯纯用爱发电。如果觉得贵了，只看视频也是可以的学习的。
 > 这里重点推荐一下答疑群的服务：大多数新人问题（不敢保证100%），在答疑群都会回复，希望这套课真正帮你

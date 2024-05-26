@@ -6,8 +6,9 @@
 
 1. 安装Python和Pycharm
 
-视频教程：[传送门](https://www.bilibili.com/video/BV1Q44y1u7rV)
-> 注意，这个项目支持的Python版本是3.8+
+视频教程：
+- [Python 下载和安装](https://www.bilibili.com/video/BV118411R7bB)
+- [PyCharm 下载和安装](https://www.bilibili.com/video/BV1X84y1f76f)
 
 2. 安装python-office
 

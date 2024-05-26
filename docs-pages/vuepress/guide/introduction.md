@@ -10,7 +10,7 @@
 	<strong>🍬python for office</strong>
 </p>
 <p align="center">
-	👉 <a href="https://www.python-office.com/api/img-cdn/group/python-office.jpg">本开源项目的交流群</a> 👈
+	👉 <a href="http://www.python4office.cn/wechat-group/">本开源项目的交流群</a> 👈
 </p>
 
 
@@ -40,8 +40,7 @@
 		<img src='https://gitee.com/CoderWanFeng/python-office/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
 
-	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
-	<img src="https://img.shields.io/badge/QQ-163434413-orange"/></a>
+
 </p>
 
 
@@ -65,7 +64,7 @@ Python-office 是一个 Python 自动化办公第三方库，能解决大部分�
     - Python官网：[传送门](https://pypi.org/project/python-office)
     - 开源中国：[传送门](https://www.oschina.net/p/python-office)
     - GitHub：[传送门](https://github.com/CoderWanFeng/python-office)
-    - 视频教程：[传送门](https://www.bilibili.com/video/BV1pT4y1k7FH)
+    - 视频教程：[传送门](https://www.python-office.com/course/50-python-office.html)
     
 
 # 作用
