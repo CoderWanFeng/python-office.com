@@ -37,14 +37,14 @@
 
 建议你学习下面这几套我专门给小白准备的入门课程和资料，0基础可以学会👇
 
-| 课程链接                                                                         | 配套文档&代码&软件                                                | 读者交流群                                              |
-|------------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------|
-| [50讲 · Python + 自动化办公](../course/50-python-office.html)                      | [打开](../course/50-python-office.html)                     | [加入](http://python4office.cn/wechat-group/)        |
+| 课程链接                                                                         | 配套文档&代码&软件                                               | 读者交流群                                              |
+|------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------|
+| [50讲 · Python + 自动化办公](../course/50-python-office.html)                      | [打开](https://gf.bilibili.com/item/detail/1104200099?noTitleBar=1&from=mall-up_itemDetail&msource=items_share)                     | [加入](http://python4office.cn/wechat-group/)        |
 | [10讲 · Python + 微信机器人](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [打开](../course-002/10-PyOfficeRobot/10-PyOfficeRobot.html) | [加入](http://python4office.cn/wechat-group/)        |
-| [30讲 · Python + 数据分析](https://www.bilibili.com/video/BV1hk4y1C73S)           | [打开](https://mp.weixin.qq.com/s/n5b-C4ZhkhfZmlCTvepM4A)   | [加入](http://python4office.cn/wechat-group/)        |
-| [5讲 · Python + 发票批量识别](../course-002/5-poocr/5-poocr.html)                   | [打开](../course-002/5-poocr/5-poocr.html)                  | [加入](http://python4office.cn/wechat-group/)        |
-| [100讲 · Python + 人工智能](https://www.bilibili.com/video/BV1rU4y1u7og/)         | [打开](https://mp.weixin.qq.com/s/P52GVQEJ1bVAN5vPM_t3Jg)                   | [加入](https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ)        |
-| [6讲 · Python + 自动发邮件](../course-002/poemail/poemail.html)                    | [打开](../course-002/poemail/poemail.html)                  | [加入](http://python4office.cn/wechat-group/)        |
+| [30讲 · Python + 数据分析](https://www.bilibili.com/video/BV1hk4y1C73S)           | [打开](https://mp.weixin.qq.com/s/n5b-C4ZhkhfZmlCTvepM4A)  | [加入](http://python4office.cn/wechat-group/)        |
+| [5讲 · Python + 发票批量识别](../course-002/5-poocr/5-poocr.html)                   | [打开](https://gf.bilibili.com/item/detail/1106110099)                 | [加入](http://python4office.cn/wechat-group/)        |
+| [100讲 · Python + 人工智能](https://www.bilibili.com/video/BV1rU4y1u7og/)         | [打开](https://mp.weixin.qq.com/s/P52GVQEJ1bVAN5vPM_t3Jg)                  | [加入](https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ)        |
+| [6讲 · Python + 自动发邮件](../course-002/poemail/poemail.html)                    | [打开](../course-002/poemail/poemail.html)                 | [加入](http://python4office.cn/wechat-group/)        |
 | [公众号接入阿里大模型了，欢迎来撩](https://mp.weixin.qq.com/s/SfNA34bC6wMLRaKONfOWhw)        | [点我免费用](https://mp.weixin.qq.com/s/SfNA34bC6wMLRaKONfOWhw) | [加入](http://www.python4office.cn/wechat-group-ai/) |
 
 ## 专业学习方向
