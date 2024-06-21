@@ -1,4 +1,4 @@
-## 视频教程
+## 给小白的《50讲 · Python自动化办公》
 
 <p align="center" id='进群-banner'>
     <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
