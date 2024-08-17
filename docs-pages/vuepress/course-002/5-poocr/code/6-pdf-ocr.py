@@ -10,7 +10,6 @@
 import poocr
 
 SecretId = 'AKIDztbwHThnrtr7IHUm3Pugeq0vpfbeq4GY'
-
 SecretKey = 'Hi3KgI0b1FNes7Qlx5JnGg3jIm7HMZ2W'
 
 # 只需要修改这里

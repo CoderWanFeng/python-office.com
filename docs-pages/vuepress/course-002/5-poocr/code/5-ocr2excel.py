@@ -10,19 +10,14 @@
 # pip install poocr
 import poocr
 
-SecretId = 'AKIDITXZTE65a7Ujy77EScqy9D7nESSEmKoC'
-SecretKey = 'V4eI2f6A8vYBiECEFU2NUP8uXxEHOafh'
+SecretId = 'AKIDztbwHThnrtr7IHUm3Pugeq0vpfbeq4GY'
+SecretKey = 'Hi3KgI0b1FNes7Qlx5JnGg3jIm7HMZ2W'
 
-poocr.ocr2excel.LicensePlateOCR2Excel(input_path=r'test_files/5-识别后保存为Excel/程序员晚枫-发票1.jpg',
-                                    output_excel='./test_files/发票识别结果（程序员晚枫）-单个.xlsx',
-                                    id=SecretId, key=SecretKey)
-
-
+# poocr.ocr2excel.LicensePlateOCR2Excel(input_path=r'test_files/5-识别后保存为Excel/程序员晚枫-发票1.jpg',
+#                                     output_excel='./test_files/发票识别结果（程序员晚枫）-单个.xlsx',
+#                                     id=SecretId, key=SecretKey)
 
 
-
-
-
-poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/5-识别后保存为Excel/',
+poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'D:\test\py310\poocr_test\程序员晚枫的发票\3、滴滴发票-鼠标垫滴滴送过来的.pdf',
                                     output_excel='./test_files/发票识别结果（程序员晚枫）-多个.xlsx',
                                     id=SecretId, key=SecretKey)

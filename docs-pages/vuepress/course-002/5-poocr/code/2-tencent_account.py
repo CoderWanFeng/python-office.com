@@ -12,13 +12,16 @@
 # pip install poocr
 import poocr
 
-tencent_id = 'AKIDIn8sQlwvnSuDJCsKgstivztc7ScfYHMJ'
-tencent_key = 'oPp160hCarEZuO0YC0uu6Un3DfHrHmKf'
+tencent_id = 'AKIDztbwHThnrtr7IHUm3Pugeq0vpfbeq4GY'
+tencent_key = 'Hi3KgI0b1FNes7Qlx5JnGg3jIm7HMZ2W'
+
+# SecretId: SecretKey:
 
 pdf_path = r'C:\Users\Lenovo\Desktop\temp\12365.pdf'
+input_path=r'C:\Users\Lenovo\Desktop\temp\微信图片_20240704233435.png'
 poocr.ocr2excel.VatInvoiceOCR2Excel(
     # input_path=r'test_files/2-原理和实现/发票/',
-    pdf_path=pdf_path,
+    input_path=input_path,
     output_excel='./test_files/2-原理和实现/发票识别结果（程序员晚枫）-单个.xlsx',
     id=tencent_id, key=tencent_key)
 
