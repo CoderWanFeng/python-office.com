@@ -76,9 +76,6 @@ module.exports = {
                 children: [
                     '/guide/introduction',
                     '/guide/allFunc',
-                    '/guide/office',
-                    '/guide/requirement',
-                    '/guide/init',
                 ]
             },          {
                 title: '原创课程',
