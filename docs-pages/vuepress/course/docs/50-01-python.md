@@ -1,17 +1,14 @@
 # 【第1讲】Python3.11的下载、安装和卸载，有手就能学会
 
 ------
-> 点击学习：[50讲 · Python自动化办公](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1104200099&from=items_share&msource=items_share)
+>
+点击学习：[50讲 · Python自动化办公](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1104200099&from=items_share&msource=items_share)
 ------
 
 
 ![](../xmind/imgs/50-01-python.png)
 
-
-
 课程的开始，我们学习如何安装Python运行环境。
-
-
 
 ## 本讲内容
 
@@ -21,7 +18,8 @@
 
 - Python：[https://www.python.org/](https://www.python.org/)（因为众所周知的原因，国内可能打不开，解决方法👇）
 
-> 我都已经下载好了，放在了百度云网盘里，可以自己去领取下载:[点我打开百度云，永久有效地址](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA)。
+>
+我都已经下载好了，放在了百度云网盘里，可以自己去领取下载:[点我打开百度云，永久有效地址](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA)。
 > 也可以直接加我微信，我微信发给你👉[CoderWanFeng](https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA)
 
 下载和安装时，请大家注意2点：
@@ -30,38 +28,27 @@
 
 - 我了解到很多朋友只是想尝试一下Python，对于小白来说，卸载比安装困难，所以我在这个视频里，加了**卸载的教程**。
 
-下载好了以后，我们开始一步一步的安装，编程是个细活，稍有差错，程序就会运行失败，所以：**请小白务必每一步都和视频中的操作一样。**
-
+下载好了以后，我们开始一步一步的安装，编程是个细活，稍有差错，程序就会运行失败，所以：**请小白务必每一步都和视频中的操作一样。
+**
 
 ## 安装视频
 
-
 <iframe src="//player.bilibili.com/player.html?bvid=BV118411R7bB" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%, height=500> </iframe>
-
-
-
-
 
 ## 下载课程代码
 
 ![](../docs/imgs/common/code.png)
 
-
-
-
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以直接付费下载。👇
 
-> 悄悄说：我的粉丝，用B站购买有优惠~
+> 哪个平台购买都可以，都是一样的资料 + 答疑群。
 
-
-- B站 购买链接：[98元-点我直达](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1104200099&from=items_share&msource=items_share)
+- B站 购买链接：[178元-点我直达](https://gf.bilibili.com/item/detail/1104200099)
+- 公众号 购买链接：[178元-点我直达](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
 
 付费后，会自动出现网盘链接，永久有效。
 
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA)
-
-
-
 
 ## 读者福利
 
