@@ -46,7 +46,7 @@ poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/2-原理和实现/�
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费后下载。👇
 
-- B站 购买链接：[78元-点我直达](https://gf.bilibili.com/item/detail/1106110099?noTitleBar=1&from=mall-up_itemDetail&msource=comments_259649365)
+- B站 购买链接：[98元-点我直达](https://gf.bilibili.com/item/detail/1106110099)
 
 付费后，文末会自动出现网盘链接，永久有效。
 
