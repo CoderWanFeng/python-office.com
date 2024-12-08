@@ -45,4 +45,4 @@
 
 - 我合并后，会直接在服务器里拉下来，打包更新到网站里。
 
-- ⭐参与PR的同学，欢迎添加我的微信，加入项目维护群：[CoderWanFeng](https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA)
+- ⭐参与PR的同学，欢迎添加我的微信，加入项目维护群：[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
