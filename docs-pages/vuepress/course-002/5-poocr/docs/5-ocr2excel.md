@@ -50,7 +50,7 @@ poocr.ocr2excel.VatInvoiceOCR2Excel(input_path=r'test_files/2-原理和实现/�
 
 付费后，文末会自动出现网盘链接，永久有效。
 
-购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA)
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
 
 ## 读者福利
 

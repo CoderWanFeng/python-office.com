@@ -18,7 +18,7 @@
 # -*- coding: UTF-8 -*-
 '''
 @作者  ：B站/抖音/微博/小红书/公众号，都叫：程序员晚枫
-@微信     ：CoderWanFeng : https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA
+@微信     ：CoderWanFeng : http://www.python4office.cn/wechat-qrcode/
 @个人网站      ：www.python-office.com
 @代码日期    ：2023/9/25 21:58 
 @本段代码的视频说明     ：
@@ -47,7 +47,7 @@ poimage.flag2profile(profile_path=r'./test_files/50-27-flag2profile/程序员晚
 
 付费后，2个平台都会自动出现网盘链接，永久有效。
 
-购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](https://mp.weixin.qq.com/s/8x7c9qiAneTsDJq9JnWLgA)
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
 
 ## 读者福利
 
