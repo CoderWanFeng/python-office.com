@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4777fb7a","path":"/office/file.html","title":"文件管理","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1692375492000,"updatedTime":1692375492000,"contributors":[{"name":"CoderWanFeng","email":"875143930@qq.com","commits":1}]},"filePathRelative":"office/file.md"}');export{e as data};

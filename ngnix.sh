@@ -1,4 +1,4 @@
 git pull
-rm -rf /opt/website/python4office.cn/*
-cp /opt/workplace/pro/python4office.cn/hexo/hexo/public/* /opt/website/python4office.cn/ -R
+rm -rf /opt/website/python-office.com/*
+cp /opt/workplace/pro/python-office.com/dist/* /opt/website/python-office.com/ -R
 python3 url.py

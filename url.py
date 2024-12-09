@@ -9,8 +9,9 @@
 import json
 import logging
 import os
-from tencentcloud.common import credential
+
 from tencentcloud.cdn.v20180606 import cdn_client, models
+from tencentcloud.common import credential
 from tencentcloud.common.profile.client_profile import ClientProfile
 from tencentcloud.common.profile.http_profile import HttpProfile
 
@@ -28,13 +29,14 @@ secret_key = os.getenv('t_key')
 cred = credential.Credential(secret_id, secret_key)
 httpProfile = HttpProfile()
 httpProfile.endpoint = "cdn.tencentcloudapi.com"
-#httpProfile.verify = False  # 禁用SSL验证,可选
+# httpProfile.verify = False  # 禁用SSL验证,可选
 clientProfile = ClientProfile()
 clientProfile.httpProfile = httpProfile
 
 # 初始化CDN客户端
 
 client = cdn_client.CdnClient(cred, "", clientProfile)
+
 
 def refresh_urls(urls):
     try:
@@ -48,10 +50,12 @@ def refresh_urls(urls):
     except Exception as e:
         logging.error("Error: %s", str(e))
 
+
 # 刷新缓存(替换你的url)
 
 urls_to_refresh = [
-    "http://python4office.cn"
+    "http://python4office.cn",
+    "https://www.python-office.com/",
 ]
 
 logging.info("Starting URL refresh...")
