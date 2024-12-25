@@ -42,6 +42,10 @@
 
 ## 1、课程目录
 
+以下课程的学习，是为了实现包含发票识别在内的Python+OCR识别的所有功能。
+
+> 如果不需要学习Python，只想使用发票批量识别功能，可以直接使用我们开发的exe软件，鼠标点点就能用。详情看本文的第3部分：exe软件。
+
 为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联，你可以不用按顺序学习，用到哪个就点开哪个。
 
 - 第0讲：[课程说明](https://www.bilibili.com/video/BV13J4m1s7L7?p=1)
@@ -53,11 +57,7 @@
 - 第6讲：[支持PDF格式的发票批量识别了](https://www.bilibili.com/video/BV1LT421S7sh)
 - 第7讲：[支持社保卡识别了](https://mp.weixin.qq.com/s/ymm9TnQVXTaRknUXdQJRiQ)
 
-### 补充知识
 
-- [给小白的《10讲 · Python微信机器人》（完结）](https://mp.weixin.qq.com/s/g9nejIxuitwRzl5NMi177w)
-- [给小白的《50讲 · Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
-- [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
 
 ## 2、获取资料
 
@@ -68,11 +68,20 @@
 - B站 购买链接：[98元-点我直达](https://gf.bilibili.com/item/detail/1106110099)
 
 
-付费后，2个平台都会自动出现网盘链接，永久有效。
+付费后，B站自动出现网盘链接，永久有效。
 
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
 
-## 3、交流群
+
+## 3、exe软件的下载
+
+在课程沟通的过程中，我发现很多朋友并不需要学习Python，只是想使用发票批量识别功能，那你也可以直接下载exe软件使用。
+
+- 💻[发票批量识别.exe，发布了！不用学Python，给财务人的自动化软件](https://www.bilibili.com/video/BV19bmBYWE1t/)
+
+
+
+## 4、交流群
 
 <p align="center">
     <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
@@ -80,7 +89,14 @@
     </a>   
 </p>
 
-## 4、读者福利
+### 补充知识
+
+- [给小白的《10讲 · Python微信机器人》（完结）](https://mp.weixin.qq.com/s/g9nejIxuitwRzl5NMi177w)
+- [给小白的《50讲 · Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
+- [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
+
+
+## 5、读者福利
 
 <p align="center" id='30讲自动化办公-banner'>
     <a target="_blank" href='https://www.python-office.com/video/video.html'>
