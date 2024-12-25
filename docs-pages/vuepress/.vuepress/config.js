@@ -100,6 +100,7 @@ module.exports = {
                     '/office/robot',
                     '/office/datav',
                     '/office/finance',
+                    '/office/markdown',
                 ]
             },
             {

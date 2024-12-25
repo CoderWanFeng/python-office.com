@@ -17,7 +17,7 @@
 不论你的电脑上有没有下载过python-office,都可以打开你的终端（Windows用户是cmd），运行以下命令：
 
 ```shell
-pip install python-office -U -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install python-office -U -i https://mirrors.aliyun.com/pypi/simple/
 ```
 
 这条命令的作用是：
@@ -25,7 +25,7 @@ pip install python-office -U -i https://pypi.tuna.tsinghua.edu.cn/simple
 - 如果没有下载过，直接给你下载 + 安装最新版。
 - 如果之前下载过，给你自动更新到最新版。
 
-后面的`` -i https://pypi.tuna.tsinghua.edu.cn/simple`` 是指定使用清华镜像。之前的视频里给大家说过了。👇
+后面的`` -i https://mirrors.aliyun.com/pypi/simple/`` 是指定使用清华镜像。之前的视频里给大家说过了。👇
 
 视频
 
