@@ -16,7 +16,8 @@ module.exports = {
                         s.parentNode.insertBefore(hm, s);
                         })();
                         `
-        ]
+        ],
+        ["meta", { name: "google-adsense-account", content: "ca-pub-3274762482246875" }]
     ],
     "plugins": {
         '@vuepress/back-to-top': true,
