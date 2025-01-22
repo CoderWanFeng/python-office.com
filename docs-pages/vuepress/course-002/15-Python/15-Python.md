@@ -37,6 +37,8 @@
 - 第1讲：[6分钟学会！Python和PyCharm的下载和安装](https://www.bilibili.com/video/BV1nzwaeWESd)
 - 第2讲：[Python中的变量与数据类型：看完这些，我怀疑以前学了个假编程！](https://www.bilibili.com/video/BV1hnwaeiE5D)
 - 第3讲：[运算符与表达式，Python计算的大脑](https://www.bilibili.com/video/BV1GFwvemErh)
+- 第4讲：[怎么判断一件事情的对与错？【if】语句满足你](https://www.bilibili.com/video/BV1GVfaYhEu7)
+- 第5讲：[大数据分析是怎么实现的？for和while了解一下](https://www.bilibili.com/video/BV1XGfaYcE79)
 
 
 
