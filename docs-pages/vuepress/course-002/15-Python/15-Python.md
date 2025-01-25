@@ -1,4 +1,4 @@
-## 给小白的《5讲 · Python + 发票批量识别》
+## 给小白的《15讲 · Python入门课》
 
 
 <p align="center" id='大礼包-banner'>
@@ -44,6 +44,11 @@
 - 第8讲：[Python里最特殊的一个数据类型：元组与集合](https://www.bilibili.com/video/BV1gPf5YCE8h)
 - 第9讲：[Python里竟然也有字典？0 基础一定要学会用](https://www.bilibili.com/video/BV1Muf5YgE8g/)
 - 第10讲：[Python中最重要的知识点：函数，看完就会用](https://www.bilibili.com/video/BV1tuf5YgEwG)
+- 第11讲：[Python函数的高级用法，零基础也能听懂的入门课](https://www.bilibili.com/video/BV1fyfoYLEss/)
+- 第12讲：[学Python找不到对象怎么办？自己创建一个就行了](https://www.bilibili.com/video/BV1AifoYQEcS)
+- 第13讲：[Python是怎么读写文件的？自动化办公学这个就够了](https://www.bilibili.com/video/BV1AvfoYpEWx)
+- 第14讲：[Python也会犯错吗？用异常处理来对付Bug吧](https://www.bilibili.com/video/BV1AvfoYpE9x)
+- 第15讲：[3分钟搞定！如何免费下载和使用Python第三方库，别人的代码你也可以用](https://www.bilibili.com/video/BV1rzfoYSEU8/)
 
 
 
