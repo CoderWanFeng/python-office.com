@@ -57,6 +57,36 @@
 - 第11讲：[加入阿里大模型](https://mp.weixin.qq.com/s/qWhJvLeoUjcGkjeElpkfPw)
 - 第12讲：[加入智谱大模型](https://mp.weixin.qq.com/s/qWhJvLeoUjcGkjeElpkfPw)
 
+
+
+## 2、获取资料
+
+感谢大家的支持，从2025年开始，全部代码免费送！我的答疑和部署收费。
+
+### ①代码免费
+
+如果只需要本套课程的代码，可以直接点开下面的链接下载：
+
+- [https://github.com/CoderWanFeng/PyOfficeRobot](https://github.com/CoderWanFeng/PyOfficeRobot)
+
+### ②全套资料 + 答疑 + 部署指导
+
+如果不想学习Python，只是想使用这个机器人的，可以直接+我的微信沟通，付费后我来1对1指导你。👇
+
+因为我也是打工人，为了避免浪费时间，我直接明码标价：**298元**，我给你全套代码 + 远程给你部署成功，没有二次收费。后续功能更新，也会免费给你。
+
+- 有需要的的朋友，请直接+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
+
+> 系统要求：win10、win11，不支持mac电脑和linux系统。
+
+## 3、交流群
+
+<p align="center">
+    <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
+    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
+    </a>   
+</p>
+
 ## 常见问题
 
 这套代码发布了1年多了，大家在使用中的常见问题，点击查看👉[收藏！Python操作微信机器人，总结了10个常见问题](https://mp.weixin.qq.com/s/b-ZMLWrmYldqIIt-3JNe5A)
@@ -68,31 +98,6 @@
 - [给小白的《50讲Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
 - [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
 
-
-## 2、获取资料
-
-![](./imgs/code.png)
-
-
-如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
-
-
-
-- 微信 购买链接：[98元-点我直达](https://mp.weixin.qq.com/s/2fZiSQPVtDJCz0fHtqrsVA)
-
-付费后，文末会自动出现网盘链接，永久有效。
-
-
-购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
-
-
-## 3、交流群
-
-<p align="center">
-    <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
-    </a>   
-</p>
 
 ## 4、读者福利
 
