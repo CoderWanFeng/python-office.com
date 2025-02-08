@@ -34,21 +34,21 @@
 
 以下课程，都可以直接点击学习：
 
-- 第1讲：[6分钟学会！Python和PyCharm的下载和安装](https://www.bilibili.com/video/BV1nzwaeWESd)
-- 第2讲：[Python中的变量与数据类型：看完这些，我怀疑以前学了个假编程！](https://www.bilibili.com/video/BV1hnwaeiE5D)
-- 第3讲：[运算符与表达式，Python计算的大脑](https://www.bilibili.com/video/BV1GFwvemErh)
-- 第4讲：[怎么判断一件事情的对与错？【if】语句满足你](https://www.bilibili.com/video/BV1GVfaYhEu7)
-- 第5讲：[大数据分析是怎么实现的？for和while了解一下](https://www.bilibili.com/video/BV1XGfaYcE79)
-- 第6讲：[Python基础学习之字符串操作，怎么让Python说话变得利索？](https://www.bilibili.com/video/BV1JjfhYzEwe)
-- 第7讲：[零基础学Python：列表超简单，看完就会用！](https://www.bilibili.com/video/BV1wdfYYDEgx)
-- 第8讲：[Python里最特殊的一个数据类型：元组与集合](https://www.bilibili.com/video/BV1gPf5YCE8h)
-- 第9讲：[Python里竟然也有字典？0 基础一定要学会用](https://www.bilibili.com/video/BV1Muf5YgE8g/)
-- 第10讲：[Python中最重要的知识点：函数，看完就会用](https://www.bilibili.com/video/BV1tuf5YgEwG)
-- 第11讲：[Python函数的高级用法，零基础也能听懂的入门课](https://www.bilibili.com/video/BV1fyfoYLEss/)
-- 第12讲：[学Python找不到对象怎么办？自己创建一个就行了](https://www.bilibili.com/video/BV1AifoYQEcS)
-- 第13讲：[Python是怎么读写文件的？自动化办公学这个就够了](https://www.bilibili.com/video/BV1AvfoYpEWx)
-- 第14讲：[Python也会犯错吗？用异常处理来对付Bug吧](https://www.bilibili.com/video/BV1AvfoYpE9x)
-- 第15讲：[3分钟搞定！如何免费下载和使用Python第三方库，别人的代码你也可以用](https://www.bilibili.com/video/BV1rzfoYSEU8/)
+- 第1讲：[下载和安装](https://www.bilibili.com/video/BV1nzwaeWESd)
+- 第2讲：[变量与数据类型](https://www.bilibili.com/video/BV1hnwaeiE5D)
+- 第3讲：[运算符与表达式](https://www.bilibili.com/video/BV1GFwvemErh)
+- 第4讲：[条件语句](https://www.bilibili.com/video/BV1GVfaYhEu7)
+- 第5讲：[循环语句](https://www.bilibili.com/video/BV1XGfaYcE79)
+- 第6讲：[字符串操作](https://www.bilibili.com/video/BV1JjfhYzEwe)
+- 第7讲：[列表](https://www.bilibili.com/video/BV1wdfYYDEgx)
+- 第8讲：[元组与集合](https://www.bilibili.com/video/BV1gPf5YCE8h)
+- 第9讲：[字典](https://www.bilibili.com/video/BV1Muf5YgE8g/)
+- 第10讲：[函数入门](https://www.bilibili.com/video/BV1tuf5YgEwG)
+- 第11讲：[函数进阶](https://www.bilibili.com/video/BV1fyfoYLEss/)
+- 第12讲：[面向对象编程](https://www.bilibili.com/video/BV1AifoYQEcS)
+- 第13讲：[文件操作](https://www.bilibili.com/video/BV1AvfoYpEWx)
+- 第14讲：[异常处理](https://www.bilibili.com/video/BV1AvfoYpE9x)
+- 第15讲：[模块和库](https://www.bilibili.com/video/BV1rzfoYSEU8/)
 
 
 
