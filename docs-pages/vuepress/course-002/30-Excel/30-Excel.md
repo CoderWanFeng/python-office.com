@@ -1,4 +1,4 @@
-## 给小白的《15讲 · Python入门课》
+## 【30讲】Excel自动化办公之Pandas
 
 
 <p align="center" id='大礼包-banner'>
@@ -34,34 +34,29 @@
 
 以下课程，都可以直接点击学习：
 
-- 第1讲：[下载和安装](https://www.bilibili.com/video/BV1nzwaeWESd)
-- 第2讲：[变量与数据类型](https://www.bilibili.com/video/BV1hnwaeiE5D)
-- 第3讲：[运算符与表达式](https://www.bilibili.com/video/BV1GFwvemErh)
-- 第4讲：[条件语句](https://www.bilibili.com/video/BV1GVfaYhEu7)
-- 第5讲：[循环语句](https://www.bilibili.com/video/BV1XGfaYcE79)
-- 第6讲：[字符串操作](https://www.bilibili.com/video/BV1JjfhYzEwe)
-- 第7讲：[列表](https://www.bilibili.com/video/BV1wdfYYDEgx)
-- 第8讲：[元组与集合](https://www.bilibili.com/video/BV1gPf5YCE8h)
-- 第9讲：[字典](https://www.bilibili.com/video/BV1Muf5YgE8g/)
-- 第10讲：[函数入门](https://www.bilibili.com/video/BV1tuf5YgEwG)
-- 第11讲：[函数进阶](https://www.bilibili.com/video/BV1fyfoYLEss/)
-- 第12讲：[面向对象编程](https://www.bilibili.com/video/BV1AifoYQEcS)
-- 第13讲：[文件操作](https://www.bilibili.com/video/BV1AvfoYpEWx)
-- 第14讲：[异常处理](https://www.bilibili.com/video/BV1AvfoYpE9x)
-- 第15讲：[模块和库](https://www.bilibili.com/video/BV1rzfoYSEU8/)
+- 第1讲：[创建Excel](https://www.bilibili.com/video/BV1y8F6eyERu)
+- 第2讲：[读取Excel](https://www.bilibili.com/video/BV1DDNcexEy5)
+- 第3讲：[读取行和列](https://www.bilibili.com/video/BV1iXP2eZEZ4)
+- 第4讲：[写入Excel](https://www.bilibili.com/video/BV1kkNneYEQB)
+- 第5讲：[处理日期](https://www.bilibili.com/video/BV17MN8emEcN)
+- 第6讲：[自动生成数据](https://www.bilibili.com/video/BV1riNNeHEXK)
+- 第7讲：[排序](https://www.bilibili.com/video/BV11CNVeUEWQ)
+- 第8讲：[透视表](https://www.bilibili.com/video/BV1KkNVenECL)
+- 第9讲：[柱状图](https://www.bilibili.com/video/BV1MnNUepEod)
+
+
 
 ## 课程配套资料
 
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费后下载。👇
 
-- B站 购买链接：[9元-点我直达](https://gf.bilibili.com/item/detail/1109278099)
+- B站 购买链接：[9元-点我直达](https://gf.bilibili.com/item/detail/1109352099)
 
 
 付费后，B站自动出现网盘链接，永久有效。
 
 购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
-
 
 
 
@@ -75,6 +70,7 @@
 
 ### 补充知识
 
+- [给小白的《15讲 · Python入门》（完结）](http://www.python-office.com/course-002/15-Python/15-Python.html)
 - [给小白的《10讲 · Python微信机器人》（完结）](https://mp.weixin.qq.com/s/g9nejIxuitwRzl5NMi177w)
 - [给小白的《50讲 · Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
 - [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
