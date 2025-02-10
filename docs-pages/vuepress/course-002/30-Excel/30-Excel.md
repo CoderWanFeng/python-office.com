@@ -34,6 +34,8 @@
 
 以下课程，都可以直接点击学习：
 
+
+- 第0讲：[软件安装](https://www.bilibili.com/video/BV17mNDerEcG)
 - 第1讲：[创建Excel](https://www.bilibili.com/video/BV1y8F6eyERu)
 - 第2讲：[读取Excel](https://www.bilibili.com/video/BV1DDNcexEy5)
 - 第3讲：[读取行和列](https://www.bilibili.com/video/BV1iXP2eZEZ4)
@@ -43,6 +45,7 @@
 - 第7讲：[排序](https://www.bilibili.com/video/BV11CNVeUEWQ)
 - 第8讲：[透视表](https://www.bilibili.com/video/BV1KkNVenECL)
 - 第9讲：[柱状图](https://www.bilibili.com/video/BV1MnNUepEod)
+- 第10讲：[分组柱状图](https://www.bilibili.com/video/BV1skNoeuEDc)
 
 
 
