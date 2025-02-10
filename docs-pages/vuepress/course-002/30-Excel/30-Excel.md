@@ -46,6 +46,7 @@
 - 第8讲：[透视表](https://www.bilibili.com/video/BV1KkNVenECL)
 - 第9讲：[柱状图](https://www.bilibili.com/video/BV1MnNUepEod)
 - 第10讲：[分组柱状图](https://www.bilibili.com/video/BV1skNoeuEDc)
+- 第11讲：[叠加水平柱状图](https://www.bilibili.com/video/BV1n2Nae8Ert)
 
 
 
