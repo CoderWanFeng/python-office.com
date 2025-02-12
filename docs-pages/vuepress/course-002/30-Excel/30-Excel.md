@@ -47,6 +47,10 @@
 - 第9讲：[柱状图](https://www.bilibili.com/video/BV1MnNUepEod)
 - 第10讲：[分组柱状图](https://www.bilibili.com/video/BV1skNoeuEDc)
 - 第11讲：[叠加水平柱状图](https://www.bilibili.com/video/BV1n2Nae8Ert)
+- 第12讲：[饼图](https://www.bilibili.com/video/BV1VnNae7EYZ)
+- 第13讲：[趋势图](https://www.bilibili.com/video/BV1FwNreHEdF)
+- 第14讲：[散点图、直方图](https://www.bilibili.com/video/BV1ouNre1EUg)
+- 第15讲：[密度图、数据相关性](https://www.bilibili.com/video/BV1aAKjeqEgL)
 
 
 
