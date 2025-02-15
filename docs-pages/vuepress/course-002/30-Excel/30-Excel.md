@@ -51,6 +51,9 @@
 - 第13讲：[趋势图](https://www.bilibili.com/video/BV1FwNreHEdF)
 - 第14讲：[散点图、直方图](https://www.bilibili.com/video/BV1ouNre1EUg)
 - 第15讲：[密度图、数据相关性](https://www.bilibili.com/video/BV1aAKjeqEgL)
+- 第16讲：[多表联查](https://www.bilibili.com/video/BV14oKTezEES)
+- 第17讲：[数据验证](https://www.bilibili.com/video/BV1TkAAeXED1)
+- 第18讲：[数据分列](https://www.bilibili.com/video/BV1bxAKecEKU)
 
 
 
