@@ -54,6 +54,12 @@
 - 第16讲：[多表联查](https://www.bilibili.com/video/BV14oKTezEES)
 - 第17讲：[数据验证](https://www.bilibili.com/video/BV1TkAAeXED1)
 - 第18讲：[数据分列](https://www.bilibili.com/video/BV1bxAKecEKU)
+- 第19讲：[平均分、总分](https://www.bilibili.com/video/BV1YnAMeGExD)
+- 第20讲：[数据去重](https://www.bilibili.com/video/BV1JxwdenEcK)
+- 第21讲：[行和列旋转](https://www.bilibili.com/video/BV1GzwderEaj)
+- 第22讲：[读取CSV、TXT、TSV](https://www.bilibili.com/video/BV1dFAeeQEhW)
+- 第23讲：[数据透视表](https://www.bilibili.com/video/BV1nEAxeqEGB)
+- 第24讲：[线性回归](https://www.bilibili.com/video/BV1RMAfepE1f)
 
 
 
