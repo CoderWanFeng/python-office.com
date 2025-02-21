@@ -9,19 +9,26 @@
 
 
 
-<p align="center" name="图标-github">
+<p align="center" name="'github">
     <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
     <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg?style=social" alt="github star"/>
     </a>
-    	<a target="_blank" href='https://gitee.com/CoderWanFeng/python-office'>
+    	<a target="_blank" href='https://gitee.com/CoderWanFeng//python-office/'>
 		<img src='https://gitee.com/CoderWanFeng//python-office/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
+    <a target="_blank" href='https://gitcode.com/CoderWanFeng1/python-office'>
+		<img src='https://gitcode.com/CoderWanFeng1/python-office/star/badge.svg?theme=dark' alt='gitcode star'/>
+	</a>	
+	<a target="_blank" href='https://gitcode.com/CoderWanFeng1/python-office'>
+<img src="https://static.pepy.tech/badge/python-office" alt="PyPI Downloads">
+</a>
   	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
 	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
   </a>
     	<a href="https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw">
 	<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E4%BA%A4%E6%B5%81%E7%BE%A4-brightgreen"/>
   </a>
+
 </p>
 
 你好，这里是程序员晚枫，小红书/B站/知乎/抖音都叫这个名。

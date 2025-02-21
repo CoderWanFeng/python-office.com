@@ -1,4 +1,4 @@
-## 【30讲】Excel自动化办公之Pandas
+## 【30讲】Python自动化办公之Excel数据分析（Pandas版）
 
 
 <p align="center" id='大礼包-banner'>
@@ -15,12 +15,18 @@
 
 
 <p align="center" name="'github">
-    <a target="_blank" href='https://github.com/CoderWanFeng/poocr'>
-    <img src="https://img.shields.io/github/stars/CoderWanFeng/poocr.svg?style=social" alt="github star"/>
+    <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
+    <img src="https://img.shields.io/github/stars/CoderWanFeng/python-office.svg?style=social" alt="github star"/>
     </a>
-    	<a target="_blank" href='https://gitee.com/CoderWanFeng//poocr/'>
-		<img src='https://gitee.com/CoderWanFeng//poocr/badge/star.svg?theme=dark' alt='gitee star'/>
+    	<a target="_blank" href='https://gitee.com/CoderWanFeng//python-office/'>
+		<img src='https://gitee.com/CoderWanFeng//python-office/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
+    <a target="_blank" href='https://gitcode.com/CoderWanFeng1/python-office'>
+		<img src='https://gitcode.com/CoderWanFeng1/python-office/star/badge.svg?theme=dark' alt='gitcode star'/>
+	</a>	
+	<a target="_blank" href='https://gitcode.com/CoderWanFeng1/python-office'>
+<img src="https://static.pepy.tech/badge/python-office" alt="PyPI Downloads">
+</a>
   	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
 	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
   </a>
@@ -29,6 +35,11 @@
   </a>
 
 </p>
+
+
+欢迎来到给小白的《30讲 · Python自动化办公之Excel数据分析（Pandas版）》课程。
+
+
 
 ## 课程列表
 
