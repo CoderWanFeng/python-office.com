@@ -63,17 +63,25 @@
 
 感谢大家的支持，从2025年开始，全部代码免费送！我的答疑和部署收费。
 
-### ①代码免费
+### ①全套代码
 
-如果只需要本套课程的代码，可以直接点开下面的链接下载：
 
-- [https://github.com/CoderWanFeng/PyOfficeRobot](https://github.com/CoderWanFeng/PyOfficeRobot)
 
-### ②全套资料 + 答疑 + 部署指导
+如果只需要本套课程的软件 + 代码，自己通过学习使用，可以直接点开下面的链接付费购买：
 
-如果不想学习Python，只是想使用这个机器人的，可以直接+我的微信沟通，付费后我来1对1指导你。👇
 
-因为我也是打工人，为了避免浪费时间，我直接明码标价：**298元**，我给你全套代码 + 远程给你部署成功，没有二次收费。后续功能更新，也会免费给你。
+
+- [付费本链接后，自动出现所有配套资料](https://mp.weixin.qq.com/s/2fZiSQPVtDJCz0fHtqrsVA?payreadticket=HHEW8glk4OfhlaM1eRifmOXXhwMgaIWdxgXBOoVbGbXS4Ncg8aC3_aIpgO4xIL1-f_I41pA)
+- 付费后，也可以＋我微信：[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)，使用过程中有问题，可以随时联系
+
+
+### ②全套代码 + 远程部署
+
+如果不想学习Python，只是想使用这个机器人的，可以直接+我的微信沟通，付费后我来1对1给你远程部署。👇
+
+> 功能和代码，和上面都是一样的，这个服务主要是节约你的时间。
+
+因为我也是打工人，为了避免浪费时间，我直接明码标价：**498元**，我给你全套代码 + 远程给你部署成功，没有二次收费。后续功能更新，也会免费给你。
 
 - 有需要的的朋友，请直接+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
 
