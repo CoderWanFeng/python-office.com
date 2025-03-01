@@ -31,6 +31,11 @@
 
 </p>
 
+<p align="center" id='CodeMaster-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/3KvzA0ZOKJCz11Sk-karOw'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/community%2Fgitcode%2FCodeMaster-3.png" width="100%"/>
+    </a>   
+</p>
 
 欢迎学习给小白的《50讲 · Python自动化办公》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我下载](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1104200099&from=items_share&msource=items_share)。
 
@@ -39,6 +44,7 @@
 1. 适合小白不需要学习复杂的编程知识，拿来就用。
 2. 内容丰富，涵盖热门的自动化办公需求。
 3. 所有功能，只需要1行代码就能实现。
+
 
 本套课程的代码，全部来自开源中国推荐项目，Python自动化办公的专用库：``python-office``：[重磅！官网发布第三方库：python-office，为Python自动化办公而生](https://www.bilibili.com/video/BV1pT4y1k7FH)
 
