@@ -37,6 +37,12 @@
 
 </p>
 
+<p align="center" id='CodeMaster-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/3KvzA0ZOKJCz11Sk-karOw'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/community%2Fgitcode%2FCodeMaster-3.png" width="100%"/>
+    </a>   
+</p>
+
 ## 课程列表
 
 以下课程，都可以直接点击学习：

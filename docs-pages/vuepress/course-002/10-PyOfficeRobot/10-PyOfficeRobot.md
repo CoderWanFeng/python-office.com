@@ -38,7 +38,7 @@
 2. 内容丰富，涵盖热门的微信机器人需求。
 3. 所有功能，只需要1~3行代码就能实现。
 
-本套课程的代码，全部来自开源项目，Python微信机器人的专用库：``PyOfficeRobot``：[又一个微信聊天机器人横空出世了，人人可用！](https://pypi.org/project/PyOfficeRobot/)
+本套课程的代码，全部来自**开源中国**推荐的开源项目，Python微信机器人的专用库：``PyOfficeRobot``：[又一个微信聊天机器人横空出世了，人人可用！](https://pypi.org/project/PyOfficeRobot/)
 
 
 ## 1、课程目录
@@ -92,6 +92,12 @@
 <p align="center">
     <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
     <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
+    </a>   
+</p>
+
+<p align="center" id='CodeMaster-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/3KvzA0ZOKJCz11Sk-karOw'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/community%2Fgitcode%2FCodeMaster-3.png" width="100%"/>
     </a>   
 </p>
 
