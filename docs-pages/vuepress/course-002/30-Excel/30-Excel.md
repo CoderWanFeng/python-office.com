@@ -40,7 +40,7 @@
 欢迎来到给小白的《30讲 · Python自动化办公之Excel数据分析（Pandas版）》课程。
 
 <p align="center" id='CodeMaster-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/3KvzA0ZOKJCz11Sk-karOw'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/B9OOU5bb8fOd9KiG43GqAw'>
     <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/community%2Fgitcode%2FCodeMaster-3.jpg" width="100%"/>
     </a>   
 </p>
