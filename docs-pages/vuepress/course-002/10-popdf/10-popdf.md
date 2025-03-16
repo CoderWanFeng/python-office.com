@@ -50,11 +50,11 @@
 | 2    | PDF 转 图片  | 💻[播放](https://www.bilibili.com/video/BV19WRVYKEEY)                    |
 | 3    | 万物转PDF    | [播放](https://www.bilibili.com/video/BV1aCQ5YhEBm)                     |
 | 4    | 拆分PDF  | 💻[播放](https://www.bilibili.com/video/BV1PYQpY3E8z)              |
-| 5    | PDF加密      | [播放](https://blog.csdn.net/weixin_42321517/article/details/129963432) |
-| 6    | PDF解密      | [播放](https://mp.weixin.qq.com/s/GiXYB_xZdlsYv5AIeIELkA)               |
-| 7    | PDF加水印    | [播放](https://www.bilibili.com/video/BV1Se411T7au)                     |
-| 8    | 合并PDF      | [播放](https://baijiahao.baidu.com/s?id=1733062611567959337)            |
-| 9    | 删除PDF      | [播放](https://baijiahao.baidu.com/s?id=1733062611567959337)            |
+| 5    | PDF加密      | [播放](https://www.bilibili.com/video/BV1n1QPYJE61) |
+| 6    | PDF解密      | [播放](https://www.bilibili.com/video/BV11FQ6YdEU1)               |
+| 7    | PDF加水印    | [播放](https://www.bilibili.com/video/BV1x7QtYdEJt)                     |
+| 8    | 合并PDF      | [播放](https://www.bilibili.com/video/BV1NNQhYaEVG)            |
+| 9    | 删除PDF      | [播放](https://www.bilibili.com/video/BV1KPQhYAENX)            |
 
 
 
