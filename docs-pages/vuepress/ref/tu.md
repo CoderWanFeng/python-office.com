@@ -10,8 +10,9 @@
 ![](./imgs/group/python-office-qr.jpg)
 ![](./imgs/group/qq-group.jpg)
 
-<!-- ![](img\python-office.jpg) -->
+<!-- wechat-->
 ![](./imgs/wechat/1v1.jpg)
+![](./imgs/wechat/wechat.jpg)
 ![](./imgs/wechat/qr-code.jpg)
 
 <!-- ads -->
