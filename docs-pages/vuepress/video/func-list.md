@@ -34,7 +34,7 @@
 </a> 
 </p>
 
-![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/qr-code.jpg)
+![](https://www.python-office.com/assets/img/qr-code.842c35b6.jpg)
 
 
 ## 学习福利
