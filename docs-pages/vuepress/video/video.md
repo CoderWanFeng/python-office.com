@@ -90,7 +90,7 @@
 
 ### 转行咨询
 
-如果需要咨询转行程序员的问题，可以直接加我的微信：[CoderWanFeng](https://www.python-office.com/assets/img/qr-code.842c35b6.jpg)
+如果需要咨询转行程序员的问题，可以直接加我的微信：[CoderWanFeng](https://www.python-office.com/assets/img/qr-code.b0c382a8.jpg)
 
 - [如何免费学编程？如何避免被割韭菜？](https://www.bilibili.com/video/BV1SM411K7wm)
 

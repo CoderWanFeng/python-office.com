@@ -28,4 +28,4 @@ B站账号：[程序员晚枫](https://space.bilibili.com/1989702333)
 
 如何参与项目的开发？视频教程👉[点我直达](https://www.bilibili.com/video/BV1EP411d7Np)
 
-![CoderWanFeng](https://www.python-office.com/assets/img/qr-code.842c35b6.jpg)
+![CoderWanFeng](https://www.python-office.com/assets/img/qr-code.b0c382a8.jpg)

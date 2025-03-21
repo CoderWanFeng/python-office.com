@@ -20,4 +20,4 @@
 
 ## 联系作者
 
-![](https://www.python-office.com/assets/img/qr-code.842c35b6.jpg)
+![](https://www.python-office.com/assets/img/qr-code.b0c382a8.jpg)
