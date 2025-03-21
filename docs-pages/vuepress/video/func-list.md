@@ -41,7 +41,7 @@
 
 玩互联网这几年，整理的一些**无套路，必中福利**，每天都可以领一次~❤
 
-![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg)
+![](https://www.python-office.com/assets/img/fuli.682e424c.jpg)
 
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>

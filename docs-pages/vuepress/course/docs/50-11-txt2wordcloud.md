@@ -61,6 +61,6 @@ office.image.txt2wordcloud(filename=r'./test_files/50-11-txt2wordcloud/python-of
 
 <p align="center" id='福利合集-banner'>
     <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/fuli.jpg" width="100%"/>
+    <img src="https://www.python-office.com/assets/img/fuli.682e424c.jpg" width="100%"/>
     </a>   
 </p>
