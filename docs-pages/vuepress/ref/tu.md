@@ -24,4 +24,15 @@
 ![](./imgs/logo/icon4.jpg)
 ![](./imgs/logo/github-nav.jpg)
 
+<!-- activity -->
+![](./imgs/activity/CodeMaster-3.jpg)
+![](./imgs/activity/pycon2024.jpg)
+<!-- account -->
+
+![](./imgs/account/B-py-auto.jpg)
+
+<!-- project -->
+![](./imgs/project/gitcode-star.jpg)
+
+
 
