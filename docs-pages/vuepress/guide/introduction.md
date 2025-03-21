@@ -2,7 +2,7 @@
 
 <p align="center">
     <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/github-nav.jpg" alt="github license"/>
+    <img src="https://www.python-office.com/assets/img/github-nav.8822cab2.jpg" alt="github license"/>
     </a>   
 </p>
 <p align="center">

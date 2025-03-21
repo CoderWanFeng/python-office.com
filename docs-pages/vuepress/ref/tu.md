@@ -18,6 +18,7 @@ test
 
 <!-- logo -->
 ![](./imgs/logo/icon2.jpg)
+![](./imgs/logo/icon4.jpg)
 ![](./imgs/logo/github-nav.jpg)
 
 
