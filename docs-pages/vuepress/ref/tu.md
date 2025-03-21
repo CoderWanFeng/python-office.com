@@ -12,3 +12,6 @@ test
 <!-- ![](img\python-office.jpg) -->
 ![](./imgs/wechat/1v1.jpg)
 ![](./imgs/wechat/qr-code.jpg)
+
+<!-- ads -->
+![](./imgs/ads/fuli.jpg)
