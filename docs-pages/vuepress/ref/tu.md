@@ -16,7 +16,7 @@
 ![](./imgs/wechat/qr-code.jpg)
 
 <!-- ads -->
-![](./imgs/ads/fuli.jpg)
+<!-- ![](./imgs/ads/fuli.jpg) -->
 ![](./imgs/ads/gzh/sub-py.jpg)
 
 <!-- logo -->
