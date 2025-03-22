@@ -127,8 +127,7 @@ module.exports = {
                     '/ref/git',
                     '/ref/log',
                     '/ref/ref',
-                    '/ref/qaq',
-                    '/ref/tu'
+                    '/ref/qaq'
                 ]
             },
         ],

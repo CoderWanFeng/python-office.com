@@ -1,1 +1,0 @@
-import{_ as t,o as c,c as o,a as e,d as a}from"./app-71a8ea0a.js";const s={},d=e("h1",{id:"test",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#test","aria-hidden":"true"},"#"),a(" Test")],-1),r=[d];function n(_,i){return c(),o("div",null,r)}const l=t(s,[["render",n],["__file","doc2docx.html.vue"]]);export{l as default};
