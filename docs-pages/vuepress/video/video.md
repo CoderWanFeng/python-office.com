@@ -38,7 +38,7 @@
 
 <p align="center" id='CodeMaster-banner'>
     <a target="_blank" href='https://mp.weixin.qq.com/s/B9OOU5bb8fOd9KiG43GqAw'>
-    <img src="https://www.python-office.com/assets/img/CodeMaster-3.89d93331.jpg" width="100%"/>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/activity/CodeMaster-3.jpg" width="100%"/>
     </a>   
 </p>
 
@@ -90,7 +90,7 @@
 
 ### 转行咨询
 
-如果需要咨询转行程序员的问题，可以直接加我的微信：[CoderWanFeng](https://www.python-office.com/assets/img/qr-code.b0c382a8.jpg)
+如果需要咨询转行程序员的问题，可以直接加我的微信：[CoderWanFeng](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/wechat/qr-code.jpg)
 
 - [如何免费学编程？如何避免被割韭菜？](https://www.bilibili.com/video/BV1SM411K7wm)
 

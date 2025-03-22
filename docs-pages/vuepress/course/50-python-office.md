@@ -33,7 +33,7 @@
 
 <p align="center" id='CodeMaster-banner'>
     <a target="_blank" href='https://mp.weixin.qq.com/s/B9OOU5bb8fOd9KiG43GqAw'>
-    <img src="https://www.python-office.com/assets/img/CodeMaster-3.89d93331.jpg" width="100%"/>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/activity/CodeMaster-3.jpg" width="100%"/>
     </a>   
 </p>
 
@@ -144,7 +144,7 @@
 
 <p align="center" id='福利合集-banner'>
     <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
-    <img src="https://www.python-office.com/assets/img/fuli.682e424c.jpg" width="100%"/>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/ads/fuli/all-1.jpg" width="100%"/>
     </a>   
 </p>
 

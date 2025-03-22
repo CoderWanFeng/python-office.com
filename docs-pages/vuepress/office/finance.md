@@ -20,4 +20,4 @@
 
 ## 联系作者
 
-![](https://www.python-office.com/assets/img/qr-code.b0c382a8.jpg)
+![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/wechat/qr-code.jpg)

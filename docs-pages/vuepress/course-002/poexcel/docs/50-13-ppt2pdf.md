@@ -74,6 +74,6 @@ print(add(2, 3))  # 显示2+3的结果
 
 <p align="center" id='福利合集-banner'>
     <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
-    <img src="https://www.python-office.com/assets/img/fuli.682e424c.jpg" width="100%"/>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/ads/fuli/all-1.jpg" width="100%"/>
     </a>   
 </p>

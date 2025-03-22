@@ -30,18 +30,18 @@
 
 <p align="center" id='开源交流群-banner'>
 <a target="_blank" href='https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/python-office.jpg'>
-<img src="https://www.python-office.com/assets/img/python-office-qr.4cda154f.jpg" width="100%"/>
+<img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/group/python-office-qr.jpg" width="100%"/>
 </a> 
 </p>
 
-![](https://www.python-office.com/assets/img/qr-code.b0c382a8.jpg)
+![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/wechat/qr-code.jpg)
 
 
 ## 学习福利
 
 玩互联网这几年，整理的一些**无套路，必中福利**，每天都可以领一次~❤
 
-![](https://www.python-office.com/assets/img/fuli.682e424c.jpg)
+![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/ads/fuli/all-1.jpg)
 
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
