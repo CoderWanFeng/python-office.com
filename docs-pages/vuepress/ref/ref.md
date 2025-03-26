@@ -38,6 +38,8 @@
 - [百度](https://author.baidu.com/home/1655119794937691)
 - [掘金](https://juejin.im/user/5e0f0e0f5188257e8c1e0c08)
 - [搜狐](https://mp.sohu.com/profile?xpt=NmYxYmY0ZWYtNzRiNC00NjRiLTg1YTktNGQ1MTg1MDYzZTA3)
+- [微博](https://www.weibo.com/u/7726957925)
+- [网易](https://www.163.com/dy/media/T1655534264406.html)
 
 
 ## 加入开源小组
