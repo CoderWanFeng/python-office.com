@@ -68,7 +68,7 @@
 
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费后下载。👇
 
-- B站 购买链接：[29元-点我直达](https://gf.bilibili.com/item/detail/1109278099)
+- B站 购买链接：[29元-点我直达](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=10&itemsId=11995869&loadingShow=1&noTitleBar=1&msource=merchant_share)
 
 
 付费后，B站自动出现网盘链接，永久有效。

@@ -51,7 +51,7 @@
 > 哪个平台购买都可以，都是一样的资料 + 答疑群。
 
 
-- B站 购买链接：[178元-点我直达](https://gf.bilibili.com/item/detail/1104200099)
+- B站 购买链接：[178元-点我直达](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=10&itemsId=11995842&loadingShow=1&noTitleBar=1&msource=merchant_share)
 - 公众号 购买链接：[178元-点我直达](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w)
 
 付费后，会自动出现网盘链接，永久有效。
