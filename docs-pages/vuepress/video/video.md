@@ -36,11 +36,7 @@
 业余时间做编程博主，同时维护了一个开源中国的推荐项目：[python-office](https://github.com/CoderWanFeng/python-office)
 ，这个python自动化办公的功能库，有关我的经历，详见下面这次访谈
 
-<p align="center" id='CodeMaster-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/B9OOU5bb8fOd9KiG43GqAw'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/activity/CodeMaster-3.jpg" width="100%"/>
-    </a>   
-</p>
+
 
 下面是我整理的Python学习教程:
 
@@ -181,5 +177,11 @@
 
 <p align="center" id='免费技术群'>
     <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/group/free-group.jpg"/>
+    </a>   
+</p>
+
+<p align="center" id='CodeMaster-banner'>
+    <a target="_blank" href='https://mp.weixin.qq.com/s/B9OOU5bb8fOd9KiG43GqAw'>
+    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/activity/CodeMaster-3.jpg" width="100%"/>
     </a>   
 </p>

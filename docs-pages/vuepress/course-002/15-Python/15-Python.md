@@ -37,11 +37,7 @@
 
 </p>
 
-<p align="center" id='CodeMaster-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/B9OOU5bb8fOd9KiG43GqAw'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/activity/CodeMaster-3.jpg" width="100%"/>
-    </a>   
-</p>
+
 
 ## 课程列表
 

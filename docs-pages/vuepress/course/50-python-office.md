@@ -31,11 +31,7 @@
 
 </p>
 
-<p align="center" id='CodeMaster-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/B9OOU5bb8fOd9KiG43GqAw'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/activity/CodeMaster-3.jpg" width="100%"/>
-    </a>   
-</p>
+
 
 欢迎学习给小白的《50讲 · Python自动化办公》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我下载](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1104200099&from=items_share&msource=items_share)。
 
