@@ -115,7 +115,7 @@
 
 
 
-![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/python-office.jpg)
+![](https://cos.python-office.com/python-office.jpg)
 
 
 

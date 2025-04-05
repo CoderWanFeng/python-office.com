@@ -25,7 +25,7 @@
   	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
 	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
   </a>
-    	<a href="https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw">
+    	<a href="http://www.python4office.cn/wechat-group/">
 	<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E4%BA%A4%E6%B5%81%E7%BE%A4-brightgreen"/>
   </a>
 
@@ -86,7 +86,7 @@
 
 ### 转行咨询
 
-如果需要咨询转行程序员的问题，可以直接加我的微信：[CoderWanFeng](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/wechat/qr-code.jpg)
+如果需要咨询转行程序员的问题，可以直接加我的微信：[CoderWanFeng](https://cos.python-office.com/wechat/qr-code.jpg)
 
 - [如何免费学编程？如何避免被割韭菜？](https://www.bilibili.com/video/BV1SM411K7wm)
 
@@ -176,12 +176,12 @@
 </p>
 
 <p align="center" id='免费技术群'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/group/free-group.jpg"/>
+    <img src="https://cos.python-office.com/group/free-group.jpg"/>
     </a>   
 </p>
 
 <p align="center" id='CodeMaster-banner'>
     <a target="_blank" href='https://mp.weixin.qq.com/s/B9OOU5bb8fOd9KiG43GqAw'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/activity/CodeMaster-3.jpg" width="100%"/>
+    <img src="https://cos.python-office.com/activity/CodeMaster-3.jpg" width="100%"/>
     </a>   
 </p>

@@ -6,7 +6,7 @@ module.exports = {
     dest: '/opt/workplace/pro/python-office.com/dist',  // 设置输出目录
 
     head: [
-        ["link", { rel: "icon", href: "https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/logo/icon2.jpg" }],
+        ["link", { rel: "icon", href: "https://cos.python-office.com/logo/icon2.jpg" }],
         ['script', {}, `
                         var _hmt = _hmt || [];
                         (function() {
@@ -35,7 +35,7 @@ module.exports = {
         },
     },
     themeConfig: {
-        logo: 'https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/logo/icon2.jpg',
+        logo: 'https://cos.python-office.com/logo/icon2.jpg',
         editLinks: 'https://github.com/CoderWanFeng/python-office',
         editLinkText: 'https://github.com/CoderWanFeng/python-office',
         // 添加导航栏
@@ -61,7 +61,7 @@ module.exports = {
             },
             {
                 text: '🚦联系作者', items: [
-                    { text: '🚸读者群', link: 'https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw' },
+                    { text: '🚸读者群', link: 'http://www.python4office.cn/wechat-group/' },
                     { text: '作者微信', link: 'http://www.python4office.cn/wechat-qrcode/' }
                 ]
             },

@@ -23,7 +23,7 @@
 
 
 - B站 购买链接：[38元-点我直达](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105542099&from=items_share&msource=items_share)
-- 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/AeTkloNri7gpk25m50VmTA)
+- 微信 购买链接：[48元-点我直达](https://www.python-office.com/course-002/poemail/poemail.html)
 
 付费后，文末会自动出现网盘链接，永久有效。
 
@@ -34,7 +34,7 @@
 
 <p align="center" id='福利合集-banner'>
     <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/ads/fuli/all-1.jpg" width="100%"/>
+    <img src="https://cos.python-office.com/ads/fuli/all-1.jpg" width="100%"/>
     </a>   
 </p>
 

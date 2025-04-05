@@ -8,5 +8,5 @@
 '''
 import office
 
-office.image.down4img(url='https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/logo/icon2.jpg',
+office.image.down4img(url='https://cos.python-office.com/logo/icon2.jpg',
                       output_path=r'D:\workplace\code\gitee\python-office.com\docs-pages\vuepress\course\code\test_files\50-16-down4img')

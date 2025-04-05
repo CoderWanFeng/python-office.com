@@ -1,6 +1,6 @@
 # 金融数据分析
 
-> Python金融交流群👉[点我直达](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/5-finance-group.jpg)
+> Python金融交流群👉[点我直达](https://cos.python-office.com/5-finance-group.jpg)
 
 
 ## 开源项目 - pofinance
@@ -20,4 +20,4 @@
 
 ## 联系作者
 
-![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/wechat/qr-code.jpg)
+![](https://cos.python-office.com/wechat/qr-code.jpg)

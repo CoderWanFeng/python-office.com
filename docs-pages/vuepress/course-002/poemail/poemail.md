@@ -21,7 +21,7 @@
   	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
 	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
   </a>
-    	<a href="https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw">
+    	<a href="http://www.python4office.cn/wechat-group/">
 	<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E4%BA%A4%E6%B5%81%E7%BE%A4-brightgreen"/>
   </a>
 
@@ -70,7 +70,7 @@
 
 
 - B站 购买链接：[38元-点我直达](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105542099&from=items_share&msource=items_share)
-- 微信 购买链接：[48元-点我直达](https://mp.weixin.qq.com/s/AeTkloNri7gpk25m50VmTA)
+- 微信 购买链接：[48元-点我直达](https://www.python-office.com/course-002/poemail/poemail.html)
 
 付费后，文末会自动出现网盘链接，永久有效。
 
@@ -105,7 +105,7 @@
 
 <p align="center" id='福利合集-banner'>
     <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/ads/fuli/all-1.jpg" width="100%"/>
+    <img src="https://cos.python-office.com/ads/fuli/all-1.jpg" width="100%"/>
     </a>   
 </p>
 

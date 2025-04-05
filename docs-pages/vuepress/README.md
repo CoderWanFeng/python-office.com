@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/logo/github-nav.jpg
+heroImage: https://cos.python-office.com/logo%2Fgithub-nav.jpg
 heroText: Welcome to python-office
 tagline: 为自动化办公而生
 actionText: 视频教程 →

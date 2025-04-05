@@ -30,7 +30,7 @@
   	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
 	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
   </a>
-    	<a href="https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw">
+    	<a href="http://www.python4office.cn/wechat-group/">
 	<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E4%BA%A4%E6%B5%81%E7%BE%A4-brightgreen"/>
   </a>
 
@@ -41,21 +41,21 @@
 
 
 
+
 已有功能的说明如下：
 
-| 序号 | 课程内容     | 视频                                                                    |
-| ---- | ------------ | ----------------------------------------------------------------------- |
-| 0    | 软件安装     | 💻 [播放](https://www.bilibili.com/video/BV1BS9UYGEW7)                   |
-| 1    | 💻PDF 转 Word | 💻 [播放](https://www.bilibili.com/video/BV1pB9UYSEoG)                   |
-| 2    | PDF 转 图片  | 💻[播放](https://www.bilibili.com/video/BV19WRVYKEEY)                    |
-| 3    | 万物转PDF    | [播放](https://www.bilibili.com/video/BV1aCQ5YhEBm)                     |
-| 4    | 拆分PDF  | 💻[播放](https://www.bilibili.com/video/BV1PYQpY3E8z)              |
-| 5    | PDF加密      | [播放](https://www.bilibili.com/video/BV1n1QPYJE61) |
-| 6    | PDF解密      | [播放](https://www.bilibili.com/video/BV11FQ6YdEU1)               |
-| 7    | PDF加水印    | [播放](https://www.bilibili.com/video/BV1x7QtYdEJt)                     |
-| 8    | 合并PDF      | [播放](https://www.bilibili.com/video/BV1NNQhYaEVG)            |
-| 9    | 删除PDF      | [播放](https://www.bilibili.com/video/BV1KPQhYAENX)            |
-
+| 序号 | 方法名             | 功能        | 视频                                                  | 文档                                                                                             |
+| ---- | ------------------ | ----------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 0    | 安装               | 下载和安装  | 💻 [播放](https://www.bilibili.com/video/BV1BS9UYGEW7) | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/0-install)             |
+| 1    | pdf2ocx            | PDF 转 Word | 💻 [播放](https://www.bilibili.com/video/BV1pB9UYSEoG) | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/1-pdf2docx/)           |
+| 2    | pdf2imgs           | PDF 转 图片 | 💻[播放](https://www.bilibili.com/video/BV19WRVYKEEY)  | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/2-pdf2imgs/)           |
+| 3    | txt2pdf            | TXT转PDF    | [播放](https://www.bilibili.com/video/BV1aCQ5YhEBm)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/3-txt2pdf/)            |
+| 4    | split4pdf          | 按页切割PDF | 💻[播放](https://www.bilibili.com/video/BV1PYQpY3E8z)  | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/4-split4pdf/)          |
+| 5    | encrypt4pdf        | PDF加密     | [播放](https://www.bilibili.com/video/BV1n1QPYJE61)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/5-encrypt4pdf/)        |
+| 6    | decrypt4pdf        | PDF解密     | [播放](https://www.bilibili.com/video/BV11FQ6YdEU1)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/6-decrypt4pdf/)        |
+| 7    | add_text_watermark | PDF加水印   | [播放](https://www.bilibili.com/video/BV1x7QtYdEJt)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/7-add_text_watermark/) |
+| 8    | merge2pdf          | 合并PDF     | [播放](https://www.bilibili.com/video/BV1NNQhYaEVG)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/8-merge2pdf/)          |
+| 9    | del4pdf            | 删除PDF     | [播放](https://www.bilibili.com/video/BV1KPQhYAENX)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/9-del4pdf/)            |
 
 
 ## 相关课程
@@ -69,7 +69,7 @@
 
 
 
-![](https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/ads/gzh/sub-py.jpg)
+![](https://cos.python-office.com/ads/gzh/sub-py.jpg)
 
 
 
@@ -107,7 +107,7 @@
 
 <p align="center" id='福利合集-banner'>
     <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/ads/fuli/all-1.jpg" width="100%"/>
+    <img src="https://cos.python-office.com/ads/fuli/all-1.jpg" width="100%"/>
     </a>   
 </p>
 

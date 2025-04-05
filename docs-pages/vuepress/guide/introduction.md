@@ -2,7 +2,7 @@
 
 <p align="center">
     <a target="_blank" href='https://github.com/CoderWanFeng/python-office'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/logo/github-nav.jpg" alt="github license"/>
+    <img src="https://cos.python-office.com/logo/github-nav.jpg" alt="github license"/>
     </a>   
 </p>
 <p align="center">
@@ -49,7 +49,7 @@ Python 知识，做到了真正的开箱即用。
 > 功能持续更新中，提交你的功能需求/参与项目开发，联系👉[开发者微信](http://www.python4office.cn/wechat-qrcode/)
 
 <p align="center" id='免费技术群'>
-    <img src="https://python-office-1300615378.cos.ap-chongqing.myqcloud.com/group/free-group.jpg"/>
+    <img src="https://cos.python-office.com/group/free-group.jpg"/>
     </a>   
 </p>
 
