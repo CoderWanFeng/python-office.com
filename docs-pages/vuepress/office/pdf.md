@@ -13,7 +13,7 @@ pdf自动化办公的实现，依赖的第三方库是：``popdf``
 
 | 序号 | 方法名                | 功能           | 视频                                                                    | 文档                                                                                   | 
 |----|--------------------|--------------|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| 1  | pdf2docx           | 💻PDF 转 Word | 💻 [播放](https://www.bilibili.com/video/BV1em4y1H7ir)                  | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/1-pdf2docx/) | 
+| 1  | pdf2docx           | 💻PDF 转 Word | 💻 [播放](https://www.bilibili.com/video/BV1em4y1H7ir)                  | [查看](https://www.zhihu.com/question/20841069/answer/1891634195664723968) | 
 | 2  | pdf2imgs           | PDF 转 图片     | 💻[文档](https://mp.weixin.qq.com/s/Ve5FH6q6ZqNbhUUG9RR8aw)             | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/2-pdf2imgs/) |
 | 3  | txt2pdf            | TXT转PDF      | [文档](https://blog.csdn.net/weixin_42321517/article/details/130612189) | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/3-txt2pdf/)  | 
 | 4  | split4pdf          | 按页切割PDF      | 💻[文档](https://mp.weixin.qq.com/s/Ve5FH6q6ZqNbhUUG9RR8aw)             | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/4-split4pdf/) |
