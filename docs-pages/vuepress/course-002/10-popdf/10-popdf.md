@@ -1,17 +1,12 @@
 ## 【10讲】Python自动化办公之PDF自动化办公 - popdf
 
 
-<p align="center" id='大礼包-banner'>
-    <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>
-    <img src="https://banner-1300615378.cos.ap-guangzhou.myqcloud.com/%E6%A8%AA%E6%9D%A1/Python%E5%A4%A7%E7%A4%BC%E5%8C%85.jpg" width="100%"/>
-    </a>   
+<p align="center" id='进群-banner'>
+<a target="_blank" href='https://mp.weixin.qq.com/s/0GrWWSQ8sKs-WA8WoN3Ztg'>
+<img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
+</a>   
 </p>
-<p align="center">
-	👉 <a target="_blank" href="https://www.python-office.com/">项目官网</a> 👈
-</p>
-<p align="center">
-	👉 <a target="_blank" href="http://www.python4office.cn/wechat-group/">本开源项目的交流群</a> 👈
-</p>
+
 
 
 <p align="center" name="'github">
@@ -21,8 +16,8 @@
     	<a target="_blank" href='https://gitee.com/CoderWanFeng//popdf/'>
 		<img src='https://gitee.com/CoderWanFeng//popdf/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
-    <a target="_blank" href='https://gitcode.com/CoderWanFeng1/popdf'>
-		<img src='https://gitcode.com/CoderWanFeng1/popdf/star/badge.svg?theme=dark' alt='gitcode star'/>
+    <a target="_blank" href='https://gitcode.com/python4office/popdf'>
+		<img src='https://gitcode.com/python4office/popdf/star/badge.svg?theme=dark' alt='gitcode star'/>
 	</a>	
 	<a target="_blank" href='https://gitcode.com/CoderWanFeng1/popdf'>
 <img src="https://static.pepy.tech/badge/popdf" alt="PyPI Downloads">
@@ -37,73 +32,73 @@
 </p>
 
 
-欢迎来到给小白的《10讲 · Python自动化办公之PDF自动化办公
+欢迎来到给小白的《10讲 · Python自动化办公之PDF自动化办公》，课程已经更新完毕🚀，每一节课都包含：视频、文档、代码、软件和答疑群，[点我免费下载](https://pan.quark.cn/s/053d27c5f39b)。
+
+
+本次课程的特点有以下几个：
+
+1. 适合小白不需要学习复杂的编程知识，拿来就用。
+2. 内容丰富，涵盖热门的PDF办公需求。
+3. 所有功能，只需要1~3行代码就能实现。
 
 
 
 
-已有功能的说明如下：
+本套课程的代码，全部来自专门处理PDF的开源项目：``popdf``：[减小20M！PDF自动化办公专用库：popdf，发布1.0.0版本](https://mp.weixin.qq.com/s/Z2OtM4FjoRaDDsDk3GIJwg)
 
-| 序号 | 方法名             | 功能        | 视频                                                  | 文档                                                                                             |
-| ---- | ------------------ | ----------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 0    | 安装               | 下载和安装  | 💻 [播放](https://www.bilibili.com/video/BV1BS9UYGEW7) | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/0-install)             |
-| 1    | pdf2ocx            | PDF 转 Word | 💻 [播放](https://www.bilibili.com/video/BV1pB9UYSEoG) | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/1-pdf2docx/)           |
-| 2    | pdf2imgs           | PDF 转 图片 | 💻[播放](https://www.bilibili.com/video/BV19WRVYKEEY)  | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/2-pdf2imgs/)           |
-| 3    | txt2pdf            | TXT转PDF    | [播放](https://www.bilibili.com/video/BV1aCQ5YhEBm)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/3-txt2pdf/)            |
-| 4    | split4pdf          | 按页切割PDF | 💻[播放](https://www.bilibili.com/video/BV1PYQpY3E8z)  | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/4-split4pdf/)          |
-| 5    | encrypt4pdf        | PDF加密     | [播放](https://www.bilibili.com/video/BV1n1QPYJE61)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/5-encrypt4pdf/)        |
-| 6    | decrypt4pdf        | PDF解密     | [播放](https://www.bilibili.com/video/BV11FQ6YdEU1)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/6-decrypt4pdf/)        |
-| 7    | add_text_watermark | PDF加水印   | [播放](https://www.bilibili.com/video/BV1x7QtYdEJt)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/7-add_text_watermark/) |
-| 8    | merge2pdf          | 合并PDF     | [播放](https://www.bilibili.com/video/BV1NNQhYaEVG)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/8-merge2pdf/)          |
-| 9    | del4pdf            | 删除PDF     | [播放](https://www.bilibili.com/video/BV1KPQhYAENX)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/9-del4pdf/)            |
+
+
+## 1、课程目录
+为了方便大家的学习，课程核心部分：每一讲都是一个单独的案例，互相之间没有知识点的关联。
+
+除了第1讲下载和安装以外，你可以不用按顺序学习，用到哪个就点开哪个。
+
+
+| 序号 | 功能        | 视频                                                  | 文档                                                                                             |
+| ---- | ----------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1    | 下载和安装  | 💻 [播放](https://www.bilibili.com/video/BV1BS9UYGEW7) | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/0-install)             |
+| 2    | PDF 转 Word | 💻 [播放](https://www.bilibili.com/video/BV1pB9UYSEoG) | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/1-pdf2docx/)           |
+| 3    | PDF 转 图片 | 💻[播放](https://www.bilibili.com/video/BV19WRVYKEEY)  | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/2-pdf2imgs/)           |
+| 4    | TXT转PDF    | [播放](https://www.bilibili.com/video/BV1aCQ5YhEBm)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/3-txt2pdf/)            |
+| 5    | 按页切割PDF | 💻[播放](https://www.bilibili.com/video/BV1PYQpY3E8z)  | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/4-split4pdf/)          |
+| 6    | PDF加密     | [播放](https://www.bilibili.com/video/BV1n1QPYJE61)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/5-encrypt4pdf/)        |
+| 7    | PDF解密     | [播放](https://www.bilibili.com/video/BV11FQ6YdEU1)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/6-decrypt4pdf/)        |
+| 8    | PDF加水印   | [播放](https://www.bilibili.com/video/BV1x7QtYdEJt)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/7-add_text_watermark/) |
+| 9    | 合并PDF     | [播放](https://www.bilibili.com/video/BV1NNQhYaEVG)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/8-merge2pdf/)          |
+| 10   | 删除PDF     | [播放](https://www.bilibili.com/video/BV1KPQhYAENX)   | [查看](http://www.python4office.cn/python-office/popdf/%E8%AF%BE%E7%A8%8B/9-del4pdf/)            |
 
 
 ## 相关课程
 
-- [给小白的《50讲 · Python自动化办公》](https://www.bilibili.com/opus/857901377884520482?spm_id_from=333.999.0.0)
-- [给小白的《10讲 · Python微信机器人》](https://www.bilibili.com/video/BV1S84y1m7xd/?spm_id_from=333.999.0.0)
-- [给小白的《5讲 · Python实现OCR自动批量识别》](https://www.bilibili.com/video/BV13J4m1s7L7/?spm_id_from=333.999.0.0)
-- [给小白的《6讲 · Python自动收发邮件》](https://www.bilibili.com/video/BV1pQ4y177nV/)
+- [业余爱好者，如何从0开始快速掌握Python？](https://mp.weixin.qq.com/s/ZxJZimZYSvtBSK80tpZbNQ)
+- [给小白的《15讲 · Python入门课》](https://mp.weixin.qq.com/s/ZxJZimZYSvtBSK80tpZbNQ)
+- [给小白的《50讲 · Python自动化办公》](https://mp.weixin.qq.com/s/lOx4cAp9AllsCrhsUqVn8g)
+- [给小白的《10讲 · Python微信机器人》](https://mp.weixin.qq.com/s/-oR2dUakXEY3vmPbzVtrnA)
+- [给小白的《5讲 · Python实现文字批量识别》](https://mp.weixin.qq.com/s/pGim7ifpgLwYUJ9a-FHvaw)
+- [给小白的《6讲 · Python自动收发邮件》](https://mp.weixin.qq.com/s/AeTkloNri7gpk25m50VmTA)
+- [给小白的《30讲 · Python + Excel数据分析》](http://www.python-office.com/course-002/30-Excel/30-Excel.html)
+- [给小白的《10讲 · Python + PDF 自动化办公》](http://www.python-office.com/course-002/10-popdf/10-popdf.html)
+- [Python学习交流群](https://mp.weixin.qq.com/s/NN2pX2bQPpczOeGF4ARNtw)
+- [零基础Python自动化办公，一站式搞定！](https://mp.weixin.qq.com/s/XDOMnTISBpglNvSf4R-tmg)
 
 ---
 
+<p align="center" id='4套课程'>
+    <a target="_blank" href='https://www.python-office.com/guide/allFunc.html'>
+    <img src="https://cos.python-office.com/course%2Fall-1.jpg" width="100%"/>
+    </a>   
+</p>
 
 
 ![](https://cos.python-office.com/ads/gzh/sub-py.jpg)
 
 
 
-## 交流群
-
-<p align="center">
-    <a target="_blank" href='https://mp.weixin.qq.com/s/0GrWWSQ8sKs-WA8WoN3Ztg'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2F%E6%8A%80%E6%9C%AF%E7%BE%A4.jpg" width="100%"/>
-    </a>   
-</p>
-
-### 补充知识
-
-- [给小白的《15讲 · Python入门》（完结）](http://www.python-office.com/course-002/15-Python/15-Python.html)
-- [给小白的《10讲 · Python微信机器人》（完结）](https://mp.weixin.qq.com/s/g9nejIxuitwRzl5NMi177w)
-- [给小白的《50讲 · Python自动化办公》](https://www.python-office.com/course/50-python-office.html)
-- [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S/?spm_id_from=333.999.0.0)
 
 
 ## 读者福利
 
-<p align="center" id='30讲自动化办公-banner'>
-    <a target="_blank" href='https://www.python-office.com/video/video.html'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Fauto-work.jpg" width="100%"/>
-    </a>   
-</p>
 
-
-
-<p align="center" id='100本电子书-banner'>
-    <a target="_blank" href='https://mp.weixin.qq.com/s/6bM_3tROqdY_2WbBShzqyw'>
-    <img src="https://website-python-1300615378.cos.ap-nanjing.myqcloud.com/%E5%BC%95%E5%AF%BC%E8%B6%85%E9%93%BE%E6%8E%A5%2Febook.jpg" width="100%"/>
-    </a>   
-</p>
 
 <p align="center" id='福利合集-banner'>
     <a target="_blank" href='http://python4office.cn/sideline-pro-list/'>
