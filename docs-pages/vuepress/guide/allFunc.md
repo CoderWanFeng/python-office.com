@@ -13,6 +13,8 @@
 
 > 今天我把自己这6年做编程博主，制作的4套原创课程打了个包，一起给0基础的同学看！
 
+- 点击直达👉[零基础Python自动化办公，一站式搞定！](https://mp.weixin.qq.com/s/XDOMnTISBpglNvSf4R-tmg)
+
 无论你是对Python好奇的小白，还是希望通过Python提升工作效率的打工人，这个系列课程都能帮你轻松入门，快速上手！不用再到处区找学习资料了，一次搞定Python学习。不用再到处区找学习资料了，一次搞定Python学习。
 
 - 15讲 Python入门课：先总览全局，学一点有用的基础。
@@ -85,16 +87,21 @@
 
 全部4套课程的视频+配套软件+代码+答疑群，原价是：49+98+98+178=423元。
 
-**这次全部一起给粉丝朋友，只需要298元，付费下面链接后，自动领取~**
+> **这次全部一起给粉丝朋友，只需要298元，付费下面链接后，自动领取~**
+> B站还有优惠券~
 
-- 公众号：198元 - [零基础Python自动化办公，一站式搞定！](https://mp.weixin.qq.com/s/XDOMnTISBpglNvSf4R-tmg)
-- B站：198元 - [零基础Python自动化办公，一站式搞定！](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=10&itemsId=12060419&loadingShow=1&noTitleBar=1&msource=merchant_share)
+
+- 公众号：298元 - [零基础Python自动化办公，一站式搞定！](https://mp.weixin.qq.com/s/XDOMnTISBpglNvSf4R-tmg)
+- B站：298元 - [零基础Python自动化办公，一站式搞定！](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=10&itemsId=12060419&loadingShow=1&noTitleBar=1&msource=merchant_share)
 
 
 
 而且我这次为了让大家先体验课程质量，特别推出**免费试学课程**：10讲PDF自动化办公！
 
-![](https://cos.python-office.com/course/10%E8%AE%B2PDF%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC/popdf-heng.jpg?q-sign-algorithm=sha1&q-ak=AKIDlZYMmZ6qbRhoIqv9V3mq8ETDiQhgC3pSzkAh0vRqpmBu-rZSNeZ7zRFqcTWoxD0h&q-sign-time=1743855247;1743858847&q-key-time=1743855247;1743858847&q-header-list=host&q-url-param-list=&q-signature=f8e526d2c8a1252a7739ba19234334d8e762854d&x-cos-security-token=ToUlVYRM4LD2mQPZi3Nlqf7XrD5FM1Tafe010f242930610b245476e22ffcead0MYxRb-bnuyWsFM_yl-ac_m_KmIM1VGjU3s_i2MoKNCLZY9j4uaX7ZameXOFPCUP1D50K3Fe6pk15vYtIwOh-_fdRO6zXzikNiMLlzt0SntaH6dk6O-Fg-r8rhTZl5hyvbzQAJZ62Kr_65DDsbVPa0RuLa9A_pLhL2fAuWXqWTW3HyuP53-fUVDTJKCISdD7h)
+
+![](https://cos.python-office.com/course/10%E8%AE%B2PDF%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC/popdf-heng.jpg)
+
+
 
 > 通过以下链接即可自动获取：  
 [http://www.python-office.com/course-002/10-popdf/10-popdf.html](http://www.python-office.com/course-002/10-popdf/10-popdf.html)  
