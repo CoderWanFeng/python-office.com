@@ -65,10 +65,12 @@
 
 如果你有一定的编程基础，或者你想用Python开发一些复杂的应用，可以学习下面这几套课程。👇
 
-- [123讲 · Python基础](http://gk.link/a/11Put)
 - [Python爬虫从入门到高级实战](https://www.bilibili.com/video/BV1y54y1y74F)
-- [Python网站快速开发实战](http://gk.link/a/10Wl1)
 - [Python金融数据分析高级训练营](https://www.bilibili.com/video/BV1Ut4y1i7wS/)
+- [Python机器学习10大案例分析](https://www.bilibili.com/video/BV18a411A7mp/)
+- [10天入门Java编程（完结）](https://www.bilibili.com/video/BV1jZ4y1T7ai/)
+- [超详细GO语言（区块链语言）教程](https://www.bilibili.com/video/BV1tz4y1R7GG)
+- [Vue6小时入门视频教程](https://www.bilibili.com/video/BV1VK41137Sk)
 
 <p align="center" id='大礼包-banner'>
     <a target="_blank" href='http://python4office.cn/fuli/fuli-source-0726/'>

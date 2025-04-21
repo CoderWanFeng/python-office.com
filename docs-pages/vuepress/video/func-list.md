@@ -16,7 +16,7 @@
 | pohan|中文编程 |[点我直达](https://www.bilibili.com/video/BV1sk4y1Y7wn) | [源码](https://gitee.com/CoderWanFeng/pohan/blob/main/pohan/api/common.py)     |
 | poocr|文字识别 |💻[点我直达](https://www.python-office.com/video/poocr.html) | [源码](https://github.com/CoderWanFeng/poocr)     |
 | pandas|数据分析 |[点我直达](https://www.bilibili.com/video/BV1hk4y1C73S) | [源码](https://mp.weixin.qq.com/s/n5b-C4ZhkhfZmlCTvepM4A)     |
-| 入门|零基础学 Python（2023 版） |[点我直达](http://gk.link/a/11Put) |      |
+| 入门|零基础学 Python（2023 版） |[点我直达](https://www.python-office.com/course-002/15-Python/15-Python.html) |      |
 | pobaidu|人工智能 |[点我直达](https://weibo.com/ttarticle/p/show?id=2309404865208287101029) |  [源码](https://github.com/CoderWanFeng/pobaidu)    |
 | poai|ChatGPT聊天机器人 |🤖[点我直达](https://blog.csdn.net/weixin_42321517/article/details/128945125) |  [源码](https://github.com/CoderWanFeng/poai)    |
 | pofinance|炒股工具 |🤖[点我直达](https://www.python-office.com/office/finance.html) |  [源码](https://github.com/CoderWanFeng/pofinance)    |
