@@ -15,12 +15,19 @@
 
 - 点击直达👉[零基础Python自动化办公，一站式搞定！](https://mp.weixin.qq.com/s/XDOMnTISBpglNvSf4R-tmg)
 
-无论你是对Python好奇的小白，还是希望通过Python提升工作效率的打工人，这个系列课程都能帮你轻松入门，快速上手！不用再到处区找学习资料了，一次搞定Python学习。不用再到处区找学习资料了，一次搞定Python学习。
+无论你是对Python好奇的小白，还是希望通过Python提升工作效率的打工人，这个系列课程都能帮你轻松入门，快速上手！不用再到处去找学习资料了，一次搞定Python学习。
 
 - 15讲 Python入门课：先总览全局，学一点有用的基础。
 - 10讲 Python微信机器人：人人可用，通过案例学习Python。
 - 30讲 Python数据分析（结合Excel）：数据分析，一直是Python的核心技能。
 - 50讲 Python自动化办公：包罗万象，Python和办公有关的案例，这套课都涵盖了！
+
+> 2025-04-23，又新增了以下3套课程，大家都可以领取学习！已经付费的朋友，请＋我更新：[CoderWanFeng](https://cos.python-office.com/wechat%2Fqr-code.jpg)
+> 付费后我们会有课程群，长期服务，课程更新了也会持续免费提供，没有二次收费~
+
+- 5讲 Python + OCR：Python和AI的结合，让文字识别更简单！
+- 5讲 Python实现邮件自动收发：你工作中一定会用邮件吧？
+- 100讲 Python + 人工智能：学完这个你就是Python王者
 
 ## 一、**适用人群：这4套课适合谁？**  
 
