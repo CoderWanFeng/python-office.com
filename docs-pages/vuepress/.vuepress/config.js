@@ -45,7 +45,7 @@ module.exports = {
                 text: '🔥下载', items: [
                     { text: '软件', link: 'https://mp.weixin.qq.com/s/w9ITodQR3kzSXc4t1H92nw' },
                     { text: '电子书', link: 'https://mp.weixin.qq.com/s/6bM_3tROqdY_2WbBShzqyw' },
-                    { text: '源码', link: 'https://github.com/CoderWanFeng/python-office' }
+                    { text: '源码', link: 'https://www.python-office.com/contributor/contributor.html' }
                 ]
             },
             {
@@ -55,6 +55,7 @@ module.exports = {
                     { text: '50讲-自动化办公', link: 'https://www.python-office.com/course/50-python-office.html' },
                     { text: '5讲-发票批量识别', link: 'https://www.python-office.com/course-002/5-poocr/5-poocr.html' },
                     { text: '10讲-微信机器人', link: 'https://www.python-office.com/course-002/10-PyOfficeRobot/10-PyOfficeRobot.html' },
+                    { text: '10讲-PDF自动化办公', link: 'https://www.python-office.com/course-002/10-popdf/10-popdf.html' },
                     { text: '6讲-邮件自动化', link: 'https://www.python-office.com/course-002/poemail/poemail.html' },
                     { text: '100讲-爬虫', link: 'https://www.bilibili.com/video/BV1y54y1y74F' }
                 ]
