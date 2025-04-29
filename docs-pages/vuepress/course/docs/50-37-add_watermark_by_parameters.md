@@ -7,7 +7,7 @@
 
 这是一期读者投稿：PDF + 水印。
 
-投稿请联系：👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
+投稿请联系：👉[python-office](http://www.python4office.cn/wechat-qrcode/)
 
 ## 本讲视频
 
@@ -67,7 +67,7 @@ office.pdf.add_watermark_by_parameters(
 付费后，会自动出现网盘链接，永久有效。
 
 
-购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[python-office](http://www.python4office.cn/wechat-qrcode/)
 
 
 ## 读者福利

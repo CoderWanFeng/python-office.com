@@ -72,7 +72,7 @@
 
 
 - [付费本链接后，自动出现所有配套资料](https://mp.weixin.qq.com/s/2fZiSQPVtDJCz0fHtqrsVA?payreadticket=HHEW8glk4OfhlaM1eRifmOXXhwMgaIWdxgXBOoVbGbXS4Ncg8aC3_aIpgO4xIL1-f_I41pA)
-- 付费后，也可以＋我微信：[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)，使用过程中有问题，可以随时联系
+- 付费后，也可以＋我微信：[python-office](http://www.python4office.cn/wechat-qrcode/)，使用过程中有问题，可以随时联系
 
 
 ### ②全套代码 + 远程部署
@@ -83,7 +83,7 @@
 
 因为我也是打工人，为了避免浪费时间，我直接明码标价：**498元**，我给你全套代码 + 远程给你部署成功，没有二次收费。后续功能更新，也会免费给你。
 
-- 有需要的的朋友，请直接+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
+- 有需要的的朋友，请直接+我的微信交流👉[python-office](http://www.python4office.cn/wechat-qrcode/)
 
 > 系统要求：win10、win11，不支持mac电脑和linux系统。
 

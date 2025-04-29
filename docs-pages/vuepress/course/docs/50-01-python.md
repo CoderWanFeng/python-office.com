@@ -20,7 +20,7 @@
 
 >
 我都已经下载好了，放在了百度云网盘里，可以自己去领取下载:[点我打开百度云，永久有效地址](https://mp.weixin.qq.com/s/D5Ki2wgJQKB-uusdjtJDRA)。
-> 也可以直接加我微信，我微信发给你👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
+> 也可以直接加我微信，我微信发给你👉[python-office](http://www.python4office.cn/wechat-qrcode/)
 
 下载和安装时，请大家注意2点：
 
@@ -48,7 +48,7 @@
 
 付费后，会自动出现网盘链接，永久有效。
 
-购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[python-office](http://www.python4office.cn/wechat-qrcode/)
 
 ## 读者福利
 

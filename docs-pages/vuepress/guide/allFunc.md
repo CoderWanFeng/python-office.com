@@ -22,7 +22,7 @@
 - 30讲 Python数据分析（结合Excel）：数据分析，一直是Python的核心技能。
 - 50讲 Python自动化办公：包罗万象，Python和办公有关的案例，这套课都涵盖了！
 
-> 2025-04-23，又新增了以下3套课程，大家都可以领取学习！已经付费的朋友，请＋我更新：[CoderWanFeng](https://cos.python-office.com/wechat%2Fqr-code.jpg)
+> 2025-04-23，又新增了以下3套课程，大家都可以领取学习！已经付费的朋友，请＋我更新：[python-office](https://cos.python-office.com/wechat%2Fqr-code.jpg)
 > 付费后我们会有课程群，长期服务，课程更新了也会持续免费提供，没有二次收费~
 
 - 5讲 Python + OCR：Python和AI的结合，让文字识别更简单！
@@ -49,7 +49,7 @@
 
 学习不再孤单也有方向，有问题我们一起解决！
 
-![CoderWanFeng](https://cos.python-office.com/wechat%2Fqr-code.jpg)
+![python-office](https://cos.python-office.com/wechat%2Fqr-code.jpg)
 
 
 ## 三、**课程内容：从入门到精通**  
@@ -117,9 +117,9 @@
 
 学完觉得合适，再来购买全部课程，298的价格一直在！坚决不割韭菜。
 
-需要的朋友可以添加我的微信：[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)，购买全部课程，一起交流学习。
+需要的朋友可以添加我的微信：[python-office](http://www.python4office.cn/wechat-qrcode/)，购买全部课程，一起交流学习。
 
-![CoderWanFeng](https://cos.python-office.com/wechat%2Fqr-code.jpg)
+![python-office](https://cos.python-office.com/wechat%2Fqr-code.jpg)
 
 
 ## 五、**关于作者**  

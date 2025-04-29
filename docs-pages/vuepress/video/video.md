@@ -91,7 +91,7 @@
 
 ### 转行咨询
 
-如果需要咨询转行程序员的问题，可以直接加我的微信：[CoderWanFeng](https://cos.python-office.com/wechat/qr-code.jpg)
+如果需要咨询转行程序员的问题，可以直接加我的微信：[python-office](https://cos.python-office.com/wechat/qr-code.jpg)
 
 - [如何免费学编程？如何避免被割韭菜？](https://www.bilibili.com/video/BV1SM411K7wm)
 

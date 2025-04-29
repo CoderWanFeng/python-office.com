@@ -26,7 +26,7 @@
 
 因为我也是打工人，为了避免浪费时间，我直接明码标价：**298元**，我给你全套代码 + 远程给你部署成功，没有二次收费。后续功能更新，也会免费给你。
 
-- 有需要的的朋友，请直接+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
+- 有需要的的朋友，请直接+我的微信交流👉[python-office](http://www.python4office.cn/wechat-qrcode/)
 
 > 系统要求：win10、win11，不支持mac电脑和linux系统。
 

@@ -30,7 +30,7 @@
 付费后，会自动出现网盘链接，永久有效。
 
 
-购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[CoderWanFeng](http://www.python4office.cn/wechat-qrcode/)
+购买资料 或者 学习过程中有任何问题，也欢迎+我的微信交流👉[python-office](http://www.python4office.cn/wechat-qrcode/)
 
 
 ## 补充知识 - 内置函数

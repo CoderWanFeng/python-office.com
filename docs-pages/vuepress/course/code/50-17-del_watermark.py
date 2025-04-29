@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 '''
 @作者  ：B站/抖音/微博/小红书/公众号，都叫：程序员晚枫
-@微信     ：CoderWanFeng : http://www.python4office.cn/wechat-qrcode/
+@微信     ：python-office : http://www.python4office.cn/wechat-qrcode/
 @个人网站      ：www.python-office.com
 @代码日期    ：2023/9/13 20:05 
 @本段代码的视频说明     ：https://www.bilibili.com/video/BV1Xk4y1c7Dk/?vd_source=ca20bb8763fcb18660aa74d7a87234fa
