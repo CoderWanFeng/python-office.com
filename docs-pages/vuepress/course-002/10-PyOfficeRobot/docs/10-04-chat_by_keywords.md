@@ -13,13 +13,13 @@
 ## 下载课程代码
 
 
-感谢大家的支持，从2025年开始，全部代码免费送！我的答疑和部署收费。
 
-### ①代码免费
+
+### ①只需要全套机器人
 
 如果只需要本套课程的代码，可以直接点开下面的链接下载：
 
-- [https://github.com/CoderWanFeng/PyOfficeRobot](https://github.com/CoderWanFeng/PyOfficeRobot)
+- [给小白的《10讲 · Python微信机器人》（完结）](https://mp.weixin.qq.com/s/2fZiSQPVtDJCz0fHtqrsVA?payreadticket=HBGGc074VDn2OgCtx3tp1QGdiyR7U3Egmy0KuVzttdcQ_X3U-qFv9L5P28QkXK9fUzBAkzY&scene=1)
 
 ### ②全套资料 + 答疑 + 部署指导
 
