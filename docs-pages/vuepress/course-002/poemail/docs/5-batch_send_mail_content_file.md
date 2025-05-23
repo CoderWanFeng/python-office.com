@@ -8,7 +8,7 @@
 
 ## 本讲视频
 
-- [点我直达](https://www.bilibili.com/video/BV1pQ4y177nV?p=6)
+- [点我直达](https://www.bilibili.com/video/BV1omJbzrEEH)
 
 
 

@@ -7,7 +7,7 @@
 
 ## 本讲视频
 
-- [点我直达](https://www.bilibili.com/video/BV1pQ4y177nV?p=3)
+- [点我直达](https://www.bilibili.com/video/BV13J4m1s7L7?p=4)
 
 ## 下载poocr
 

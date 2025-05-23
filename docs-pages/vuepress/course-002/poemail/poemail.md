@@ -35,7 +35,7 @@
 2. 内容丰富，涵盖热门的自动收发邮件的需求。
 3. 所有功能，只需要1~3行代码就能实现。
 
-本套课程的代码，全部来自开源项目，Python+Email的专用库：``poemail``：[Python终于能自动收发邮件了！](https://www.bilibili.com/video/BV1pQ4y177nV)
+本套课程的代码，全部来自开源项目，Python+Email的专用库：``poemail``：[Python终于能自动收发邮件了！](https://gitcode.com/python4office/poemail)
 
 ![](./imgs/cover/cover.png)
 

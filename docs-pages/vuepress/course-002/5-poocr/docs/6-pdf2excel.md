@@ -7,7 +7,7 @@
 
 ## 本讲视频
 
-- [点我直达](https://www.bilibili.com/video/BV1LT421S7sh/?spm_id_from=333.999.0.0&vd_source=ca20bb8763fcb18660aa74d7a87234fa)
+- [点我直达](https://www.bilibili.com/video/BV1LT421S7sh)
 
 ## 课程资料
 
