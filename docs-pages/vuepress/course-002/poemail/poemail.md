@@ -66,11 +66,8 @@
 如需获取本套课程配套的全部:代码、文档、视频、软件、答疑群，可以付费本套合集。👇
 
 
-> 2个付费渠道：B站和微信公众号，2选1就行。悄悄说：苹果手机，用B站购买更优惠~
 
-
-- B站 购买链接：[38元-点我直达](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105542099&from=items_share&msource=items_share)
-- 微信 购买链接：[48元-点我直达](https://www.python-office.com/course-002/poemail/poemail.html)
+- B站 购买链接：[138元-点我直达](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105542099&from=items_share&msource=items_share)
 
 付费后，文末会自动出现网盘链接，永久有效。
 
