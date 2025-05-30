@@ -6,7 +6,7 @@ module.exports = {
     dest: '/opt/workplace/pro/python-office.com/dist',  // 设置输出目录
 
     head: [
-        ["link", { rel: "icon", href: "https://cos.python-office.com/logo/icon2.jpg" }],
+        ["link", { rel: "icon", href: "https://raw.gitcode.com/CoderWanFeng1/website/raw/main/icon2.jpg" }],
         ['script', {}, `
                         var _hmt = _hmt || [];
                         (function() {
@@ -35,7 +35,7 @@ module.exports = {
         },
     },
     themeConfig: {
-        logo: 'https://cos.python-office.com/logo/icon2.jpg',
+        logo: 'https://raw.gitcode.com/CoderWanFeng1/website/raw/main/icon2.jpg',
         editLinks: 'https://github.com/CoderWanFeng/python-office',
         editLinkText: 'https://github.com/CoderWanFeng/python-office',
         // 添加导航栏
