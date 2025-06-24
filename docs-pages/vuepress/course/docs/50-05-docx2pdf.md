@@ -44,7 +44,7 @@
 
 
 - B站 购买链接：[178元-点我直达](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=10&itemsId=11995842&loadingShow=1&noTitleBar=1&msource=merchant_share)
-- 公众号 购买链接：[280元-点我直达](https://mp.weixin.qq.com/s/vmuDS4Xtk20JGIleUTsiKA)
+- 公众号 购买链接：[178元-点我直达](https://mp.weixin.qq.com/s/VH93du82QMuPz_1V3c5a6w?payreadticket=HNBb1PFi0L5AQioxM7DME2uWORnEexNdcLv9R3DHLp7vN5ZxXexUtoDEGavdMq9PD6v6SYU&scene=1)
 
 付费后，会自动出现网盘链接，永久有效。
 
