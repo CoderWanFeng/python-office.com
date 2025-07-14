@@ -33,8 +33,12 @@
 
 你好，这里是程序员晚枫，小红书/B站/知乎/抖音都叫这个名。
 
-业余时间做编程博主，同时维护了一个开源中国的推荐项目：[python-office](https://mp.weixin.qq.com/s/7aA0KoXGJuSFkTns-MZYjA)
-，这个python自动化办公的功能库，有关我的经历，详见下面这次访谈：[DeepSeek浪潮下如何撑过35岁职场危机？跨界程序员：我不焦虑，40岁就退休](https://mp.weixin.qq.com/s/B9OOU5bb8fOd9KiG43GqAw)
+业余时间做编程博主，同时维护了一个开源中国的推荐项目：[python-office](https://mp.weixin.qq.com/s/7aA0KoXGJuSFkTns-MZYjA)。
+
+这个python自动化办公的功能库，有关这个库和我的经历，详见下面这几个资料：
+- [DeepSeek浪潮下如何撑过35岁职场危机？跨界程序员：我不焦虑，40岁就退休](https://mp.weixin.qq.com/s/B9OOU5bb8fOd9KiG43GqAw)
+- [更新了3年的开源项目python-office，给我带来了什么？](https://mp.weixin.qq.com/s/fLz3W_rDHml6iR-bAgyFAw)
+- [有生之年！python-office被写进教材了？我也有百度百科词条了？](https://mp.weixin.qq.com/s/vYa790i1H9u63aLYrBsTuQ)
 
 
 
