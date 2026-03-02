@@ -2,7 +2,7 @@
 
 
 <p align="center" id='进群-banner-AI'>
-    <a target="_blank" href='http://www.python4office.cn/wechat-group/'>
+    <a target="_blank" href='https://www.python4office.cn/wechat-group/'>
     <img src="https://raw.atomgit.com/user-images/assets/5027920/87fc1ca4-1a6c-47b8-b234-3e323a1aa827/aiq.jpg" width="100%"/>
     </a>   
 </p>
@@ -21,7 +21,7 @@
 <a href="https://mp.weixin.qq.com/s/uxCILtn9cfIsJR8PqOxlGQ">
   <img src="https://img.shields.io/badge/学习-AI编程-red" alt="AI编程">
 </a>
-    	<a href="http://www.python4office.cn/wechat-group/">
+    	<a href="https://www.python4office.cn/wechat-group/">
   <img src="https://img.shields.io/badge/加入-AI交流群-brightgreen" alt="AI交流群">
 </a>
 </p>
@@ -48,4 +48,4 @@
 
 - 我合并后，会直接在服务器里拉下来，打包更新到网站里。
 
-- ⭐参与PR的同学，欢迎添加我的微信，加入项目维护群：[python-office](http://www.python4office.cn/wechat-qrcode/)
+- ⭐参与PR的同学，欢迎添加我的微信，加入项目维护群：[python-office](https://www.python4office.cn/wechat-qrcode/)

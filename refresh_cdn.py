@@ -42,8 +42,8 @@ def refresh_cdn_cache():
         
         # 设置要刷新的URL列表
         urls = [
-            "http://python4office.cn/",
-            "http://www.python4office.cn/",
+            "https://www.python4office.cn/",
+            "https://www.python4office.cn/",
             "https://www.python-office.com/",
             "https://www.python-office.com/"
         ]
