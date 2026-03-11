@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress dev vuepress",
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress build vuepress"
+    "dev": "vuepress dev vuepress",
+    "build": "vuepress build vuepress"
   },
   "repository": {
     "type": "git",

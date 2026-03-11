@@ -1,5 +1,6 @@
 node_modules/
 .vuepress/dist/*
+dist/
 .idea/
 yarn.lock
 *receive_dir/
