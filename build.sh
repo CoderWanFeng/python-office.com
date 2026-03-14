@@ -1,4 +1,3 @@
-#!/bin/bash
 # nvm use v16.20.2
 
 # 执行 git pull 并检查是否有更新
@@ -11,10 +10,7 @@ if echo "$pull_output" | grep -q "Already up to date\|Already up-to-date"; then
 fi
 
 cd docs-pages/
-
-# 设置 Node.js 兼容旧版 OpenSSL（Linux 正确语法）
-export NODE_OPTIONS=--openssl-legacy-provider
 yarn run build
-
+# /opt/software/node/node-v16.13.0-linux-x64/bin/yarn  build
 rm -rf /opt/website/python-office.com/*
-cp /opt/workplace/pro/python-office.com/dist/* /opt/website/python-office.com/ -R
+cp /opt/workplace/pro/python-office.com/dist/* /opt/website/python-office.com/ -R 
