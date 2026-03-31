@@ -372,7 +372,7 @@ ContactInfo : +str phone_number
 ContactInfo : +str remark_name
 FriendAdder --> ContactInfo : "包含"
 FriendAdder : msg = "你好，我是程序员晚枫"
-FriendAdder : num_notes = {"wfdev7" : "公众号-晚枫"}
+FriendAdder : num_notes = {"python-office" : "公众号-晚枫"}
 ```
 
 **图示来源**
