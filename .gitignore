@@ -1,3 +1,7 @@
 node_modules/
+.vuepress/dist/*
 dist/
-.idea
+.idea/
+yarn.lock
+*receive_dir/
+.workbuddy/
