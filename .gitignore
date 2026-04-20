@@ -1,7 +1,16 @@
 node_modules/
 .vuepress/dist/*
 dist/
-.idea/
 yarn.lock
 *receive_dir/
+
+# === IDE / Editor configs ===
 .workbuddy/
+.qoder/
+.vscode/
+.idea/
+.cursor/
+.windsurf/
+.zed/
+.codeium/
+
