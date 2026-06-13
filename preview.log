@@ -1,0 +1,29 @@
+-e 🧹 清理缓存...
+-e ✅ 缓存已清理
+-e 
+-e 🚀 正在启动预览服务器...
+-e 📝 访问地址: http://localhost:18001
+-e ⏹️  按 Ctrl+C 停止
+-e 
+yarn run v1.22.22
+$ vuepress dev vuepress
+
+ WAIT  Extracting site metadata...
+[3:15:17 AM] Compiling Client
+[3:15:18 AM] Compiled Client in 2s
+c
+ DONE  [03:15:18] Build eb855b finished in 1755 ms! 
+
+> VuePress dev server listening at http://localhost:18001/
+c[3:15:19 AM] Compiling Client
+[3:15:19 AM] Compiled Client in 103ms
+c
+ DONE  [03:15:19] Build 06d38a finished in 103 ms! (http://localhost:18001/)
+c[3:16:31 AM] Compiling Client
+[3:16:31 AM] Compiled Client in 232ms
+c
+ DONE  [03:16:31] Build 5a2ff0 finished in 233 ms! (http://localhost:18001/)
+c[3:39:29 AM] Compiling Client
+[3:39:29 AM] Compiled Client in 116ms
+c
+ DONE  [03:39:29] Build 721859 finished in 117 ms! (http://localhost:18001/)
