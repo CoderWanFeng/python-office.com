@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/excel-tutorial",
+  "title": "Excel 自动化教程",
+  "description": "完整的 Excel 自动化教程",
+  "source": "@site/docs/tutorials/excel-tutorial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/excel-tutorial",
+  "permalink": "/tutorials/excel-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/tutorials/excel-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Excel 自动化教程",
+    "description": "完整的 Excel 自动化教程",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "教程中心",
+    "permalink": "/tutorials/intro"
+  },
+  "next": {
+    "title": "1 行代码实现发票识别",
+    "permalink": "/tutorials/ocr-tutorial"
+  }
+}

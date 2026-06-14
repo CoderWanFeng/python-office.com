@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/python-basics",
+  "title": "Python 零基础教程",
+  "description": "15 讲零基础入门 Python",
+  "source": "@site/docs/tutorials/python-basics.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/python-basics",
+  "permalink": "/tutorials/python-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/tutorials/python-basics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Python 零基础教程",
+    "description": "15 讲零基础入门 Python",
+    "sidebar_position": 7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Python 微信机器人教程",
+    "permalink": "/tutorials/wechat-robot"
+  },
+  "next": {
+    "title": "30 讲 Excel 自动化",
+    "permalink": "/tutorials/excel-30-talks"
+  }
+}

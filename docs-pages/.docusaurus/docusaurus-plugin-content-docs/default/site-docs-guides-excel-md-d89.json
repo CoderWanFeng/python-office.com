@@ -1,0 +1,29 @@
+{
+  "id": "guides/excel",
+  "title": "Excel 指南",
+  "description": "使用 python-office 处理 Excel 文件",
+  "source": "@site/docs/guides/excel.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/excel",
+  "permalink": "/guides/excel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/excel.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Excel 指南",
+    "description": "使用 python-office 处理 Excel 文件",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "使用指南总览",
+    "permalink": "/guides/intro"
+  },
+  "next": {
+    "title": "Word 指南",
+    "permalink": "/guides/word"
+  }
+}

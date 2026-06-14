@@ -1,0 +1,28 @@
+{
+  "id": "modules/file/api",
+  "title": "File API 参考",
+  "description": "子库名：pofile | 安装：pip install pofile",
+  "source": "@site/docs/modules/file/api.md",
+  "sourceDirName": "modules/file",
+  "slug": "/modules/file/api",
+  "permalink": "/modules/file/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/file/api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "File API 参考",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "File 使用指南",
+    "permalink": "/modules/file/guide"
+  },
+  "next": {
+    "title": "Email 使用指南",
+    "permalink": "/modules/email/guide"
+  }
+}

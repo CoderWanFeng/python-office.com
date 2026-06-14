@@ -1,0 +1,28 @@
+{
+  "id": "api/video",
+  "title": "Video API 参考",
+  "description": "子库名：povideo | 安装：pip install povideo",
+  "source": "@site/docs/api/video.md",
+  "sourceDirName": "api",
+  "slug": "/api/video",
+  "permalink": "/api/video",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/api/video.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Video API 参考",
+    "sidebar_position": 11
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "OCR API 参考",
+    "permalink": "/api/ocr"
+  },
+  "next": {
+    "title": "Finance API 参考",
+    "permalink": "/api/finance"
+  }
+}

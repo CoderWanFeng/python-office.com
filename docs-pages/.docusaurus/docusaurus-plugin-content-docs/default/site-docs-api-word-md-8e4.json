@@ -1,0 +1,29 @@
+{
+  "id": "api/word",
+  "title": "Word API 参考",
+  "description": "python-office Word 模块完整 API",
+  "source": "@site/docs/api/word.md",
+  "sourceDirName": "api",
+  "slug": "/api/word",
+  "permalink": "/api/word",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/api/word.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Word API 参考",
+    "description": "python-office Word 模块完整 API",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Excel API 参考",
+    "permalink": "/api/excel"
+  },
+  "next": {
+    "title": "PDF API 参考",
+    "permalink": "/api/pdf"
+  }
+}

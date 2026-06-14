@@ -1,0 +1,28 @@
+{
+  "id": "api/wechat",
+  "title": "WeChat API 参考",
+  "description": "⚠️ 注意：微信 API 不是 office.wechat.，而是 PyOfficeRobot.",
+  "source": "@site/docs/api/wechat.md",
+  "sourceDirName": "api",
+  "slug": "/api/wechat",
+  "permalink": "/api/wechat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/api/wechat.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "WeChat API 参考",
+    "sidebar_position": 9
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Email API 参考",
+    "permalink": "/api/email"
+  },
+  "next": {
+    "title": "OCR API 参考",
+    "permalink": "/api/ocr"
+  }
+}

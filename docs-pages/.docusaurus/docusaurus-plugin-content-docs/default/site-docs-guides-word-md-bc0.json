@@ -1,0 +1,29 @@
+{
+  "id": "guides/word",
+  "title": "Word 指南",
+  "description": "使用 python-office 处理 Word 文档",
+  "source": "@site/docs/guides/word.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/word",
+  "permalink": "/guides/word",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/word.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Word 指南",
+    "description": "使用 python-office 处理 Word 文档",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Excel 指南",
+    "permalink": "/guides/excel"
+  },
+  "next": {
+    "title": "PDF 指南",
+    "permalink": "/guides/pdf"
+  }
+}

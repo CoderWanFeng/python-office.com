@@ -1,0 +1,29 @@
+{
+  "id": "about/intro",
+  "title": "关于 python-office",
+  "description": "项目介绍、作者和社区",
+  "source": "@site/docs/about/intro.md",
+  "sourceDirName": "about",
+  "slug": "/about/intro",
+  "permalink": "/about/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/about/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "关于 python-office",
+    "description": "项目介绍、作者和社区",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "30 讲 Excel 自动化",
+    "permalink": "/tutorials/excel-30-talks"
+  },
+  "next": {
+    "title": "更新日志",
+    "permalink": "/about/changelog"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/ocr-tutorial",
+  "title": "1 行代码实现发票识别",
+  "description": "poocr 完整教程",
+  "source": "@site/docs/tutorials/ocr-tutorial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/ocr-tutorial",
+  "permalink": "/tutorials/ocr-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/tutorials/ocr-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "1 行代码实现发票识别",
+    "description": "poocr 完整教程",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Excel 自动化教程",
+    "permalink": "/tutorials/excel-tutorial"
+  },
+  "next": {
+    "title": "自动收发邮件教程",
+    "permalink": "/tutorials/email-tutorial"
+  }
+}

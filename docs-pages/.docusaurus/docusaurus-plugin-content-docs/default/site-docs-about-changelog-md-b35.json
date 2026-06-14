@@ -1,0 +1,29 @@
+{
+  "id": "about/changelog",
+  "title": "更新日志",
+  "description": "python-office 版本更新记录",
+  "source": "@site/docs/about/changelog.md",
+  "sourceDirName": "about",
+  "slug": "/about/changelog",
+  "permalink": "/about/changelog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/about/changelog.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "更新日志",
+    "description": "python-office 版本更新记录",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "关于 python-office",
+    "permalink": "/about/overview"
+  },
+  "next": {
+    "title": "贡献指南",
+    "permalink": "/about/contributing"
+  }
+}

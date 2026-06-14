@@ -1,0 +1,29 @@
+{
+  "id": "api/excel",
+  "title": "Excel API 参考",
+  "description": "python-office Excel 模块完整 API",
+  "source": "@site/docs/api/excel.md",
+  "sourceDirName": "api",
+  "slug": "/api/excel",
+  "permalink": "/api/excel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/api/excel.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Excel API 参考",
+    "description": "python-office Excel 模块完整 API",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "API 参考总览",
+    "permalink": "/api/intro"
+  },
+  "next": {
+    "title": "Word API 参考",
+    "permalink": "/api/word"
+  }
+}

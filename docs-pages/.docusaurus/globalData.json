@@ -1,0 +1,238 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "start/overview",
+          "docs": [
+            {
+              "id": "about/changelog",
+              "path": "/about/changelog",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "about/contact",
+              "path": "/about/contact",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "about/contributing",
+              "path": "/about/contributing",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "about/overview",
+              "path": "/about/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/email/api",
+              "path": "/modules/email/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/email/guide",
+              "path": "/modules/email/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/excel/api",
+              "path": "/modules/excel/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/excel/guide",
+              "path": "/modules/excel/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/file/api",
+              "path": "/modules/file/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/file/guide",
+              "path": "/modules/file/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/finance/api",
+              "path": "/modules/finance/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/finance/guide",
+              "path": "/modules/finance/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/image/api",
+              "path": "/modules/image/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/image/guide",
+              "path": "/modules/image/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/markdown/api",
+              "path": "/modules/markdown/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/markdown/guide",
+              "path": "/modules/markdown/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/ocr/api",
+              "path": "/modules/ocr/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/ocr/guide",
+              "path": "/modules/ocr/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/overview",
+              "path": "/modules/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/pdf/api",
+              "path": "/modules/pdf/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/pdf/guide",
+              "path": "/modules/pdf/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/ppt/api",
+              "path": "/modules/ppt/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/ppt/guide",
+              "path": "/modules/ppt/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/tools/api",
+              "path": "/modules/tools/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/tools/guide",
+              "path": "/modules/tools/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/video/api",
+              "path": "/modules/video/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/video/guide",
+              "path": "/modules/video/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/wechat/api",
+              "path": "/modules/wechat/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/wechat/guide",
+              "path": "/modules/wechat/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/word/api",
+              "path": "/modules/word/api",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "modules/word/guide",
+              "path": "/modules/word/guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "start/faq",
+              "path": "/start/faq",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "start/install",
+              "path": "/start/install",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "start/overview",
+              "path": "/start/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "start/quickstart",
+              "path": "/start/quickstart",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorials/email-6",
+              "path": "/tutorials/email-6",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorials/excel-30",
+              "path": "/tutorials/excel-30",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorials/ocr-7",
+              "path": "/tutorials/ocr-7",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorials/overview",
+              "path": "/tutorials/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorials/pdf-10",
+              "path": "/tutorials/pdf-10",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorials/python-15",
+              "path": "/tutorials/python-15",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorials/wechat-10",
+              "path": "/tutorials/wechat-10",
+              "sidebar": "mainSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/start/overview",
+                "label": "start/overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "modules/wechat/guide",
+  "title": "WeChat 使用指南",
+  "description": "使用 python-office 实现微信机器人",
+  "source": "@site/docs/modules/wechat/guide.md",
+  "sourceDirName": "modules/wechat",
+  "slug": "/modules/wechat/guide",
+  "permalink": "/modules/wechat/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/wechat/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "WeChat 使用指南",
+    "description": "使用 python-office 实现微信机器人",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Email API 参考",
+    "permalink": "/modules/email/api"
+  },
+  "next": {
+    "title": "WeChat API 参考",
+    "permalink": "/modules/wechat/api"
+  }
+}

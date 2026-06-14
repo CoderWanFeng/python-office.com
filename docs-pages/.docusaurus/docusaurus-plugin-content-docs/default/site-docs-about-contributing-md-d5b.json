@@ -1,0 +1,29 @@
+{
+  "id": "about/contributing",
+  "title": "贡献指南",
+  "description": "如何参与 python-office 项目开发",
+  "source": "@site/docs/about/contributing.md",
+  "sourceDirName": "about",
+  "slug": "/about/contributing",
+  "permalink": "/about/contributing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/about/contributing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "贡献指南",
+    "description": "如何参与 python-office 项目开发",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "更新日志",
+    "permalink": "/about/changelog"
+  },
+  "next": {
+    "title": "联系我们",
+    "permalink": "/about/contact"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/excel-30-talks",
+  "title": "30 讲 Excel 自动化",
+  "description": "30 讲完整的 Excel 自动化教程",
+  "source": "@site/docs/tutorials/excel-30-talks.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/excel-30-talks",
+  "permalink": "/tutorials/excel-30-talks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/tutorials/excel-30-talks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "30 讲 Excel 自动化",
+    "description": "30 讲完整的 Excel 自动化教程",
+    "sidebar_position": 8
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Python 零基础教程",
+    "permalink": "/tutorials/python-basics"
+  },
+  "next": {
+    "title": "关于 python-office",
+    "permalink": "/about/intro"
+  }
+}

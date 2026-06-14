@@ -1,0 +1,25 @@
+{
+  "id": "start/overview",
+  "title": "项目概览",
+  "description": "了解 python-office 项目的背景、设计理念和核心价值",
+  "source": "@site/docs/start/overview.md",
+  "sourceDirName": "start",
+  "slug": "/start/overview",
+  "permalink": "/start/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/start/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "项目概览",
+    "description": "了解 python-office 项目的背景、设计理念和核心价值",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "next": {
+    "title": "安装",
+    "permalink": "/start/install"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "modules/video/guide",
+  "title": "Video 使用指南",
+  "description": "使用 python-office 处理视频和音频",
+  "source": "@site/docs/modules/video/guide.md",
+  "sourceDirName": "modules/video",
+  "slug": "/modules/video/guide",
+  "permalink": "/modules/video/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/video/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Video 使用指南",
+    "description": "使用 python-office 处理视频和音频",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "OCR API 参考",
+    "permalink": "/modules/ocr/api"
+  },
+  "next": {
+    "title": "Video API 参考",
+    "permalink": "/modules/video/api"
+  }
+}

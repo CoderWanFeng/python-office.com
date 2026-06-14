@@ -1,0 +1,29 @@
+{
+  "id": "guides/image",
+  "title": "Image 指南",
+  "description": "使用 python-office 处理图片",
+  "source": "@site/docs/guides/image.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/image",
+  "permalink": "/guides/image",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/image.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Image 指南",
+    "description": "使用 python-office 处理图片",
+    "sidebar_position": 6
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "PPT 指南",
+    "permalink": "/guides/ppt"
+  },
+  "next": {
+    "title": "File 指南",
+    "permalink": "/guides/file"
+  }
+}

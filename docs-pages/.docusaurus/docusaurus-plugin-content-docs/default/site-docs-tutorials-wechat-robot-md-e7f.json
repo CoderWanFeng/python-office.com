@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/wechat-robot",
+  "title": "Python 微信机器人教程",
+  "description": "PyOfficeRobot 10 讲完整教程",
+  "source": "@site/docs/tutorials/wechat-robot.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/wechat-robot",
+  "permalink": "/tutorials/wechat-robot",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/tutorials/wechat-robot.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Python 微信机器人教程",
+    "description": "PyOfficeRobot 10 讲完整教程",
+    "sidebar_position": 6
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "PDF 自动化教程",
+    "permalink": "/tutorials/pdf-tutorial"
+  },
+  "next": {
+    "title": "Python 零基础教程",
+    "permalink": "/tutorials/python-basics"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "modules/finance/guide",
+  "title": "Finance 使用指南",
+  "description": "使用 python-office 进行金融计算",
+  "source": "@site/docs/modules/finance/guide.md",
+  "sourceDirName": "modules/finance",
+  "slug": "/modules/finance/guide",
+  "permalink": "/modules/finance/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/finance/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Finance 使用指南",
+    "description": "使用 python-office 进行金融计算",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Markdown API 参考",
+    "permalink": "/modules/markdown/api"
+  },
+  "next": {
+    "title": "Finance API 参考",
+    "permalink": "/modules/finance/api"
+  }
+}

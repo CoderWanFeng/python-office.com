@@ -1,0 +1,29 @@
+{
+  "id": "modules/pdf/api",
+  "title": "PDF API 参考",
+  "description": "PDF 模块完整 API 文档（13 个函数）",
+  "source": "@site/docs/modules/pdf/api.md",
+  "sourceDirName": "modules/pdf",
+  "slug": "/modules/pdf/api",
+  "permalink": "/modules/pdf/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/pdf/api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "PDF API 参考",
+    "description": "PDF 模块完整 API 文档（13 个函数）",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "PDF 使用指南",
+    "permalink": "/modules/pdf/guide"
+  },
+  "next": {
+    "title": "PPT 使用指南",
+    "permalink": "/modules/ppt/guide"
+  }
+}

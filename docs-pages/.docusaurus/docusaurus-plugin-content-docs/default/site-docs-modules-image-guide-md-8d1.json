@@ -1,0 +1,29 @@
+{
+  "id": "modules/image/guide",
+  "title": "Image 使用指南",
+  "description": "使用 python-office 处理图片",
+  "source": "@site/docs/modules/image/guide.md",
+  "sourceDirName": "modules/image",
+  "slug": "/modules/image/guide",
+  "permalink": "/modules/image/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/image/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Image 使用指南",
+    "description": "使用 python-office 处理图片",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "PPT API 参考",
+    "permalink": "/modules/ppt/api"
+  },
+  "next": {
+    "title": "Image API 参考",
+    "permalink": "/modules/image/api"
+  }
+}

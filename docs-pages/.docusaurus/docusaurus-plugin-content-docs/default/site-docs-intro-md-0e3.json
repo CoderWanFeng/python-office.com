@@ -1,0 +1,25 @@
+{
+  "id": "intro",
+  "title": "项目介绍",
+  "description": "一行代码搞定自动化办公 · Python 自动化办公一站式库",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "项目介绍",
+    "description": "一行代码搞定自动化办公 · Python 自动化办公一站式库",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "next": {
+    "title": "项目简介",
+    "permalink": "/getting-started/intro"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "guides/intro",
+  "title": "使用指南总览",
+  "description": "python-office 各模块的功能介绍与使用场景",
+  "source": "@site/docs/guides/intro.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/intro",
+  "permalink": "/guides/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "使用指南总览",
+    "description": "python-office 各模块的功能介绍与使用场景",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "常见问题",
+    "permalink": "/getting-started/faq"
+  },
+  "next": {
+    "title": "Excel 指南",
+    "permalink": "/guides/excel"
+  }
+}

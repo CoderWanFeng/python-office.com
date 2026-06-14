@@ -1,0 +1,20 @@
+{
+  "id": "start/installation",
+  "title": "安装指南",
+  "description": "python-office 的安装方式及环境配置",
+  "source": "@site/docs/start/installation.md",
+  "sourceDirName": "start",
+  "slug": "/start/installation",
+  "permalink": "/start/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/start/installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "安装指南",
+    "description": "python-office 的安装方式及环境配置",
+    "sidebar_position": 2
+  }
+}

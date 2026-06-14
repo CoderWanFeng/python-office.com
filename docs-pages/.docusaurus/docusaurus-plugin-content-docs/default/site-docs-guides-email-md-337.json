@@ -1,0 +1,29 @@
+{
+  "id": "guides/email",
+  "title": "Email 指南",
+  "description": "使用 python-office 自动收发邮件",
+  "source": "@site/docs/guides/email.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/email",
+  "permalink": "/guides/email",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/email.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Email 指南",
+    "description": "使用 python-office 自动收发邮件",
+    "sidebar_position": 8
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "File 指南",
+    "permalink": "/guides/file"
+  },
+  "next": {
+    "title": "WeChat 指南",
+    "permalink": "/guides/wechat"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "api/ppt",
+  "title": "PPT API 参考",
+  "description": "子库名：poppt | 安装：pip install poppt",
+  "source": "@site/docs/api/ppt.md",
+  "sourceDirName": "api",
+  "slug": "/api/ppt",
+  "permalink": "/api/ppt",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/api/ppt.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "PPT API 参考",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "PDF API 参考",
+    "permalink": "/api/pdf"
+  },
+  "next": {
+    "title": "Image API 参考",
+    "permalink": "/api/image"
+  }
+}
