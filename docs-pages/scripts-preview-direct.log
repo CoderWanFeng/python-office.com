@@ -1,0 +1,16 @@
+
+ WAIT  Extracting site metadata...
+[2:46:39 PM] Compiling Client
+[2:46:41 PM] Compiled Client in 2s
+c
+ DONE  [14:46:41] Build f4c231 finished in 1787 ms! 
+
+> VuePress dev server listening at http://localhost:18002/
+c[2:46:41 PM] Compiling Client
+[2:46:41 PM] Compiled Client in 195ms
+c
+ DONE  [14:46:41] Build 665a67 finished in 196 ms! (http://localhost:18002/)
+c[2:49:10 PM] Compiling Client
+[2:49:10 PM] Compiled Client in 415ms
+c
+ DONE  [14:49:10] Build 03c96e finished in 417 ms! (http://localhost:18002/)
