@@ -1,0 +1,29 @@
+{
+  "id": "modules/tools/guide",
+  "title": "Tools 使用指南",
+  "description": "使用 python-office 的实用工具集",
+  "source": "@site/docs/modules/tools/guide.md",
+  "sourceDirName": "modules/tools",
+  "slug": "/modules/tools/guide",
+  "permalink": "/modules/tools/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/tools/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Tools 使用指南",
+    "description": "使用 python-office 的实用工具集",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Finance API 参考",
+    "permalink": "/modules/finance/api"
+  },
+  "next": {
+    "title": "Tools API 参考",
+    "permalink": "/modules/tools/api"
+  }
+}

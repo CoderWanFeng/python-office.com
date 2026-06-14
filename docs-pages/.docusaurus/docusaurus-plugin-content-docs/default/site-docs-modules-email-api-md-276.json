@@ -1,0 +1,28 @@
+{
+  "id": "modules/email/api",
+  "title": "Email API 参考",
+  "description": "子库名：poemail | 安装：pip install poemail",
+  "source": "@site/docs/modules/email/api.md",
+  "sourceDirName": "modules/email",
+  "slug": "/modules/email/api",
+  "permalink": "/modules/email/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/email/api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Email API 参考",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Email 使用指南",
+    "permalink": "/modules/email/guide"
+  },
+  "next": {
+    "title": "WeChat 使用指南",
+    "permalink": "/modules/wechat/guide"
+  }
+}

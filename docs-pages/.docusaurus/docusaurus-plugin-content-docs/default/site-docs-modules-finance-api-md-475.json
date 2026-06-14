@@ -1,0 +1,28 @@
+{
+  "id": "modules/finance/api",
+  "title": "Finance API 参考",
+  "description": "导入：import office",
+  "source": "@site/docs/modules/finance/api.md",
+  "sourceDirName": "modules/finance",
+  "slug": "/modules/finance/api",
+  "permalink": "/modules/finance/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/finance/api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Finance API 参考",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Finance 使用指南",
+    "permalink": "/modules/finance/guide"
+  },
+  "next": {
+    "title": "Tools 使用指南",
+    "permalink": "/modules/tools/guide"
+  }
+}

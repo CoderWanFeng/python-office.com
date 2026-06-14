@@ -1,0 +1,29 @@
+{
+  "id": "guides/file",
+  "title": "File 指南",
+  "description": "使用 python-office 进行文件管理",
+  "source": "@site/docs/guides/file.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/file",
+  "permalink": "/guides/file",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/file.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "File 指南",
+    "description": "使用 python-office 进行文件管理",
+    "sidebar_position": 7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Image 指南",
+    "permalink": "/guides/image"
+  },
+  "next": {
+    "title": "Email 指南",
+    "permalink": "/guides/email"
+  }
+}

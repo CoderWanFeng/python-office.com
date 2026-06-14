@@ -1,0 +1,28 @@
+{
+  "id": "modules/ocr/api",
+  "title": "OCR API 参考",
+  "description": "子库名：poocr | 安装：pip install poocr",
+  "source": "@site/docs/modules/ocr/api.md",
+  "sourceDirName": "modules/ocr",
+  "slug": "/modules/ocr/api",
+  "permalink": "/modules/ocr/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/ocr/api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "OCR API 参考",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "OCR 使用指南",
+    "permalink": "/modules/ocr/guide"
+  },
+  "next": {
+    "title": "Video 使用指南",
+    "permalink": "/modules/video/guide"
+  }
+}

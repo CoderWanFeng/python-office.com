@@ -1,0 +1,29 @@
+{
+  "id": "api/pdf",
+  "title": "PDF API 参考",
+  "description": "python-office PDF 模块完整 API（13 个函数）",
+  "source": "@site/docs/api/pdf.md",
+  "sourceDirName": "api",
+  "slug": "/api/pdf",
+  "permalink": "/api/pdf",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/api/pdf.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "PDF API 参考",
+    "description": "python-office PDF 模块完整 API（13 个函数）",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Word API 参考",
+    "permalink": "/api/word"
+  },
+  "next": {
+    "title": "PPT API 参考",
+    "permalink": "/api/ppt"
+  }
+}

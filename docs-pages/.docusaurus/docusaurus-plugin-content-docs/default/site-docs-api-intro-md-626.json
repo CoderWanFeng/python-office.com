@@ -1,0 +1,29 @@
+{
+  "id": "api/intro",
+  "title": "API 参考总览",
+  "description": "python-office 完整 API 函数列表",
+  "source": "@site/docs/api/intro.md",
+  "sourceDirName": "api",
+  "slug": "/api/intro",
+  "permalink": "/api/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/api/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "API 参考总览",
+    "description": "python-office 完整 API 函数列表",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Tools 指南",
+    "permalink": "/guides/tools"
+  },
+  "next": {
+    "title": "Excel API 参考",
+    "permalink": "/api/excel"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/email-6",
+  "title": "6 讲自动收发邮件",
+  "description": "poemail 完整教程",
+  "source": "@site/docs/tutorials/email-6.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/email-6",
+  "permalink": "/tutorials/email-6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/tutorials/email-6.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "6 讲自动收发邮件",
+    "description": "poemail 完整教程",
+    "sidebar_position": 6
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "7 讲 OCR 识别",
+    "permalink": "/tutorials/ocr-7"
+  },
+  "next": {
+    "title": "15 讲 Python 零基础",
+    "permalink": "/tutorials/python-15"
+  }
+}

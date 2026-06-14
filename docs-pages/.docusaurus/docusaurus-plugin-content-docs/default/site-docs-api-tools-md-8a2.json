@@ -1,0 +1,28 @@
+{
+  "id": "api/tools",
+  "title": "Tools API 参考",
+  "description": "子库名：wftools（随主包自动安装）",
+  "source": "@site/docs/api/tools.md",
+  "sourceDirName": "api",
+  "slug": "/api/tools",
+  "permalink": "/api/tools",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/api/tools.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "title": "Tools API 参考",
+    "sidebar_position": 14
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Markdown API 参考",
+    "permalink": "/api/markdown"
+  },
+  "next": {
+    "title": "教程中心",
+    "permalink": "/tutorials/intro"
+  }
+}

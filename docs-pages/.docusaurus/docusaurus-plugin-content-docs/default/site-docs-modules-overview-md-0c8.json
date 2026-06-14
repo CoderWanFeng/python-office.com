@@ -1,0 +1,29 @@
+{
+  "id": "modules/overview",
+  "title": "模块总览",
+  "description": "python-office 13 大功能模块",
+  "source": "@site/docs/modules/overview.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/overview",
+  "permalink": "/modules/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "模块总览",
+    "description": "python-office 13 大功能模块",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "常见问题",
+    "permalink": "/start/faq"
+  },
+  "next": {
+    "title": "Excel 使用指南",
+    "permalink": "/modules/excel/guide"
+  }
+}

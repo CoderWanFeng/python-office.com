@@ -1,0 +1,29 @@
+{
+  "id": "guides/finance",
+  "title": "Finance 指南",
+  "description": "使用 python-office 进行金融计算",
+  "source": "@site/docs/guides/finance.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/finance",
+  "permalink": "/guides/finance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/finance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "Finance 指南",
+    "description": "使用 python-office 进行金融计算",
+    "sidebar_position": 12
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Video 指南",
+    "permalink": "/guides/video"
+  },
+  "next": {
+    "title": "Markdown 指南",
+    "permalink": "/guides/markdown"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "guides/pdf",
+  "title": "PDF 指南",
+  "description": "使用 python-office 处理 PDF 文件",
+  "source": "@site/docs/guides/pdf.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/pdf",
+  "permalink": "/guides/pdf",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/pdf.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "PDF 指南",
+    "description": "使用 python-office 处理 PDF 文件",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Word 指南",
+    "permalink": "/guides/word"
+  },
+  "next": {
+    "title": "PPT 指南",
+    "permalink": "/guides/ppt"
+  }
+}

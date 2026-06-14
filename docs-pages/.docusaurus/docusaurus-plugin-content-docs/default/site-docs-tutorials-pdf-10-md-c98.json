@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/pdf-10",
+  "title": "10 讲 PDF 自动化",
+  "description": "popdf 完整教程",
+  "source": "@site/docs/tutorials/pdf-10.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pdf-10",
+  "permalink": "/tutorials/pdf-10",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/tutorials/pdf-10.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "10 讲 PDF 自动化",
+    "description": "popdf 完整教程",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "30 讲 Excel 自动化",
+    "permalink": "/tutorials/excel-30"
+  },
+  "next": {
+    "title": "10 讲 Python 微信机器人",
+    "permalink": "/tutorials/wechat-10"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "modules/image/api",
+  "title": "Image API 参考",
+  "description": "子库名：poimage | 安装：pip install poimage",
+  "source": "@site/docs/modules/image/api.md",
+  "sourceDirName": "modules/image",
+  "slug": "/modules/image/api",
+  "permalink": "/modules/image/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/image/api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Image API 参考",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Image 使用指南",
+    "permalink": "/modules/image/guide"
+  },
+  "next": {
+    "title": "File 使用指南",
+    "permalink": "/modules/file/guide"
+  }
+}

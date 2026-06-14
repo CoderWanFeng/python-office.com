@@ -1,0 +1,29 @@
+{
+  "id": "about/overview",
+  "title": "关于 python-office",
+  "description": "项目介绍、作者和社区",
+  "source": "@site/docs/about/overview.md",
+  "sourceDirName": "about",
+  "slug": "/about/overview",
+  "permalink": "/about/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/about/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "关于 python-office",
+    "description": "项目介绍、作者和社区",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "15 讲 Python 零基础",
+    "permalink": "/tutorials/python-15"
+  },
+  "next": {
+    "title": "更新日志",
+    "permalink": "/about/changelog"
+  }
+}

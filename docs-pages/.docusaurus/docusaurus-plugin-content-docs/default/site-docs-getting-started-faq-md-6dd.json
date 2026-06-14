@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/faq",
+  "title": "常见问题",
+  "description": "python-office 使用过程中的常见问题解答",
+  "source": "@site/docs/getting-started/faq.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/faq",
+  "permalink": "/getting-started/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/getting-started/faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "常见问题",
+    "description": "python-office 使用过程中的常见问题解答",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "5分钟快速体验",
+    "permalink": "/getting-started/quick-tour"
+  },
+  "next": {
+    "title": "使用指南总览",
+    "permalink": "/guides/intro"
+  }
+}

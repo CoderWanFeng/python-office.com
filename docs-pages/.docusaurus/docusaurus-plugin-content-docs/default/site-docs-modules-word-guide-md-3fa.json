@@ -1,0 +1,29 @@
+{
+  "id": "modules/word/guide",
+  "title": "Word 使用指南",
+  "description": "使用 python-office 处理 Word 文档",
+  "source": "@site/docs/modules/word/guide.md",
+  "sourceDirName": "modules/word",
+  "slug": "/modules/word/guide",
+  "permalink": "/modules/word/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/word/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Word 使用指南",
+    "description": "使用 python-office 处理 Word 文档",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Excel API 参考",
+    "permalink": "/modules/excel/api"
+  },
+  "next": {
+    "title": "Word API 参考",
+    "permalink": "/modules/word/api"
+  }
+}

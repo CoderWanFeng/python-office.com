@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/email-tutorial",
+  "title": "自动收发邮件教程",
+  "description": "poemail 6 讲完整教程",
+  "source": "@site/docs/tutorials/email-tutorial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/email-tutorial",
+  "permalink": "/tutorials/email-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/tutorials/email-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "自动收发邮件教程",
+    "description": "poemail 6 讲完整教程",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "1 行代码实现发票识别",
+    "permalink": "/tutorials/ocr-tutorial"
+  },
+  "next": {
+    "title": "PDF 自动化教程",
+    "permalink": "/tutorials/pdf-tutorial"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "modules/ppt/guide",
+  "title": "PPT 使用指南",
+  "description": "使用 python-office 处理 PPT",
+  "source": "@site/docs/modules/ppt/guide.md",
+  "sourceDirName": "modules/ppt",
+  "slug": "/modules/ppt/guide",
+  "permalink": "/modules/ppt/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/ppt/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "PPT 使用指南",
+    "description": "使用 python-office 处理 PPT",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "PDF API 参考",
+    "permalink": "/modules/pdf/api"
+  },
+  "next": {
+    "title": "PPT API 参考",
+    "permalink": "/modules/ppt/api"
+  }
+}

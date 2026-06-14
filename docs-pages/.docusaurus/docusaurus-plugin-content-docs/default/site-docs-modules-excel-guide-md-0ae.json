@@ -1,0 +1,29 @@
+{
+  "id": "modules/excel/guide",
+  "title": "Excel 使用指南",
+  "description": "使用 python-office 处理 Excel 文件",
+  "source": "@site/docs/modules/excel/guide.md",
+  "sourceDirName": "modules/excel",
+  "slug": "/modules/excel/guide",
+  "permalink": "/modules/excel/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/excel/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Excel 使用指南",
+    "description": "使用 python-office 处理 Excel 文件",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "模块总览",
+    "permalink": "/modules/overview"
+  },
+  "next": {
+    "title": "Excel API 参考",
+    "permalink": "/modules/excel/api"
+  }
+}

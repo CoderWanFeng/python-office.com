@@ -1,0 +1,29 @@
+{
+  "id": "guides/ocr",
+  "title": "OCR 指南",
+  "description": "使用 python-office 进行 OCR 识别",
+  "source": "@site/docs/guides/ocr.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/ocr",
+  "permalink": "/guides/ocr",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/ocr.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "OCR 指南",
+    "description": "使用 python-office 进行 OCR 识别",
+    "sidebar_position": 10
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "WeChat 指南",
+    "permalink": "/guides/wechat"
+  },
+  "next": {
+    "title": "Video 指南",
+    "permalink": "/guides/video"
+  }
+}

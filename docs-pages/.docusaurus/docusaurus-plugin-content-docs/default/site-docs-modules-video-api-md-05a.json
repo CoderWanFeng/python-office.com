@@ -1,0 +1,28 @@
+{
+  "id": "modules/video/api",
+  "title": "Video API 参考",
+  "description": "子库名：povideo | 安装：pip install povideo",
+  "source": "@site/docs/modules/video/api.md",
+  "sourceDirName": "modules/video",
+  "slug": "/modules/video/api",
+  "permalink": "/modules/video/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/video/api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Video API 参考",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Video 使用指南",
+    "permalink": "/modules/video/guide"
+  },
+  "next": {
+    "title": "Markdown 使用指南",
+    "permalink": "/modules/markdown/guide"
+  }
+}

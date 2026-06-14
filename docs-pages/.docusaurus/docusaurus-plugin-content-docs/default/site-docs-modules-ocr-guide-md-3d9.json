@@ -1,0 +1,29 @@
+{
+  "id": "modules/ocr/guide",
+  "title": "OCR 使用指南",
+  "description": "使用 python-office 进行 OCR 识别",
+  "source": "@site/docs/modules/ocr/guide.md",
+  "sourceDirName": "modules/ocr",
+  "slug": "/modules/ocr/guide",
+  "permalink": "/modules/ocr/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/ocr/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "OCR 使用指南",
+    "description": "使用 python-office 进行 OCR 识别",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "WeChat API 参考",
+    "permalink": "/modules/wechat/api"
+  },
+  "next": {
+    "title": "OCR API 参考",
+    "permalink": "/modules/ocr/api"
+  }
+}

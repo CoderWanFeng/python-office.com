@@ -1,0 +1,29 @@
+{
+  "id": "modules/file/guide",
+  "title": "File 使用指南",
+  "description": "使用 python-office 进行文件管理",
+  "source": "@site/docs/modules/file/guide.md",
+  "sourceDirName": "modules/file",
+  "slug": "/modules/file/guide",
+  "permalink": "/modules/file/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/file/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "File 使用指南",
+    "description": "使用 python-office 进行文件管理",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Image API 参考",
+    "permalink": "/modules/image/api"
+  },
+  "next": {
+    "title": "File API 参考",
+    "permalink": "/modules/file/api"
+  }
+}

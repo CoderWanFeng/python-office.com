@@ -1,0 +1,28 @@
+{
+  "id": "modules/markdown/api",
+  "title": "Markdown API 参考",
+  "description": "子库名：pomarkdown | 安装：pip install pomarkdown",
+  "source": "@site/docs/modules/markdown/api.md",
+  "sourceDirName": "modules/markdown",
+  "slug": "/modules/markdown/api",
+  "permalink": "/modules/markdown/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/markdown/api.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Markdown API 参考",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Markdown 使用指南",
+    "permalink": "/modules/markdown/guide"
+  },
+  "next": {
+    "title": "Finance 使用指南",
+    "permalink": "/modules/finance/guide"
+  }
+}

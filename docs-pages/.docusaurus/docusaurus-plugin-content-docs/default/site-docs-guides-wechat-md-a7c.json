@@ -1,0 +1,29 @@
+{
+  "id": "guides/wechat",
+  "title": "WeChat 指南",
+  "description": "使用 python-office 实现微信机器人",
+  "source": "@site/docs/guides/wechat.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/wechat",
+  "permalink": "/guides/wechat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/wechat.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "WeChat 指南",
+    "description": "使用 python-office 实现微信机器人",
+    "sidebar_position": 9
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Email 指南",
+    "permalink": "/guides/email"
+  },
+  "next": {
+    "title": "OCR 指南",
+    "permalink": "/guides/ocr"
+  }
+}

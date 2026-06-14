@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/wechat-10",
+  "title": "10 讲 Python 微信机器人",
+  "description": "PyOfficeRobot 完整教程",
+  "source": "@site/docs/tutorials/wechat-10.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/wechat-10",
+  "permalink": "/tutorials/wechat-10",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/tutorials/wechat-10.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "10 讲 Python 微信机器人",
+    "description": "PyOfficeRobot 完整教程",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "10 讲 PDF 自动化",
+    "permalink": "/tutorials/pdf-10"
+  },
+  "next": {
+    "title": "7 讲 OCR 识别",
+    "permalink": "/tutorials/ocr-7"
+  }
+}

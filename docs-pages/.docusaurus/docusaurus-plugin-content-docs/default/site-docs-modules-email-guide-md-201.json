@@ -1,0 +1,29 @@
+{
+  "id": "modules/email/guide",
+  "title": "Email 使用指南",
+  "description": "使用 python-office 自动收发邮件",
+  "source": "@site/docs/modules/email/guide.md",
+  "sourceDirName": "modules/email",
+  "slug": "/modules/email/guide",
+  "permalink": "/modules/email/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/modules/email/guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Email 使用指南",
+    "description": "使用 python-office 自动收发邮件",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "File API 参考",
+    "permalink": "/modules/file/api"
+  },
+  "next": {
+    "title": "Email API 参考",
+    "permalink": "/modules/email/api"
+  }
+}

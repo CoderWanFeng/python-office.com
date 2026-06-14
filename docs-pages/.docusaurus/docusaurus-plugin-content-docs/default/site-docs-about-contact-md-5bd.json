@@ -1,0 +1,25 @@
+{
+  "id": "about/contact",
+  "title": "联系我们",
+  "description": "多种联系方式",
+  "source": "@site/docs/about/contact.md",
+  "sourceDirName": "about",
+  "slug": "/about/contact",
+  "permalink": "/about/contact",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/about/contact.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "联系我们",
+    "description": "多种联系方式",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "贡献指南",
+    "permalink": "/about/contributing"
+  }
+}

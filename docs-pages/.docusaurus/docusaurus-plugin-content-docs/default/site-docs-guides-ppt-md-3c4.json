@@ -1,0 +1,29 @@
+{
+  "id": "guides/ppt",
+  "title": "PPT 指南",
+  "description": "使用 python-office 处理 PPT",
+  "source": "@site/docs/guides/ppt.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/ppt",
+  "permalink": "/guides/ppt",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/guides/ppt.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "PPT 指南",
+    "description": "使用 python-office 处理 PPT",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "PDF 指南",
+    "permalink": "/guides/pdf"
+  },
+  "next": {
+    "title": "Image 指南",
+    "permalink": "/guides/image"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tutorials/pdf-tutorial",
+  "title": "PDF 自动化教程",
+  "description": "popdf 完整教程",
+  "source": "@site/docs/tutorials/pdf-tutorial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/pdf-tutorial",
+  "permalink": "/tutorials/pdf-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/tutorials/pdf-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "PDF 自动化教程",
+    "description": "popdf 完整教程",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "自动收发邮件教程",
+    "permalink": "/tutorials/email-tutorial"
+  },
+  "next": {
+    "title": "Python 微信机器人教程",
+    "permalink": "/tutorials/wechat-robot"
+  }
+}

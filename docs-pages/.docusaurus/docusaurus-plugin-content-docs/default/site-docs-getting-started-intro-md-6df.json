@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/intro",
+  "title": "项目简介",
+  "description": "了解 python-office 项目的背景、设计理念和核心价值",
+  "source": "@site/docs/getting-started/intro.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/intro",
+  "permalink": "/getting-started/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/getting-started/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "项目简介",
+    "description": "了解 python-office 项目的背景、设计理念和核心价值",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "项目介绍",
+    "permalink": "/intro"
+  },
+  "next": {
+    "title": "安装指南",
+    "permalink": "/getting-started/installation"
+  }
+}

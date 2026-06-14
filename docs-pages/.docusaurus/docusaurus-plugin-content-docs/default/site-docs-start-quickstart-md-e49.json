@@ -1,0 +1,29 @@
+{
+  "id": "start/quickstart",
+  "title": "5分钟快速体验",
+  "description": "通过 5 个例子快速感受 python-office",
+  "source": "@site/docs/start/quickstart.md",
+  "sourceDirName": "start",
+  "slug": "/start/quickstart",
+  "permalink": "/start/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/start/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "5分钟快速体验",
+    "description": "通过 5 个例子快速感受 python-office",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "安装",
+    "permalink": "/start/install"
+  },
+  "next": {
+    "title": "常见问题",
+    "permalink": "/start/faq"
+  }
+}

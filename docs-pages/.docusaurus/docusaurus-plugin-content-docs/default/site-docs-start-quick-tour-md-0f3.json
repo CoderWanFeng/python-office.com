@@ -1,0 +1,20 @@
+{
+  "id": "start/quick-tour",
+  "title": "5分钟快速体验",
+  "description": "通过 5 个例子快速感受 python-office 的强大",
+  "source": "@site/docs/start/quick-tour.md",
+  "sourceDirName": "start",
+  "slug": "/start/quick-tour",
+  "permalink": "/start/quick-tour",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/CoderWanFeng/python-office/tree/main/website/docs/start/quick-tour.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "5分钟快速体验",
+    "description": "通过 5 个例子快速感受 python-office 的强大",
+    "sidebar_position": 3
+  }
+}
