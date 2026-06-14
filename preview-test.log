@@ -1,0 +1,79 @@
+========================================
+    启动 python-office.com 文档站预览  
+    技术栈：Docusaurus 3.x            
+========================================
+
+🧹 清理缓存...
+✅ 缓存已清理
+
+🚀 正在启动 Docusaurus 开发服务器...
+   默认端口：3000  访问 http://localhost:3000/
+   提示：按 Ctrl+C 停止服务
+
+[INFO] Starting the development server...
+[WARNING] The `siteConfig.onBrokenMarkdownLinks` config option is deprecated and will be removed in Docusaurus v4.
+Please migrate and move this option to `siteConfig.markdown.hooks.onBrokenMarkdownLinks` instead.
+[SUCCESS] Docusaurus website is running at: http://localhost:3000/
+client (Rspack 1.7.11) compiled successfully
+× Cannot find module '@generated/routes' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/client-modules' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/client-modules' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/docusaurus.config' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/routes' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/routesChunkNames' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/site-metadata' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/i18n' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/docusaurus.config' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/codeTranslations' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/globalData' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/codeTranslations' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/routes' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/routes' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/routes' for matched aliased key '@generated'
+
+--------------------------
+
+× Cannot find module '@generated/site-storage' for matched aliased key '@generated'
+client (Rspack 1.7.11) compiled with 32 errors
