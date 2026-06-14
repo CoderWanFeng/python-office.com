@@ -1,51 +1,109 @@
+# python-office 官方文档站
 
+> **一行代码搞定自动化办公** — [python-office](https://github.com/CoderWanFeng/python-office) 项目的官方文档网站
 
+🌐 **在线访问**：https://www.python-office.com
 
-<p align="center" id='进群-banner-AI'>
-    <a target="_blank" href='https://www.python4office.cn/wechat-group/'>
-    <img src="https://raw.atomgit.com/user-images/assets/5027920/87fc1ca4-1a6c-47b8-b234-3e323a1aa827/aiq.jpg" width="100%"/>
-    </a>   
-</p>
+---
 
+## 📁 项目结构
 
+```
+python-office.com/
+├── README.md                    # 本文件
+├── LICENSE                      # MIT 协议
+│
+├── docs-pages/                  # 📚 文档站（Docusaurus 3.x）
+│   ├── docs/                    # Markdown 文档源文件
+│   │   ├── start/               # 🚀 入门（4 篇）
+│   │   ├── modules/             # 📦 13 大功能模块（28 篇）
+│   │   ├── tutorials/           # 🎓 教程（7 篇）
+│   │   └── about/               # ℹ️ 关于（4 篇）
+│   ├── src/                     # 自定义 React 组件
+│   ├── static/                  # 静态资源（图片、favicon）
+│   ├── scripts/                 # 构建辅助脚本
+│   ├── docusaurus.config.ts     # 站点配置
+│   ├── sidebars.ts              # 侧边栏配置
+│   └── package.json
+│
+├── scripts/                     # 🔧 项目级脚本
+│   ├── build.sh                 # 构建脚本
+│   ├── deploy.sh                # 部署脚本
+│   └── refresh_cdn.py           # CDN 刷新
+│
+└── nginx/                       # 🌐 Nginx 配置
+    └── python-office.com.conf
+```
 
+## 🚀 快速开始
 
+### 本地开发
 
-<p align="center" name="图标-github">
-    <a target="_blank" href='https://github.com/CoderWanFeng/PyOfficeRobot'>
-    <img src="https://img.shields.io/github/stars/CoderWanFeng/PyOfficeRobot.svg?style=social" alt="github star"/>
-    </a>
-    	<a target="_blank" href='https://gitee.com/CoderWanFeng//PyOfficeRobot/'>
-		<img src='https://gitee.com/CoderWanFeng//PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/>
-	</a>
-<a href="https://mp.weixin.qq.com/s/YS0shsl6vJD_wUzow7NOnw">
-  <img src="https://img.shields.io/badge/学习-AI编程-red" alt="AI编程">
-</a>
-    	<a href="https://www.python4office.cn/wechat-group/">
-  <img src="https://img.shields.io/badge/加入-AI交流群-brightgreen" alt="AI交流群">
-</a>
-</p>
+```bash
+cd docs-pages
+npm install
+npm start                       # 启动开发服务器（默认 3000 端口）
+```
 
+### 构建生产版本
 
-# python-office开源项目的官网
+```bash
+cd docs-pages
+npm run build                   # 生成静态文件到 build/
+```
 
-## 官方地址
-- 官网：[https://www.python-office.com](https://www.python-office.com)
-- 项目说明：[开源中国推荐：python-office自动化办公，每个功能只需一行代码，做到了真正的开箱即用。](https://mp.weixin.qq.com/s/d2m7xYCLXF8QUlr-5sSuPA)
-- 💻视频：[python-office，正式发布](https://www.bilibili.com/video/BV1pT4y1k7FH)
-> 因为经常被问到：python-office有使用文档吗？所以我写了这个官网。
+### 预览生产版本
 
-## 网站使用的技术
+```bash
+cd docs-pages/build
+python3 -m http.server 8080
+# 访问 http://localhost:8080
+```
 
-- 后端：没有后端！纯静态页面
-- 前端：VuePress框架
-- 🏔部署：[腾讯云](https://curl.qcloud.com/3csDz9jU)
+### 一键构建 + 部署
 
-## PR规范
-- 大家觉得哪里表达不准确，或者是哪个方法没有更新，直接在对应的文件里修改就行了。
+```bash
+./scripts/build.sh              # 拉取最新代码 + 构建
+./scripts/deploy.sh             # 部署到服务器
+```
 
-- 修改之后，直接提交到master分支，
+## 📚 文档组织
 
-- 我合并后，会直接在服务器里拉下来，打包更新到网站里。
+文档按 **4 大分类** 组织：
 
-- ⭐参与PR的同学，欢迎添加我的微信，加入项目维护群：[python-office](https://www.python4office.cn/wechat-qrcode/)
+| 分类 | 路径 | 说明 |
+|------|------|------|
+| 🚀 **入门** | `docs/start/` | 项目概览、安装、5分钟体验、FAQ |
+| 📦 **功能模块** | `docs/modules/` | 13 大模块，每个含 guide + api |
+| 🎓 **教程** | `docs/tutorials/` | 系统化的视频教程（30 讲、10 讲系列） |
+| ℹ️ **关于** | `docs/about/` | 项目介绍、更新日志、贡献指南 |
+
+## 🎨 技术栈
+
+- **Docusaurus 3.10** - Meta 出品的静态站点生成器
+- **React 19** + **TypeScript** - 主页和自定义组件
+- **Prism** - 代码语法高亮（GitHub Light + Dracula Dark）
+- **Infima** - 主题 CSS 框架
+- **Docusaurus Classic Preset** - 文档、博客、CSS 注入
+
+## 🌈 设计风格
+
+- **主色**：Python 蓝 `#306998`（暗模式 `#4B8BBE`）
+- **强调色**：Python 黄 `#FFD43B`
+- **首页**：渐变 Hero + 13 卡片网格 + 数据统计
+- **响应式**：完美支持移动端
+
+## 🤝 贡献
+
+欢迎贡献文档！详见 [docs-pages/docs/about/contributing.md](docs-pages/docs/about/contributing.md)
+
+## 📜 许可证
+
+MIT License - 详见 [LICENSE](LICENSE)
+
+## 🔗 相关链接
+
+- ⭐ [GitHub 仓库](https://github.com/CoderWanFeng/python-office)
+- 📦 [PyPI 包](https://pypi.org/project/python-office/)
+- 📖 [微信公众号](https://mp.weixin.qq.com/s/Z3WhrmYeavrCw_FOXgiDPA)
+- 👥 [项目交流群](https://www.python4office.cn/wechat-group/)

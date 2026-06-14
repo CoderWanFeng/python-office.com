@@ -1,29 +1,49 @@
 {
-  "name": "python-office",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "python-office-website-docusaurus",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vuepress dev vuepress",
-    "build": "vuepress build vuepress"
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "typecheck": "tsc"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/CoderWanFeng/python-office.git"
+  "dependencies": {
+    "@docusaurus/core": "3.10.1",
+    "@docusaurus/faster": "3.10.1",
+    "@docusaurus/preset-classic": "3.10.1",
+    "@mdx-js/react": "^3.0.0",
+    "clsx": "^2.0.0",
+    "prism-react-renderer": "^2.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
-  "author": "程序员晚枫",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CoderWanFeng/python-office/issues"
-  },
-  "homepage": "https://github.com/CoderWanFeng/python-office#readme",
   "devDependencies": {
-    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.13",
-    "@vuepress/plugin-back-to-top": "^1.9.7",
-    "vuepress": "^0.14.11",
-    "vuepress-plugin-code-copy": "^1.0.6",
-    "vuepress-plugin-copyright": "^1.0.2",
-    "vuepress-plugin-nuggets-style-copy": "^1.0.3"
+    "@docusaurus/module-type-aliases": "3.10.1",
+    "@docusaurus/tsconfig": "3.10.1",
+    "@docusaurus/types": "3.10.1",
+    "@types/react": "^19.0.0",
+    "typescript": "~6.0.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 3 chrome version",
+      "last 3 firefox version",
+      "last 5 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=20.0"
   }
 }

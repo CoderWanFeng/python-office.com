@@ -1,0 +1,343 @@
+/* ========================================
+   python-office 自定义样式
+   主题：技术专业感（Python 蓝 + 强调紫）
+   ======================================== */
+
+/* ---------- Python 蓝（Light Mode）---------- */
+:root {
+  /* 主色：Python 蓝 */
+  --ifm-color-primary: #306998;
+  --ifm-color-primary-dark: #2a5e8a;
+  --ifm-color-primary-darker: #275880;
+  --ifm-color-primary-darkest: #1f4766;
+  --ifm-color-primary-light: #4b8bbe;
+  --ifm-color-primary-lighter: #578dc6;
+  --ifm-color-primary-lightest: #7ba8d4;
+
+  /* 强调色：Python 黄（用于代码块、关键提示） */
+  --ifm-color-secondary: #FFD43B;
+  --ifm-color-warning: #FFD43B;
+
+  /* 全局变量 */
+  --ifm-code-font-size: 92%;
+  --ifm-font-family-base:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  --ifm-heading-font-weight: 700;
+  --ifm-line-height-base: 1.7;
+  --ifm-heading-line-height: 1.3;
+  --ifm-link-decoration: none;
+  --ifm-link-hover-decoration: underline;
+
+  /* 代码块高亮 */
+  --docusaurus-highlighted-code-line-bg: rgba(48, 105, 152, 0.12);
+  --ifm-code-background: #f6f8fa;
+  --ifm-code-border-radius: 6px;
+  --ifm-pre-background: #f6f8fa;
+
+  /* 布局 */
+  --ifm-navbar-height: 64px;
+  --ifm-navbar-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
+  --ifm-toc-border-color: transparent;
+  --doc-sidebar-width: 280px !important;
+}
+
+/* ---------- Python 浅蓝（Dark Mode）---------- */
+[data-theme='dark'] {
+  --ifm-color-primary: #4B8BBE;       /* Python 浅蓝 */
+  --ifm-color-primary-dark: #3f7eaf;
+  --ifm-color-primary-darker: #3a76a4;
+  --ifm-color-primary-darkest: #306387;
+  --ifm-color-primary-light: #6ba3d1;
+  --ifm-color-primary-lighter: #79add6;
+  --ifm-color-primary-lightest: #a3c8e6;
+
+  /* 暗黑模式背景 */
+  --ifm-background-color: #1a1a1a;
+  --ifm-background-surface-color: #242424;
+  --ifm-code-background: #2d2d2d;
+  --ifm-pre-background: #1e1e1e;
+  --docusaurus-highlighted-code-line-bg: rgba(75, 139, 190, 0.2);
+}
+
+/* ========================================
+   首页 Hero 渐变背景
+   ======================================== */
+.hero--primary {
+  background:
+    radial-gradient(ellipse at top left, rgba(75, 139, 190, 0.15) 0%, transparent 50%),
+    radial-gradient(ellipse at bottom right, rgba(255, 212, 59, 0.10) 0%, transparent 50%),
+    linear-gradient(180deg, #ffffff 0%, #f6f8fa 100%);
+  padding: 6rem 0 4rem;
+}
+
+[data-theme='dark'] .hero--primary {
+  background:
+    radial-gradient(ellipse at top left, rgba(75, 139, 190, 0.25) 0%, transparent 50%),
+    radial-gradient(ellipse at bottom right, rgba(255, 212, 59, 0.08) 0%, transparent 50%),
+    linear-gradient(180deg, #1a1a1a 0%, #0f0f0f 100%);
+}
+
+.hero__title {
+  font-size: 3.5rem;
+  font-weight: 800;
+  background: linear-gradient(120deg, #306998 0%, #4B8BBE 50%, #FFD43B 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+}
+
+.hero__subtitle {
+  font-size: 1.35rem;
+  color: var(--ifm-color-emphasis-700);
+  max-width: 720px;
+  margin: 0 auto 2rem;
+  line-height: 1.6;
+}
+
+/* ========================================
+   首页按钮（强化视觉）
+   ======================================== */
+.button {
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 0.75rem 1.75rem;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+.button--primary {
+  background: linear-gradient(135deg, #306998 0%, #4B8BBE 100%);
+  border: none;
+}
+
+.button--primary:hover {
+  background: linear-gradient(135deg, #275880 0%, #3f7eaf 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(48, 105, 152, 0.25);
+}
+
+.button--secondary {
+  background: white;
+  color: #306998;
+  border: 1.5px solid #306998;
+}
+
+.button--secondary:hover {
+  background: #f6f8fa;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(48, 105, 152, 0.15);
+}
+
+/* ========================================
+   代码块美化
+   ======================================== */
+.prism-code {
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  padding: 1rem 1.25rem;
+}
+
+code {
+  border-radius: 4px;
+  padding: 0.15em 0.35em;
+  font-weight: 500;
+  font-size: 0.9em;
+}
+
+/* ========================================
+   侧边栏手风琴 + 项目库风格
+   ======================================== */
+.theme-doc-sidebar-container {
+  border-right: 1px solid var(--ifm-color-emphasis-200);
+  background: var(--ifm-background-surface-color);
+}
+
+.menu__link {
+  font-size: 0.92rem;
+  border-radius: 6px;
+  padding: 0.4rem 0.75rem;
+  margin: 1px 0;
+}
+
+.menu__link--active {
+  background: rgba(48, 105, 152, 0.10);
+  color: var(--ifm-color-primary-darkest);
+  font-weight: 600;
+}
+
+[data-theme='dark'] .menu__link--active {
+  background: rgba(75, 139, 190, 0.18);
+  color: var(--ifm-color-primary-lightest);
+}
+
+.menu__link:hover:not(.menu__link--active) {
+  background: var(--ifm-color-emphasis-100);
+}
+
+.menu__list-item-collapsible {
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-800);
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 0.95rem;
+  margin-top: 0.5rem;
+}
+
+.theme-doc-sidebar-item-category-level-1 > .menu__list-item-collapsible {
+  color: var(--ifm-color-primary-dark);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  margin-top: 1rem;
+}
+
+/* ========================================
+   文档正文（项目库风格）
+   ======================================== */
+.markdown h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  border-bottom: 2px solid var(--ifm-color-primary);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.markdown h2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  border-left: 4px solid var(--ifm-color-primary);
+  padding-left: 0.75rem;
+}
+
+.markdown h3 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  color: var(--ifm-color-primary-dark);
+}
+
+[data-theme='dark'] .markdown h3 {
+  color: var(--ifm-color-primary-light);
+}
+
+.markdown table {
+  display: table;
+  width: 100%;
+  font-size: 0.92rem;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.markdown table thead {
+  background: var(--ifm-color-emphasis-100);
+}
+
+.markdown table th {
+  font-weight: 700;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.markdown table tr:nth-child(2n) {
+  background: var(--ifm-color-emphasis-50);
+}
+
+[data-theme='dark'] .markdown table tr:nth-child(2n) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+/* ========================================
+   功能卡片（首页）
+   ======================================== */
+.feature-card {
+  display: block;
+  padding: 2rem 1.75rem;
+  background: var(--ifm-card-background-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 12px;
+  transition: all 0.25s ease;
+  height: 100%;
+  color: inherit;
+  text-decoration: none !important;
+}
+
+.feature-card:hover {
+  border-color: var(--ifm-color-primary);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(48, 105, 152, 0.12);
+}
+
+.feature-card .emoji {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.feature-card h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary-dark);
+  margin-bottom: 0.5rem;
+}
+
+[data-theme='dark'] .feature-card h3 {
+  color: var(--ifm-color-primary-light);
+}
+
+.feature-card p {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ========================================
+   通用组件
+   ======================================== */
+.navbar {
+  backdrop-filter: blur(8px);
+  background: rgba(255, 255, 255, 0.85);
+}
+
+[data-theme='dark'] .navbar {
+  background: rgba(26, 26, 26, 0.9);
+}
+
+.footer--dark {
+  background: linear-gradient(180deg, #1a1a1a 0%, #0f0f0f 100%);
+}
+
+.footer__title {
+  color: #FFD43B !important;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 1rem;
+}
+
+/* 滚动条美化 */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--ifm-color-emphasis-100);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ifm-color-emphasis-300);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ifm-color-primary);
+}
