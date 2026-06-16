@@ -54,7 +54,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: '/',
-          editUrl: 'https://github.com/CoderWanFeng/python-office/tree/main/website/',
+          editUrl: 'https://github.com/CoderWanFeng/python-office.com/edit/main/docs-pages/',
         },
         blog: false,  // 关闭 blog，专注于文档
         theme: {
