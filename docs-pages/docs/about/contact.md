@@ -25,8 +25,8 @@ sidebar_position: 4
 
 ## 合作与商务
 
-- 📧 邮箱：coder_wanfeng@163.com
-- 📖 公众号后台留言：「程序员晚枫」
+- 📧 邮箱：1957875073@qq.com
+- 📱 微信：aiwf365
 
 ## 作者信息
 
@@ -37,6 +37,9 @@ sidebar_position: 4
 - 📖 公众号：程序员晚枫
 - 📕 知乎：[程序员晚枫](https://www.zhihu.com/people/CoderWanFeng)
 - 🎓 B 站：[程序员晚枫](https://space.bilibili.com/277141848)
+- 🎬 抖音：[程序员晚枫](https://www.douyin.com/user/self?from_tab_name=main&showSubTab=compilation&showTab=favorite_collection)
+- 📌 小红书：[程序员晚枫](https://www.xiaohongshu.com/user/profile/611dcb820000000001014aca)
+- 🐦 微博：[程序员晚枫](https://weibo.com/u/7726957925)
 
 ## 项目地址
 

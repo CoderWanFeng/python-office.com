@@ -21,6 +21,26 @@ const config: Config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
+  // Google AdSense 加载脚本（异步加载，不阻塞页面）
+  scripts: [
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3274762482246875',
+      async: true,
+      crossorigin: 'anonymous',
+    },
+  ],
+
+  // 头部 meta 标签（AdSense 账号验证 + SEO）
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'google-adsense-account',
+        content: 'ca-pub-3274762482246875',
+      },
+    },
+  ],
+
   // 简体中文
   i18n: {
     defaultLocale: 'zh-Hans',
