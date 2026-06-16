@@ -16,7 +16,7 @@ const FEATURES = [
   {emoji: '🔍', title: 'OCR', desc: '发票识别 → Excel', to: '/modules/ocr/guide'},
   {emoji: '🎬', title: 'Video', desc: '音视频转换、加水印、文本转语音', to: '/modules/video/guide'},
   {emoji: '📝', title: 'Markdown', desc: 'Excel 转 Markdown', to: '/modules/markdown/guide'},
-  {emoji: '💰', title: 'Finance', desc: 'T+0 股票收益计算', to: '/modules/finance/guide'},
+  {emoji: '🤖', title: 'WorkBuddy', desc: 'AI 办公助手，提升日常办公效率', to: 'https://www.codebuddy.cn/events/invite/?inviteCode=bflfcx96gj'},
   {emoji: '🛠️', title: 'Tools', desc: '翻译、二维码、密码等 10+ 工具', to: '/modules/tools/guide'},
 ];
 
@@ -63,8 +63,23 @@ export default function Home(): ReactNode {
             borderRadius: '8px',
             textDecoration: 'none',
             fontWeight: 700,
+            marginRight: '1rem',
           }}>
           📦 查看模块
+        </Link>
+        <Link
+          to="https://www.bilibili.com/opus/857901377884520482?spm_id_from=333.1387.0.0"
+          style={{
+            display: 'inline-block',
+            background: 'rgba(255, 255, 255, 0.18)',
+            color: 'white',
+            padding: '0.75rem 2rem',
+            borderRadius: '8px',
+            border: '1px solid rgba(255, 255, 255, 0.45)',
+            textDecoration: 'none',
+            fontWeight: 700,
+          }}>
+          🎬 视频教程
         </Link>
       </div>
 

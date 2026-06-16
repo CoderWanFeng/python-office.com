@@ -341,3 +341,81 @@ code {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--ifm-color-primary);
 }
+
+/* ========================================
+   文档正文底部广告
+   ======================================== */
+.doc-bottom-ad {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 2.5rem 0 1.5rem;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid rgba(48, 105, 152, 0.22);
+  border-radius: 14px;
+  background: linear-gradient(135deg, rgba(48, 105, 152, 0.08), rgba(255, 212, 59, 0.10));
+}
+
+.doc-bottom-ad__badge {
+  flex: 0 0 auto;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  background: #306998;
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.doc-bottom-ad__content {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.doc-bottom-ad__content strong {
+  color: var(--ifm-color-primary-dark);
+  font-size: 1.05rem;
+}
+
+.doc-bottom-ad__content span {
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.92rem;
+}
+
+.doc-bottom-ad__button {
+  flex: 0 0 auto;
+  padding: 0.55rem 1rem;
+  border-radius: 8px;
+  background: #FFD43B;
+  color: #1f4766;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.doc-bottom-ad__button:hover {
+  background: #ffe36d;
+  color: #1f4766;
+}
+
+[data-theme='dark'] .doc-bottom-ad {
+  border-color: rgba(75, 139, 190, 0.35);
+  background: linear-gradient(135deg, rgba(75, 139, 190, 0.16), rgba(255, 212, 59, 0.08));
+}
+
+[data-theme='dark'] .doc-bottom-ad__content strong {
+  color: var(--ifm-color-primary-light);
+}
+
+@media screen and (max-width: 768px) {
+  .doc-bottom-ad {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .doc-bottom-ad__button {
+    width: 100%;
+    text-align: center;
+  }
+}

@@ -126,6 +126,10 @@ const config: Config = {
             {label: 'PDF 10讲', to: '/tutorials/pdf-10'},
             {label: '微信机器人 10讲', to: '/tutorials/wechat-10'},
             {label: 'OCR 7讲', to: '/tutorials/ocr-7'},
+            {
+              label: 'AI 自动化办公课',
+              href: 'https://www.bilibili.com/cheese/play/ss982042944',
+            },
           ],
         },
         {
@@ -148,7 +152,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} python-office · 程序员晚枫. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} python-office · 程序员晚枫. <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">鲁ICP备2021040536号-2</a>. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

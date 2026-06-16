@@ -110,6 +110,7 @@ const sidebars: SidebarsConfig = {
         'about/changelog',
         'about/contributing',
         'about/contact',
+        'about/sponsors',
       ],
     },
   ],
