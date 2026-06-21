@@ -28,6 +28,11 @@ const config: Config = {
       async: true,
       crossorigin: 'anonymous',
     },
+    // Google Analytics (gtag.js)
+    {
+      src: 'https://www.googletagmanager.com/gtag/js?id=G-SLLX00WYS0',
+      async: true,
+    },
   ],
 
   // 头部 meta 标签（AdSense 账号验证 + SEO）
@@ -38,6 +43,31 @@ const config: Config = {
         name: 'google-adsense-account',
         content: 'ca-pub-3274762482246875',
       },
+    },
+    // Microsoft Clarity 跟踪代码
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'text/javascript',
+      },
+      innerHTML: `
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "x8k5b4qbl9");
+      `,
+    },
+    // Google Analytics 初始化
+    {
+      tagName: 'script',
+      attributes: {},
+      innerHTML: `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-SLLX00WYS0');
+      `,
     },
   ],
 
