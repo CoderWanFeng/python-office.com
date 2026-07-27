@@ -3,22 +3,21 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
-import {translate} from '@docusaurus/Translate';
 
 const FEATURES = [
-  {emoji: '📊', title: 'Excel', descId: 'homepage.feature.excel.desc', descMsg: '数据生成、合并、拆分、搜索、PDF 导出', to: '/modules/excel/guide'},
-  {emoji: '📝', title: 'Word', descId: 'homepage.feature.word.desc', descMsg: 'Word/PDF 转换、合并、图片提取', to: '/modules/word/guide'},
-  {emoji: '📑', title: 'PDF', descId: 'homepage.feature.pdf.desc', descMsg: '转换、加解密、合并、拆分、水印', to: '/modules/pdf/guide'},
-  {emoji: '📊', title: 'PPT', descId: 'homepage.feature.ppt.desc', descMsg: '转 PDF、转图片（长图）、合并', to: '/modules/ppt/guide'},
-  {emoji: '🖼️', title: 'Image', descId: 'homepage.feature.image.desc', descMsg: '压缩、水印、二维码、词云、卡通化', to: '/modules/image/guide'},
-  {emoji: '📁', title: 'File', descId: 'homepage.feature.file.desc', descMsg: '批量重命名、文件管理', to: '/modules/file/guide'},
-  {emoji: '📧', title: 'Email', descId: 'homepage.feature.email.desc', descMsg: '自动收发邮件、附件、群发', to: '/modules/email/guide'},
-  {emoji: '💬', title: 'WeChat', descId: 'homepage.feature.wechat.desc', descMsg: '微信机器人、自动回复', to: '/modules/wechat/guide'},
-  {emoji: '🔍', title: 'OCR', descId: 'homepage.feature.ocr.desc', descMsg: '发票识别 → Excel', to: '/modules/ocr/guide'},
-  {emoji: '🎬', title: 'Video', descId: 'homepage.feature.video.desc', descMsg: '音视频转换、加水印、文本转语音', to: '/modules/video/guide'},
-  {emoji: '📝', title: 'Markdown', descId: 'homepage.feature.markdown.desc', descMsg: 'Excel 转 Markdown', to: '/modules/markdown/guide'},
-  {emoji: '🤖', title: 'WorkBuddy', descId: 'homepage.feature.workbuddy.desc', descMsg: 'AI 办公助手，提升日常办公效率', to: 'https://www.codebuddy.cn/events/invite/?inviteCode=bflfcx96gj'},
-  {emoji: '🛠️', title: 'Tools', descId: 'homepage.feature.tools.desc', descMsg: '翻译、二维码、密码等 10+ 工具', to: '/modules/tools/guide'},
+  {emoji: '📊', title: 'Excel', desc: 'Data generation, merge, split, search, PDF export', to: '/modules/excel/guide'},
+  {emoji: '📝', title: 'Word', desc: 'Word/PDF conversion, merge, image extraction', to: '/modules/word/guide'},
+  {emoji: '📑', title: 'PDF', desc: 'Conversion, encryption, merge, split, watermark', to: '/modules/pdf/guide'},
+  {emoji: '📊', title: 'PPT', desc: 'Convert to PDF, convert to image (long image), merge', to: '/modules/ppt/guide'},
+  {emoji: '🖼️', title: 'Image', desc: 'Compression, watermark, QR code, word cloud, cartoonify', to: '/modules/image/guide'},
+  {emoji: '📁', title: 'File', desc: 'Batch rename, file management', to: '/modules/file/guide'},
+  {emoji: '📧', title: 'Email', desc: 'Auto send/receive emails, attachments, mass send', to: '/modules/email/guide'},
+  {emoji: '💬', title: 'WeChat', desc: 'WeChat bot, auto-reply', to: '/modules/wechat/guide'},
+  {emoji: '🔍', title: 'OCR', desc: 'Invoice recognition → Excel', to: '/modules/ocr/guide'},
+  {emoji: '🎬', title: 'Video', desc: 'Audio/video conversion, watermark, text-to-speech', to: '/modules/video/guide'},
+  {emoji: '📝', title: 'Markdown', desc: 'Excel to Markdown', to: '/modules/markdown/guide'},
+  {emoji: '🤖', title: 'WorkBuddy', desc: 'AI office assistant, boost daily office efficiency', to: 'https://www.codebuddy.cn/events/invite/?inviteCode=bflfcx96gj'},
+  {emoji: '🛠️', title: 'Tools', desc: 'Translation, QR code, password and 10+ other tools', to: '/modules/tools/guide'},
 ];
 
 export default function Home(): ReactNode {
@@ -26,8 +25,8 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title="python-office"
-      description={translate({id: 'homepage.description', message: '一行代码搞定自动化办公'})}>
-      {/* 简单版 Hero */}
+      description="One line of code for office automation">
+      {/* Simple Hero */}
       <div style={{
         textAlign: 'center',
         padding: '4rem 2rem',
@@ -38,7 +37,7 @@ export default function Home(): ReactNode {
           {siteConfig.title}
         </Heading>
         <p style={{fontSize: '1.25rem', margin: '0 0 2rem'}}>
-          {translate({id: 'homepage.tagline', message: siteConfig.tagline})}
+          One line of code for office automation · A one-stop Python library for office automation
         </p>
         <Link
           to="/start/overview"
@@ -52,7 +51,7 @@ export default function Home(): ReactNode {
             fontWeight: 700,
             marginRight: '1rem',
           }}>
-          {translate({id: 'homepage.cta.start', message: '🚀 快速开始'})}
+          🚀 Quick Start
         </Link>
         <Link
           to="/modules/overview"
@@ -66,7 +65,7 @@ export default function Home(): ReactNode {
             fontWeight: 700,
             marginRight: '1rem',
           }}>
-          {translate({id: 'homepage.cta.modules', message: '📦 查看模块'})}
+          📦 View Modules
         </Link>
         <Link
           to="https://www.bilibili.com/opus/857901377884520482?spm_id_from=333.1387.0.0"
@@ -80,11 +79,11 @@ export default function Home(): ReactNode {
             textDecoration: 'none',
             fontWeight: 700,
           }}>
-          {translate({id: 'homepage.cta.video', message: '🎬 视频教程'})}
+          🎬 Video Tutorial
         </Link>
       </div>
 
-      {/* 功能卡片 */}
+      {/* Feature cards */}
       <div style={{
         maxWidth: '1200px',
         margin: '3rem auto',
@@ -108,9 +107,7 @@ export default function Home(): ReactNode {
             }}>
             <div style={{fontSize: '2.5rem', marginBottom: '0.5rem'}}>{f.emoji}</div>
             <h3 style={{color: '#306998', margin: '0 0 0.5rem'}}>{f.title}</h3>
-            <p style={{color: '#586069', margin: 0, fontSize: '0.9rem'}}>
-              {translate({id: f.descId, message: f.descMsg})}
-            </p>
+            <p style={{color: '#586069', margin: 0, fontSize: '0.9rem'}}>{f.desc}</p>
           </Link>
         ))}
       </div>

@@ -1,0 +1,74 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.mainSidebar.category.🚀 入门": {
+    "message": "🚀 入门",
+    "description": "The label for category '🚀 入门' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.📦 功能模块": {
+    "message": "📦 功能模块",
+    "description": "The label for category '📦 功能模块' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.📊 Excel": {
+    "message": "📊 Excel",
+    "description": "The label for category '📊 Excel' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.📝 Word": {
+    "message": "📝 Word",
+    "description": "The label for category '📝 Word' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.📑 PDF": {
+    "message": "📑 PDF",
+    "description": "The label for category '📑 PDF' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.📊 PPT": {
+    "message": "📊 PPT",
+    "description": "The label for category '📊 PPT' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.🖼️ Image": {
+    "message": "🖼️ Image",
+    "description": "The label for category '🖼️ Image' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.📁 File": {
+    "message": "📁 File",
+    "description": "The label for category '📁 File' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.📧 Email": {
+    "message": "📧 Email",
+    "description": "The label for category '📧 Email' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.💬 WeChat": {
+    "message": "💬 WeChat",
+    "description": "The label for category '💬 WeChat' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.🔍 OCR": {
+    "message": "🔍 OCR",
+    "description": "The label for category '🔍 OCR' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.🎬 Video": {
+    "message": "🎬 Video",
+    "description": "The label for category '🎬 Video' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.📝 Markdown": {
+    "message": "📝 Markdown",
+    "description": "The label for category '📝 Markdown' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.💰 Finance": {
+    "message": "💰 Finance",
+    "description": "The label for category '💰 Finance' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.🛠️ Tools": {
+    "message": "🛠️ Tools",
+    "description": "The label for category '🛠️ Tools' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.🎓 教程": {
+    "message": "🎓 教程",
+    "description": "The label for category '🎓 教程' in sidebar 'mainSidebar'"
+  },
+  "sidebar.mainSidebar.category.ℹ️ 关于": {
+    "message": "ℹ️ 关于",
+    "description": "The label for category 'ℹ️ 关于' in sidebar 'mainSidebar'"
+  }
+}

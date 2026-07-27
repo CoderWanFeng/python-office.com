@@ -71,10 +71,22 @@ const config: Config = {
     },
   ],
 
-  // 简体中文
+  // 多语言
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    locales: ['zh-Hans', 'en'],
+    localeConfigs: {
+      'zh-Hans': {
+        label: '简体中文',
+        direction: 'ltr',
+        htmlLang: 'zh-CN',
+      },
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en',
+      },
+    },
   },
 
   presets: [
@@ -123,6 +135,10 @@ const config: Config = {
         {
           href: 'https://pypi.org/project/python-office/',
           label: '📦 PyPI',
+          position: 'right',
+        },
+        {
+          type: 'localeDropdown',
           position: 'right',
         },
       ],

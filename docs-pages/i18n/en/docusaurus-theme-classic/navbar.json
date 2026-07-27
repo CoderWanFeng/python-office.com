@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "🐍 python-office",
+    "description": "The title in the navbar"
+  },
+  "item.label.📖 文档": {
+    "message": "📖 文档",
+    "description": "Navbar item with label 📖 文档"
+  },
+  "item.label.🚀 入门": {
+    "message": "🚀 入门",
+    "description": "Navbar item with label 🚀 入门"
+  },
+  "item.label.📦 模块": {
+    "message": "📦 模块",
+    "description": "Navbar item with label 📦 模块"
+  },
+  "item.label.🎓 教程": {
+    "message": "🎓 教程",
+    "description": "Navbar item with label 🎓 教程"
+  },
+  "item.label.⭐ GitHub": {
+    "message": "⭐ GitHub",
+    "description": "Navbar item with label ⭐ GitHub"
+  },
+  "item.label.📦 PyPI": {
+    "message": "📦 PyPI",
+    "description": "Navbar item with label 📦 PyPI"
+  }
+}
