@@ -6,12 +6,6 @@ sidebar_position: 2
 
 # 📦 Installation
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📦 Install python-office
-
 ## System Requirements
 
 - **Python version**: 3.7+ (3.8+ recommended)

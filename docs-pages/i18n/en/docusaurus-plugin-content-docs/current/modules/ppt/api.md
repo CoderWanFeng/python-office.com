@@ -5,12 +5,6 @@ sidebar_position: 2
 
 # 📊 PPT API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📊 PPT API Reference
-
 > Sub-package: `poppt` | Install: `pip install poppt`
 > Import: `import office` or `import poppt`
 

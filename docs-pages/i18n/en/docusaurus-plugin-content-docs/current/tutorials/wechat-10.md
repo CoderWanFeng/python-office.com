@@ -6,12 +6,6 @@ sidebar_position: 4
 
 # 💬 10 Lessons: Python WeChat Bot
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 💬 10 Lessons: Python WeChat Bot
-
 ## Course Outline
 
 1. [Environment Setup](/modules/wechat/guide)

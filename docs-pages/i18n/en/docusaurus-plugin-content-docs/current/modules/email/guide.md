@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 📧 Email Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📧 Email Module Guide
-
 The Email module enables **automatic sending and receiving of emails**, with support for attachments, CC, mass sending and other advanced features.
 
 ## Core Scenarios

@@ -335,16 +335,40 @@
     "description": "Homepage hero subtitle"
   },
   "homepage.cta.start": {
-    "message": "🚀 Quick Start",
+    "message": "Quick Start",
     "description": "Homepage CTA button — start"
   },
   "homepage.cta.modules": {
-    "message": "📦 View Modules",
+    "message": "View Modules",
     "description": "Homepage CTA button — modules"
   },
   "homepage.cta.video": {
-    "message": "🎬 Video Tutorial",
+    "message": "Video Tutorials",
     "description": "Homepage CTA button — video"
+  },
+  "homepage.code.install": {
+    "message": "Install",
+    "description": "Homepage code box — install comment"
+  },
+  "homepage.code.example": {
+    "message": "One line of code: PDF to Word",
+    "description": "Homepage code box — example comment"
+  },
+  "homepage.features.title": {
+    "message": "Feature Modules",
+    "description": "Homepage features section title"
+  },
+  "homepage.features.subtitle": {
+    "message": "13 modules covering every office automation scenario",
+    "description": "Homepage features section subtitle"
+  },
+  "homepage.cta.title": {
+    "message": "Ready to boost your productivity?",
+    "description": "Homepage bottom CTA title"
+  },
+  "homepage.cta.desc": {
+    "message": "Install with one command, automate your office work with one line of code.",
+    "description": "Homepage bottom CTA description"
   },
   "homepage.feature.excel.desc": {
     "message": "Data generation, merge, split, search, PDF export",

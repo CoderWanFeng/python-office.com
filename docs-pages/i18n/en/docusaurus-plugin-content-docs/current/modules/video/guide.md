@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 🎬 Video Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🎬 Video Module Guide
-
 The Video module provides **audio/video conversion** and **effects processing**.
 
 ## Core Scenarios

@@ -6,12 +6,6 @@ sidebar_position: 7
 
 # 🐍 15 Lessons: Python from Zero
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🐍 15 Lessons: Python from Zero
-
 ## Course Outline
 
 1. Introduction to Python and installation

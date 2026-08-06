@@ -5,12 +5,6 @@ sidebar_position: 2
 
 # 💰 Finance API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 💰 Finance API Reference
-
 > Import: `import office`
 
 ## t0

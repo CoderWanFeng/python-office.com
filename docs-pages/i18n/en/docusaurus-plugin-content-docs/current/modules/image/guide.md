@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 🖼️ Image Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🖼️ Image Module Guide
-
 The Image module provides 9 functions covering **compression, conversion, effects, and recognition** — everything you need for image processing.
 
 ## Core Scenarios

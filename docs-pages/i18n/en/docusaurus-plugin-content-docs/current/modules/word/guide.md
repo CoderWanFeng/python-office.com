@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 📝 Word Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📝 Word Module Guide
-
 ## Core Scenarios
 
 ### Word to PDF

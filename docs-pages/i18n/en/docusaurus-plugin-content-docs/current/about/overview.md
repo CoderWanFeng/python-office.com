@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # ℹ️ About the Project
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# ℹ️ About python-office
-
 ## Project Introduction
 
 **python-office** is a **one-stop Python library for office automation**, developed and maintained by "CoderWanFeng" (程序员晚枫).

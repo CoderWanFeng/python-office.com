@@ -6,12 +6,6 @@ sidebar_position: 2
 
 # 📊 30 Lessons: Excel Automation
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📊 30 Lessons: Excel Automation
-
 ## Course Outline
 
 ### Basics (Lessons 1-10)

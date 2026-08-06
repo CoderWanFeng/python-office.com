@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 📊 PPT Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📊 PPT Module Guide
-
 The PPT module provides 3 core functions focused on **format conversion** and **merging**.
 
 ## Core Scenarios

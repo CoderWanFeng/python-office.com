@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 💬 WeChat Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 💬 WeChat Module Guide
-
 > ⚠️ **Note**: The WeChat API is not `office.wechat.*`, but `PyOfficeRobot.*`
 
 The WeChat module is built on [PyOfficeRobot](https://pypi.org/project/PyOfficeRobot/) and enables **automatic WeChat message sending/receiving** and **smart chat**.

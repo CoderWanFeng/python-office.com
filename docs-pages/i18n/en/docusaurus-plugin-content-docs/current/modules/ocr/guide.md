@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 🔍 OCR Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🔍 OCR Module Guide
-
 The OCR module calls the **Baidu AI Cloud API** and provides features like **VAT invoice recognition → Excel**.
 
 ## Core Scenarios

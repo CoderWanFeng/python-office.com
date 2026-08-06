@@ -5,12 +5,6 @@ sidebar_position: 2
 
 # 📧 Email API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📧 Email API Reference
-
 > Sub-package: `poemail` | Install: `pip install poemail`
 > Import: `import office` or `import poemail`
 

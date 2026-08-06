@@ -1,12 +1,114 @@
 /* ========================================
-   python-office 首页样式
+   python-office 首页样式 · 深色科技风
    ======================================== */
 
+/* ---------- Hero：深空 + 光斑 + 网格 ---------- */
 .heroBanner {
+  position: relative;
   text-align: center;
-  padding: 5rem 0 3rem;
+  padding: 6rem 0 5rem;
+  color: #fff;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse 60% 50% at 20% 10%, rgba(34, 211, 238, 0.18) 0%, transparent 60%),
+    radial-gradient(ellipse 50% 45% at 85% 25%, rgba(139, 92, 246, 0.16) 0%, transparent 60%),
+    radial-gradient(ellipse 55% 50% at 50% 100%, rgba(59, 130, 246, 0.14) 0%, transparent 65%),
+    linear-gradient(180deg, #070b1a 0%, #0a1024 60%, #0b1230 100%);
 }
 
+/* 网格纹理层 */
+.heroBanner::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(99, 140, 220, 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(99, 140, 220, 0.07) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: radial-gradient(ellipse 75% 65% at 50% 40%, #000 30%, transparent 75%);
+  -webkit-mask-image: radial-gradient(ellipse 75% 65% at 50% 40%, #000 30%, transparent 75%);
+  pointer-events: none;
+}
+
+/* 浮动光斑动画 */
+.heroBanner::after {
+  content: '';
+  position: absolute;
+  width: 480px;
+  height: 480px;
+  top: -180px;
+  right: -120px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(34, 211, 238, 0.14) 0%, transparent 65%);
+  filter: blur(20px);
+  animation: heroFloat 9s ease-in-out infinite;
+  pointer-events: none;
+}
+
+@keyframes heroFloat {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(-40px, 30px) scale(1.08); }
+}
+
+.heroBanner > :global(.container) {
+  position: relative;
+  z-index: 1;
+}
+
+/* 顶部胶囊标签 */
+.heroBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 1rem;
+  margin-bottom: 1.75rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: #7dd3fc;
+  background: rgba(34, 211, 238, 0.08);
+  border: 1px solid rgba(34, 211, 238, 0.28);
+  backdrop-filter: blur(6px);
+}
+
+.heroBadge::before {
+  content: '';
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #22d3ee;
+  box-shadow: 0 0 8px #22d3ee;
+  animation: badgePulse 2.2s ease-in-out infinite;
+}
+
+@keyframes badgePulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
+/* 标题：霓虹渐变 + 微光 */
+.heroTitle {
+  font-size: 3.75rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.25rem;
+  background: linear-gradient(115deg, #67e8f9 0%, #60a5fa 45%, #a78bfa 80%, #f0abfc 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 28px rgba(96, 165, 250, 0.35));
+}
+
+.heroSubtitle {
+  font-size: 1.3rem;
+  line-height: 1.65;
+  max-width: 680px;
+  margin: 0 auto;
+  color: rgba(203, 213, 235, 0.9);
+}
+
+/* ---------- 按钮组 ---------- */
 .buttons {
   display: flex;
   align-items: center;
@@ -16,25 +118,92 @@
   flex-wrap: wrap;
 }
 
-/* 代码块盒 */
+.heroBtnPrimary,
+.heroBtnSecondary,
+.heroBtnGhost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 0.7rem 1.9rem;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: transform 0.2s ease, box-shadow 0.25s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.heroBtnPrimary {
+  background: linear-gradient(135deg, #22d3ee 0%, #3b82f6 100%);
+  color: #06121f;
+  box-shadow: 0 0 0 rgba(34, 211, 238, 0);
+}
+
+.heroBtnPrimary:hover {
+  color: #06121f;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 28px rgba(34, 211, 238, 0.45), 0 0 18px rgba(59, 130, 246, 0.35);
+}
+
+.heroBtnSecondary {
+  background: rgba(255, 255, 255, 0.06);
+  color: #e2e8f0;
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  backdrop-filter: blur(8px);
+}
+
+.heroBtnSecondary:hover {
+  color: #fff;
+  border-color: rgba(103, 232, 249, 0.6);
+  background: rgba(34, 211, 238, 0.1);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 22px rgba(34, 211, 238, 0.22);
+}
+
+.heroBtnGhost {
+  background: transparent;
+  color: #94a3b8;
+  border: 1px solid rgba(148, 163, 184, 0.22);
+}
+
+.heroBtnGhost:hover {
+  color: #e2e8f0;
+  border-color: rgba(226, 232, 240, 0.5);
+  transform: translateY(-2px);
+}
+
+.heroBtnPrimary:focus-visible,
+.heroBtnSecondary:focus-visible,
+.heroBtnGhost:focus-visible {
+  outline: 3px solid #22d3ee;
+  outline-offset: 2px;
+}
+
+/* ---------- 终端代码盒：发光边框 ---------- */
 .codeBox {
-  max-width: 720px;
-  margin: 2.5rem auto 0;
-  border-radius: 12px;
+  position: relative;
+  max-width: 700px;
+  margin: 3rem auto 0;
+  border-radius: 14px;
   overflow: hidden;
-  box-shadow: 0 12px 40px rgba(48, 105, 152, 0.20);
-  background: #1e1e1e;
+  background: rgba(10, 15, 34, 0.85);
+  backdrop-filter: blur(10px);
   text-align: left;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(96, 165, 250, 0.28);
+  box-shadow:
+    0 0 0 1px rgba(34, 211, 238, 0.06),
+    0 18px 50px rgba(2, 6, 23, 0.6),
+    0 0 42px rgba(59, 130, 246, 0.12);
 }
 
 .codeBoxHeader {
   display: flex;
   align-items: center;
   padding: 0.75rem 1rem;
-  background: #2d2d2d;
-  gap: 0.4rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  background: rgba(15, 23, 42, 0.9);
+  gap: 0.45rem;
+  border-bottom: 1px solid rgba(96, 165, 250, 0.15);
 }
 
 .dot {
@@ -47,48 +216,55 @@
 .codeBoxTitle {
   margin-left: auto;
   font-size: 0.8rem;
-  color: #999;
+  color: #64748b;
   font-family: var(--ifm-font-family-monospace);
 }
 
 .codeBlock {
-  padding: 1.25rem 1.5rem;
+  padding: 1.35rem 1.6rem;
   margin: 0;
-  font-size: 0.9rem;
-  line-height: 1.7;
-  color: #d4d4d4;
-  background: #1e1e1e;
+  font-size: 0.92rem;
+  line-height: 1.75;
+  color: #cbd5e1;
+  background: transparent;
   font-family: var(--ifm-font-family-monospace);
   overflow-x: auto;
 }
 
-.comment { color: #6a9955; }
-.keyword { color: #c586c0; }
-.string { color: #ce9178; }
-.func { color: #dcdcaa; font-weight: 600; }
+.comment { color: #5c6773; }
+.keyword { color: #c084fc; }
+.string { color: #7dd3fc; }
+.func { color: #5eead4; font-weight: 600; }
 
 /* ========================================
    功能卡片区
    ======================================== */
 .features {
-  padding: 5rem 0;
+  position: relative;
+  padding: 5.5rem 0;
   background: var(--ifm-background-color);
 }
 
 .sectionTitle {
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 3.25rem;
 }
 
 .sectionTitle h2 {
-  font-size: 2.25rem;
+  font-size: 2.35rem;
   font-weight: 800;
-  margin-bottom: 0.5rem;
-  color: var(--ifm-color-primary-dark);
+  margin-bottom: 0.6rem;
+  letter-spacing: -0.01em;
+  background: linear-gradient(120deg, #306998 0%, #3b82f6 60%, #8b5cf6 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 [data-theme='dark'] .sectionTitle h2 {
-  color: var(--ifm-color-primary-light);
+  background: linear-gradient(120deg, #67e8f9 0%, #60a5fa 55%, #a78bfa 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
 }
 
 .sectionTitle p {
@@ -102,12 +278,33 @@
   gap: 1.25rem;
 }
 
+/* 卡片图标：渐变底 + 微光 */
+.featureIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  margin-bottom: 1rem;
+  border-radius: 13px;
+  color: #2563eb;
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.12) 0%, rgba(139, 92, 246, 0.12) 100%);
+  border: 1px solid rgba(59, 130, 246, 0.22);
+  transition: box-shadow 0.25s ease, color 0.25s ease;
+}
+
+[data-theme='dark'] .featureIcon {
+  color: #67e8f9;
+  background: linear-gradient(135deg, rgba(34, 211, 238, 0.12) 0%, rgba(139, 92, 246, 0.14) 100%);
+  border: 1px solid rgba(34, 211, 238, 0.25);
+}
+
 /* ========================================
    数据统计
    ======================================== */
 .stats {
   padding: 4rem 0;
-  background: linear-gradient(135deg, #306998 0%, #4B8BBE 100%);
+  background: linear-gradient(135deg, #0a1024 0%, #101a3d 100%);
   color: white;
 }
 
@@ -126,7 +323,7 @@
   font-size: 3rem;
   font-weight: 800;
   margin-bottom: 0.5rem;
-  background: linear-gradient(135deg, #FFD43B 0%, #fff 100%);
+  background: linear-gradient(135deg, #67e8f9 0%, #a78bfa 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -136,43 +333,108 @@
 .statLabel {
   font-size: 1rem;
   font-weight: 500;
-  opacity: 0.9;
+  opacity: 0.85;
 }
 
 /* ========================================
-   CTA 行动区
+   CTA 行动区：深色发光卡片
    ======================================== */
 .cta {
-  padding: 5rem 0;
+  padding: 5.5rem 0;
   background: var(--ifm-background-surface-color);
 }
 
 .ctaBox {
+  position: relative;
   text-align: center;
-  max-width: 720px;
+  max-width: 760px;
   margin: 0 auto;
-  padding: 3rem 2rem;
-  background: var(--ifm-card-background-color);
-  border: 1px solid var(--ifm-color-emphasis-200);
-  border-radius: 16px;
+  padding: 3.5rem 2.5rem;
+  border-radius: 20px;
+  color: #e2e8f0;
+  background:
+    radial-gradient(ellipse 70% 60% at 50% 0%, rgba(59, 130, 246, 0.16) 0%, transparent 65%),
+    linear-gradient(160deg, #0b1230 0%, #0d1535 100%);
+  border: 1px solid rgba(96, 165, 250, 0.3);
+  box-shadow:
+    0 0 0 1px rgba(34, 211, 238, 0.05),
+    0 24px 60px rgba(2, 6, 23, 0.35),
+    0 0 60px rgba(59, 130, 246, 0.1);
+  overflow: hidden;
+}
+
+.ctaBox::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(99, 140, 220, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(99, 140, 220, 0.05) 1px, transparent 1px);
+  background-size: 36px 36px;
+  mask-image: radial-gradient(ellipse 80% 70% at 50% 0%, #000 20%, transparent 75%);
+  -webkit-mask-image: radial-gradient(ellipse 80% 70% at 50% 0%, #000 20%, transparent 75%);
+  pointer-events: none;
+}
+
+.ctaBox > * {
+  position: relative;
+  z-index: 1;
 }
 
 .ctaBox h2 {
-  font-size: 2rem;
+  font-size: 2.1rem;
   font-weight: 800;
   margin-bottom: 0.75rem;
+  background: linear-gradient(115deg, #67e8f9 0%, #60a5fa 55%, #a78bfa 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .ctaBox p {
   font-size: 1.1rem;
-  color: var(--ifm-color-emphasis-700);
+  color: rgba(203, 213, 235, 0.85);
   margin-bottom: 2rem;
 }
 
-/* 响应式 */
+/* CTA 内按钮覆盖（复用全局 button 类，加深色适配） */
+.ctaBox :global(.button--primary) {
+  background: linear-gradient(135deg, #22d3ee 0%, #3b82f6 100%);
+  color: #06121f;
+  border: none;
+}
+
+.ctaBox :global(.button--primary:hover) {
+  background: linear-gradient(135deg, #38e0f7 0%, #4f8ff8 100%);
+  box-shadow: 0 8px 26px rgba(34, 211, 238, 0.4);
+}
+
+.ctaBox :global(.button--secondary) {
+  background: rgba(255, 255, 255, 0.06);
+  color: #e2e8f0;
+  border: 1px solid rgba(148, 163, 184, 0.35);
+}
+
+.ctaBox :global(.button--secondary:hover) {
+  background: rgba(34, 211, 238, 0.1);
+  border-color: rgba(103, 232, 249, 0.6);
+  box-shadow: 0 6px 20px rgba(34, 211, 238, 0.2);
+}
+
+/* ========================================
+   响应式
+   ======================================== */
 @media screen and (max-width: 768px) {
   .heroBanner {
-    padding: 3rem 0 2rem;
+    padding: 4rem 0 3.25rem;
+  }
+
+  .heroTitle {
+    font-size: 2.4rem;
+  }
+
+  .heroSubtitle {
+    font-size: 1.05rem;
   }
 
   .codeBlock {
@@ -181,5 +443,21 @@
 
   .statNumber {
     font-size: 2.25rem;
+  }
+
+  .ctaBox {
+    padding: 2.5rem 1.5rem;
+  }
+
+  .ctaBox h2 {
+    font-size: 1.6rem;
+  }
+}
+
+/* 动效降级 */
+@media (prefers-reduced-motion: reduce) {
+  .heroBanner::after,
+  .heroBadge::before {
+    animation: none;
   }
 }

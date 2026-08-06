@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 🐍 python-office Overview
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🐍 python-office Project Overview
-
 > **One line of code for office automation** — A one-stop Python library for office automation
 
 ## What is it?

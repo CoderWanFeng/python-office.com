@@ -6,12 +6,6 @@ sidebar_position: 3
 
 # ⚡ 5-Minute Quick Start
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# ⚡ 5-Minute Quick Start
-
 Five real-world scenarios let you quickly feel how convenient python-office is.
 
 ## 1️⃣ Generate Mock Excel Data in One Line of Code

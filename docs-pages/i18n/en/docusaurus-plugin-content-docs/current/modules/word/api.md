@@ -6,12 +6,6 @@ sidebar_position: 2
 
 # 📝 Word API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📝 Word API Reference
-
 > Sub-package: `poword` | Install: `pip install poword`
 > Import: `import office` or `import poword`
 

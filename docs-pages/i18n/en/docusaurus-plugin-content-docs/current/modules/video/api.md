@@ -5,12 +5,6 @@ sidebar_position: 2
 
 # 🎬 Video API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🎬 Video API Reference
-
 > Sub-package: `povideo` | Install: `pip install povideo`
 > Import: `import office` or `import povideo`
 

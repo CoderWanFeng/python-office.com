@@ -5,12 +5,6 @@ sidebar_position: 2
 
 # 💬 WeChat API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 💬 WeChat API Reference
-
 > ⚠️ **Note**: The WeChat API is not `office.wechat.*`, but `PyOfficeRobot.*`
 > Install: `pip install PyOfficeRobot`
 > Import: `import PyOfficeRobot`

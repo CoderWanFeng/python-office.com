@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 📦 Module Overview
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📦 Module Overview
-
 python-office provides **13 feature modules** that cover every aspect of office automation. Under each module you will find:
 
 - 📖 **Usage Guide** (`guide.md`) — use cases, real-world examples, best practices

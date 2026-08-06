@@ -6,12 +6,6 @@ sidebar_position: 3
 
 # 🤝 Contributing Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🤝 Contributing Guide
-
 We welcome all developers interested in python-office to contribute to the project! 🎉
 
 ## Ways to Contribute
@@ -38,7 +32,6 @@ Discuss it in [GitHub Discussions](https://github.com/CoderWanFeng/python-office
 
 ```bash
 # 1. Fork the repository
-# 2. Clone the code
 git clone https://github.com/your-username/python-office.git
 cd python-office
 

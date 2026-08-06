@@ -6,12 +6,6 @@ sidebar_position: 5
 
 # 🔍 7 Lessons: OCR Recognition
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🔍 7 Lessons: OCR Recognition
-
 ## Course Outline
 
 1. [Environment Setup & Baidu OCR API Configuration](/modules/ocr/guide#configuring-baidu-ocr-api)

@@ -49,11 +49,23 @@ def refresh_cdn_cache():
         ]
         req.Urls = urls
         
-        # 发送刷新请求
+        # 发送刷新请求（URL 刷新）
         resp = client.PurgeUrlsCache(req)
-        
-        print("CDN缓存刷新成功！")
-        print(f"任务ID: {resp.TaskId}")
+        print("CDN URL 刷新成功！")
+        print(f"  任务ID: {resp.TaskId}")
+
+        # 目录刷新：设计变更会重新生成所有带 hash 的 JS/CSS 资源，
+        # 仅靠根 URL 刷新无法保证旧 hash 资源全部失效，故追加整站目录刷新。
+        path_req = models.PurgePathCacheRequest()
+        paths = [
+            "https://www.python4office.cn/",
+            "https://www.python-office.com/",
+        ]
+        path_req.Paths = paths
+        path_req.FlushType = "delete"  # delete=刷新全部（含子目录）
+        path_resp = client.PurgePathCache(path_req)
+        print("CDN 目录刷新成功！")
+        print(f"  任务ID: {path_resp.TaskId}")
         return True
         
     except TencentCloudSDKException as e:

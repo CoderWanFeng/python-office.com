@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 📑 PDF Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📑 PDF Module Guide
-
 The PDF module is the **most feature-rich** module in python-office (13 functions).
 
 ## Core Scenarios

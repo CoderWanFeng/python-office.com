@@ -5,12 +5,6 @@ sidebar_position: 2
 
 # 🔍 OCR API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🔍 OCR API Reference
-
 > Sub-package: `poocr` | Install: `pip install poocr`
 > Import: `import office` or `import poocr`
 

@@ -6,12 +6,6 @@ sidebar_position: 4
 
 # ❓ FAQ
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# ❓ Frequently Asked Questions (FAQ)
-
 ## Installation
 
 ### Q1: pip install is too slow. What can I do?

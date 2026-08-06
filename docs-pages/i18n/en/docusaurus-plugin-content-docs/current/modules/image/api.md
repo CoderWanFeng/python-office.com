@@ -5,12 +5,6 @@ sidebar_position: 2
 
 # 🖼️ Image API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🖼️ Image API Reference
-
 > Sub-package: `poimage` | Install: `pip install poimage`
 > Import: `import office` or `import poimage`
 

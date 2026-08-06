@@ -6,12 +6,6 @@ sidebar_position: 2
 
 # 📑 PDF API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📑 PDF API Reference
-
 > Sub-package: `popdf` | Install: `pip install popdf`
 > Import: `import office` or `import popdf`
 

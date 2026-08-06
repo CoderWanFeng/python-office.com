@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 📊 Excel Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📊 Excel Module Guide
-
 ## Core Scenarios
 
 ### Generate Test Data

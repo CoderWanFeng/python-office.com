@@ -6,12 +6,6 @@ sidebar_position: 2
 
 # 📊 Excel API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📊 Excel API Reference
-
 > Sub-package: `poexcel` | Install: `pip install poexcel`
 > Import: `import office` or `import poexcel`
 

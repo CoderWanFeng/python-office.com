@@ -6,12 +6,6 @@ sidebar_position: 5
 
 # 💖 Sponsors
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 💖 Sponsors
-
 Thanks to the following sponsors and partners for supporting python-office.
 
 ## AI Office Efficiency Course

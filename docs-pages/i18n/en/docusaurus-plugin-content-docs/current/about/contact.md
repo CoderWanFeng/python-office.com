@@ -6,12 +6,6 @@ sidebar_position: 4
 
 # 📞 Contact Us
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📞 Contact Us
-
 ## Online Channels
 
 | Channel | Link | Purpose |

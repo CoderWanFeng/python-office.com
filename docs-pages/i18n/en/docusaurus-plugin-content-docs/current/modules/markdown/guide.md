@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 📝 Markdown Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📝 Markdown Module Guide
-
 The Markdown module provides bidirectional conversion between Excel and Markdown.
 
 ## Core Scenarios

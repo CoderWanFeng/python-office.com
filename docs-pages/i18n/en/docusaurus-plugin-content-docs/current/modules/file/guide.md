@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 📁 File Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📁 File Module Guide
-
 The File module focuses on **batch file management**, especially **rename** and **search**.
 
 ## Core Scenarios

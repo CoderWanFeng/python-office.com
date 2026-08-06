@@ -6,12 +6,6 @@ sidebar_position: 3
 
 # 📑 10 Lessons: PDF Automation
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📑 10 Lessons: PDF Automation
-
 ## Course Outline
 
 1. [PDF to Word](/modules/pdf/api#pdf2docx)

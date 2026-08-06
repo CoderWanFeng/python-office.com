@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 💰 Finance Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 💰 Finance Module Guide
-
 The Finance module currently provides **Stock T+0 profit calculation**.
 
 ## Core Scenarios

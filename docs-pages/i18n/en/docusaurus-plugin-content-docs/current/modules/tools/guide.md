@@ -6,12 +6,6 @@ sidebar_position: 1
 
 # 🛠️ Tools Module Guide
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🛠️ Tools Module Guide
-
 The Tools module provides 10+ **everyday utilities**, including translation, QR code, password generation, etc.
 
 ## Core Scenarios

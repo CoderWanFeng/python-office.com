@@ -5,12 +5,6 @@ sidebar_position: 2
 
 # 📁 File API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📁 File API Reference
-
 > Sub-package: `pofile` | Install: `pip install pofile`
 > Import: `import office` or `import pofile`
 

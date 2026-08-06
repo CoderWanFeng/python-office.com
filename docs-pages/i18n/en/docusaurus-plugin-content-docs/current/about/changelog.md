@@ -6,12 +6,6 @@ sidebar_position: 2
 
 # 📜 Changelog
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📜 Changelog
-
 ## v1.0.6 (Latest)
 
 ### New Features

@@ -6,12 +6,6 @@ sidebar_position: 6
 
 # 📧 6 Lessons: Auto Send/Receive Emails
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 📧 6 Lessons: Auto Send/Receive Emails
-
 ## Course Outline
 
 1. [Environment Setup — Install Python and PyCharm](/start/install)

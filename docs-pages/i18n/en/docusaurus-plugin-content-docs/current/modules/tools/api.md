@@ -5,12 +5,6 @@ sidebar_position: 2
 
 # 🛠️ Tools API Reference
 
-> *This page is currently only available in Chinese. Please switch to 简体中文 for the full content.*
-
-
-
-# 🛠️ Tools API Reference
-
 > Sub-package: `wftools` (auto-installed with the main package)
 > Import: `import office` or `import wftools`
 
