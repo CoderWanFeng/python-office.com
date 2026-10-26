@@ -6,7 +6,35 @@ sidebar_position: 2
 
 # 📜 Changelog
 
-## v1.0.6 (Latest)
+## v1.1.0 (Latest)
+
+### New Features
+- 🆕 **Command-line tool `po`**: 7 modules, 42 subcommands — use it without writing code
+  - `po pdf merge2pdf a.pdf b.pdf --output-file merged.pdf`
+  - `po --json tools url2ip www.python-office.com` — single-line JSON output for scripts and AI agents
+  - `python -m office` works as an equivalent entry point
+- 🆕 **5 new Excel data-checking methods** (PR #185)
+  - `excel_diff` compare two workbooks, with key-based pairing
+  - `excel_dedupe` dedupe by column or whole row, returns duplicate details
+  - `excel_column_stats` per-column profile: fill rate, type, unique count, value distribution
+  - `excel2json` sheet to JSON, supports records / columns / values
+  - `excel2csv` export CSV, utf-8-sig by default to avoid Chinese mojibake
+- 🆕 `batch_rename_by_excel` batch rename files from an Excel mapping (PR #183)
+
+### Improvements
+- ⚡ **`import office` now uses PEP 562 lazy loading**: no longer drags in the whole po* dependency tree, greatly reducing install size and startup time
+- 🐛 Fixed contributor Skill fallback raising NameError instead of ImportError
+- 📝 Synced version numbers and code-structure stats in the wiki docs
+
+### How to Upgrade
+
+```bash
+pip install python-office --upgrade
+```
+
+> 📖 Full release notes: [python-office 1.1.0 Release Announcement](/about/v1.1.0-release)
+
+## v1.0.6
 
 ### New Features
 - ✨ `office.markdown.excel2markdown` Excel to Markdown

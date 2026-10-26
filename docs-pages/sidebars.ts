@@ -108,6 +108,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'about/overview',
         'about/changelog',
+        'about/v1.1.0-release',
         'about/contributing',
         'about/contact',
         'about/sponsors',
